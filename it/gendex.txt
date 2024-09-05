@@ -193,7 +193,7 @@ ppl/8/d/fb107bbec822c08ea1ada602ad8.html|Mignini|Teresa /Mignini/|||AFT 1911||
 ppl/7/4/fb11221d2f52ef4331c37397447.html|Trovarelli|Pacifico /Trovarelli/|||BEF 1904|Gualdo Cattaneo, Umbria|
 ppl/d/0/fb11234f8917eee3b8d997960d.html|Grappa|Carolina /Grappa/|||AFT 1904||
 ppl/f/c/fb112b6d72c5a563f510cbf7cf.html|Monacelli|Giovanni /Monacelli/|||AFT 1904||
-ppl/a/9/fb112c340be31ea2ea33de4d99a.html|Rinalducci|Amabilia /Rinalducci/|||AFT 1904|Collazzone, Umbria|
+ppl/a/9/fb112c340be31ea2ea33de4d99a.html|Rinalducci|Amabilia /Rinalducci/|||1913|Collazzone, Umbria|
 ppl/a/0/fb1145e7a3d41372301d795b40a.html|Trovarelli|Adele /Trovarelli/|1886||||
 ppl/f/b/fb1147e5de7339aa16bc16991bf.html|Trovarelli|Fulvia /Trovarelli/|1888||||
 ppl/2/9/fb11487b32233fddbe39ea80c92.html|Trovarelli|Pacifico /Trovarelli/|1891||||

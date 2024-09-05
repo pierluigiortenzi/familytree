@@ -3,7 +3,7 @@ ppl/6/7/fafcd96a092b35b20189608276.html|Ortenzi|Ornella /Ortenzi/|7 JAN 1988|Umb
 ppl/e/9/fafcdaa551e4893c5346bcd029e.html|Ortenzi|Osvaldo /Ortenzi/|6 MAY 1955|San Gemini, Umbria|||
 ppl/e/7/fafcdb81bd22823a43287f04f7e.html|Camilluzzi|Vania /Camilluzzi/|2 SEP 1956|Acquasparta, Umbria|||
 ppl/d/0/fafce9c0b7f58445706c926730d.html|Ortenzi|Francesco /Ortenzi/|14 FEB 1918|Viepri, Massa Martana, Umbria|14 NOV 2004|San Gemini, Umbria|
-ppl/8/9/fafceaa29265b46d478d610df98.html|Trovarelli|Dalida /Trovarelli/|14 JUL 1927|Todi, Umbria|2024|Terni, Umbria|
+ppl/8/9/fafceaa29265b46d478d610df98.html|Trovarelli|Dalida /Trovarelli/|14 JUL 1927|Todi, Umbria|APR 2024|Terni, Umbria|
 ppl/0/9/fafceb96a5b3aed737af900d490.html|Ortenzi|Luigi /Ortenzi/|1 NOV 1883|Todi, Umbria|JUL 1963||
 ppl/6/d/fafcec64fac521ecd72702e7dd6.html|Martinelli|Ester /Martinelli/|1893|Todi, Umbria|JAN 1968||
 ppl/7/2/fafced4242243ddffa0fb213527.html|Ortenzi|Francesco /Ortenzi/|1836|Ficareto, Todi, Umbria|8 NOV 1908|Castelrinaldi, Massa Martana, Umbria|
@@ -170,8 +170,8 @@ ppl/4/0/fb00a121c2364da5748bfc37004.html|Martinelli|Sante /Martinelli/|||AFT 191
 ppl/f/d/fb00a2cffe23588eb4db961e4df.html|Marcelli|Maria /Marcelli/|||AFT 1913||
 ppl/c/6/fb00a3e265c79c8b41506c3b86c.html|Martinelli|Sestilia /Martinelli/|14 AUG 1874||||
 ppl/7/5/fb00a581dd7379ef82054dd0a57.html|Martinelli|Mattia /Martinelli/|24 FEB 1877||||
-ppl/4/2/fb00af0c908a8fdeeccded2e24.html|Ortenzi|Filippo /Ortenzi/|1795|Monticello, Todi, Umbria|14 SEP 1875|Ficareto, Todi, Umbria|
-ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|||||
+ppl/4/2/fb00af0c908a8fdeeccded2e24.html|Ortenzi|Filippo /Ortenzi/|CAL 1795|Monticello, Todi, Umbria|14 SEP 1875|Ficareto, Todi, Umbria|
+ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|||BET 1875 AND 1908||
 ppl/f/7/fb00b879df5660d4428c5c95a7f.html|Ortenzi|Francesco /Ortenzi/|ABT 1772||22 JAN 1832|Ficareto, Todi, Umbria|
 ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciarli Ciculi|Marianna /Ciarli Ciculi/|||||
 ppl/d/1/fb00bb994235c7074844d0d611d.html|Ortenzi|Filippo /Ortenzi/|||9 JAN 1816|Ficareto, Todi, Umbria|

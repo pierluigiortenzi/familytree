@@ -34,11 +34,11 @@ ppl/9/f/fafd10ba7301edc06809d1b0af9.html|Camilluzzi|Angiolo /Camilluzzi/|||||
 ppl/1/a/fafd1770366315f8f400134c0a1.html|Caproni|Quinto /Caproni/|22 MAR 1903||13 JUL 1973||
 ppl/6/b/fafd1869ff14f8b1343934300b6.html|Petrucci|Elvira /Petrucci/|7 MAY 1908||2 JAN 2001||
 ppl/c/5/fafd19571912fac3cd35163f05c.html|Petrucci|Valentino /Petrucci/|||||
-ppl/7/5/fafd196a7a574f17bb969299657.html|Pauselli|Maria Assunta /Pauselli/|||||
+ppl/7/5/fafd196a7a574f17bb969299657.html|Pauselli|Maria Assunta /Pauselli/|CAL BET 1864 AND 1894||||
 ppl/d/1/fafd19f70b6193a74d566a1e41d.html|Pauselli|Filippo /Pauselli/|||||
 ppl/f/a/fafd1a120876ca528ddf5c9d0af.html||Diamante //|||||
 ppl/1/e/fafd1b00b381ab4f38c8cb926e1.html|Caproni|Giuseppe /Caproni/|||||
-ppl/7/3/fafd1b21498157e197d43154937.html|Pecci|Filomena /Pecci/|||||
+ppl/7/3/fafd1b21498157e197d43154937.html|Pecci|Filomena /Pecci/|CAL BET 1889 AND 1859||||
 ppl/0/d/fafd1b6ba425a778b3d057d50d0.html|Caproni|Tommaso /Caproni/|||||
 ppl/c/5/fafd1b82bc8904749222ee345c.html|Sinorfi|Maddalena /Sinorfi/|||||
 ppl/9/b/fafd1cadf1c3ce1e4feef2c5ab9.html|Michelini|Giovanni /Michelini/|||||
@@ -151,7 +151,7 @@ ppl/f/4/fafd8f70459b504df6d73e934f.html|Pacifici|Dorotea /Pacifici/|1830|Monteca
 ppl/e/9/fafd8fffe205e733edff448149e.html|Battistoni|Augusto /Battistoni/|||||
 ppl/8/b/fafd9030ab71dc3906279d338b8.html|Battistoni|Cristina /Battistoni/|||||
 ppl/2/2/fafd91600717f0dadcc7a63322.html|Giovenanzi|Antonino /Giovenanzi/|||||
-ppl/5/6/fafd91939966e9e129c5bc35465.html|Giovenanzi|Armede /Giovenanzi/|||||
+ppl/5/6/fafd91939966e9e129c5bc35465.html|Giovenanzi|Ermete /Giovenanzi/|CAL 1889||||
 ppl/2/5/fafd91b434e3a21cad6b64ea152.html|Giovenanzi|Sotero /Giovenanzi/|||||
 ppl/8/a/fafd926c4ba3df6130a8a0a8da8.html||Giuliana //|||||
 ppl/a/f/fafd9292876373f6868898fb7fa.html|Giovenanzi|Giuliana /Giovenanzi/|||||
@@ -167,33 +167,33 @@ ppl/2/8/fafffefa41c59b8b91fe37fd482.html|Meloni|Mario /Meloni/|||||
 ppl/1/2/fb00054f6b848f9492491abfd21.html|Sciamannini|Petronilla /Sciamannini/|1849|Montecastrilli, Umbria|31 MAR 1923|Castelrinaldi, Massa Martana, Umbria|
 ppl/b/e/fb0088f89d34b42d225ca80ceb.html|Ortenzi|Amalia /Ortenzi/|NOV 1913|Castelrinaldi, Massa Martana, Umbria|12 DEC 1913|Castelrinaldi, Massa Martana, Umbria|
 ppl/4/0/fb00a121c2364da5748bfc37004.html|Martinelli|Sante /Martinelli/|||AFT 1913||
-ppl/f/d/fb00a2cffe23588eb4db961e4df.html|Marcelli|Maria /Marcelli/|||AFT 1913||
+ppl/f/d/fb00a2cffe23588eb4db961e4df.html|Marcelli|Maria /Marcelli/|CAL BET 1849 AND 1860||AFT 1913||
 ppl/c/6/fb00a3e265c79c8b41506c3b86c.html|Martinelli|Sestilia /Martinelli/|14 AUG 1874||||
 ppl/7/5/fb00a581dd7379ef82054dd0a57.html|Martinelli|Mattia /Martinelli/|24 FEB 1877||||
 ppl/4/2/fb00af0c908a8fdeeccded2e24.html|Ortenzi|Filippo /Ortenzi/|CAL 1795|Monticello, Todi, Umbria|14 SEP 1875|Ficareto, Todi, Umbria|
-ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|||BET 1875 AND 1908||
+ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|CAL BET 1803 AND 1819||BET 1875 AND 1908||
 ppl/f/7/fb00b879df5660d4428c5c95a7f.html|Ortenzi|Francesco /Ortenzi/|ABT 1772||22 JAN 1832|Ficareto, Todi, Umbria|
-ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciarli Ciculi|Marianna /Ciarli Ciculi/|||||
+ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciarli Ciculi|Marianna /Ciarli Ciculi/|CAL BET 1751 AND 1781||||
 ppl/d/1/fb00bb994235c7074844d0d611d.html|Ortenzi|Filippo /Ortenzi/|||9 JAN 1816|Ficareto, Todi, Umbria|
 ppl/8/0/fb00bcd04611fe9b9ff24a4fb08.html|Ortenzi|Giovanni /Ortenzi/|||||
 ppl/d/6/fb00bdea7127458bf49d453366d.html|Ortenzi|Filippo /Ortenzi/|ABT 1702||ABT MAY 1768|Ficareto, Todi, Umbria|
 ppl/e/f/fb00bf3a3fd385a4c60db2c9fe.html|Ortenzi|Giovanni /Ortenzi/|1682||18 DEC 1765||
-ppl/3/4/fb00c0952111cb29b3c1b1cba43.html||Elisabetta //|||6 APR 1768||
+ppl/3/4/fb00c0952111cb29b3c1b1cba43.html||Elisabetta //|CAL BET 1658 AND 1688||6 APR 1768||
 ppl/2/1/fb0ee255f42471fbb8dd017c312.html|Trovarelli|Giuseppe /Trovarelli/|1864|Gualdo Cattaneo, Umbria|AFT 1920||
 ppl/6/b/fb0ee30bc451c4e6c2d9e2b9db6.html|Monacelli|Maria /Monacelli/|1864|Todi, Umbria|AFT 1920||
 ppl/f/d/fb0eed70378691b53378a2599df.html|Coletti|Domenico /Coletti/|1856|Marsciano, Umbria|24 JAN 1925|Ilci, Todi, Umbria|
 ppl/e/d/fb0eeea7a8b43d721b3476c7dde.html|Ricci|Ersilia /Ricci/|1860|Papiano, Marsciano, Umbria|24 DEC 1911|Pantalla, Todi, Umbria|
 ppl/3/5/fb0f2043bd82cbff6b869a42153.html|Moretti|Costantino /Moretti/|11 MAR 1890|Todi, Umbria|26 MAY 1915|Col di Lana|
 ppl/5/3/fb0f51c1f2f11f36ca2bc365c35.html|Sciamannini|Gaspare /Sciamannini/|||||
-ppl/6/4/fb0f524ded62ea2b5727f4bf346.html||Anna //|||||
+ppl/6/4/fb0f524ded62ea2b5727f4bf346.html||Anna //|CAL BET 1805 AND 1835||||
 ppl/f/2/fb0fe96e78842ffbd263764632f.html|Pacifici|Angelo /Pacifici/|||BEF 1906||
-ppl/6/c/fb0fe9c17d05891bf4d47be7cc6.html||Domitilla //|||BEF 1906||
+ppl/6/c/fb0fe9c17d05891bf4d47be7cc6.html||Domitilla //|BET 1786 AND 1816||BEF 1906||
 ppl/3/0/fb106ac3377135167cf90d10f03.html|Ricci|Giuseppe /Ricci/|||AFT 1911||
-ppl/8/d/fb107bbec822c08ea1ada602ad8.html|Mignini|Teresa /Mignini/|||AFT 1911||
+ppl/8/d/fb107bbec822c08ea1ada602ad8.html|Mignini|Teresa /Mignini/|CAL BET 1816 AND 1846||AFT 1911||
 ppl/7/4/fb11221d2f52ef4331c37397447.html|Trovarelli|Pacifico /Trovarelli/|||BEF 1904|Gualdo Cattaneo, Umbria|
-ppl/d/0/fb11234f8917eee3b8d997960d.html|Grappa|Carolina /Grappa/|||AFT 1904||
+ppl/d/0/fb11234f8917eee3b8d997960d.html|Grappa|Carolina /Grappa/|CAL BET 1820 AND 1850||AFT 1904||
 ppl/f/c/fb112b6d72c5a563f510cbf7cf.html|Monacelli|Giovanni /Monacelli/|||AFT 1904||
-ppl/a/9/fb112c340be31ea2ea33de4d99a.html|Rinalducci|Amabilia /Rinalducci/|||1913|Collazzone, Umbria|
+ppl/a/9/fb112c340be31ea2ea33de4d99a.html|Rinalducci|Amabilia /Rinalducci/|CAL BET 1820 AND 1850||1913|Collazzone, Umbria|
 ppl/a/0/fb1145e7a3d41372301d795b40a.html|Trovarelli|Adele /Trovarelli/|1886||||
 ppl/f/b/fb1147e5de7339aa16bc16991bf.html|Trovarelli|Fulvia /Trovarelli/|1888||||
 ppl/2/9/fb11487b32233fddbe39ea80c92.html|Trovarelli|Pacifico /Trovarelli/|1891||||

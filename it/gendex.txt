@@ -25,7 +25,7 @@ ppl/c/2/fafcfb74591366b5c5e56c2e82c.html|Trovarelli|Mario /Trovarelli/|1930||200
 ppl/0/2/fafcfbe7b2b62feda229331f220.html|Trovarelli|Alfio /Trovarelli/|1935|Todi, Umbria|||
 ppl/1/0/fafd01c8dcb52afcd196d69cd01.html|Camilluzzi|Luigi /Camilluzzi/|25 MAR 1923|Montecastrilli, Umbria|9 MAY 2015|Terni, Umbria|
 ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Todi, Umbria|2016|Terni, Umbria|
-ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|MAR 1889||13 OCT 1963||
+ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
 ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991||
 ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898||
 ppl/9/1/fafd0aa23b933b8d9a2a0728419.html|Manni|Adelaide /Manni/|1865||1935||
@@ -201,3 +201,6 @@ ppl/0/7/fb1148e308076da6c4821a8de70.html|Trovarelli|Emilio /Trovarelli/|1899||||
 ppl/4/7/fb122ec046969e31c09868b7f74.html|Coletti|Sante /Coletti/|||BEF 1925||
 ppl/7/4/fb122f4ebf4cf838cabd4d8247.html|Ripiccini|Teresa /Ripiccini/|CAL BET 1812 AND 1842||BEF 1925||
 ppl/b/f/fb237eeacca535e80505e0792fb.html|Gatti|Letizia /Gatti/|ABT 2008||||
+ppl/7/0/fb241992e0b73b465c3c759c807.html|Trovarelli|Simonetta /Trovarelli/|||||
+ppl/b/6/fb24223c000787a843a34610f6b.html|Bianchi|Debora /Bianchi/|||||
+ppl/b/f/fb243d537ec57f3b242d363fdfb.html||Liliana //|||||

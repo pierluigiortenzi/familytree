@@ -14,7 +14,7 @@ ppl/4/8/fafcee9156528904c96cd7bdf84.html|Ortenzi|Flora /Ortenzi/|1879||||
 ppl/9/4/fafceeb1edfa2ce4b240f7fa49.html|Ortenzi|Federico /Ortenzi/|1864|Ficareto, Todi, Umbria|||
 ppl/8/2/fafceed559f58f76e857999c628.html|Ortenzi|Clotilde /Ortenzi/|1881||||
 ppl/5/b/fafceef2c187b30f7df5fbe1b5.html|Ortenzi|Alfredo /Ortenzi/|1891||1945||
-ppl/5/2/fafcf0cbf004c177104ba9bbe25.html|Trovarelli|Vittorio Dionisio Abramo /Trovarelli/|22 MAR 1893|Gualdo Cattaneo, Umbria|24 AUG 1945||
+ppl/5/2/fafcf0cbf004c177104ba9bbe25.html|Trovarelli|Vittorio /Trovarelli/|22 MAR 1893|Gualdo Cattaneo, Umbria|24 AUG 1945||
 ppl/1/2/fafcf18581d2d01b81b4eba4d21.html|Coletti|Angela /Coletti/|29 JUN 1892|Marsciano, Umbria|15 DEC 1974||
 ppl/0/6/fafcf26e9921f1cad158214e260.html|Moretti|Annunziata /Moretti/|1914|Todi, Umbria|||
 ppl/5/7/fafcf5c3cde6d90d80eb04d2075.html|Grillo|Sergio /Grillo/|1914||19 MAY 2007||
@@ -200,3 +200,4 @@ ppl/2/9/fb11487b32233fddbe39ea80c92.html|Trovarelli|Pacifico /Trovarelli/|1891||
 ppl/0/7/fb1148e308076da6c4821a8de70.html|Trovarelli|Emilio /Trovarelli/|1899||||
 ppl/4/7/fb122ec046969e31c09868b7f74.html|Coletti|Sante /Coletti/|||BEF 1925||
 ppl/7/4/fb122f4ebf4cf838cabd4d8247.html|Ripiccini|Teresa /Ripiccini/|CAL BET 1812 AND 1842||BEF 1925||
+ppl/b/f/fb237eeacca535e80505e0792fb.html|Gatti|Letizia /Gatti/|ABT 2008||||

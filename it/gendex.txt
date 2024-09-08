@@ -126,7 +126,7 @@ ppl/9/3/fafd74c3d024daf07985c37fb39.html|Petrucci|Maria Assunta /Petrucci/|1952|
 ppl/8/6/fafd7648ed85118d069911d6468.html|Caproni|Ezio /Caproni/|19 SEP 1940||||
 ppl/6/6/fafd768bda95824fae43739a466.html|Caproni|Filomena /Caproni/|16 JAN 1944||||
 ppl/3/8/fafd76c443f190ae00c465f0c83.html|Caproni|Marino /Caproni/|MAY 1935||APR 1951||
-ppl/0/b/fafd771c70d3f6eee22a79f18b0.html|Caproni|Giuseppe /Caproni/|JUN 1938||||
+ppl/0/b/fafd771c70d3f6eee22a79f18b0.html|Caproni|Giuseppe /Caproni/|JUN 1938||AFT 2000||
 ppl/d/9/fafd77732527646f9ec3cdb9f9d.html|Caproni|Egidio /Caproni/|SEP 1931||MAR 2000||
 ppl/d/4/fafd7967dde7125324558abaa4d.html||Gemma //|OCT 1932||||
 ppl/2/e/fafd79d1bdf10ce615b646a6e2.html|Venanzi|Colomba /Venanzi/|13 MAY 1926||1991||
@@ -171,7 +171,7 @@ ppl/f/d/fb00a2cffe23588eb4db961e4df.html|Marcelli|Maria /Marcelli/|CAL BET 1849 
 ppl/c/6/fb00a3e265c79c8b41506c3b86c.html|Martinelli|Sestilia /Martinelli/|14 AUG 1874||||
 ppl/7/5/fb00a581dd7379ef82054dd0a57.html|Martinelli|Mattia /Martinelli/|24 FEB 1877||||
 ppl/4/2/fb00af0c908a8fdeeccded2e24.html|Ortenzi|Filippo /Ortenzi/|CAL 1795|Monticello, Todi, Umbria|14 SEP 1875|Ficareto, Todi, Umbria|
-ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|CAL BET 1803 AND 1819||BET 1875 AND 1908||
+ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|CAL BET 1803 AND 1819||BET 1875 AND 1908|Ficareto, Todi, Umbria|
 ppl/f/7/fb00b879df5660d4428c5c95a7f.html|Ortenzi|Francesco /Ortenzi/|ABT 1772||22 JAN 1832|Ficareto, Todi, Umbria|
 ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciarli Ciculi|Marianna /Ciarli Ciculi/|CAL BET 1751 AND 1781||||
 ppl/d/1/fb00bb994235c7074844d0d611d.html|Ortenzi|Filippo /Ortenzi/|||9 JAN 1816|Ficareto, Todi, Umbria|
@@ -199,4 +199,4 @@ ppl/f/b/fb1147e5de7339aa16bc16991bf.html|Trovarelli|Fulvia /Trovarelli/|1888||||
 ppl/2/9/fb11487b32233fddbe39ea80c92.html|Trovarelli|Pacifico /Trovarelli/|1891||||
 ppl/0/7/fb1148e308076da6c4821a8de70.html|Trovarelli|Emilio /Trovarelli/|1899||||
 ppl/4/7/fb122ec046969e31c09868b7f74.html|Coletti|Sante /Coletti/|||BEF 1925||
-ppl/7/4/fb122f4ebf4cf838cabd4d8247.html|Ripiccini|Teresa /Ripiccini/|||BEF 1925||
+ppl/7/4/fb122f4ebf4cf838cabd4d8247.html|Ripiccini|Teresa /Ripiccini/|CAL BET 1812 AND 1842||BEF 1925||

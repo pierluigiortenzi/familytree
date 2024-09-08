@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -82,6 +84,13 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="IndividualDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../it/img/0/6/fb21d1f17be5d8256486ce1bf60.html" title="Camilluzzi_Mazzanti_(senza_data)_a">
+						<img alt="Camilluzzi_Mazzanti_(senza_data)_a" src="../../../../thumb/0/6/fb21d1f17be5d8256486ce1bf6050,12-69,44.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Mazzanti, Loretta<sup><small></small></sup></h3>
 			<div id="summaryarea">
 				<table class="infolist">
@@ -168,6 +177,49 @@ function GoToTop() {
 					</tbody>
 				</table>
 			</div>
+			<div class="subsection" id="indivgallery">
+				<h4>Multimedia</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/0/6/fb21d1f17be5d8256486ce1bf60.png" />
+						</div>
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(2)" src="../../../../thumb/1/6/fb21d9c341d3279d315f0442161.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/2 - Camilluzzi_Mazzanti_(senza_data)_a
+								</div>
+								<a href="../../../../it/img/0/6/fb21d1f17be5d8256486ce1bf60.html">
+									<img src="../../../../images/0/6/fb21d1f17be5d8256486ce1bf60.jpg" style="width:100%" />
+								</a>
+							</div>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								2/2 - Camilluzzi_Mazzanti_(senza_data)_b
+								</div>
+								<a href="../../../../it/img/1/6/fb21d9c341d3279d315f0442161.html">
+									<img src="../../../../images/1/6/fb21d9c341d3279d315f0442161.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
+					</div>
+				</div>
+				<div class="fullclear"></div>
+			</div>
 			<div class="subsection" id="pedigree">
 				<h4>Genealogia</h4>
 				<ol class="pedigreegen" id="toggle_pedigree" style="display:block">
@@ -194,8 +246,17 @@ function GoToTop() {
 				<div class="tree" id="toggle_anc" style="display:block">
 					<div id="treeContainer" style="width:1234px; height:825px; top: 0px">
 						<div class="boxbg female AncCol0" style="top: 267px; left: 6px;">
-							<a class="noThumb" href="../../../ppl/a/6/fafd852a8175f4ff670893b356a.html">
-							Mazzanti, Loretta<br>*24/8/1969<br>+...
+							<a class="thumbnail" href="../../../ppl/a/6/fafd852a8175f4ff670893b356a.html">
+								<table class="table">
+									<tr>
+										<td class="img">
+											<img alt="Img: Mazzanti, Loretta" src="../../../../thumb/0/6/fb21d1f17be5d8256486ce1bf6050,12-69,44.png" />
+										</td>
+										<td class="name">
+										Mazzanti, Loretta<br>*24/8/1969<br>+...
+										</td>
+									</tr>
+								</table>
 							</a>
 						</div>
 						<div class="shadow" style="top: 272px; left: 10px;"></div>
@@ -234,8 +295,17 @@ function GoToTop() {
 						<div class="bhline" style="top: 100px; left: 610px; height: 76px;"></div>
 					
 						<div class="boxbg female AncCol1" style="top: 455px; left: 316px;">
-							<a class="noThumb" href="../../../ppl/6/6/fafd768bda95824fae43739a466.html">
-							Caproni, Filomena<br>*16/1/1944<br>+...
+							<a class="thumbnail" href="../../../ppl/6/6/fafd768bda95824fae43739a466.html">
+								<table class="table">
+									<tr>
+										<td class="img">
+											<img alt="Img: Caproni, Filomena" src="../../../../thumb/0/6/fb21d1f17be5d8256486ce1bf6060,41-82,76.png" />
+										</td>
+										<td class="name">
+										Caproni, Filomena<br>*16/1/1944<br>+...
+										</td>
+									</tr>
+								</table>
 							</a>
 						</div>
 						<div class="shadow" style="top: 460px; left: 320px;"></div>
@@ -325,7 +395,7 @@ function GoToTop() {
 		<div class="fullclear"></div>
 		<div id="footer">
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2024-08-27 22:59:33
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2024-09-08 05:54:08
 			</p>
 			<p id="copyright">
 			

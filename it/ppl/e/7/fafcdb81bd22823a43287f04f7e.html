@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -82,6 +84,13 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="IndividualDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../it/img/5/d/fb21e4dfb4f9a3d95b5fa3c1d5.html" title="Vania_Camilluzzi_Aprile_1979">
+						<img alt="Vania_Camilluzzi_Aprile_1979" src="../../../../thumb/5/d/fb21e4dfb4f9a3d95b5fa3c1d552,13-60,28.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Camilluzzi, Vania<sup><small></small></sup></h3>
 			<div id="summaryarea">
 				<table class="infolist">
@@ -260,6 +269,38 @@ function GoToTop() {
 					</tr>
 				</table>
 			</div>
+			<div class="subsection" id="indivgallery">
+				<h4>Multimedia</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/5/d/fb21e4dfb4f9a3d95b5fa3c1d5.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/1 - Vania_Camilluzzi_Aprile_1979
+								</div>
+								<a href="../../../../it/img/5/d/fb21e4dfb4f9a3d95b5fa3c1d5.html">
+									<img src="../../../../images/5/d/fb21e4dfb4f9a3d95b5fa3c1d5.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
+					</div>
+				</div>
+				<div class="fullclear"></div>
+			</div>
 			<div class="subsection" id="pedigree">
 				<h4>Genealogia</h4>
 				<ol class="pedigreegen" id="toggle_pedigree" style="display:block">
@@ -299,8 +340,17 @@ function GoToTop() {
 				<div class="tree" id="toggle_anc" style="display:block">
 					<div id="treeContainer" style="width:1234px; height:1200px; top: 0px">
 						<div class="boxbg female AncCol0" style="top: 530px; left: 6px;">
-							<a class="noThumb" href="../../../ppl/e/7/fafcdb81bd22823a43287f04f7e.html">
-							Camilluzzi, Vania<br>*2/9/1956<br>+...
+							<a class="thumbnail" href="../../../ppl/e/7/fafcdb81bd22823a43287f04f7e.html">
+								<table class="table">
+									<tr>
+										<td class="img">
+											<img alt="Img: Camilluzzi, Vania" src="../../../../thumb/5/d/fb21e4dfb4f9a3d95b5fa3c1d552,13-60,28.png" />
+										</td>
+										<td class="name">
+										Camilluzzi, Vania<br>*2/9/1956<br>+...
+										</td>
+									</tr>
+								</table>
 							</a>
 						</div>
 						<div class="shadow" style="top: 535px; left: 10px;"></div>
@@ -311,7 +361,7 @@ function GoToTop() {
 								<table class="table">
 									<tr>
 										<td class="img">
-											<img alt="Img: Camilluzzi, Luigi" src="../../../../thumb/9/4/fafde4a9397c6fb45cf0ffb1496,25-33,68.png" />
+											<img alt="Img: Camilluzzi, Luigi" src="../../../../thumb/3/1/fb21df29c1a42aedab0a997771343,0-51,17.png" />
 										</td>
 										<td class="name">
 										Camilluzzi, Luigi<br>*25/3/1923<br>+9/5/2015
@@ -364,10 +414,10 @@ function GoToTop() {
 								<table class="table">
 									<tr>
 										<td class="img">
-											<img alt="Img: Vaccarini, Agostina (Argenia)" src="../../../../thumb/5/9/fafdf36032f1718c00b0780549526,13-71,84.png" />
+											<img alt="Img: Vaccarini, Agostina (Eugenia)" src="../../../../thumb/6/6/fb21dc700be29ca4e44ec45156620,0-80,100.png" />
 										</td>
 										<td class="name">
-										Vaccarini, Agostina (Argenia)<br>*28/8/1899<br>+2/1991
+										Vaccarini, Agostina (Eugenia)<br>*28/8/1899<br>+2/1991
 										</td>
 									</tr>
 								</table>
@@ -501,7 +551,7 @@ function GoToTop() {
 		<div class="fullclear"></div>
 		<div id="footer">
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2024-08-27 19:14:24
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2024-09-08 06:12:27
 			</p>
 			<p id="copyright">
 			

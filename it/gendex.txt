@@ -31,14 +31,14 @@ ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898||
 ppl/9/1/fafd0aa23b933b8d9a2a0728419.html|Manni|Adelaide /Manni/|1865||1935||
 ppl/5/1/fafd0c3b366c980927c8b5915.html|Michelini|Felice /Michelini/|1858||||
 ppl/9/f/fafd10ba7301edc06809d1b0af9.html|Camilluzzi|Angiolo /Camilluzzi/|||||
-ppl/1/a/fafd1770366315f8f400134c0a1.html|Caproni|Quinto /Caproni/|22 MAR 1903||13 JUL 1973||
-ppl/6/b/fafd1869ff14f8b1343934300b6.html|Petrucci|Elvira /Petrucci/|7 MAY 1908||2 JAN 2001||
+ppl/1/a/fafd1770366315f8f400134c0a1.html|Caproni|Quinto /Caproni/|22 MAR 1903|Portaria, Acquasparta, Umbria|13 JUL 1973||
+ppl/6/b/fafd1869ff14f8b1343934300b6.html|Petrucci|Elvira /Petrucci/|7 MAY 1908|Montecastrilli, Umbria|2 JAN 2001||
 ppl/c/5/fafd19571912fac3cd35163f05c.html|Petrucci|Valentino /Petrucci/|||||
 ppl/7/5/fafd196a7a574f17bb969299657.html|Pauselli|Maria Assunta /Pauselli/|CAL BET 1864 AND 1894||||
 ppl/d/1/fafd19f70b6193a74d566a1e41d.html|Pauselli|Filippo /Pauselli/|||||
 ppl/f/a/fafd1a120876ca528ddf5c9d0af.html||Diamante //|||||
 ppl/1/e/fafd1b00b381ab4f38c8cb926e1.html|Caproni|Giuseppe /Caproni/|||||
-ppl/7/3/fafd1b21498157e197d43154937.html|Pecci|Filomena /Pecci/|CAL BET 1889 AND 1859||||
+ppl/7/3/fafd1b21498157e197d43154937.html|Pecci|Filomena /Pecci/|CAL BET 1859 AND 1889||||
 ppl/0/d/fafd1b6ba425a778b3d057d50d0.html|Caproni|Tommaso /Caproni/|||||
 ppl/c/5/fafd1b82bc8904749222ee345c.html|Sinorfi|Maddalena /Sinorfi/|||||
 ppl/9/b/fafd1cadf1c3ce1e4feef2c5ab9.html|Michelini|Giovanni /Michelini/|||||
@@ -88,7 +88,7 @@ ppl/5/7/fafd5b5c7d9282e5e12c15a7875.html|Michelini|Giacomo /Michelini/|1931||||
 ppl/d/4/fafd5b97bab237d5a4d3320fc4d.html|Michelini|Gino /Michelini/|1934||1984||
 ppl/a/9/fafd5bdefd247f5e41f2956269a.html|Michelini|Adele /Michelini/|1940||||
 ppl/1/0/fafd5c15999179072f6324a001.html|Michelini|Mario /Michelini/|1944||||
-ppl/3/1/fafd5c696c7f91f35b9e342d13.html||Valeria //|||||
+ppl/3/1/fafd5c696c7f91f35b9e342d13.html|Sabatini|Valeria /Sabatini/|||||
 ppl/e/f/fafd5c789676bef261c1ccc01fe.html|Michelini|Giorgio /Michelini/|JUN 1961||||
 ppl/5/c/fafd5cddde86ece595d3492e1c5.html||Maria Letizia //|||||
 ppl/2/4/fafd5d38f0427a2177cb5a3a242.html|Cricchi|Rosina /Cricchi/|||||

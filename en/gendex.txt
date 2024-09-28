@@ -24,7 +24,7 @@ ppl/e/0/fafcf9cd7165cf042a01a9fbc0e.html|Trovarelli|Dino /Trovarelli/|1 JAN 1922
 ppl/c/2/fafcfb74591366b5c5e56c2e82c.html|Trovarelli|Mario /Trovarelli/|1930||2005||
 ppl/0/2/fafcfbe7b2b62feda229331f220.html|Trovarelli|Alfio /Trovarelli/|1935|Todi, Umbria|||
 ppl/1/0/fafd01c8dcb52afcd196d69cd01.html|Camilluzzi|Luigi /Camilluzzi/|25 MAR 1923|Montecastrilli, Umbria|9 MAY 2015|Terni, Umbria|
-ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Todi, Umbria|2016|Terni, Umbria|
+ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Acquasparta, Umbria|2016|Terni, Umbria|
 ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
 ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991||
 ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898||
@@ -41,7 +41,7 @@ ppl/1/e/fafd1b00b381ab4f38c8cb926e1.html|Caproni|Giuseppe /Caproni/|||||
 ppl/7/3/fafd1b21498157e197d43154937.html|Pecci|Filomena /Pecci/|CAL BET 1859 AND 1889||||
 ppl/0/d/fafd1b6ba425a778b3d057d50d0.html|Caproni|Tommaso /Caproni/|||||
 ppl/c/5/fafd1b82bc8904749222ee345c.html|Sinorfi|Maddalena /Sinorfi/|||||
-ppl/9/b/fafd1cadf1c3ce1e4feef2c5ab9.html|Michelini|Giovanni /Michelini/|||||
+ppl/9/b/fafd1cadf1c3ce1e4feef2c5ab9.html|Michelini|Giovanni /Michelini/||Todi, Umbria|||
 ppl/5/f/fafd1d07f717b2602f2de008ff5.html||Loreta //|||||
 ppl/1/2/fafd42ce30255761a29bf8ca921.html|Ortenzi|Edda /Ortenzi/|26 MAY 1949||||
 ppl/7/5/fafd434b995774ff197f35c6857.html|Ortenzi|Luigino /Ortenzi/|8 FEB 1961||||
@@ -81,9 +81,9 @@ ppl/1/8/fafd57317583d264e4b4b599d81.html|Passalacqua|Carla /Passalacqua/|1957|||
 ppl/1/4/fafd57b32966796fb1d3aa3a041.html||Vincenza //|||||
 ppl/3/c/fafd57cbeb767b8cf7b6da673c3.html|Zara|Franca /Zara/|1956||||
 ppl/0/d/fafd57eea2c1a0c2099c169dad0.html|Zara|Franco /Zara/|1956||1996||
-ppl/7/3/fafd5a6c66b5e671084bb3bd837.html|Michelini|Enrico /Michelini/|1900||1971||
+ppl/7/3/fafd5a6c66b5e671084bb3bd837.html|Michelini|Enrico /Michelini/|1904||1971||
 ppl/1/3/fafd5aea5b22ade2be20824a031.html|Caproni|Ines /Caproni/|||||
-ppl/a/f/fafd5b14a1559ddea787cb129fa.html|Michelini|Felice /Michelini/|1925||1991||
+ppl/a/f/fafd5b14a1559ddea787cb129fa.html|Michelini|Felice /Michelini/|1928||1991||
 ppl/5/7/fafd5b5c7d9282e5e12c15a7875.html|Michelini|Giacomo /Michelini/|1931||||
 ppl/d/4/fafd5b97bab237d5a4d3320fc4d.html|Michelini|Gino /Michelini/|1934||1984||
 ppl/a/9/fafd5bdefd247f5e41f2956269a.html|Michelini|Adele /Michelini/|1940||||

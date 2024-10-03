@@ -25,7 +25,7 @@ ppl/c/2/fafcfb74591366b5c5e56c2e82c.html|Trovarelli|Mario /Trovarelli/|1930||200
 ppl/0/2/fafcfbe7b2b62feda229331f220.html|Trovarelli|Alfio /Trovarelli/|1935|Todi, Umbria|||
 ppl/1/0/fafd01c8dcb52afcd196d69cd01.html|Camilluzzi|Luigi /Camilluzzi/|25 MAR 1923|Montecastrilli, Umbria|9 MAY 2015|Terni, Umbria|
 ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Acquasparta, Umbria|2016|Terni, Umbria|
-ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
+ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|31 MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
 ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991|Terni, Umbria|
 ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898|Farnetta, Montecastrilli, Umbria|
 ppl/9/1/fafd0aa23b933b8d9a2a0728419.html|Manni|Adelaide /Manni/|1865||1935||
@@ -99,7 +99,7 @@ ppl/3/f/fafd5e144494725973b463ab8f3.html|Michelini|Sofia /Michelini/|2000||||
 ppl/f/8/fafd5ea05186a271607981a138f.html|Rughetti|Maria Adriana /Rughetti/|1940||2010||
 ppl/0/6/fafd5f0b8483097ea26e127d260.html|Michelini|Sabatino /Michelini/|1967||||
 ppl/5/d/fafd5f438f51ff943803c5c1bd5.html|Michelini|Pino /Michelini/|1973||||
-ppl/d/7/fafd5fabd702d5f9b13c678277d.html|Bordacchini|Vito /Bordacchini/|||||
+ppl/d/7/fafd5fabd702d5f9b13c678277d.html|Bordacchini|Vito /Bordacchini/|1940||||
 ppl/1/3/fafd5fc944575abc02e5ee00831.html|Bordacchini|Graziella /Bordacchini/|1974||||
 ppl/8/c/fafd5ff97c5a71e71258aed9c8.html|Bordacchini|Enrico /Bordacchini/|1972||||
 ppl/1/5/fafd6045933454e715a220a0c51.html|Conti|Rossella /Conti/|1945||||
@@ -204,3 +204,15 @@ ppl/b/f/fb237eeacca535e80505e0792fb.html|Gatti|Letizia /Gatti/|ABT 2008||||
 ppl/7/0/fb241992e0b73b465c3c759c807.html|Trovarelli|Simonetta /Trovarelli/|||||
 ppl/b/6/fb24223c000787a843a34610f6b.html|Bianchi|Deborah /Bianchi/|||||
 ppl/b/f/fb243d537ec57f3b242d363fdfb.html||Liliana //|||||
+ppl/0/b/fb73431811776a2f2006b7d3db0.html|Caproni|Cesare /Caproni/|||||
+ppl/a/5/fb73432d1a66c6c70525838885a.html|Palmadori|Maria /Palmadori/|||||
+ppl/d/8/fb7343568312ef1e2f6fcb8438d.html|Caproni|Eugenia /Caproni/|||||
+ppl/5/1/fb73436e66b15eff5cc4f422115.html|Caproni|Tommaso /Caproni/|||||
+ppl/e/b/fb734bfe38c5ef2e3a1f5265cbe.html|Bassetti|Alessandro /Bassetti/|||||
+ppl/7/e/fb734c1ff8516a3c2d563c92fe7.html|Bassetti|Angelo /Bassetti/|1943||||
+ppl/6/7/fb734ce308117057c3602e8b76.html|Palmadori|Maria /Palmadori/|||||
+ppl/9/a/fb734d110d75809e6e8667022a9.html|Bassetti|Erica /Bassetti/|1969||||
+ppl/2/c/fb734d3b43cd9b11b32d11e9c2.html|Bassetti|Alessandro /Bassetti/|||||
+ppl/6/a/fb734e0741629ac8faca4e6cea6.html||Emma //|||||
+ppl/5/c/fb734e1a21a78cbc0eae20a46c5.html|Caproni|Alvaro /Caproni/|1946||||
+ppl/d/c/fb73599ec4784a39f3b74017cd.html|Caproni|Elena /Caproni/|||||

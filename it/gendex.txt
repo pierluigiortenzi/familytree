@@ -4,8 +4,8 @@ ppl/e/9/fafcdaa551e4893c5346bcd029e.html|Ortenzi|Osvaldo /Ortenzi/|6 MAY 1955|Sa
 ppl/e/7/fafcdb81bd22823a43287f04f7e.html|Camilluzzi|Vania /Camilluzzi/|2 SEP 1956|Acquasparta, Umbria|||
 ppl/d/0/fafce9c0b7f58445706c926730d.html|Ortenzi|Francesco /Ortenzi/|14 FEB 1918|Viepri, Massa Martana, Umbria|14 NOV 2004|San Gemini, Umbria|
 ppl/8/9/fafceaa29265b46d478d610df98.html|Trovarelli|Dalida /Trovarelli/|14 JUL 1927|Todi, Umbria|APR 2024|Terni, Umbria|
-ppl/0/9/fafceb96a5b3aed737af900d490.html|Ortenzi|Luigi /Ortenzi/|1 NOV 1883|Todi, Umbria|JUL 1963||
-ppl/6/d/fafcec64fac521ecd72702e7dd6.html|Martinelli|Ester /Martinelli/|1893|Todi, Umbria|JAN 1968||
+ppl/0/9/fafceb96a5b3aed737af900d490.html|Ortenzi|Luigi /Ortenzi/|1 NOV 1883|Todi, Umbria|19 JUL 1963||
+ppl/6/d/fafcec64fac521ecd72702e7dd6.html|Martinelli|Ester /Martinelli/|1893|Todi, Umbria|18 JAN 1968||
 ppl/7/2/fafced4242243ddffa0fb213527.html|Ortenzi|Francesco /Ortenzi/|1836|Ficareto, Todi, Umbria|8 NOV 1908|Castelrinaldi, Massa Martana, Umbria|
 ppl/a/7/fafced5d2977144d53b311dfb7a.html||Clotilde //|||||
 ppl/e/4/fafcee4c6ea4b1d6d85409e94e.html|Ortenzi|Pietro /Ortenzi/|1870||||
@@ -24,9 +24,9 @@ ppl/e/0/fafcf9cd7165cf042a01a9fbc0e.html|Trovarelli|Dino /Trovarelli/|1 JAN 1922
 ppl/c/2/fafcfb74591366b5c5e56c2e82c.html|Trovarelli|Mario /Trovarelli/|1930||2005||
 ppl/0/2/fafcfbe7b2b62feda229331f220.html|Trovarelli|Alfio /Trovarelli/|1935|Todi, Umbria|||
 ppl/1/0/fafd01c8dcb52afcd196d69cd01.html|Camilluzzi|Luigi /Camilluzzi/|25 MAR 1923|Montecastrilli, Umbria|9 MAY 2015|Terni, Umbria|
-ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Acquasparta, Umbria|2016|Terni, Umbria|
+ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Acquasparta, Umbria|7 FEB 2016|Terni, Umbria|
 ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|31 MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
-ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991|Terni, Umbria|
+ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||6 FEB 1991|Terni, Umbria|
 ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898|Farnetta, Montecastrilli, Umbria|
 ppl/9/1/fafd0aa23b933b8d9a2a0728419.html|Manni|Adelaide /Manni/|1865||1935||
 ppl/5/1/fafd0c3b366c980927c8b5915.html|Michelini|Felice /Michelini/|1858||||
@@ -34,7 +34,7 @@ ppl/9/f/fafd10ba7301edc06809d1b0af9.html|Camilluzzi|Angiolo /Camilluzzi/|||||
 ppl/1/a/fafd1770366315f8f400134c0a1.html|Caproni|Quinto /Caproni/|22 MAR 1903|Portaria, Acquasparta, Umbria|13 JUL 1973||
 ppl/6/b/fafd1869ff14f8b1343934300b6.html|Petrucci|Elvira /Petrucci/|7 MAY 1908|Montecastrilli, Umbria|2 JAN 2001||
 ppl/c/5/fafd19571912fac3cd35163f05c.html|Petrucci|Valentino /Petrucci/|||||
-ppl/7/5/fafd196a7a574f17bb969299657.html|Pauselli|Maria Assunta /Pauselli/|CAL BET 1864 AND 1894||||
+ppl/7/5/fafd196a7a574f17bb969299657.html|Pauselli|Maria Assunta /Pauselli/|CAL BET 1864 AND 1894||EST BET 1945 AND 1950|Montecastrilli, Umbria|
 ppl/d/1/fafd19f70b6193a74d566a1e41d.html|Pauselli|Filippo /Pauselli/|||||
 ppl/f/a/fafd1a120876ca528ddf5c9d0af.html||Diamante //|||||
 ppl/1/e/fafd1b00b381ab4f38c8cb926e1.html|Caproni|Giuseppe /Caproni/|||||
@@ -156,14 +156,14 @@ ppl/2/5/fafd91b434e3a21cad6b64ea152.html|Giovenanzi|Sotero /Giovenanzi/|||||
 ppl/8/a/fafd926c4ba3df6130a8a0a8da8.html||Giuliana //|||||
 ppl/a/f/fafd9292876373f6868898fb7fa.html|Giovenanzi|Giuliana /Giovenanzi/|||||
 ppl/4/6/fafddae5b853ff44e4e2cbc764.html|Camilluzzi|Marsilia /Camilluzzi/|1930|Todi, Umbria|1931|Todi, Umbria|
-ppl/b/8/fafddbc9be415b149c6cacc848b.html|Ortenzi|Amabilia /Ortenzi/|6 JUN 1922||2008||
+ppl/b/8/fafddbc9be415b149c6cacc848b.html|Ortenzi|Amabilia /Ortenzi/|1 JUN 1922||8 NOV 2008||
 ppl/d/7/fafddcd27737477ac0db7f1db7d.html|Ortenzi|Edo /Ortenzi/|21 APR 1920|Massa Martana, Umbria|EST 30 OCT 1943||
 ppl/0/8/fafddd38f323d7a19f158b71e80.html|Ortenzi|Adelmo /Ortenzi/|7 JUL 1915|Massa Martana, Umbria|EST 23 SEP 1943|Corsica|
 ppl/d/f/faffa2aac874b3747a3985549fd.html|Mazzanti|Italo /Mazzanti/|||1970||
 ppl/f/a/faffa2f18816b74f12e9ab9c0af.html|Sisa|Maria /Sisa/|||1940||
 ppl/5/a/faffa3f87c778061ab66c29caa5.html|Ortenzi|Giulio /Ortenzi/|||||
 ppl/2/c/faffa413cbf6eef7758ee2ad1c2.html||Rita //|||||
-ppl/2/8/fafffefa41c59b8b91fe37fd482.html|Meloni|Mario /Meloni/|||||
+ppl/2/8/fafffefa41c59b8b91fe37fd482.html|Meloni|Mario /Meloni/|1 MAR 1921||3 MAR 2004||
 ppl/1/2/fb00054f6b848f9492491abfd21.html|Sciamannini|Petronilla /Sciamannini/|1849|Montecastrilli, Umbria|31 MAR 1923|Castelrinaldi, Massa Martana, Umbria|
 ppl/b/e/fb0088f89d34b42d225ca80ceb.html|Ortenzi|Amalia /Ortenzi/|NOV 1913|Castelrinaldi, Massa Martana, Umbria|12 DEC 1913|Castelrinaldi, Massa Martana, Umbria|
 ppl/4/0/fb00a121c2364da5748bfc37004.html|Martinelli|Sante /Martinelli/|||AFT 1913||

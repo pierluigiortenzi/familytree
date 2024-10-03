@@ -26,8 +26,8 @@ ppl/0/2/fafcfbe7b2b62feda229331f220.html|Trovarelli|Alfio /Trovarelli/|1935|Todi
 ppl/1/0/fafd01c8dcb52afcd196d69cd01.html|Camilluzzi|Luigi /Camilluzzi/|25 MAR 1923|Montecastrilli, Umbria|9 MAY 2015|Terni, Umbria|
 ppl/3/b/fafd029038b588534cef45560b3.html|Caproni|Iolanda /Caproni/|16 AUG 1933|Acquasparta, Umbria|2016|Terni, Umbria|
 ppl/e/c/fafd088a5f87b0ee273dfebefce.html|Camilluzzi|Giulio /Camilluzzi/|MAR 1889|Farnetta, Montecastrilli, Umbria|13 OCT 1963||
-ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991||
-ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898||
+ppl/f/2/fafd096fe432dd7fcb65ddd7d2f.html|Vaccarini|Agostina /Vaccarini/|28 AUG 1899||FEB 1991|Terni, Umbria|
+ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html|Camilluzzi|Luigi /Camilluzzi/|||1898|Farnetta, Montecastrilli, Umbria|
 ppl/9/1/fafd0aa23b933b8d9a2a0728419.html|Manni|Adelaide /Manni/|1865||1935||
 ppl/5/1/fafd0c3b366c980927c8b5915.html|Michelini|Felice /Michelini/|1858||||
 ppl/9/f/fafd10ba7301edc06809d1b0af9.html|Camilluzzi|Angiolo /Camilluzzi/|||||
@@ -144,7 +144,7 @@ ppl/f/5/fafd8595dcc4bc848f8e1d49d5f.html|Mazzanti|Federica /Mazzanti/|9 FEB 1972
 ppl/b/9/fafd861cb7b2c43c7a1d98a309b.html|Gatti|Massimiliano /Gatti/|APR 1972||||
 ppl/a/6/fafd866c16328a745bebe03906a.html|Gatti|Nicolò /Gatti/|13 MAY 2004||||
 ppl/4/8/fafd8761b068a2c925d68bfd84.html|Camilluzzi|Graziano /Camilluzzi/|22 JAN 1961||||
-ppl/d/3/fafd8d851787ca7d79cfb5f123d.html|Vaccarini|Agostino /Vaccarini/|CAL 1868||1951||
+ppl/d/3/fafd8d851787ca7d79cfb5f123d.html|Vaccarini|Agostino /Vaccarini/|30 JUN 1864||12 MAR 1951|Portaria, Acquasparta, Umbria|
 ppl/5/f/fafd8da9c831007fe870cc4bf5.html|Battistoni|Giulia /Battistoni/|ABT 1872|Todi, Umbria|12 NOV 1910|Pesciano, Todi, Umbria|
 ppl/c/5/fafd8f6348c24c74539aa33e35c.html|Battistoni|Ponziano /Battistoni/|||BEF 1906||
 ppl/f/4/fafd8f70459b504df6d73e934f.html|Pacifici|Dorotea /Pacifici/|1830|Montecastrilli, Umbria|4 APR 1906|Pesciano, Todi, Umbria|
@@ -173,7 +173,7 @@ ppl/7/5/fb00a581dd7379ef82054dd0a57.html|Martinelli|Mattia /Martinelli/|24 FEB 1
 ppl/4/2/fb00af0c908a8fdeeccded2e24.html|Ortenzi|Filippo /Ortenzi/|CAL 1795|Monticello, Todi, Umbria|14 SEP 1875|Ficareto, Todi, Umbria|
 ppl/1/0/fb00b11392a12e08daae0f36501.html|Perni|Rosalinda /Perni/|CAL BET 1803 AND 1819||BET 1875 AND 1908|Ficareto, Todi, Umbria|
 ppl/f/7/fb00b879df5660d4428c5c95a7f.html|Ortenzi|Francesco /Ortenzi/|ABT 1772||22 JAN 1832|Ficareto, Todi, Umbria|
-ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciarli Ciculi|Marianna /Ciarli Ciculi/|CAL BET 1751 AND 1781||||
+ppl/f/b/fb00b9682c922aa50c0ab6776bf.html|Ciculi Ciarli|Marianna /Ciculi Ciarli/|CAL BET 1751 AND 1781||||
 ppl/d/1/fb00bb994235c7074844d0d611d.html|Ortenzi|Filippo /Ortenzi/|||9 JAN 1816|Ficareto, Todi, Umbria|
 ppl/8/0/fb00bcd04611fe9b9ff24a4fb08.html|Ortenzi|Giovanni /Ortenzi/|||||
 ppl/d/6/fb00bdea7127458bf49d453366d.html|Ortenzi|Filippo /Ortenzi/|ABT 1702||ABT MAY 1768|Ficareto, Todi, Umbria|

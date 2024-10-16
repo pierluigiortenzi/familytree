@@ -106,6 +106,11 @@ function GoToTop() {
 					</thead>
 					<tbody>
 						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/4/fb6d75ad35b768980955445f641.html" title="Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Sepoltura</td>
+						</tr>
+						<tr>
 							<td class="ColumnDate">circa il 1920</td>
 							<td class="ColumnPlace"><a href="../../../plc/a/0/fb0eecd965435a153af1c79260a.html" title="Pantalla, Todi, Umbria">Pantalla, Todi, Umbria</a></td>
 							<td class="ColumnType">Residenza</td>
@@ -156,6 +161,7 @@ function GoToTop() {
   window.addEventListener("load", function() {
     var map;
     var tracelife = [
+    [12.628361, 42.565750, 'Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/8/9/fafceaa29265b46d478d610df98.html' title='I0005' target='_self'>Trovarelli, Dalida</a>:<a href='../../../evt/6/4/fb6d7646a377837a8af41dd2c46.html' title='' target='_self'>Sepoltura</a> ()"],
     [12.433800, 42.901100, 'Collazzone, Umbria', "<p><a href='../../../ppl/5/2/fafcf0cbf004c177104ba9bbe25.html' title='I0016' target='_self'>Trovarelli, Vittorio</a>:<a href='../../../evt/5/5/fb0ee0cdc6d1517407938dde555.html' title='circa il 1920' target='_self'>Residenza</a> (circa il 1920)"],
     [12.551900, 42.917200, 'Gualdo Cattaneo, Umbria', "<p><a href='../../../ppl/5/2/fafcf0cbf004c177104ba9bbe25.html' title='I0016' target='_self'>Trovarelli, Vittorio</a>:<a href='../../../evt/e/b/fafcf0fc363b1042271895b5be.html' title='22/3/1893' target='_self'>Nascita</a> (22/3/1893)"],
     [12.334900, 42.917200, 'Marsciano, Umbria', "<p><a href='../../../ppl/1/2/fafcf18581d2d01b81b4eba4d21.html' title='I0017' target='_self'>Coletti, Angela</a>:<a href='../../../evt/c/a/fafcf1b8bb924ffabf84bbf26ac.html' title='29/6/1892' target='_self'>Nascita</a> (29/6/1892)"],
@@ -192,7 +198,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.4881, 42.7396], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([12.48814400, 42.73957200], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

@@ -112,6 +112,11 @@ function GoToTop() {
 						</tr>
 						<tr>
 							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/f/fb6d685f6a6b98ac5d176786f1.html" title="Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Burial</td>
+						</tr>
+						<tr>
+							<td class="ColumnDate"></td>
 							<td class="ColumnPlace"><a href="../../../plc/5/3/fb7340d955618576d8caba4fd35.html" title="Cimitero di Farnetta, Farnetta, Montecastrilli, Umbria">Cimitero di Farnetta, Farnetta, Montecastrilli, Umbria</a></td>
 							<td class="ColumnType">Burial</td>
 						</tr>
@@ -147,6 +152,7 @@ function GoToTop() {
     var map;
     var tracelife = [
     [-64.000000, -34.000000, 'Argentina', "<p><a href='../../../ppl/e/c/fafd088a5f87b0ee273dfebefce.html' title='I0027' target='_self'>Camilluzzi, Giulio</a>:<a href='../../../evt/9/b/fb6267200237304dfa0631573b9.html' title='estimated from 1923 to 1930' target='_self'>Residence</a> (estimated from 1923 to 1930)"],
+    [12.629944, 42.565944, 'Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/e/c/fafd088a5f87b0ee273dfebefce.html' title='I0027' target='_self'>Camilluzzi, Giulio</a>:<a href='../../../evt/9/e/fb6d6920b14320361d5d64a48e9.html' title='' target='_self'>Burial</a> ()"],
     [12.458300, 42.642700, 'Cimitero di Farnetta, Farnetta, Montecastrilli, Umbria', "<p><a href='../../../ppl/9/1/fafd0aa23b933b8d9a2a0728419.html' title='I0030' target='_self'>Manni, Adelaide</a>:<a href='../../../evt/7/5/fb7340e064d51c6c6368186a057.html' title='' target='_self'>Burial</a> ()"],
     [12.451200, 42.648300, 'Farnetta, Montecastrilli, Umbria', "<p><a href='../../../ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html' title='I0029' target='_self'>Camilluzzi, Luigi</a>:<a href='../../../evt/7/f/fb72851421959569587e7b21f7.html' title='estimated from 1889 to 1898' target='_self'>Residence</a> (estimated from 1889 to 1898)" + "<br><a href='../../../ppl/d/6/fafd0a73b3a5e31f5687cdeac6d.html' title='I0029' target='_self'>Camilluzzi, Luigi</a>:<a href='../../../evt/6/3/fafd0a950be7363d692667df336.html' title='1898' target='_self'>Death</a> (1898)" + "<br><a href='../../../ppl/e/c/fafd088a5f87b0ee273dfebefce.html' title='I0027' target='_self'>Camilluzzi, Giulio</a>:<a href='../../../evt/9/1/fafd092e1a97c65f67f0690d619.html' title='1889-03-31' target='_self'>Birth</a> (1889-03-31)" + "<br><a href='../../../ppl/e/c/fafd088a5f87b0ee273dfebefce.html' title='I0027' target='_self'>Camilluzzi, Giulio</a>:<a href='../../../evt/0/0/fb7285aff1a49d23f9828575e00.html' title='estimated from 1889 to 1898' target='_self'>Residence</a> (estimated from 1889 to 1898)"],];;
     var iconStyle = new ol.style.Style({
@@ -179,7 +185,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([-25.7708, 4.3242], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([-25.68502800, 4.32415000], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

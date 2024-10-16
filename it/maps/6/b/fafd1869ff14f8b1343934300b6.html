@@ -121,14 +121,19 @@ function GoToTop() {
 							<td class="ColumnType">Nascita</td>
 						</tr>
 						<tr>
-							<td class="ColumnDate">7/2/2016</td>
-							<td class="ColumnPlace"><a href="../../../plc/4/4/fafcde0d6151ab202ffc04cf444.html" title="Terni, Umbria">Terni, Umbria</a></td>
-							<td class="ColumnType">Decesso</td>
-						</tr>
-						<tr>
 							<td class="ColumnDate">circa il 2000</td>
 							<td class="ColumnPlace"><a href="../../../plc/2/1/fafcdbd747da06faca08454312.html" title="Acquasparta, Umbria">Acquasparta, Umbria</a></td>
 							<td class="ColumnType">Residenza</td>
+						</tr>
+						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/f/fb6d685f6a6b98ac5d176786f1.html" title="Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Sepoltura</td>
+						</tr>
+						<tr>
+							<td class="ColumnDate">7/2/2016</td>
+							<td class="ColumnPlace"><a href="../../../plc/4/4/fafcde0d6151ab202ffc04cf444.html" title="Terni, Umbria">Terni, Umbria</a></td>
+							<td class="ColumnType">Decesso</td>
 						</tr>
 					</tbody>
 				</table>
@@ -142,6 +147,7 @@ function GoToTop() {
     var map;
     var tracelife = [
     [12.546400, 42.691500, 'Acquasparta, Umbria', "<p><a href='../../../ppl/6/b/fafd1869ff14f8b1343934300b6.html' title='I0034' target='_self'>Petrucci, Elvira</a>:<a href='../../../evt/7/7/fb17dcf2e635c8d71b905986d77.html' title='circa il 2000' target='_self'>Residenza</a> (circa il 2000)" + "<br><a href='../../../ppl/3/b/fafd029038b588534cef45560b3.html' title='I0026' target='_self'>Caproni, Iolanda</a>:<a href='../../../evt/1/d/fafd03165c23b596a6a835397d1.html' title='16/8/1933' target='_self'>Nascita</a> (16/8/1933)"],
+    [12.629944, 42.565944, 'Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/3/b/fafd029038b588534cef45560b3.html' title='I0026' target='_self'>Caproni, Iolanda</a>:<a href='../../../evt/9/6/fb6d689372e1c84bcd99b6f4269.html' title='' target='_self'>Sepoltura</a> ()"],
     [12.486000, 42.651100, 'Montecastrilli, Umbria', "<p><a href='../../../ppl/6/b/fafd1869ff14f8b1343934300b6.html' title='I0034' target='_self'>Petrucci, Elvira</a>:<a href='../../../evt/c/1/fafd18e033e150d8c78e75ce51c.html' title='7/5/1908' target='_self'>Nascita</a> (7/5/1908)"],
     [12.565500, 42.656400, 'Portaria, Acquasparta, Umbria', "<p><a href='../../../ppl/1/a/fafd1770366315f8f400134c0a1.html' title='I0033' target='_self'>Caproni, Quinto (Gino)</a>:<a href='../../../evt/a/a/fafd17eb0ac7807dbee736adbaa.html' title='22/3/1903' target='_self'>Nascita</a> (22/3/1903)"],
     [12.641389, 42.561944, 'Terni, Umbria', "<p><a href='../../../ppl/3/b/fafd029038b588534cef45560b3.html' title='I0026' target='_self'>Caproni, Iolanda</a>:<a href='../../../evt/2/0/fb0cb1ef0b8662f77d24ec10802.html' title='7/2/2016' target='_self'>Decesso</a> (7/2/2016)"],];;
@@ -175,7 +181,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.5637, 42.6267], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([12.56369400, 42.62672200], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

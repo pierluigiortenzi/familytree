@@ -106,6 +106,11 @@ function GoToTop() {
 					</thead>
 					<tbody>
 						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/4/fb6d75ad35b768980955445f641.html" title="Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Burial</td>
+						</tr>
+						<tr>
 							<td class="ColumnDate">1890-03-11</td>
 							<td class="ColumnPlace"><a href="../../../plc/8/c/faffda558ff6fbb965a11afbfc8.html" title="Todi, Umbria">Todi, Umbria</a></td>
 							<td class="ColumnType">Birth</td>
@@ -176,6 +181,7 @@ function GoToTop() {
   window.addEventListener("load", function() {
     var map;
     var tracelife = [
+    [12.628361, 42.565750, 'Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/8/9/fafceaa29265b46d478d610df98.html' title='I0005' target='_self'>Trovarelli, Dalida</a>:<a href='../../../evt/6/4/fb6d7646a377837a8af41dd2c46.html' title='' target='_self'>Burial</a> ()"],
     [11.960000, 46.497900, 'Col di Lana', "<p><a href='../../../ppl/3/5/fb0f2043bd82cbff6b869a42153.html' title='I0186' target='_self'>Moretti, Costantino</a>:<a href='../../../evt/e/1/fb0f26e76a4c99e5bfe52a431e.html' title='1915-05-26' target='_self'>Death</a> (1915-05-26)"],
     [12.433800, 42.901100, 'Collazzone, Umbria', "<p><a href='../../../ppl/5/2/fafcf0cbf004c177104ba9bbe25.html' title='I0016' target='_self'>Trovarelli, Vittorio</a>:<a href='../../../evt/5/5/fb0ee0cdc6d1517407938dde555.html' title='about 1920' target='_self'>Residence</a> (about 1920)"],
     [12.551900, 42.917200, 'Gualdo Cattaneo, Umbria', "<p><a href='../../../ppl/5/2/fafcf0cbf004c177104ba9bbe25.html' title='I0016' target='_self'>Trovarelli, Vittorio</a>:<a href='../../../evt/e/b/fafcf0fc363b1042271895b5be.html' title='1893-03-22' target='_self'>Birth</a> (1893-03-22)"],
@@ -213,7 +219,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.3007, 44.5299], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([12.30069400, 44.52992200], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

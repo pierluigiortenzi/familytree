@@ -106,6 +106,16 @@ function GoToTop() {
 					</thead>
 					<tbody>
 						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/4/fb6d75ad35b768980955445f641.html" title="Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Sepoltura</td>
+						</tr>
+						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/4/fb6d75ad35b768980955445f641.html" title="Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Sepoltura</td>
+						</tr>
+						<tr>
 							<td class="ColumnDate">14/2/1918</td>
 							<td class="ColumnPlace"><a href="../../../plc/d/9/fb0cd217b3b47a5ba1dc18c589d.html" title="Viepri, Massa Martana, Umbria">Viepri, Massa Martana, Umbria</a></td>
 							<td class="ColumnType">Nascita</td>
@@ -141,6 +151,7 @@ function GoToTop() {
   window.addEventListener("load", function() {
     var map;
     var tracelife = [
+    [12.628361, 42.565750, 'Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/d/0/fafce9c0b7f58445706c926730d.html' title='I0004' target='_self'>Ortenzi, Francesco</a>:<a href='../../../evt/3/5/fb6d75b43df3332bf04ffd5b553.html' title='' target='_self'>Sepoltura</a> ()" + "<br><a href='../../../ppl/8/9/fafceaa29265b46d478d610df98.html' title='I0005' target='_self'>Trovarelli, Dalida</a>:<a href='../../../evt/6/4/fb6d7646a377837a8af41dd2c46.html' title='' target='_self'>Sepoltura</a> ()"],
     [12.545833, 42.611111, 'San Gemini, Umbria', "<p><a href='../../../ppl/d/0/fafce9c0b7f58445706c926730d.html' title='I0004' target='_self'>Ortenzi, Francesco</a>:<a href='../../../evt/b/f/fafcea8c83435c47d0e8a4f1ffb.html' title='14/11/2004' target='_self'>Decesso</a> (14/11/2004)" + "<br><a href='../../../ppl/e/9/fafcdaa551e4893c5346bcd029e.html' title='I0002' target='_self'>Ortenzi, Osvaldo</a>:<a href='../../../evt/2/8/fafcdb6d4f44c184941e5a3ef82.html' title='6/5/1955' target='_self'>Nascita</a> (6/5/1955)"],
     [12.641389, 42.561944, 'Terni, Umbria', "<p><a href='../../../ppl/8/9/fafceaa29265b46d478d610df98.html' title='I0005' target='_self'>Trovarelli, Dalida</a>:<a href='../../../evt/1/4/fb0cb22916b390ab4f9196cc241.html' title='4/2024' target='_self'>Decesso</a> (4/2024)"],
     [12.414167, 42.778889, 'Todi, Umbria', "<p><a href='../../../ppl/8/9/fafceaa29265b46d478d610df98.html' title='I0005' target='_self'>Trovarelli, Dalida</a>:<a href='../../../evt/a/4/fafceaf03df29ef26141ae0f14a.html' title='14/7/1927' target='_self'>Nascita</a> (14/7/1927)"],
@@ -175,7 +186,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.5278, 42.6940], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([12.52777800, 42.69402200], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

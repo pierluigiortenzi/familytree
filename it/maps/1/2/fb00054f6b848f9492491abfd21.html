@@ -106,6 +106,11 @@ function GoToTop() {
 					</thead>
 					<tbody>
 						<tr>
+							<td class="ColumnDate"></td>
+							<td class="ColumnPlace"><a href="../../../plc/1/4/fb6d75ad35b768980955445f641.html" title="Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria">Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria</a></td>
+							<td class="ColumnType">Sepoltura</td>
+						</tr>
+						<tr>
 							<td class="ColumnDate">1836</td>
 							<td class="ColumnPlace"><a href="../../../plc/4/0/fb00a91ff166a3bd800c05a0c04.html" title="Ficareto, Todi, Umbria">Ficareto, Todi, Umbria</a></td>
 							<td class="ColumnType">Nascita</td>
@@ -156,6 +161,7 @@ function GoToTop() {
   window.addEventListener("load", function() {
     var map;
     var tracelife = [
+    [12.628361, 42.565750, 'Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria', "<p><a href='../../../ppl/0/9/fafceb96a5b3aed737af900d490.html' title='I0006' target='_self'>Ortenzi, Luigi</a>:<a href='../../../evt/9/4/fb73b5efbc7198378a5ea430249.html' title='' target='_self'>Sepoltura</a> ()"],
     [12.506500, 42.795700, 'Castelrinaldi, Massa Martana, Umbria', "<p><a href='../../../ppl/1/2/fb00054f6b848f9492491abfd21.html' title='I0167' target='_self'>Sciamannini, Petronilla</a>:<a href='../../../evt/e/f/fb00ae590374214244a3dcfb4fe.html' title='31/3/1923' target='_self'>Decesso</a> (31/3/1923)" + "<br><a href='../../../ppl/7/2/fafced4242243ddffa0fb213527.html' title='I0008' target='_self'>Ortenzi, Francesco</a>:<a href='../../../evt/0/6/fb00a7507cd759a10c4c7a6a960.html' title='8/11/1908' target='_self'>Decesso</a> (8/11/1908)" + "<br><a href='../../../ppl/0/9/fafceb96a5b3aed737af900d490.html' title='I0006' target='_self'>Ortenzi, Luigi</a>:<a href='../../../evt/8/0/fb0f4784004673634e0a00e9d08.html' title='circa il 1932' target='_self'>Residenza</a> (circa il 1932)"],
     [12.490400, 42.810200, 'Ficareto, Todi, Umbria', "<p><a href='../../../ppl/7/2/fafced4242243ddffa0fb213527.html' title='I0008' target='_self'>Ortenzi, Francesco</a>:<a href='../../../evt/4/7/fb00a9591ff2bda20a5b68f7a74.html' title='1836' target='_self'>Nascita</a> (1836)" + "<br><a href='../../../ppl/9/4/fafceeb1edfa2ce4b240f7fa49.html' title='I0013' target='_self'>Ortenzi, Federico</a>:<a href='../../../evt/4/8/fb0f554f2ec13e88183f3147d84.html' title='1864' target='_self'>Nascita</a> (1864)"],
     [12.518900, 42.784300, 'Massa Martana, Umbria', "<p><a href='../../../ppl/0/9/fafceb96a5b3aed737af900d490.html' title='I0006' target='_self'>Ortenzi, Luigi</a>:<a href='../../../evt/6/c/fb0f46f100722ea3f7f9203edc6.html' title='circa il 1913' target='_self'>Residenza</a> (circa il 1913)"],
@@ -191,7 +197,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.4665, 42.7306], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([12.52126400, 42.68797500], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),

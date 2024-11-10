@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 8 NOV 2024
-2 TIME 17:36:52
+1 DATE 10 NOV 2024
+2 TIME 21:33:45
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2024 .
@@ -1267,18 +1267,24 @@
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 1 FAMS @F0017@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G1WM-V3X
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 14:47:46
 0 @I0044@ INDI
 1 NAME Loreta //
 2 TYPE birth
 2 GIVN Loreta
 1 SEX F
 1 FAMS @F0017@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G1WM-6R8
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 14:52:00
 0 @I0045@ INDI
 1 NAME Edda /Ortenzi/
 2 TYPE birth
@@ -1418,13 +1424,15 @@
 2 GIVN Odoardo
 2 SURN Zara
 1 SEX M
+1 FAMC @F0093@
+2 PEDI birth
 1 FAMS @F0020@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-WY6
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 9 NOV 2024
+3 TIME 16:34:15
 0 @I0056@ INDI
 1 NAME Adalgisa /Camilluzzi/
 2 TYPE birth
@@ -1902,9 +1910,10 @@
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0035@
+1 OBJE @O0130@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 20:07:21
 0 @I0091@ INDI
 1 NAME Valeria /Sabatini/
 2 TYPE birth
@@ -1968,9 +1977,12 @@
 3 ADR2 Cimitero di Farnetta
 1 FAMS @F0031@
 1 OBJE @O0099@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G1WM-P2J
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:49
+2 DATE 10 NOV 2024
+3 TIME 15:08:52
 0 @I0095@ INDI
 1 NAME Carlo /Michelini/
 2 TYPE birth
@@ -2484,6 +2496,9 @@
 1 SEX M
 1 BIRT
 2 DATE 19 SEP 1940
+1 EVEN
+2 TYPE Marriage
+2 DATE 1980
 1 FAMC @F0012@
 2 PEDI birth
 1 FAMS @F0041@
@@ -2491,8 +2506,8 @@
 1 OBJE @O0046@
 1 OBJE @O0082@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 20:53:14
 0 @I0127@ INDI
 1 NAME Filomena /Caproni/
 2 TYPE birth
@@ -2911,6 +2926,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
+2 NOTE @N0077@
 2 SOUR @S0011@
 3 DATA
 4 DATE 1910
@@ -5233,17 +5249,22 @@
 2 SURN Conway
 1 SEX M
 1 BIRT
-2 DATE EST 1982
-2 PLAC Inghilterra
+2 DATE 1982
+2 PLAC Aylesbury, Inghilterra
 3 MAP
-4 LATI N53.0
-4 LONG W1.0
+4 LATI N51.8168
+4 LONG W0.8124
 2 ADDR
 3 CTRY Inghilterra
+2 SOUR @S0042@
+3 DATA
+4 DATE 2024
+1 FAMC @F0094@
+2 PEDI birth
 1 FAMS @F0091@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 20:27:25
 0 @I0266@ INDI
 1 NAME Isabella /Conway/
 2 TYPE birth
@@ -5252,11 +5273,12 @@
 1 SEX F
 1 BIRT
 2 DATE 27 SEP 2023
-2 PLAC Inghilterra
+2 PLAC Oxford, Inghilterra
 3 MAP
-4 LATI N53.0
-4 LONG W1.0
+4 LATI N51.751944
+4 LONG W1.257778
 2 ADDR
+3 CITY Oxford
 3 CTRY Inghilterra
 1 FAMC @F0091@
 2 PEDI birth
@@ -5288,6 +5310,38 @@
 1 CHAN
 2 DATE 8 NOV 2024
 3 TIME 11:58:05
+0 @I0269@ INDI
+1 NAME Simone /Zara/
+2 TYPE birth
+2 GIVN Simone
+2 SURN Zara
+1 SEX M
+1 FAMS @F0093@
+1 SOUR @S0023@
+2 DATA
+3 DATE 1922
+1 CHAN
+2 DATE 9 NOV 2024
+3 TIME 16:34:15
+0 @I0270@ INDI
+1 NAME Philip /Conway/
+2 TYPE birth
+2 GIVN Philip
+2 SURN Conway
+1 SEX M
+1 FAMS @F0094@
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 20:27:25
+0 @I0271@ INDI
+1 NAME Valerie //
+2 TYPE birth
+2 GIVN Valerie
+1 SEX F
+1 FAMS @F0094@
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 20:27:25
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6094,6 +6148,19 @@
 1 CHAN
 2 DATE 8 NOV 2024
 3 TIME 11:58:05
+0 @F0093@ FAM
+1 HUSB @I0269@
+1 CHIL @I0055@
+1 CHAN
+2 DATE 9 NOV 2024
+3 TIME 16:34:15
+0 @F0094@ FAM
+1 HUSB @I0270@
+1 WIFE @I0271@
+1 CHIL @I0265@
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 20:27:25
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -6395,6 +6462,14 @@
 1 CHAN
 2 DATE 4 NOV 2024
 3 TIME 17:47:47
+0 @S0042@ SOUR
+1 TITL Conway Paul David Field
+1 AUTH FreeBMD
+1 OBJE @O0131@
+1 NOTE @N0078@
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 21:16:10
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -6553,6 +6628,9 @@
 1 CONC 4 = 1859).
 0 @N0075@ NOTE Stimata perchè ricordato dalla nipote Iolanda.
 0 @N0076@ NOTE Parentela incerta.
+0 @N0077@ NOTE Morta di tifo.
+0 @N0078@ NOTE https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=269196649:09
+1 CONC 88&d=bmd_1729815772
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -7429,4 +7507,18 @@
 1 CHAN
 2 DATE 7 NOV 2024
 3 TIME 21:42:29
+0 @O0130@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Mario_Michelini.jpg
+2 FORM jpg
+2 TITL Mario_Michelini
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 20:07:18
+0 @O0131@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Births_1982_Conway_Paul_David_Field.png
+2 FORM png
+2 TITL Births_1982_Conway_Paul_David_Field
+1 CHAN
+2 DATE 10 NOV 2024
+3 TIME 21:16:08
 0 TRLR

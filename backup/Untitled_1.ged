@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 10 NOV 2024
-2 TIME 21:33:45
+1 DATE 11 NOV 2024
+2 TIME 21:25:11
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2024 .
@@ -361,14 +361,28 @@
 1 SEX M
 1 BIRT
 2 DATE 1870
+1 RESI
+2 DATE 1908
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0002@
+3 DATA
+4 DATE 1908
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0002@
+3 DATA
+4 DATE 1908
 1 FAMC @F0003@
 2 PEDI birth
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GF6T-HCS
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 15:39:05
 0 @I0011@ INDI
 1 NAME Peppina /Ortenzi/
 2 TYPE birth
@@ -556,6 +570,8 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+1 DEAT
+2 DATE EST 2006
 1 FAMC @F0063@
 2 PEDI birth
 1 FAMS @F0005@
@@ -564,8 +580,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-J4C
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 21:45:42
 0 @I0019@ INDI
 1 NAME Sergio /Grillo/
 2 TYPE birth
@@ -619,6 +635,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 JAN 1922
+1 DEAT Y
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0072@
@@ -626,8 +643,8 @@
 1 OBJE @O0057@
 1 OBJE @O0012@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 22:33:26
 0 @I0023@ INDI
 1 NAME Mario /Trovarelli/
 2 TYPE birth
@@ -721,6 +738,16 @@
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMS @F0007@
+1 ASSO @I0272@
+2 RELA Godfather
+2 SOUR @S0024@
+3 DATA
+4 DATE 1923
+1 ASSO @I0273@
+2 RELA Godmother
+2 SOUR @S0024@
+3 DATA
+4 DATE 1923
 1 OBJE @O0080@
 1 OBJE @O0042@
 1 OBJE @O0001@
@@ -736,8 +763,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:31:48
+2 DATE 11 NOV 2024
+3 TIME 18:16:25
 0 @I0026@ INDI
 1 NAME Iolanda /Caproni/
 2 TYPE birth
@@ -1444,13 +1471,14 @@
 2 SOUR @S0025@
 3 DATA
 4 DATE 2023
+1 DEAT Y
 1 FAMC @F0074@
 2 PEDI birth
 1 FAMS @F0021@
 1 NOTE @N0066@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 22:33:33
 0 @I0057@ INDI
 1 NAME Giacomo /Zara/
 2 TYPE birth
@@ -1806,12 +1834,19 @@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 1 DEAT
 2 DATE 1991
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0029@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 20:35:00
 0 @I0087@ INDI
 1 NAME Giacomo /Michelini/
 2 TYPE birth
@@ -1936,8 +1971,8 @@
 2 PEDI birth
 1 FAMS @F0030@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 20:37:23
 0 @I0093@ INDI
 1 NAME Annalisa //
 2 TYPE birth
@@ -3136,8 +3171,13 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+2 NOTE @N0081@
 2 SOUR @S0005@
 3 PAGE 1951
+1 RESI
+2 DATE 1930
+2 PLAC Casa di Giulio Camilluzzi, Pesciano, Todi, Umbria
+2 OBJE @O0128@
 1 FAMC @F0008@
 2 PEDI birth
 1 OBJE @O0124@
@@ -3146,8 +3186,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYTH-6VW
 1 NOTE @N0049@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 21:18:08
 0 @I0159@ INDI
 1 NAME Amabilia /Ortenzi/
 2 TYPE birth
@@ -3275,10 +3315,17 @@
 1 SEX F
 1 DEAT
 2 DATE 1940
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 20:41:23
 0 @I0164@ INDI
 1 NAME Giulio /Ortenzi/
 2 TYPE birth
@@ -3506,6 +3553,7 @@
 3 DATA
 4 DATE 1875
 1 DEAT
+2 TYPE Voc. Casella
 2 DATE 14 SEP 1875
 2 PLAC Ficareto, Todi, Umbria
 3 MAP
@@ -4815,28 +4863,32 @@
 2 GIVN Ginevra
 2 SURN Michelini
 1 SEX F
+1 BIRT
+2 DATE EST 2001
 1 FAMC @F0073@
 2 PEDI birth
 1 SOUR @S0028@
 2 DATA
 3 DATE 2019
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 21:43:13
 0 @I0234@ INDI
 1 NAME Aurora /Michelini/
 2 TYPE birth
 2 GIVN Aurora
 2 SURN Michelini
 1 SEX F
+1 BIRT
+2 DATE EST 2005
 1 FAMC @F0073@
 2 PEDI birth
 1 SOUR @S0028@
 2 DATA
 3 DATE 2019
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 10 NOV 2024
+3 TIME 21:42:38
 0 @I0235@ INDI
 1 NAME Massimo /Cipiccia/
 2 TYPE birth
@@ -5263,8 +5315,8 @@
 2 PEDI birth
 1 FAMS @F0091@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 20:27:25
+2 DATE 11 NOV 2024
+3 TIME 19:56:56
 0 @I0266@ INDI
 1 NAME Isabella /Conway/
 2 TYPE birth
@@ -5324,24 +5376,63 @@
 2 DATE 9 NOV 2024
 3 TIME 16:34:15
 0 @I0270@ INDI
-1 NAME Philip /Conway/
+1 NAME Edward Philip /Conway/
 2 TYPE birth
-2 GIVN Philip
+2 GIVN Edward Philip
 2 SURN Conway
 1 SEX M
+1 BIRT
+2 DATE OCT 1933
+2 PLAC Inghilterra
+3 MAP
+4 LATI N53.0
+4 LONG W1.0
+2 ADDR
+3 CTRY Inghilterra
 1 FAMS @F0094@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 20:27:25
+2 DATE 11 NOV 2024
+3 TIME 19:52:17
 0 @I0271@ INDI
-1 NAME Valerie //
+1 NAME Valerie B. /Field/
 2 TYPE birth
-2 GIVN Valerie
+2 GIVN Valerie B.
+2 SURN Field
 1 SEX F
+1 BIRT
+2 DATE 1950
+2 PLAC Inghilterra
+3 MAP
+4 LATI N53.0
+4 LONG W1.0
+2 ADDR
+3 CTRY Inghilterra
 1 FAMS @F0094@
+1 SOUR @S0042@
+2 DATA
+3 DATE 2024
+1 NOTE @N0079@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 20:27:25
+2 DATE 11 NOV 2024
+3 TIME 19:51:47
+0 @I0272@ INDI
+1 NAME Dante /Venturi/
+2 TYPE birth
+2 GIVN Dante
+2 SURN Venturi
+1 SEX M
+1 CHAN
+2 DATE 11 NOV 2024
+3 TIME 18:12:32
+0 @I0273@ INDI
+1 NAME Tersilia /Maurini/
+2 TYPE birth
+2 GIVN Tersilia
+2 SURN Maurini
+1 SEX F
+1 CHAN
+2 DATE 11 NOV 2024
+3 TIME 18:13:12
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -5640,10 +5731,12 @@
 0 @F0029@ FAM
 1 HUSB @I0086@
 1 WIFE @I0091@
+1 MARR
+2 DATE EST 1957
 1 CHIL @I0092@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 NOV 2024
+3 TIME 20:37:23
 0 @F0030@ FAM
 1 HUSB @I0092@
 1 WIFE @I0093@
@@ -6157,10 +6250,21 @@
 0 @F0094@ FAM
 1 HUSB @I0270@
 1 WIFE @I0271@
+1 MARR
+2 DATE 1975
+2 PLAC Inghilterra
+3 MAP
+4 LATI N53.0
+4 LONG W1.0
+2 ADDR
+3 CTRY Inghilterra
+2 SOUR @S0043@
+3 DATA
+4 DATE 2024
 1 CHIL @I0265@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 20:27:25
+2 DATE 11 NOV 2024
+3 TIME 19:56:56
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -6205,12 +6309,12 @@
 2 DATE 4 OCT 2024
 3 TIME 11:09:53
 0 @S0006@ SOUR
-1 TITL Atti di matrimonio di Ortenzi Luigi e Martinelli Ester (1913)
+1 TITL Atto di matrimonio di Ortenzi Luigi e Martinelli Ester (1913)
 1 OBJE @O0022@
 1 NOTE @N0027@
 1 CHAN
-2 DATE 3 SEP 2024
-3 TIME 02:33:29
+2 DATE 10 NOV 2024
+3 TIME 22:29:06
 0 @S0007@ SOUR
 1 TITL Atto di matrimonio di Vittorio Trovarelli ed Angela Coletti (1920)
 1 OBJE @O0024@
@@ -6414,13 +6518,13 @@
 2 DATE 4 NOV 2024
 3 TIME 16:11:33
 0 @S0035@ SOUR
-1 TITL Cappella di Famiglia Caproni Giuseppe ed Ezio
+1 TITL Cappella di famiglia Caproni Giuseppe ed Ezio
 1 OBJE @O0110@
 1 OBJE @O0111@
 1 OBJE @O0112@
 1 CHAN
-2 DATE 4 NOV 2024
-3 TIME 16:36:07
+2 DATE 10 NOV 2024
+3 TIME 22:29:49
 0 @S0036@ SOUR
 1 TITL Tomba di Adelaide Manni
 1 OBJE @O0113@
@@ -6463,13 +6567,20 @@
 2 DATE 4 NOV 2024
 3 TIME 17:47:47
 0 @S0042@ SOUR
-1 TITL Conway Paul David Field
+1 TITL GRO Index - Conway, Paul David
 1 AUTH FreeBMD
 1 OBJE @O0131@
 1 NOTE @N0078@
 1 CHAN
 2 DATE 10 NOV 2024
-3 TIME 21:16:10
+3 TIME 22:30:19
+0 @S0043@ SOUR
+1 TITL GRO Index - Marriages Conway-Field
+1 AUTH FreeBMD
+1 NOTE @N0080@
+1 CHAN
+2 DATE 11 NOV 2024
+3 TIME 19:56:39
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -6631,6 +6742,13 @@
 0 @N0077@ NOTE Morta di tifo.
 0 @N0078@ NOTE https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=269196649:09
 1 CONC 88&d=bmd_1729815772
+0 @N0079@ NOTE Cognome da verificare.
+0 @N0080@ NOTE https://www.freebmd.org.uk/cgi/search.pl?start=1975&end=1975&sq=3&e
+1 CONC q=3&type=Marriages&vol=19&pgno=1633&db=bmd_1729815772&jsexec=1&mono=0&v=
+1 CONC MTczMTM1MDY2MDo1ZWFmNjk2MDliMjE4MThlNmNjYjcxOTk5ZTg4ZDNlZmNjMTc5NDAx&sea
+1 CONC rchdef=sq%3D1%26s_surname%3Dconway%26surname%3Dfield%26eq%3D4%26type%3DM
+1 CONC arriages%26db%3Dbmd_1729815772&action=Find
+0 @N0081@ NOTE Morta di "infantigliole".
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.

@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 11 NOV 2024
-2 TIME 21:25:11
+1 DATE 12 NOV 2024
+2 TIME 21:41:18
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2024 .
@@ -120,6 +120,8 @@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+1 _MILT
+2 DATE FROM 1942 TO 1943
 1 BURI
 2 PLAC Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -143,8 +145,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:24:50
+2 DATE 12 NOV 2024
+3 TIME 17:50:28
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -739,12 +741,12 @@
 2 PEDI birth
 1 FAMS @F0007@
 1 ASSO @I0272@
-2 RELA Godfather
+2 RELA Padrino
 2 SOUR @S0024@
 3 DATA
 4 DATE 1923
 1 ASSO @I0273@
-2 RELA Godmother
+2 RELA Madrina
 2 SOUR @S0024@
 3 DATA
 4 DATE 1923
@@ -763,8 +765,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 18:16:25
+2 DATE 12 NOV 2024
+3 TIME 17:47:56
 0 @I0026@ INDI
 1 NAME Iolanda /Caproni/
 2 TYPE birth
@@ -1155,8 +1157,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY58-HHC
 1 NOTE @N0048@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:34:23
+2 DATE 12 NOV 2024
+3 TIME 19:18:05
 0 @I0035@ INDI
 1 NAME Valentino /Petrucci/
 2 TYPE birth
@@ -1177,20 +1179,32 @@
 2 SURN Pauselli
 1 SEX F
 1 BIRT
-2 DATE BET 1864 AND 1894
+2 DATE 16 JUL 1869
 2 PLAC Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6511
 4 LONG E12.486
 3 NOTE @N0059@
-2 NOTE @N_stima_eta@
+2 SOUR @S0049@
+3 DATA
+4 DATE 2024
 1 DEAT
-2 DATE BET 1945 AND 1950
+2 DATE 30 DEC 1949
 2 PLAC Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6511
 4 LONG E12.486
 3 NOTE @N0059@
+2 SOUR @S0049@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMC @F0014@
 2 PEDI birth
 1 FAMS @F0013@
@@ -1198,8 +1212,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-XMS
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 21:31:50
 0 @I0037@ INDI
 1 NAME Filippo /Pauselli/
 2 TYPE birth
@@ -1829,11 +1843,17 @@
 2 SURN Michelini
 1 SEX M
 1 BIRT
-2 DATE 1928
+2 DATE 22 AUG 1928
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
 1 DEAT
-2 DATE 1991
+2 DATE 29 JUL 1993
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -1844,9 +1864,10 @@
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0029@
+1 OBJE @O0151@
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 20:35:00
+2 DATE 12 NOV 2024
+3 TIME 21:06:10
 0 @I0087@ INDI
 1 NAME Giacomo /Michelini/
 2 TYPE birth
@@ -1955,10 +1976,12 @@
 2 GIVN Valeria
 2 SURN Sabatini
 1 SEX F
+1 FAMC @F0097@
+2 PEDI birth
 1 FAMS @F0029@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 21:15:39
 0 @I0092@ INDI
 1 NAME Giorgio /Michelini/
 2 TYPE birth
@@ -2419,13 +2442,21 @@
 2 GIVN Anselmo
 2 SURN Petrucci
 1 SEX M
+1 BIRT
+2 DATE 12 AUG 1913
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 31 AUG 1999
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
 1 BURI
-2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
-3 MAP
-4 LATI N42.64
-4 LONG E12.484
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
+2 OBJE @O0141@
 1 FAMC @F0013@
 2 PEDI birth
 1 FAMS @F0040@
@@ -2434,8 +2465,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNX-5PT
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:56:28
 0 @I0120@ INDI
 1 NAME Eugenio /Petrucci/
 2 TYPE birth
@@ -2443,34 +2474,59 @@
 2 SURN Petrucci
 2 NICK Millino
 1 SEX M
+1 BIRT
+2 DATE 2 MAY 1897
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 27 OCT 1987
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
 1 BURI
-2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
-3 MAP
-4 LATI N42.64
-4 LONG E12.484
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
+2 OBJE @O0141@
 1 FAMC @F0013@
 2 PEDI birth
+1 FAMS @F0095@
+1 FAMS @F0096@
 1 OBJE @O0081@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNF-CX1
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 20:19:40
+2 DATE 12 NOV 2024
+3 TIME 20:19:34
 0 @I0121@ INDI
-1 NAME Gina /Pacifici/
+1 NAME Ginevra /Pacifici/
 2 TYPE birth
-2 GIVN Gina
+2 GIVN Ginevra
 2 SURN Pacifici
+2 NICK Gina
 1 SEX F
+1 BIRT
+2 DATE 15 MAR 1915
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
 1 DEAT
-2 DATE 1989
+2 DATE 5 MAY 1989
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 OBJE @O0141@
 1 FAMS @F0040@
+1 OBJE @O0143@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 20:03:36
 0 @I0122@ INDI
 1 NAME Teresa /Petrucci/
 2 TYPE birth
@@ -2801,7 +2857,7 @@
 2 SURN Mazzanti
 1 SEX M
 1 BIRT
-2 DATE NOV 1940
+2 DATE NOV 1939
 1 FAMC @F0052@
 2 PEDI birth
 1 FAMS @F0046@
@@ -3301,20 +3357,44 @@
 2 GIVN Italo
 2 SURN Mazzanti
 1 SEX M
+1 BIRT
+2 DATE 1898
+2 SOUR @S0044@
+3 DATA
+4 DATE 2024
 1 DEAT
-2 DATE 1970
+2 DATE 1972
+2 SOUR @S0044@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
+1 OBJE @O0132@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:00:06
 0 @I0163@ INDI
-1 NAME Maria /Sisa/
+1 NAME Sisa Maria /Capanna/
 2 TYPE birth
-2 GIVN Maria
-2 SURN Sisa
+2 GIVN Sisa Maria
+2 SURN Capanna
 1 SEX F
+1 BIRT
+2 DATE 1901
+2 SOUR @S0045@
+3 DATA
+4 DATE 2024
 1 DEAT
-2 DATE 1940
+2 DATE 1943
+2 SOUR @S0045@
+3 DATA
+4 DATE 2024
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -3324,8 +3404,8 @@
 3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 20:41:23
+2 DATE 12 NOV 2024
+3 TIME 19:10:33
 0 @I0164@ INDI
 1 NAME Giulio /Ortenzi/
 2 TYPE birth
@@ -5262,42 +5342,80 @@
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
 0 @I0262@ INDI
-1 NAME Nazarena /Petrucci/
+1 NAME Nazzarena /Navoni/
 2 TYPE birth
-2 GIVN Nazarena
-2 SURN Petrucci
+2 GIVN Nazzarena
+2 SURN Navoni
 1 SEX F
+1 BIRT
+2 DATE JAN 1902
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE AUG 1944
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMC @F0013@
-2 PEDI birth
+2 PEDI foster
 1 FAMS @F0089@
+1 OBJE @O0140@
 1 NOTE @N0076@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:36:24
 0 @I0263@ INDI
-1 NAME Pompilia //
+1 NAME Pompilia /Patrizi/
 2 TYPE birth
 2 GIVN Pompilia
+2 SURN Patrizi
 1 SEX F
 1 FAMC @F0089@
 2 PEDI birth
 1 FAMS @F0090@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:30:05
 0 @I0264@ INDI
-1 NAME  /Marcelli/
+1 NAME Giuseppe /Barcaroli/
 2 TYPE birth
-2 SURN Marcelli
+2 GIVN Giuseppe
+2 SURN Barcaroli
 1 SEX M
+1 BIRT
+2 DATE 6 FEB 1920
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 19 OCT 1968
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0090@
+1 OBJE @O0139@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:34:48
 0 @I0265@ INDI
-1 NAME Paul /Conway/
+1 NAME Paul David /Conway/
 2 TYPE birth
-2 GIVN Paul
+2 GIVN Paul David
 2 SURN Conway
 1 SEX M
 1 BIRT
@@ -5316,7 +5434,7 @@
 1 FAMS @F0091@
 1 CHAN
 2 DATE 11 NOV 2024
-3 TIME 19:56:56
+3 TIME 23:43:36
 0 @I0266@ INDI
 1 NAME Isabella /Conway/
 2 TYPE birth
@@ -5422,8 +5540,8 @@
 2 SURN Venturi
 1 SEX M
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 18:12:32
+2 DATE 12 NOV 2024
+3 TIME 17:45:44
 0 @I0273@ INDI
 1 NAME Tersilia /Maurini/
 2 TYPE birth
@@ -5431,8 +5549,213 @@
 2 SURN Maurini
 1 SEX F
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 18:13:12
+2 DATE 12 NOV 2024
+3 TIME 17:47:10
+0 @I0274@ INDI
+1 NAME Igino /Patrizi/
+2 TYPE birth
+2 GIVN Igino
+2 SURN Patrizi
+1 SEX M
+1 BIRT
+2 DATE 30 JUL 1897
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 18 FEB 1971
+2 SOUR @S0046@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+1 FAMS @F0089@
+1 OBJE @O0137@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:29:18
+0 @I0275@ INDI
+1 NAME Imola /Carletti/
+2 TYPE birth
+2 GIVN Imola
+2 SURN Carletti
+1 SEX F
+1 BIRT
+2 DATE 9 AUG 1907
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 5 JAN 1993
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 OBJE @O0141@
+1 FAMS @F0095@
+1 OBJE @O0144@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:07:59
+0 @I0276@ INDI
+1 NAME Albino /Petrucci/
+2 TYPE birth
+2 GIVN Albino
+2 SURN Petrucci
+1 SEX M
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+2 OBJE @O0141@
+1 FAMC @F0096@
+2 PEDI birth
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:15:38
+0 @I0277@ INDI
+1 NAME Rosetta /Petrucci/
+2 TYPE birth
+2 GIVN Rosetta
+2 SURN Petrucci
+1 SEX F
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+2 OBJE @O0141@
+1 FAMC @F0096@
+2 PEDI birth
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:15:38
+0 @I0278@ INDI
+1 NAME Vittoria /Petrucci/
+2 TYPE birth
+2 GIVN Vittoria
+2 SURN Petrucci
+1 SEX F
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+2 OBJE @O0141@
+1 FAMC @F0096@
+2 PEDI birth
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:15:38
+0 @I0279@ INDI
+1 NAME Valentino /Petrucci/
+2 TYPE birth
+2 GIVN Valentino
+2 SURN Petrucci
+1 SEX M
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+2 OBJE @O0141@
+1 FAMC @F0096@
+2 PEDI birth
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:15:38
+0 @I0280@ INDI
+1 NAME Valerio /Petrucci/
+2 TYPE birth
+2 GIVN Valerio
+2 SURN Petrucci
+1 SEX M
+1 BURI
+2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+2 SOUR @S0047@
+3 DATA
+4 DATE 2024
+2 OBJE @O0141@
+1 FAMC @F0096@
+2 PEDI birth
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:29:05
+0 @I0281@ INDI
+1 NAME Pietro /Sabatini/
+2 TYPE birth
+2 GIVN Pietro
+2 SURN Sabatini
+1 SEX M
+1 BIRT
+2 DATE 11 DEC 1896
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 30 SEP 1984
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+1 FAMS @F0097@
+1 OBJE @O0152@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:15:39
+0 @I0282@ INDI
+1 NAME Argia /Mangialaio/
+2 TYPE birth
+2 GIVN Argia
+2 SURN Mangialaio
+1 SEX F
+1 BIRT
+2 DATE 9 JUL 1907
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 25 APR 1998
+2 SOUR @S0048@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.64
+4 LONG E12.484
+2 ADDR
+3 ADR2 Cimitero di Montecastrilli
+1 FAMS @F0097@
+1 OBJE @O0152@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:15:39
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -5596,8 +5919,8 @@
 1 CHIL @I0120@
 1 CHIL @I0262@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:18:05
 0 @F0014@ FAM
 1 HUSB @I0037@
 1 WIFE @I0038@
@@ -6216,11 +6539,12 @@
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
 0 @F0089@ FAM
+1 HUSB @I0274@
 1 WIFE @I0262@
 1 CHIL @I0263@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 NOV 2024
+3 TIME 19:28:40
 0 @F0090@ FAM
 1 HUSB @I0264@
 1 WIFE @I0263@
@@ -6265,6 +6589,29 @@
 1 CHAN
 2 DATE 11 NOV 2024
 3 TIME 19:56:56
+0 @F0095@ FAM
+1 HUSB @I0120@
+1 WIFE @I0275@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:07:59
+0 @F0096@ FAM
+1 HUSB @I0120@
+1 CHIL @I0276@
+1 CHIL @I0277@
+1 CHIL @I0278@
+1 CHIL @I0279@
+1 CHIL @I0280@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:15:38
+0 @F0097@ FAM
+1 HUSB @I0281@
+1 WIFE @I0282@
+1 CHIL @I0091@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:15:39
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -6581,6 +6928,51 @@
 1 CHAN
 2 DATE 11 NOV 2024
 3 TIME 19:56:39
+0 @S0044@ SOUR
+1 TITL Tomba di Italo Mazzanti
+1 OBJE @O0133@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 18:58:39
+0 @S0045@ SOUR
+1 TITL Tomba di Sisa Maria Capanna
+1 OBJE @O0134@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:09:53
+0 @S0046@ SOUR
+1 TITL Tomba di Nazzarena Navoni, Igino Patrizi, Giuseppe Barcaroli
+1 OBJE @O0135@
+1 OBJE @O0136@
+1 OBJE @O0138@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:33:41
+0 @S0047@ SOUR
+1 TITL Cappella di famiglia Petrucci Anzelmo e Eugenio
+1 OBJE @O0142@
+1 OBJE @O0145@
+1 OBJE @O0147@
+1 OBJE @O0149@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:27:09
+0 @S0048@ SOUR
+1 TITL Cappella di famiglia Pietro Sabatini
+1 OBJE @O0150@
+1 OBJE @O0152@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:12:14
+0 @S0049@ SOUR
+1 TITL Tomba di Assunta Pauselli
+1 OBJE @O0153@
+1 OBJE @O0154@
+1 OBJE @O0155@
+1 OBJE @O0156@
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:30:39
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -6743,12 +7135,12 @@
 0 @N0078@ NOTE https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=269196649:09
 1 CONC 88&d=bmd_1729815772
 0 @N0079@ NOTE Cognome da verificare.
-0 @N0080@ NOTE https://www.freebmd.org.uk/cgi/search.pl?start=1975&end=1975&sq=3&e
-1 CONC q=3&type=Marriages&vol=19&pgno=1633&db=bmd_1729815772&jsexec=1&mono=0&v=
-1 CONC MTczMTM1MDY2MDo1ZWFmNjk2MDliMjE4MThlNmNjYjcxOTk5ZTg4ZDNlZmNjMTc5NDAx&sea
-1 CONC rchdef=sq%3D1%26s_surname%3Dconway%26surname%3Dfield%26eq%3D4%26type%3DM
-1 CONC arriages%26db%3Dbmd_1729815772&action=Find
+0 @N0080@ NOTE - https://www.freebmd.org.uk/cgi/information.pl?r=255638274:1269&d=
+1 CONC bmd_1729815772
+1 CONT - https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=255608653:7814&
+1 CONC d=bmd_1729815772
 0 @N0081@ NOTE Morta di "infantigliole".
+0 @N0082@ NOTE Figlia "di latte".
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -7639,4 +8031,165 @@
 1 CHAN
 2 DATE 10 NOV 2024
 3 TIME 21:16:08
+0 @O0132@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Italo_Mazzanti_b.jpg
+2 FORM jpg
+2 TITL Tomba_Italo_Mazzanti_b
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 18:56:00
+0 @O0133@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Italo_Mazzanti_a.jpg
+2 FORM jpg
+2 TITL Tomba_Italo_Mazzanti_a
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 18:58:37
+0 @O0134@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Maria_Sisa_Capanna_a.jpg
+2 FORM jpg
+2 TITL Tomba_Maria_Sisa_Capanna_a
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:09:51
+0 @O0135@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_d.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_d
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:22:54
+0 @O0136@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_f.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_f
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:27:42
+0 @O0137@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_g.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_g
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:29:16
+0 @O0138@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_i.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_i
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:33:38
+0 @O0139@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_h.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_h
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:34:46
+0 @O0140@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Nazzarena_Navoni_b.jpg
+2 FORM jpg
+2 TITL Tomba_Nazzarena_Navoni_b
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:36:16
+0 @O0141@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_a.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_a
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:44:34
+0 @O0142@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_d.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_d
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 19:54:47
+0 @O0143@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_k.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_k
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:00:41
+0 @O0144@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_j.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_j
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:06:07
+0 @O0145@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_f.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_f
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:07:03
+0 @O0147@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_i.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_i
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:18:34
+0 @O0149@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_g2.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Petrucci_Anzelmo_e_Eugenio_g2
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 20:27:07
+0 @O0150@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Pietro_Sabatini_d.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Pietro_Sabatini_d
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:04:02
+0 @O0151@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Pietro_Sabatini_j.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Pietro_Sabatini_j
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:04:13
+0 @O0152@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_famiglia_Pietro_Sabatini_g.jpg
+2 FORM jpg
+2 TITL Cappella_di_famiglia_Pietro_Sabatini_g
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:12:12
+0 @O0153@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Assunta_Pauselli_a.jpg
+2 FORM jpg
+2 TITL Tomba_Assunta_Pauselli_a
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:30:02
+0 @O0154@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Assunta_Pauselli_c.jpg
+2 FORM jpg
+2 TITL Tomba_Assunta_Pauselli_c
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:30:13
+0 @O0155@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Assunta_Pauselli_d.jpg
+2 FORM jpg
+2 TITL Tomba_Assunta_Pauselli_d
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:30:25
+0 @O0156@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Assunta_Pauselli_e.jpg
+2 FORM jpg
+2 TITL Tomba_Assunta_Pauselli_e
+1 CHAN
+2 DATE 12 NOV 2024
+3 TIME 21:30:37
 0 TRLR

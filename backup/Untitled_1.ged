@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 12 NOV 2024
-2 TIME 21:41:18
+1 DATE 13 NOV 2024
+2 TIME 03:05:09
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2024 .
@@ -1157,8 +1157,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY58-HHC
 1 NOTE @N0048@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:18:05
+2 DATE 13 NOV 2024
+3 TIME 00:39:02
 0 @I0035@ INDI
 1 NAME Valentino /Petrucci/
 2 TYPE birth
@@ -2325,9 +2325,12 @@
 2 OBJE @O0103@
 1 FAMS @F0036@
 1 OBJE @O0120@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14Z-97T
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:34:02
+2 DATE 13 NOV 2024
+3 TIME 01:18:06
 0 @I0111@ INDI
 1 NAME Maria /Vallerini/
 2 TYPE birth
@@ -2349,10 +2352,13 @@
 3 ADR2 Cimitero di Portaria
 1 FAMS @F0037@
 1 OBJE @O0117@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14H-3TN
 1 NOTE @N0073@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:35:03
+2 DATE 13 NOV 2024
+3 TIME 01:01:42
 0 @I0112@ INDI
 1 NAME Ivo /Caproni/
 2 TYPE birth
@@ -2465,8 +2471,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNX-5PT
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:56:28
+2 DATE 13 NOV 2024
+3 TIME 00:39:02
 0 @I0120@ INDI
 1 NAME Eugenio /Petrucci/
 2 TYPE birth
@@ -2498,8 +2504,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNF-CX1
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 20:19:34
+2 DATE 13 NOV 2024
+3 TIME 00:39:02
 0 @I0121@ INDI
 1 NAME Ginevra /Pacifici/
 2 TYPE birth
@@ -2524,9 +2530,12 @@
 2 OBJE @O0141@
 1 FAMS @F0040@
 1 OBJE @O0143@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14H-MS5
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:03:36
+3 TIME 23:10:25
 0 @I0122@ INDI
 1 NAME Teresa /Petrucci/
 2 TYPE birth
@@ -2748,9 +2757,12 @@
 3 ADR2 Cimitero di Portaria
 1 FAMS @F0042@
 1 OBJE @O0084@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14H-GZL
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:35:11
+2 DATE 12 NOV 2024
+3 TIME 23:56:41
 0 @I0133@ INDI
 1 NAME Liviana /Sisti/
 2 TYPE birth
@@ -3403,9 +3415,10 @@
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
+1 OBJE @O0157@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:10:33
+2 DATE 13 NOV 2024
+3 TIME 02:46:46
 0 @I0164@ INDI
 1 NAME Giulio /Ortenzi/
 2 TYPE birth
@@ -5368,10 +5381,9 @@
 2 PEDI foster
 1 FAMS @F0089@
 1 OBJE @O0140@
-1 NOTE @N0076@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:36:24
+2 DATE 13 NOV 2024
+3 TIME 00:39:02
 0 @I0263@ INDI
 1 NAME Pompilia /Patrizi/
 2 TYPE birth
@@ -5602,9 +5614,12 @@
 2 OBJE @O0141@
 1 FAMS @F0095@
 1 OBJE @O0144@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G144-CHN
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:07:59
+3 TIME 23:18:39
 0 @I0276@ INDI
 1 NAME Albino /Petrucci/
 2 TYPE birth
@@ -5621,9 +5636,12 @@
 2 OBJE @O0141@
 1 FAMC @F0096@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14H-6YG
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:15:38
+3 TIME 23:23:04
 0 @I0277@ INDI
 1 NAME Rosetta /Petrucci/
 2 TYPE birth
@@ -5640,9 +5658,12 @@
 2 OBJE @O0141@
 1 FAMC @F0096@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14W-1YR
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:15:38
+3 TIME 23:23:19
 0 @I0278@ INDI
 1 NAME Vittoria /Petrucci/
 2 TYPE birth
@@ -5659,9 +5680,12 @@
 2 OBJE @O0141@
 1 FAMC @F0096@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14H-ZVN
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:15:38
+3 TIME 23:23:34
 0 @I0279@ INDI
 1 NAME Valentino /Petrucci/
 2 TYPE birth
@@ -5678,9 +5702,12 @@
 2 OBJE @O0141@
 1 FAMC @F0096@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G14W-TVC
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:15:38
+3 TIME 23:23:54
 0 @I0280@ INDI
 1 NAME Valerio /Petrucci/
 2 TYPE birth
@@ -5697,9 +5724,12 @@
 2 OBJE @O0141@
 1 FAMC @F0096@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/G144-Y1S
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 20:29:05
+3 TIME 23:24:16
 0 @I0281@ INDI
 1 NAME Pietro /Sabatini/
 2 TYPE birth
@@ -5914,13 +5944,13 @@
 0 @F0013@ FAM
 1 HUSB @I0035@
 1 WIFE @I0036@
-1 CHIL @I0034@
-1 CHIL @I0119@
 1 CHIL @I0120@
 1 CHIL @I0262@
+1 CHIL @I0034@
+1 CHIL @I0119@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:18:05
+2 DATE 13 NOV 2024
+3 TIME 00:39:02
 0 @F0014@ FAM
 1 HUSB @I0037@
 1 WIFE @I0038@
@@ -8192,4 +8222,11 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 21:30:37
+0 @O0157@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Maria_Sisa_Capanna_foto.jpg
+2 FORM jpg
+2 TITL Tomba_Maria_Sisa_Capanna_foto
+1 CHAN
+2 DATE 13 NOV 2024
+3 TIME 02:46:42
 0 TRLR

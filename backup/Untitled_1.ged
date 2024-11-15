@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 13 NOV 2024
-2 TIME 03:05:09
+1 DATE 15 NOV 2024
+2 TIME 18:42:35
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2024 .
@@ -155,11 +155,10 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUL 1927
-2 PLAC Todi, Umbria
+2 PLAC Montorsolo, Todi, Umbria
 3 MAP
-4 LATI N42.778889
-4 LONG E12.414167
-3 NOTE @N0061@
+4 LATI N42.82018
+4 LONG E12.48967
 2 SOUR @S0005@
 3 PAGE 1945
 1 DEAT
@@ -505,6 +504,8 @@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
+1 BURI
+2 PLAC Cimitero di Ripaioli, Todi, Umbria
 1 FACT colono
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -517,8 +518,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-2Q2
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 17:31:04
 0 @I0017@ INDI
 1 NAME Angela /Coletti/
 2 TYPE birth
@@ -543,6 +544,8 @@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
+1 BURI
+2 PLAC Cimitero di Ripaioli, Todi, Umbria
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -557,8 +560,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-6WZ
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 17:31:20
 0 @I0018@ INDI
 1 NAME Annunziata /Moretti/
 2 TYPE birth
@@ -609,12 +612,14 @@
 2 DATE 5 MAR 1921
 1 DEAT
 2 DATE 24 AUG 1945
+1 BURI
+2 PLAC Cimitero di Ripaioli, Todi, Umbria
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0006@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 17:32:02
 0 @I0021@ INDI
 1 NAME Maria /Ciaffi/
 2 TYPE birth
@@ -638,6 +643,8 @@
 1 BIRT
 2 DATE 1 JAN 1922
 1 DEAT Y
+1 BURI
+2 PLAC Cimitero di Ripaioli, Todi, Umbria
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0072@
@@ -645,8 +652,8 @@
 1 OBJE @O0057@
 1 OBJE @O0012@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 22:33:26
+2 DATE 15 NOV 2024
+3 TIME 17:31:39
 0 @I0023@ INDI
 1 NAME Mario /Trovarelli/
 2 TYPE birth
@@ -657,11 +664,17 @@
 2 DATE 1930
 1 DEAT
 2 DATE 2005
+1 RESI
+2 PLAC Monterotondo
+3 MAP
+4 LATI N42.0503
+4 LONG E12.6178
 1 FAMC @F0004@
 2 PEDI birth
+1 OBJE @O0158@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 18:29:00
 0 @I0024@ INDI
 1 NAME Alfio /Trovarelli/
 2 TYPE birth
@@ -1229,10 +1242,13 @@
 2 TYPE birth
 2 GIVN Diamante
 1 SEX F
+1 BIRT
+2 DATE BET 1825 AND 1855
+2 NOTE @N_stima_eta@
 1 FAMS @F0014@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 13 NOV 2024
+3 TIME 09:09:21
 0 @I0039@ INDI
 1 NAME Giuseppe /Caproni/
 2 TYPE birth
@@ -2459,7 +2475,7 @@
 3 DATA
 4 DATE 2024
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
@@ -2491,7 +2507,7 @@
 3 DATA
 4 DATE 2024
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
@@ -2524,7 +2540,7 @@
 3 DATA
 4 DATE 2024
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
@@ -3324,12 +3340,13 @@
 3 ADR2 Cimitero di Terni
 1 FAMC @F0002@
 2 PEDI birth
+1 OBJE @O0159@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF4-6GJ
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:33:38
+2 DATE 15 NOV 2024
+3 TIME 18:29:51
 0 @I0161@ INDI
 1 NAME Adelmo /Ortenzi/
 2 TYPE birth
@@ -3357,12 +3374,13 @@
 4 DATE 2024
 1 FAMC @F0002@
 2 PEDI birth
+1 OBJE @O0160@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF4-7XX
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 18:30:38
 0 @I0162@ INDI
 1 NAME Italo /Mazzanti/
 2 TYPE birth
@@ -4501,11 +4519,14 @@
 2 GIVN Simonetta
 2 SURN Trovarelli
 1 SEX F
+1 BIRT
+2 DATE EST 1961
 1 FAMC @F0072@
 2 PEDI birth
+1 FAMS @F0098@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 17:12:56
 0 @I0205@ INDI
 1 NAME Deborah /Bianchi/
 2 TYPE birth
@@ -5608,7 +5629,7 @@
 3 DATA
 4 DATE 2024
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
@@ -5627,7 +5648,7 @@
 2 SURN Petrucci
 1 SEX M
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
@@ -5649,7 +5670,7 @@
 2 SURN Petrucci
 1 SEX F
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
@@ -5671,7 +5692,7 @@
 2 SURN Petrucci
 1 SEX F
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
@@ -5693,7 +5714,7 @@
 2 SURN Petrucci
 1 SEX M
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
@@ -5715,7 +5736,7 @@
 2 SURN Petrucci
 1 SEX M
 1 BURI
-2 PLAC Cappella di famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
+2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
@@ -5786,6 +5807,35 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 21:15:39
+0 @I0283@ INDI
+1 NAME Chiara //
+2 TYPE birth
+2 GIVN Chiara
+1 SEX F
+1 FAMC @F0098@
+2 PEDI birth
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 17:12:56
+0 @I0284@ INDI
+1 NAME Riccardo //
+2 TYPE birth
+2 GIVN Riccardo
+1 SEX M
+1 FAMC @F0098@
+2 PEDI birth
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 17:12:56
+0 @I0285@ INDI
+1 NAME Pietro //
+2 TYPE birth
+2 GIVN Pietro
+1 SEX M
+1 FAMS @F0098@
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 17:12:56
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -5805,7 +5855,12 @@
 1 HUSB @I0004@
 1 WIFE @I0005@
 1 MARR
-2 DATE 1948
+2 DATE JUN 1947
+2 PLAC Assisi, Umbria
+3 MAP
+4 LATI N43.0689
+4 LONG E12.6178
+3 NOTE @N0083@
 1 CHIL @I0045@
 1 CHIL @I0002@
 1 CHIL @I0046@
@@ -6642,6 +6697,14 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 21:15:39
+0 @F0098@ FAM
+1 HUSB @I0285@
+1 WIFE @I0204@
+1 CHIL @I0283@
+1 CHIL @I0284@
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 17:12:56
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -7171,6 +7234,7 @@
 1 CONC d=bmd_1729815772
 0 @N0081@ NOTE Morta di "infantigliole".
 0 @N0082@ NOTE Figlia "di latte".
+0 @N0083@ NOTE Luogo del matrimonio incerto.
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -8229,4 +8293,25 @@
 1 CHAN
 2 DATE 13 NOV 2024
 3 TIME 02:46:42
+0 @O0158@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Mario_Trovarelli.jpg
+2 FORM jpg
+2 TITL Mario_Trovarelli
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 18:28:57
+0 @O0159@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Edo_Ortenzi.jpg
+2 FORM jpg
+2 TITL Edo_Ortenzi
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 18:29:48
+0 @O0160@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Adelmo_Ortenzi.jpg
+2 FORM jpg
+2 TITL Adelmo_Ortenzi
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 18:30:35
 0 TRLR

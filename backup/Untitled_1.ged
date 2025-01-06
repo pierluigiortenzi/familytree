@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 15 NOV 2024
-2 TIME 18:42:35
+1 DATE 6 JAN 2025
+2 TIME 16:26:17
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
-1 COPR Copyright (c) 2024 .
+1 COPR Copyright (c) 2025 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -345,15 +345,6 @@
 1 CHAN
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
-0 @I0009@ INDI
-1 NAME Clotilde //
-2 TYPE birth
-2 GIVN Clotilde
-1 SEX F
-1 NOTE @N0003@
-1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
 0 @I0010@ INDI
 1 NAME Pietro /Ortenzi/
 2 TYPE birth
@@ -506,6 +497,9 @@
 4 DATE 1920
 1 BURI
 2 PLAC Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85205
+4 LONG E12.421896
 1 FACT colono
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -546,6 +540,9 @@
 4 DATE 1920
 1 BURI
 2 PLAC Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85205
+4 LONG E12.421896
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -614,6 +611,9 @@
 2 DATE 24 AUG 1945
 1 BURI
 2 PLAC Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85205
+4 LONG E12.421896
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0006@
@@ -645,6 +645,9 @@
 1 DEAT Y
 1 BURI
 2 PLAC Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85205
+4 LONG E12.421896
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0072@
@@ -690,13 +693,15 @@
 3 NOTE @N0061@
 2 SOUR @S0005@
 3 PAGE 1945
+1 FACT prete
+2 TYPE Occupation
 1 FAMC @F0004@
 2 PEDI birth
 1 OBJE @O0063@
 1 OBJE @O0012@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 NOV 2024
+3 TIME 21:55:09
 0 @I0025@ INDI
 1 NAME Luigi /Camilluzzi/
 2 TYPE birth
@@ -1289,26 +1294,50 @@
 2 GIVN Tommaso
 2 SURN Caproni
 1 SEX M
+1 BIRT
+2 DATE CAL 1835
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+1 RESI
+2 DATE ABT 1870
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+1 FACT campagnolo
+2 TYPE Occupation
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+1 FAMC @F0099@
+2 PEDI birth
 1 FAMS @F0016@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-HQG
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:12:56
 0 @I0042@ INDI
-1 NAME Maddalena /Sinorfi/
+1 NAME Maddalena /Sinofri/
 2 TYPE birth
 2 GIVN Maddalena
-2 SURN Sinorfi
+2 SURN Sinofri
 1 SEX F
+1 BIRT
+2 DATE CAL 1840
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
 1 FAMS @F0016@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYR4-YLZ
+1 NOTE @N0085@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:17:16
 0 @I0043@ INDI
 1 NAME Giovanni /Michelini/
 2 TYPE birth
@@ -1398,6 +1427,35 @@
 1 CHAN
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
+0 @I0049@ INDI
+1 NAME Stefano /Belloni/
+2 TYPE birth
+2 GIVN Stefano
+2 SURN Belloni
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1976
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 12 APR 1976
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.56575
+4 LONG E12.628361
+2 ADDR
+3 ADR2 Cimitero di Terni
+3 NOTE @N0070@
+1 FAMC @F0018@
+2 PEDI birth
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 16:25:33
 0 @I0050@ INDI
 1 NAME Andrea /Ortenzi/
 2 TYPE birth
@@ -1850,8 +1908,8 @@
 2 PEDI birth
 1 FAMS @F0028@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:24:25
 0 @I0086@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -3262,6 +3320,8 @@
 2 DATE 1930
 2 PLAC Casa di Giulio Camilluzzi, Pesciano, Todi, Umbria
 2 OBJE @O0128@
+1 BURI
+2 PLAC Cimitero di Pesciano, Pesciano, Todi, Umbria
 1 FAMC @F0008@
 2 PEDI birth
 1 OBJE @O0124@
@@ -3270,8 +3330,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYTH-6VW
 1 NOTE @N0049@
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 21:18:08
+2 DATE 15 NOV 2024
+3 TIME 22:00:07
 0 @I0159@ INDI
 1 NAME Amabilia /Ortenzi/
 2 TYPE birth
@@ -3437,23 +3497,6 @@
 1 CHAN
 2 DATE 13 NOV 2024
 3 TIME 02:46:46
-0 @I0164@ INDI
-1 NAME Giulio /Ortenzi/
-2 TYPE birth
-2 GIVN Giulio
-2 SURN Ortenzi
-1 SEX M
-1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
-0 @I0165@ INDI
-1 NAME Rita //
-2 TYPE birth
-2 GIVN Rita
-1 SEX F
-1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
 0 @I0166@ INDI
 1 NAME Mario /Meloni/
 2 TYPE birth
@@ -4555,10 +4598,14 @@
 2 SURN Caproni
 1 SEX M
 1 BIRT
-2 DATE 25 MAR 1870
-2 SOUR @S0034@
+2 DATE 24 MAR 1870
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0050@
 3 DATA
-4 DATE 2024
+4 DATE 1870
 1 DEAT
 2 DATE 24 APR 1950
 2 SOUR @S0034@
@@ -4640,8 +4687,8 @@
 3 DATE 2019
 1 OBJE @O0100@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:19
+2 DATE 6 JAN 2025
+3 TIME 16:24:25
 0 @I0212@ INDI
 1 NAME Tommaso /Caproni/
 2 TYPE birth
@@ -4666,8 +4713,8 @@
 3 DATE 2019
 1 OBJE @O0109@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:24:25
 0 @I0213@ INDI
 1 NAME Alessandro /Bassetti/
 2 TYPE birth
@@ -4792,8 +4839,8 @@
 2 DATA
 3 DATE 2019
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:24:25
 0 @I0221@ INDI
 1 NAME Rinaldo /Sciutti/
 2 TYPE birth
@@ -5836,6 +5883,21 @@
 1 CHAN
 2 DATE 15 NOV 2024
 3 TIME 17:12:56
+0 @I0286@ INDI
+1 NAME Domenico /Caproni/
+2 TYPE birth
+2 GIVN Domenico
+2 SURN Caproni
+1 SEX M
+1 DEAT
+2 DATE AFT 1870
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+1 FAMS @F0099@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 16:10:06
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6040,6 +6102,7 @@
 0 @F0018@ FAM
 1 HUSB @I0048@
 1 WIFE @I0045@
+1 CHIL @I0049@
 1 CHIL @I0047@
 1 CHAN
 2 DATE 7 NOV 2024
@@ -6521,13 +6584,22 @@
 0 @F0076@ FAM
 1 HUSB @I0209@
 1 WIFE @I0210@
+1 MARR
+2 DATE 11 DEC 1898
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
 1 CHIL @I0212@
 1 CHIL @I0211@
 1 CHIL @I0085@
 1 CHIL @I0220@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 6 JAN 2025
+3 TIME 16:24:25
 0 @F0077@ FAM
 1 HUSB @I0213@
 1 WIFE @I0211@
@@ -6705,6 +6777,12 @@
 1 CHAN
 2 DATE 15 NOV 2024
 3 TIME 17:12:56
+0 @F0099@ FAM
+1 HUSB @I0286@
+1 CHIL @I0041@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 16:10:06
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -7066,6 +7144,12 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 21:30:39
+0 @S0050@ SOUR
+1 TITL Atto di nascita di Cesare Caproni
+1 OBJE @O0161@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 16:06:15
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -7235,6 +7319,8 @@
 0 @N0081@ NOTE Morta di "infantigliole".
 0 @N0082@ NOTE Figlia "di latte".
 0 @N0083@ NOTE Luogo del matrimonio incerto.
+0 @N0084@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840811/5xmZKAg
+0 @N0085@ NOTE Cognome incerto - forse Sinorfi invece di Sinofri?
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -8314,4 +8400,11 @@
 1 CHAN
 2 DATE 15 NOV 2024
 3 TIME 18:30:35
+0 @O0161@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Nascita_Cesare_Caproni_1870.jpg
+2 FORM jpg
+2 TITL Atto_Nascita_Cesare_Caproni_1870
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 16:05:21
 0 TRLR

@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 6 JAN 2025
-2 TIME 16:26:17
+1 DATE 7 JAN 2025
+2 TIME 08:12:29
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -1125,8 +1125,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY58-KQ5
 1 NOTE @N0048@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:43
+2 DATE 7 JAN 2025
+3 TIME 07:01:49
 0 @I0034@ INDI
 1 NAME Elvira /Petrucci/
 2 TYPE birth
@@ -1260,18 +1260,46 @@
 2 GIVN Giuseppe
 2 SURN Caproni
 1 SEX M
+1 BIRT
+2 DATE BET 1857 AND 1866
+2 SOUR @S0054@
+3 DATA
+4 DATE 1895
+2 SOUR @S0055@
+3 DATA
+4 DATE 1897
+2 SOUR @S0057@
+3 DATA
+4 DATE 1893
 1 DEAT
 2 DATE AFT 1936
 2 NOTE @N0075@
+1 RESI
+2 DATE ABT 1895
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+1 FACT campagnolo
+2 TYPE Occupation
+1 FACT agricoltore
+2 TYPE Occupation
+2 SOUR @S0057@
+3 DATA
+4 DATE 1893
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
 1 FAMC @F0016@
 2 PEDI birth
 1 FAMS @F0015@
+1 OBJE @O0165@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-DZ3
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 7 JAN 2025
+3 TIME 07:07:31
 0 @I0040@ INDI
 1 NAME Filomena /Pecci/
 2 TYPE birth
@@ -1279,15 +1307,29 @@
 2 SURN Pecci
 1 SEX F
 1 BIRT
-2 DATE BET 1859 AND 1881
-2 NOTE @N0074@
+2 DATE 1864
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 NOTE @N0089@
+2 SOUR @S0053@
+3 DATA
+4 DATE 1870
+1 FACT campagnola
+2 TYPE Occupation
+2 SOUR @S0055@
+3 DATA
+4 DATE 1897
+1 FAMC @F0100@
+2 PEDI birth
 1 FAMS @F0015@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-F91
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 7 JAN 2025
+3 TIME 07:33:38
 0 @I0041@ INDI
 1 NAME Tommaso /Caproni/
 2 TYPE birth
@@ -1295,10 +1337,24 @@
 2 SURN Caproni
 1 SEX M
 1 BIRT
-2 DATE CAL 1835
+2 DATE BET 1834 AND 1835
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
+2 SOUR @S0058@
+3 DATA
+4 DATE 1862
+2 SOUR @S0060@
+3 DATA
+4 DATE 1877
+1 DEAT
+2 DATE AFT 1893
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
 1 RESI
 2 DATE ABT 1870
 2 PLAC Portaria, Acquasparta, Umbria
@@ -1310,6 +1366,11 @@
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
 1 FAMC @F0099@
 2 PEDI birth
 1 FAMS @F0016@
@@ -1317,27 +1378,52 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-HQG
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:12:56
+2 DATE 7 JAN 2025
+3 TIME 07:02:36
 0 @I0042@ INDI
-1 NAME Maddalena /Sinofri/
+1 NAME Maddalena /Sinolfi/
 2 TYPE birth
 2 GIVN Maddalena
-2 SURN Sinofri
+2 SURN Sinolfi
 1 SEX F
 1 BIRT
-2 DATE CAL 1840
+2 DATE BET 1830 AND 1844
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
+2 SOUR @S0051@
+3 DATA
+4 DATE 1874
+2 SOUR @S0058@
+3 DATA
+4 DATE 1862
+1 DEAT
+2 DATE AFT 1893
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
+1 RESI
+2 DATE ABT 1863
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
+1 FAMC @F0101@
+2 PEDI birth
 1 FAMS @F0016@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYR4-YLZ
 1 NOTE @N0085@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:17:16
+2 DATE 7 JAN 2025
+3 TIME 07:03:21
 0 @I0043@ INDI
 1 NAME Giovanni /Michelini/
 2 TYPE birth
@@ -2312,9 +2398,9 @@
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
 0 @I0108@ INDI
-1 NAME Candelora /Caproni/
+1 NAME Candelora Adele Lorenza /Caproni/
 2 TYPE birth
-2 GIVN Candelora
+2 GIVN Candelora Adele Lorenza
 2 SURN Caproni
 1 SEX F
 1 BIRT
@@ -2340,19 +2426,26 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYY3-71Z
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:00
+2 DATE 7 JAN 2025
+3 TIME 07:01:49
 0 @I0109@ INDI
-1 NAME Alceste /Caproni/
+1 NAME Alceste Luigi Antonio /Caproni/
 2 TYPE birth
-2 GIVN Alceste
+2 GIVN Alceste Luigi Antonio
 2 SURN Caproni
 1 SEX M
 1 BIRT
 2 DATE 12 MAY 1897
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
+2 SOUR @S0055@
+3 DATA
+4 DATE 1897
 1 DEAT
 2 DATE 25 SEP 1983
 2 SOUR @S0039@
@@ -2373,8 +2466,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYY3-QC2
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:31:54
+2 DATE 7 JAN 2025
+3 TIME 07:01:49
 0 @I0110@ INDI
 1 NAME Ottorino /Paiella/
 2 TYPE birth
@@ -2784,10 +2877,10 @@
 2 ADDR
 3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
-1 FAMC @F0036@
-2 PEDI Sponsored
 1 FAMC @F0012@
 2 PEDI birth
+1 FAMC @F0036@
+2 PEDI Sponsored
 1 FAMS @F0043@
 1 OBJE @O0072@
 1 OBJE @O0082@
@@ -2795,8 +2888,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY1Z-8NK
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:13
+2 DATE 7 JAN 2025
+3 TIME 05:22:05
 0 @I0131@ INDI
 1 NAME Gemma //
 2 TYPE birth
@@ -4626,8 +4719,8 @@
 3 DATE 2019
 1 OBJE @O0107@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:07
+2 DATE 7 JAN 2025
+3 TIME 06:26:15
 0 @I0210@ INDI
 1 NAME Maria /Palmadori/
 2 TYPE birth
@@ -5898,6 +5991,370 @@
 1 CHAN
 2 DATE 6 JAN 2025
 3 TIME 16:10:06
+0 @I0287@ INDI
+1 NAME Settimia /Caproni/
+2 TYPE birth
+2 GIVN Settimia
+2 SURN Caproni
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1874
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0051@
+3 DATA
+4 DATE 1874
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:26:15
+0 @I0288@ INDI
+1 NAME Angela /Caproni/
+2 TYPE birth
+2 GIVN Angela
+2 SURN Caproni
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1862
+2 SOUR @S0058@
+3 DATA
+4 DATE 1862
+1 DEAT
+2 DATE 17 NOV 1862
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0052@
+3 DATA
+4 DATE 1862
+1 FACT campagnola
+2 TYPE Occupation
+2 SOUR @S0052@
+3 DATA
+4 DATE 1862
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:26:15
+0 @I0289@ INDI
+1 NAME Filippo /Pecci/
+2 TYPE birth
+2 GIVN Filippo
+2 SURN Pecci
+1 SEX M
+1 BIRT
+2 DATE BET 1829 AND 1830
+2 SOUR @S0062@
+3 DATA
+4 DATE 1861
+2 SOUR @S0063@
+3 DATA
+4 DATE 1862
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 DEAT
+2 DATE AFT 1897
+2 SOUR @S0055@
+3 DATA
+4 DATE 1897
+1 RESI
+2 DATE ABT 1861
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+1 RESI
+2 TYPE Vocabolo Valleluva
+2 DATE BET 1867 AND 1869
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0065@
+3 DATA
+4 DATE 1869
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 RESI
+2 DATE ABT 1893
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
+1 FACT colono possidente
+2 TYPE Occupation
+2 SOUR @S0062@
+3 DATA
+4 DATE 1861
+2 SOUR @S0063@
+3 DATA
+4 DATE 1862
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 FAMC @F0102@
+2 PEDI birth
+1 FAMS @F0100@
+1 OBJE @O0173@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 08:10:00
+0 @I0290@ INDI
+1 NAME Luigi /Caproni/
+2 TYPE birth
+2 GIVN Luigi
+2 SURN Caproni
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1863
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:26:15
+0 @I0291@ INDI
+1 NAME Illidio Lazzaro Ubaldo /Caproni/
+2 TYPE birth
+2 GIVN Illidio Lazzaro Ubaldo
+2 SURN Caproni
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1893
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0057@
+3 DATA
+4 DATE 1893
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:01:49
+0 @I0292@ INDI
+1 NAME Angela /Caproni/
+2 TYPE birth
+2 GIVN Angela
+2 SURN Caproni
+1 SEX F
+1 BIRT
+2 DATE 24 JAN 1867
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0059@
+3 DATA
+4 DATE 1867
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:26:15
+0 @I0293@ INDI
+1 NAME Luigi /Sinolfi/
+2 TYPE birth
+2 GIVN Luigi
+2 SURN Sinolfi
+1 SEX M
+1 DEAT
+2 DATE BEF 1867
+1 FAMS @F0101@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:28:26
+0 @I0294@ INDI
+1 NAME Emilio Giuliano Ilarione /Caproni/
+2 TYPE birth
+2 GIVN Emilio Giuliano Ilarione
+2 SURN Caproni
+1 SEX M
+1 BIRT
+2 DATE 20 OCT 1877
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0060@
+3 DATA
+4 DATE 1877
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:41:42
+0 @I0295@ INDI
+1 NAME Caterina /Manni/
+2 TYPE birth
+2 GIVN Caterina
+2 SURN Manni
+1 SEX F
+1 BIRT
+2 DATE BET 1832 AND 1834
+2 SOUR @S0062@
+3 DATA
+4 DATE 1861
+2 SOUR @S0063@
+3 DATA
+4 DATE 1862
+1 DEAT
+2 DATE AFT 1893
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
+1 RESI
+2 DATE ABT 1861
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0062@
+3 DATA
+4 DATE 1861
+1 RESI
+2 DATE ABT 1893
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+1 FAMC @F0103@
+2 PEDI birth
+1 FAMS @F0100@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:55:15
+0 @I0296@ INDI
+1 NAME Maria Felice Rosa /Pecci/
+2 TYPE birth
+2 GIVN Maria Felice Rosa
+2 SURN Pecci
+1 SEX F
+1 BIRT
+2 DATE 9 MAR 1861
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0062@
+3 DATA
+4 DATE 1861
+1 FAMC @F0100@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:33:38
+0 @I0297@ INDI
+1 NAME Alessandro Gioacchino Nerio /Pecci/
+2 TYPE birth
+2 GIVN Alessandro Gioacchino Nerio
+2 SURN Pecci
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1862
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0063@
+3 DATA
+4 DATE 1862
+1 FAMC @F0100@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:33:38
+0 @I0298@ INDI
+1 NAME Cesare /Pecci/
+2 TYPE birth
+2 GIVN Cesare
+2 SURN Pecci
+1 SEX M
+1 BIRT
+2 DATE 5 MAR 1867
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 FAMC @F0100@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:49:56
+0 @I0299@ INDI
+1 NAME Luigi /Pecci/
+2 TYPE birth
+2 GIVN Luigi
+2 SURN Pecci
+1 SEX M
+1 DEAT
+2 DATE BEF 1867
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 FAMS @F0102@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:53:28
+0 @I0300@ INDI
+1 NAME Felice /Manni/
+2 TYPE birth
+2 GIVN Felice
+2 SURN Manni
+1 SEX M
+1 DEAT
+2 DATE BEF 1867
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+1 FAMS @F0103@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:55:15
+0 @I0301@ INDI
+1 NAME Angela /Pecci/
+2 TYPE birth
+2 GIVN Angela
+2 SURN Pecci
+1 SEX F
+1 BIRT
+2 DATE 8 MAY 1869
+2 PLAC Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6564
+4 LONG E12.5655
+2 SOUR @S0065@
+3 DATA
+4 DATE 1869
+1 FAMC @F0100@
+2 PEDI birth
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 08:05:41
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6078,20 +6535,36 @@
 0 @F0015@ FAM
 1 HUSB @I0039@
 1 WIFE @I0040@
+1 MARR
+2 DATE 11 FEB 1893
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0061@
+3 DATA
+4 DATE 1893
+1 CHIL @I0291@
 1 CHIL @I0108@
 1 CHIL @I0109@
 1 CHIL @I0033@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 7 JAN 2025
+3 TIME 07:01:49
 0 @F0016@ FAM
 1 HUSB @I0041@
 1 WIFE @I0042@
 1 CHIL @I0039@
+1 CHIL @I0288@
+1 CHIL @I0290@
+1 CHIL @I0292@
 1 CHIL @I0209@
+1 CHIL @I0287@
+1 CHIL @I0294@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 7 JAN 2025
+3 TIME 06:40:38
 0 @F0017@ FAM
 1 HUSB @I0043@
 1 WIFE @I0044@
@@ -6262,10 +6735,20 @@
 0 @F0036@ FAM
 1 HUSB @I0110@
 1 WIFE @I0108@
+1 MARR
+2 DATE 12 APR 1919
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0054@
+3 DATA
+4 DATE 1895
 1 CHIL @I0130@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 7 JAN 2025
+3 TIME 05:22:05
 0 @F0037@ FAM
 1 HUSB @I0109@
 1 WIFE @I0111@
@@ -6590,6 +7073,7 @@
 3 MAP
 4 LATI N42.6112
 4 LONG E12.5848
+3 NOTE @N0092@
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
@@ -6783,6 +7267,35 @@
 1 CHAN
 2 DATE 6 JAN 2025
 3 TIME 16:10:06
+0 @F0100@ FAM
+1 HUSB @I0289@
+1 WIFE @I0295@
+1 CHIL @I0296@
+1 CHIL @I0297@
+1 CHIL @I0040@
+1 CHIL @I0298@
+1 CHIL @I0301@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 08:05:41
+0 @F0101@ FAM
+1 HUSB @I0293@
+1 CHIL @I0042@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:28:26
+0 @F0102@ FAM
+1 HUSB @I0299@
+1 CHIL @I0289@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:53:28
+0 @F0103@ FAM
+1 HUSB @I0300@
+1 CHIL @I0295@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:55:15
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -7149,7 +7662,97 @@
 1 OBJE @O0161@
 1 CHAN
 2 DATE 6 JAN 2025
-3 TIME 16:06:15
+3 TIME 16:43:35
+0 @S0051@ SOUR
+1 TITL Atto di nascita di Settimia Caproni
+1 OBJE @O0162@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:03:37
+0 @S0052@ SOUR
+1 TITL Atto di morte di Angela Caproni
+1 OBJE @O0163@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:25:34
+0 @S0053@ SOUR
+1 TITL Indice decennale delle nascite, Portaria 1860-1870
+1 OBJE @O0164@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:44:11
+0 @S0054@ SOUR
+1 TITL Atto di nascita di Candelora Caproni
+1 OBJE @O0165@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:17:02
+0 @S0055@ SOUR
+1 TITL Atto di nascita di Alceste Caproni
+1 OBJE @O0166@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:29:11
+0 @S0056@ SOUR
+1 TITL Atto di nascita di Luigi Caproni
+1 OBJE @O0167@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:45:40
+0 @S0057@ SOUR
+1 TITL Atto di nascita di Illidio Caproni
+1 OBJE @O0168@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:01:07
+0 @S0058@ SOUR
+1 TITL Atto di nascita di Angela Caproni
+1 OBJE @O0169@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:09:49
+0 @S0059@ SOUR
+1 TITL Atto di nascita di Angela Caproni (1867)
+1 OBJE @O0170@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:25:57
+0 @S0060@ SOUR
+1 TITL Atto di nascita di Emilio Caproni
+1 OBJE @O0171@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:40:28
+0 @S0061@ SOUR
+1 TITL Atto di matrimonio di Giuseppe Caproni e Filomena Pecci
+1 OBJE @O0172@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:01:42
+0 @S0062@ SOUR
+1 TITL Atto di nascita di Maria Felice Pecci
+1 OBJE @O0173@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:22:20
+0 @S0063@ SOUR
+1 TITL Atto di nascita di Alessandro Pecci
+1 OBJE @O0174@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:33:15
+0 @S0064@ SOUR
+1 TITL Atto di nascita di Cesare Pecci
+1 OBJE @O0175@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:49:23
+0 @S0065@ SOUR
+1 TITL Atto di nascita di Angela Pecci
+1 OBJE @O0176@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 08:05:31
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -7319,8 +7922,28 @@
 0 @N0081@ NOTE Morta di "infantigliole".
 0 @N0082@ NOTE Figlia "di latte".
 0 @N0083@ NOTE Luogo del matrimonio incerto.
-0 @N0084@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840811/5xmZKAg
 0 @N0085@ NOTE Cognome incerto - forse Sinorfi invece di Sinofri?
+0 @N0086@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840811/5xmZKAg
+0 @N0087@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840907/wleZZP2
+0 @N0088@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839633/wQbDPAK
+0 @N0089@ NOTE Incerto se si tratti della stessa Filomena Pecci nata a Portaria ne
+1 CONC l 1864 (il registro delle nascite di Portaria per il 1864 sembra esser
+1 CONC e mancante).
+0 @N0090@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841587/wkNJN7A
+0 @N0091@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841378/wEdJXW7
+0 @N0092@ NOTE Il comune di Cesi includeva l'ex comune di Portaria dal 1875 al 192
+1 CONC 7.
+0 @N0093@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841413/wrMZDnO
+0 @N0094@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840646/La2648k
+0 @N0095@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841342/wkNJ3Gp
+0 @N0096@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840623/0A6KxdD
+0 @N0097@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840740/LPJd9mY
+0 @N0098@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840987/LePKjzo
+0 @N0099@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838665/0ZkRa4b
+0 @N0100@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840602/wrMZokX
+0 @N0101@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840623/wleZy3m
+0 @N0102@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840740/LzbM9qm
+0 @N0103@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840787/wj6ZRK8
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -8404,7 +9027,128 @@
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Nascita_Cesare_Caproni_1870.jpg
 2 FORM jpg
 2 TITL Atto_Nascita_Cesare_Caproni_1870
+1 NOTE @N0086@
 1 CHAN
 2 DATE 6 JAN 2025
-3 TIME 16:05:21
+3 TIME 16:43:51
+0 @O0162@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Settimia_Caproni_1874.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Settimia_Caproni_1874
+1 NOTE @N0087@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:05:35
+0 @O0163@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_morte_Angela_Caproni_1862.jpg
+2 FORM jpg
+2 TITL Atto_morte_Angela_Caproni_1862
+1 NOTE @N0088@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:25:32
+0 @O0164@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Indice_nati_Portaria_1860-1870.jpg
+2 FORM jpg
+2 TITL Indice_nati_Portaria_1860-1870
+1 NOTE @N0090@
+1 CHAN
+2 DATE 6 JAN 2025
+3 TIME 19:44:10
+0 @O0165@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Candelora_Caproni_1895.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Candelora_Caproni_1895
+1 NOTE @N0091@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:17:00
+0 @O0166@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Alceste_Caproni_1897.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Alceste_Caproni_1897
+1 NOTE @N0093@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:29:07
+0 @O0167@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Luigi_Caproni_1863.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Luigi_Caproni_1863
+1 NOTE @N0094@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 05:45:37
+0 @O0168@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Illidio_Caproni_1893.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Illidio_Caproni_1893
+1 NOTE @N0095@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:01:04
+0 @O0169@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Caproni_1862.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Angela_Caproni_1862
+1 NOTE @N0096@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:09:44
+0 @O0170@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Caproni_1867.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Angela_Caproni_1867
+1 NOTE @N0097@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:25:55
+0 @O0171@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Emilio_Caproni_1877.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Emilio_Caproni_1877
+1 NOTE @N0098@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 06:40:25
+0 @O0172@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893
+1 NOTE @N0099@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:01:40
+0 @O0173@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Maria_Felice_Pecci_1861.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Maria_Felice_Pecci_1861
+1 NOTE @N0100@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:22:17
+0 @O0174@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Alessandro_Pecci_1862.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Alessandro_Pecci_1862
+1 NOTE @N0101@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:33:13
+0 @O0175@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Cesare_Pecci_1867.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Cesare_Pecci_1867
+1 NOTE @N0102@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 07:49:21
+0 @O0176@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Pecci_1869.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Angela_Pecci_1869
+1 NOTE @N0103@
+1 CHAN
+2 DATE 7 JAN 2025
+3 TIME 08:05:28
 0 TRLR

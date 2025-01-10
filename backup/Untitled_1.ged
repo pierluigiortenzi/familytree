@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 7 JAN 2025
-2 TIME 10:38:03
+1 DATE 10 JAN 2025
+2 TIME 13:02:34
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -1351,10 +1351,10 @@
 3 DATA
 4 DATE 1877
 1 DEAT
-2 DATE AFT 1893
-2 SOUR @S0061@
+2 DATE AFT 1898
+2 SOUR @S0069@
 3 DATA
-4 DATE 1893
+4 DATE 1898
 1 RESI
 2 DATE ABT 1870
 2 PLAC Portaria, Acquasparta, Umbria
@@ -1371,6 +1371,11 @@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
+1 FACT agricoltore
+2 TYPE Occupation
+2 SOUR @S0060@
+3 DATA
+4 DATE 1877
 1 FAMC @F0099@
 2 PEDI birth
 1 FAMS @F0016@
@@ -1378,8 +1383,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-HQG
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:02:36
+2 DATE 10 JAN 2025
+3 TIME 11:34:56
 0 @I0042@ INDI
 1 NAME Maddalena /Sinolfi/
 2 TYPE birth
@@ -1401,10 +1406,10 @@
 3 DATA
 4 DATE 1862
 1 DEAT
-2 DATE AFT 1893
-2 SOUR @S0061@
+2 DATE AFT 1898
+2 SOUR @S0069@
 3 DATA
-4 DATE 1893
+4 DATE 1898
 1 RESI
 2 DATE ABT 1863
 2 PLAC Portaria, Acquasparta, Umbria
@@ -4726,9 +4731,12 @@
 2 DATA
 3 DATE 2019
 1 OBJE @O0107@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7R-L6D
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:26:15
+2 DATE 10 JAN 2025
+3 TIME 10:45:08
 0 @I0210@ INDI
 1 NAME Maria /Palmadori/
 2 TYPE birth
@@ -4757,13 +4765,14 @@
 2 SOUR @S0068@
 3 DATA
 4 DATE 1900
-1 FAMC @F0104@
-2 PEDI birth
 1 FAMS @F0076@
 1 OBJE @O0107@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-5G7
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:56:05
+2 DATE 10 JAN 2025
+3 TIME 13:01:58
 0 @I0211@ INDI
 1 NAME Eugenia /Caproni/
 2 TYPE birth
@@ -6003,9 +6012,12 @@
 3 DATA
 4 DATE 1870
 1 FAMS @F0099@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-Q9J
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:10:06
+2 DATE 10 JAN 2025
+3 TIME 11:07:42
 0 @I0287@ INDI
 1 NAME Settimia /Caproni/
 2 TYPE birth
@@ -6023,9 +6035,12 @@
 4 DATE 1874
 1 FAMC @F0016@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7R-1R9
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:26:15
+2 DATE 10 JAN 2025
+3 TIME 11:13:00
 0 @I0288@ INDI
 1 NAME Angela /Caproni/
 2 TYPE birth
@@ -6053,9 +6068,12 @@
 4 DATE 1862
 1 FAMC @F0016@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7R-YWJ
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:26:15
+2 DATE 10 JAN 2025
+3 TIME 11:18:48
 0 @I0289@ INDI
 1 NAME Filippo /Pecci/
 2 TYPE birth
@@ -6124,9 +6142,12 @@
 2 PEDI birth
 1 FAMS @F0100@
 1 OBJE @O0173@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-8XZ
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:10:00
+2 DATE 10 JAN 2025
+3 TIME 11:47:23
 0 @I0290@ INDI
 1 NAME Luigi /Caproni/
 2 TYPE birth
@@ -6144,9 +6165,12 @@
 4 DATE 1863
 1 FAMC @F0016@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-QL1
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:26:15
+2 DATE 10 JAN 2025
+3 TIME 11:21:38
 0 @I0291@ INDI
 1 NAME Illidio Lazzaro Ubaldo /Caproni/
 2 TYPE birth
@@ -6174,7 +6198,7 @@
 2 SURN Caproni
 1 SEX F
 1 BIRT
-2 DATE 24 JAN 1867
+2 DATE 4 JAN 1867
 2 PLAC Portaria, Acquasparta, Umbria
 3 MAP
 4 LATI N42.6564
@@ -6184,9 +6208,12 @@
 4 DATE 1867
 1 FAMC @F0016@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-QFG
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:26:15
+2 DATE 10 JAN 2025
+3 TIME 11:01:05
 0 @I0293@ INDI
 1 NAME Luigi /Sinolfi/
 2 TYPE birth
@@ -6195,10 +6222,16 @@
 1 SEX M
 1 DEAT
 2 DATE BEF 1867
+2 SOUR @S0059@
+3 DATA
+4 DATE 1867
 1 FAMS @F0101@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7R-RF3
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:28:26
+2 DATE 10 JAN 2025
+3 TIME 11:05:28
 0 @I0294@ INDI
 1 NAME Emilio Giuliano Ilarione /Caproni/
 2 TYPE birth
@@ -6216,9 +6249,12 @@
 4 DATE 1877
 1 FAMC @F0016@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-DYR
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:41:42
+2 DATE 10 JAN 2025
+3 TIME 11:28:39
 0 @I0295@ INDI
 1 NAME Caterina /Manni/
 2 TYPE birth
@@ -6257,9 +6293,12 @@
 1 FAMC @F0103@
 2 PEDI birth
 1 FAMS @F0100@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-XGW
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:55:15
+2 DATE 10 JAN 2025
+3 TIME 11:48:32
 0 @I0296@ INDI
 1 NAME Maria Felice Rosa /Pecci/
 2 TYPE birth
@@ -6286,9 +6325,12 @@
 4 DATE 1861
 1 FAMC @F0100@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-2KN
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:27:20
+2 DATE 10 JAN 2025
+3 TIME 11:56:37
 0 @I0297@ INDI
 1 NAME Alessandro Gioacchino Nerio /Pecci/
 2 TYPE birth
@@ -6306,9 +6348,12 @@
 4 DATE 1862
 1 FAMC @F0100@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-L4D
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:33:38
+2 DATE 10 JAN 2025
+3 TIME 12:02:43
 0 @I0298@ INDI
 1 NAME Cesare /Pecci/
 2 TYPE birth
@@ -6326,9 +6371,12 @@
 4 DATE 1867
 1 FAMC @F0100@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-2W2
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:49:56
+2 DATE 10 JAN 2025
+3 TIME 12:06:34
 0 @I0299@ INDI
 1 NAME Luigi /Pecci/
 2 TYPE birth
@@ -6356,9 +6404,12 @@
 3 DATA
 4 DATE 1867
 1 FAMS @F0103@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-25L
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:55:15
+2 DATE 10 JAN 2025
+3 TIME 12:10:43
 0 @I0301@ INDI
 1 NAME Angela /Pecci/
 2 TYPE birth
@@ -6376,9 +6427,13 @@
 4 DATE 1869
 1 FAMC @F0100@
 2 PEDI birth
+1 FAMS @F0105@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7T-BDX
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:05:41
+2 DATE 10 JAN 2025
+3 TIME 12:13:44
 0 @I0302@ INDI
 1 NAME Egidio Luigi Paolo /Caproni/
 2 TYPE birth
@@ -6399,21 +6454,24 @@
 1 CHAN
 2 DATE 7 JAN 2025
 3 TIME 09:46:28
-0 @I0303@ INDI
-1 NAME Domenico /Palmadori/
+0 @I0305@ INDI
+1 NAME Giovanni /Gobbi/
 2 TYPE birth
-2 GIVN Domenico
-2 SURN Palmadori
+2 GIVN Giovanni
+2 SURN Gobbi
 1 SEX M
-1 DEAT
-2 DATE AFT 1900
-2 SOUR @S0068@
+1 BIRT
+2 DATE CAL 1858
+2 SOUR @S0070@
 3 DATA
-4 DATE 1900
-1 FAMS @F0104@
+4 DATE 1889
+1 FAMS @F0105@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PM7Y-S5Q
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:54:58
+2 DATE 10 JAN 2025
+3 TIME 12:16:54
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -7138,15 +7196,15 @@
 1 HUSB @I0209@
 1 WIFE @I0210@
 1 MARR
-2 DATE 11 DEC 1898
+2 DATE 31 DEC 1898
 2 PLAC Cesi, Terni, Umbria
 3 MAP
 4 LATI N42.6112
 4 LONG E12.5848
 3 NOTE @N0092@
-2 SOUR @S0050@
+2 SOUR @S0069@
 3 DATA
-4 DATE 1870
+4 DATE 1898
 1 CHIL @I0212@
 1 CHIL @I0211@
 1 CHIL @I0085@
@@ -7366,12 +7424,22 @@
 1 CHAN
 2 DATE 7 JAN 2025
 3 TIME 07:55:15
-0 @F0104@ FAM
-1 HUSB @I0303@
-1 CHIL @I0210@
+0 @F0105@ FAM
+1 HUSB @I0305@
+1 WIFE @I0301@
+1 MARR
+2 DATE 4 FEB 1889
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0070@
+3 DATA
+4 DATE 1889
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:54:58
+2 DATE 10 JAN 2025
+3 TIME 10:33:04
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -7734,23 +7802,23 @@
 2 DATE 12 NOV 2024
 3 TIME 21:30:39
 0 @S0050@ SOUR
-1 TITL Atto di nascita di Cesare Caproni
+1 TITL Atto di nascita di Cesare Caproni (1870)
 1 OBJE @O0161@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:43:35
+2 DATE 10 JAN 2025
+3 TIME 10:55:47
 0 @S0051@ SOUR
-1 TITL Atto di nascita di Settimia Caproni
+1 TITL Atto di nascita di Settimia Caproni (1874)
 1 OBJE @O0162@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 19:03:37
+2 DATE 10 JAN 2025
+3 TIME 11:36:30
 0 @S0052@ SOUR
-1 TITL Atto di morte di Angela Caproni
+1 TITL Atto di morte di Angela Caproni (1862)
 1 OBJE @O0163@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 19:25:34
+2 DATE 10 JAN 2025
+3 TIME 11:37:58
 0 @S0053@ SOUR
 1 TITL Indice decennale delle nascite, Portaria 1860-1870
 1 OBJE @O0164@
@@ -7758,35 +7826,35 @@
 2 DATE 6 JAN 2025
 3 TIME 19:44:11
 0 @S0054@ SOUR
-1 TITL Atto di nascita di Candelora Caproni
+1 TITL Atto di nascita di Candelora Caproni (1895)
 1 OBJE @O0165@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:17:02
+2 DATE 10 JAN 2025
+3 TIME 10:54:14
 0 @S0055@ SOUR
-1 TITL Atto di nascita di Alceste Caproni
+1 TITL Atto di nascita di Alceste Caproni (1897)
 1 OBJE @O0166@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:29:11
+2 DATE 10 JAN 2025
+3 TIME 11:36:55
 0 @S0056@ SOUR
-1 TITL Atto di nascita di Luigi Caproni
+1 TITL Atto di nascita di Luigi Caproni (1863)
 1 OBJE @O0167@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:45:40
+2 DATE 10 JAN 2025
+3 TIME 11:36:05
 0 @S0057@ SOUR
-1 TITL Atto di nascita di Illidio Caproni
+1 TITL Atto di nascita di Illidio Caproni (1893)
 1 OBJE @O0168@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:01:07
+2 DATE 10 JAN 2025
+3 TIME 11:35:52
 0 @S0058@ SOUR
-1 TITL Atto di nascita di Angela Caproni
+1 TITL Atto di nascita di Angela Caproni (1862)
 1 OBJE @O0169@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:09:49
+2 DATE 10 JAN 2025
+3 TIME 11:37:21
 0 @S0059@ SOUR
 1 TITL Atto di nascita di Angela Caproni (1867)
 1 OBJE @O0170@
@@ -7794,47 +7862,47 @@
 2 DATE 7 JAN 2025
 3 TIME 06:25:57
 0 @S0060@ SOUR
-1 TITL Atto di nascita di Emilio Caproni
+1 TITL Atto di nascita di Emilio Caproni (1877)
 1 OBJE @O0171@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:40:28
+2 DATE 10 JAN 2025
+3 TIME 11:35:39
 0 @S0061@ SOUR
-1 TITL Atto di matrimonio di Giuseppe Caproni e Filomena Pecci
+1 TITL Atto di matrimonio di Giuseppe Caproni e Filomena Pecci (1893)
 1 OBJE @O0172@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:01:42
+2 DATE 10 JAN 2025
+3 TIME 11:37:43
 0 @S0062@ SOUR
-1 TITL Atto di nascita di Maria Felice Pecci
+1 TITL Atto di nascita di Maria Felice Pecci (1861)
 1 OBJE @O0173@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:22:20
+2 DATE 10 JAN 2025
+3 TIME 11:36:18
 0 @S0063@ SOUR
-1 TITL Atto di nascita di Alessandro Pecci
+1 TITL Atto di nascita di Alessandro Pecci (1862)
 1 OBJE @O0174@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:33:15
+2 DATE 10 JAN 2025
+3 TIME 11:37:07
 0 @S0064@ SOUR
-1 TITL Atto di nascita di Cesare Pecci
+1 TITL Atto di nascita di Cesare Pecci (1867)
 1 OBJE @O0175@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:49:23
+2 DATE 10 JAN 2025
+3 TIME 11:36:43
 0 @S0065@ SOUR
-1 TITL Atto di nascita di Angela Pecci
+1 TITL Atto di nascita di Angela Pecci (1869)
 1 OBJE @O0176@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:05:31
+2 DATE 10 JAN 2025
+3 TIME 10:56:10
 0 @S0066@ SOUR
-1 TITL Atto di morte di Maria Felice Pecci
+1 TITL Atto di morte di Maria Felice Pecci (1861)
 1 OBJE @O0177@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:27:14
+2 DATE 10 JAN 2025
+3 TIME 10:55:19
 0 @S0067@ SOUR
 1 TITL Atto di nascita di Egidio Caproni (1900)
 1 OBJE @O0178@
@@ -7842,11 +7910,23 @@
 2 DATE 7 JAN 2025
 3 TIME 09:46:09
 0 @S0068@ SOUR
-1 TITL Atto di nascita di Ines Caproni
+1 TITL Atto di nascita di Ines Caproni (1900)
 1 OBJE @O0179@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:54:45
+2 DATE 10 JAN 2025
+3 TIME 10:54:59
+0 @S0069@ SOUR
+1 TITL Atto di matrimonio di Cesare Caproni e Maria Palmadori (1898)
+1 OBJE @O0180@
+1 CHAN
+2 DATE 10 JAN 2025
+3 TIME 10:54:45
+0 @S0070@ SOUR
+1 TITL Atto di matrimonio di Angela Pecci e Giovanni Gobbi (1889)
+1 OBJE @O0181@
+1 CHAN
+2 DATE 10 JAN 2025
+3 TIME 10:54:32
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -8040,6 +8120,8 @@
 0 @N0104@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839611/wEdJj9X
 0 @N0105@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841465/0ndZqWZ
 0 @N0106@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841465/wj6ZXWr
+0 @N0107@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838743/LpvKvAE
+0 @N0108@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838598/LePR6yW
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -9271,4 +9353,20 @@
 1 CHAN
 2 DATE 7 JAN 2025
 3 TIME 09:54:43
+0 @O0180@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Cesare_Caproni_Maria_Palmadori_1898.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Cesare_Caproni_Maria_Palmadori_1898
+1 NOTE @N0107@
+1 CHAN
+2 DATE 10 JAN 2025
+3 TIME 10:13:17
+0 @O0181@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Angela_Pecci_Giovanni_Gobbi_1889.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Angela_Pecci_Giovanni_Gobbi_1889
+1 NOTE @N0108@
+1 CHAN
+2 DATE 10 JAN 2025
+3 TIME 10:30:19
 0 TRLR

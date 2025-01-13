@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 10 JAN 2025
-2 TIME 13:02:34
+1 DATE 13 JAN 2025
+2 TIME 01:25:47
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -28,9 +28,10 @@
 4 LONG E12.641389
 1 FAMC @F0000@
 2 PEDI birth
+1 OBJE @O0053@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 JAN 2025
+3 TIME 23:57:15
 0 @I0001@ INDI
 1 NAME Ornella /Ortenzi/
 2 TYPE birth
@@ -46,9 +47,10 @@
 1 FAMC @F0000@
 2 PEDI birth
 1 FAMS @F0091@
+1 OBJE @O0053@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 JAN 2025
+3 TIME 23:57:48
 0 @I0002@ INDI
 1 NAME Osvaldo /Ortenzi/
 2 TYPE birth
@@ -66,12 +68,13 @@
 1 FAMS @F0000@
 1 OBJE @O0043@
 1 OBJE @O0057@
+1 OBJE @O0053@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY2F-TJ6
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 JAN 2025
+3 TIME 23:58:21
 0 @I0003@ INDI
 1 NAME Vania /Camilluzzi/
 2 TYPE birth
@@ -480,11 +483,18 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+2 NOTE @N0113@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
+2 SOUR @S0071@
+3 DATA
+4 DATE 2025
 1 DEAT
 2 DATE 24 AUG 1945
+2 SOUR @S0071@
+3 DATA
+4 DATE 2025
 1 RESI
 2 DATE ABT 1920
 2 PLAC Collazzone, Umbria
@@ -496,10 +506,11 @@
 3 DATA
 4 DATE 1920
 1 BURI
-2 PLAC Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
 3 MAP
-4 LATI N42.85205
-4 LONG E12.421896
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FACT colono
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -508,12 +519,13 @@
 1 FAMC @F0061@
 2 PEDI birth
 1 FAMS @F0004@
+1 OBJE @O0187@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-2Q2
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 17:31:04
+2 DATE 13 JAN 2025
+3 TIME 00:37:42
 0 @I0017@ INDI
 1 NAME Angela /Coletti/
 2 TYPE birth
@@ -527,8 +539,14 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+2 SOUR @S0071@
+3 DATA
+4 DATE 2025
 1 DEAT
 2 DATE 15 DEC 1974
+2 SOUR @S0071@
+3 DATA
+4 DATE 2025
 1 RESI
 2 DATE ABT 1920
 2 PLAC Pantalla, Todi, Umbria
@@ -539,10 +557,11 @@
 3 DATA
 4 DATE 1920
 1 BURI
-2 PLAC Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
 3 MAP
-4 LATI N42.85205
-4 LONG E12.421896
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0007@
@@ -552,13 +571,14 @@
 2 PEDI birth
 1 FAMS @F0063@
 1 FAMS @F0004@
+1 OBJE @O0186@
 1 OBJE @O0059@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-6WZ
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 17:31:20
+2 DATE 13 JAN 2025
+3 TIME 00:37:14
 0 @I0018@ INDI
 1 NAME Annunziata /Moretti/
 2 TYPE birth
@@ -574,16 +594,20 @@
 3 NOTE @N0061@
 1 DEAT
 2 DATE EST 2006
+1 BURI
+2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
+2 OBJE @O0195@
 1 FAMC @F0063@
 2 PEDI birth
 1 FAMS @F0005@
 1 OBJE @O0059@
+1 OBJE @O0196@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-J4C
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 21:45:42
+2 DATE 13 JAN 2025
+3 TIME 01:18:21
 0 @I0019@ INDI
 1 NAME Sergio /Grillo/
 2 TYPE birth
@@ -594,11 +618,14 @@
 2 DATE 1914
 1 DEAT
 2 DATE 19 MAY 2007
+1 BURI
+2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
 1 FAMS @F0005@
 1 OBJE @O0059@
+1 OBJE @O0196@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 13 JAN 2025
+3 TIME 01:18:44
 0 @I0020@ INDI
 1 NAME Costantino /Trovarelli/
 2 TYPE birth
@@ -610,30 +637,45 @@
 1 DEAT
 2 DATE 24 AUG 1945
 1 BURI
-2 PLAC Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
 3 MAP
-4 LATI N42.85205
-4 LONG E12.421896
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0006@
+1 OBJE @O0189@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 17:32:02
+2 DATE 13 JAN 2025
+3 TIME 00:49:39
 0 @I0021@ INDI
-1 NAME Maria /Ciaffi/
+1 NAME Maria /Ciofi/
 2 TYPE birth
 2 GIVN Maria
-2 SURN Ciaffi
+2 SURN Ciofi
 1 SEX F
 1 BIRT
-2 DATE 9 APR 1918
+2 DATE 4 SEP 1918
+2 SOUR @S0072@
+3 DATA
+4 DATE 2025
 1 DEAT
 2 DATE 4 MAR 2005
+2 SOUR @S0072@
+3 DATA
+4 DATE 2025
+1 BURI
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FAMS @F0006@
+1 OBJE @O0190@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 13 JAN 2025
+3 TIME 00:56:04
 0 @I0022@ INDI
 1 NAME Dino /Trovarelli/
 2 TYPE birth
@@ -641,13 +683,21 @@
 2 SURN Trovarelli
 1 SEX M
 1 BIRT
-2 DATE 1 JAN 1922
-1 DEAT Y
+2 DATE 8 MAR 1923
+2 SOUR @S0073@
+3 DATA
+4 DATE 2025
+1 DEAT
+2 DATE 1 OCT 2015
+2 SOUR @S0073@
+3 DATA
+4 DATE 2025
 1 BURI
-2 PLAC Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
 3 MAP
-4 LATI N42.85205
-4 LONG E12.421896
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0072@
@@ -886,6 +936,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 RESI
 2 DATE BET 1957 AND 1963
 2 PLAC Terni, Umbria
@@ -966,6 +1017,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 RESI
 2 DATE BET 1957 AND 1991
 2 PLAC Terni, Umbria
@@ -1103,6 +1155,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1149,6 +1202,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1159,6 +1213,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
 2 ADDR
@@ -1280,6 +1335,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 FACT campagnolo
 2 TYPE Occupation
 1 FACT agricoltore
@@ -1293,13 +1349,13 @@
 1 FAMC @F0016@
 2 PEDI birth
 1 FAMS @F0015@
-1 OBJE @O0168@
+1 OBJE @O0183@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-DZ3
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:48:36
+2 DATE 11 JAN 2025
+3 TIME 15:13:29
 0 @I0040@ INDI
 1 NAME Filomena /Pecci/
 2 TYPE birth
@@ -1312,6 +1368,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 NOTE @N0089@
 2 SOUR @S0053@
 3 DATA
@@ -1361,6 +1418,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 FACT campagnolo
 2 TYPE Occupation
 2 SOUR @S0050@
@@ -1416,6 +1474,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -2000,6 +2059,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0068@
 3 DATA
 4 DATE 1900
@@ -2453,6 +2513,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
@@ -3150,6 +3211,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0029@
 1 RESI
 2 DATE BET 1899 AND 1935
@@ -3167,6 +3229,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -4075,13 +4138,14 @@
 1 FAMC @F0067@
 2 PEDI birth
 1 FAMS @F0061@
+1 OBJE @O0184@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-Y6C
 1 NOTE @N0042@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 JAN 2025
+3 TIME 15:16:19
 0 @I0183@ INDI
 1 NAME Maria /Monacelli/
 2 TYPE birth
@@ -4688,15 +4752,33 @@
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
 0 @I0206@ INDI
-1 NAME Liliana //
+1 NAME Liliana /Angeloni/
 2 TYPE birth
 2 GIVN Liliana
+2 SURN Angeloni
 1 SEX F
+1 BIRT
+2 DATE 11 SEP 1930
+2 SOUR @S0074@
+3 DATA
+4 DATE 2025
+1 DEAT
+2 DATE 19 APR 2017
+2 SOUR @S0074@
+3 DATA
+4 DATE 2025
+1 BURI
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.85234
+4 LONG E12.422
+2 OBJE @O0185@
 1 FAMS @F0072@
 1 OBJE @O0056@
+1 OBJE @O0193@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 13 JAN 2025
+3 TIME 01:08:36
 0 @I0209@ INDI
 1 NAME Cesare /Caproni/
 2 TYPE birth
@@ -4709,6 +4791,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
@@ -6030,6 +6113,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0051@
 3 DATA
 4 DATE 1874
@@ -6058,6 +6142,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0052@
 3 DATA
 4 DATE 1862
@@ -6102,6 +6187,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 1 RESI
 2 TYPE Vocabolo Valleluva
 2 DATE BET 1867 AND 1869
@@ -6109,6 +6195,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0065@
 3 DATA
 4 DATE 1869
@@ -6141,13 +6228,13 @@
 1 FAMC @F0102@
 2 PEDI birth
 1 FAMS @F0100@
-1 OBJE @O0173@
+1 OBJE @O0182@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-8XZ
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:47:23
+2 DATE 11 JAN 2025
+3 TIME 15:08:57
 0 @I0290@ INDI
 1 NAME Luigi /Caproni/
 2 TYPE birth
@@ -6160,6 +6247,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -6183,6 +6271,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0057@
 3 DATA
 4 DATE 1893
@@ -6203,6 +6292,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0059@
 3 DATA
 4 DATE 1867
@@ -6244,6 +6334,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0060@
 3 DATA
 4 DATE 1877
@@ -6280,6 +6371,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -6311,6 +6403,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -6320,6 +6413,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0066@
 3 DATA
 4 DATE 1861
@@ -6343,6 +6437,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0063@
 3 DATA
 4 DATE 1862
@@ -6366,6 +6461,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0064@
 3 DATA
 4 DATE 1867
@@ -6422,6 +6518,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0065@
 3 DATA
 4 DATE 1869
@@ -6446,6 +6543,7 @@
 3 MAP
 4 LATI N42.6564
 4 LONG E12.5655
+3 NOTE @N0109@
 2 SOUR @S0067@
 3 DATA
 4 DATE 1900
@@ -7927,6 +8025,30 @@
 1 CHAN
 2 DATE 10 JAN 2025
 3 TIME 10:54:32
+0 @S0071@ SOUR
+1 TITL Tomba di Vittorio Trovarelli e Angela Coletti
+1 OBJE @O0188@
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:44:09
+0 @S0072@ SOUR
+1 TITL Tomba di Costantino Trovarelli e Maria Ciofi
+1 OBJE @O0191@
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:55:20
+0 @S0073@ SOUR
+1 TITL Tomba di Dino Trovarelli
+1 OBJE @O0192@
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:00:25
+0 @S0074@ SOUR
+1 TITL Tomba di Liliana Angeloni
+1 OBJE @O0194@
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:07:39
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -8046,6 +8168,9 @@
 0 @N0059@ NOTE - Stato civile e registri parrocchiali: https://www.umbriacultura.i
 1 CONC t/SebinaOpac/resource/ufficio-di-stato-civile/SAM9084746?tabDoc=tabconti
 1 CONC ene
+1 CONT - https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=c
+1 CONC omparc&Chiave=326742
+1 CONT 
 0 @N0060@ NOTE - Stato civile del Comune di Massa Martana: https://siusa-archivi.c
 1 CONC ultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=254283
 0 @N0061@ NOTE - Stato civile del Comune di Todi: https://siusa-archivi.cultura.go
@@ -8122,6 +8247,16 @@
 0 @N0106@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841465/wj6ZXWr
 0 @N0107@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838743/LpvKvAE
 0 @N0108@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838598/LePR6yW
+0 @N0109@ NOTE Comune indipendente fino al 1875, quando viene aggregato aggregat
+1 CONC o al comune di Cesi.
+1 CONT 
+1 CONT Nel 1927 Portaria e Cesi divennero frazioni del Comune di Terni. 
+1 CONT 
+1 CONT Nel 1929 Portaria divenne delegazione del Comune di Acquasparta.
+0 @N0110@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840602/wrMZokX/
+0 @N0111@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838665/0ZkRa4b
+0 @N0112@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QXS-4
+0 @N0113@ NOTE Nato il 18 marzo secondo la tomba.
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -9369,4 +9504,112 @@
 1 CHAN
 2 DATE 10 JAN 2025
 3 TIME 10:30:19
+0 @O0182@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Filippo_Pecci_1861.jpg
+2 FORM jpg
+2 TITL Firma_Filippo_Pecci_1861
+1 NOTE @N0110@
+1 CHAN
+2 DATE 11 JAN 2025
+3 TIME 15:08:53
+0 @O0183@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Giuseppe_Caproni_1893.jpg
+2 FORM jpg
+2 TITL Firma_Giuseppe_Caproni_1893
+1 NOTE @N0111@
+1 CHAN
+2 DATE 11 JAN 2025
+3 TIME 15:13:27
+0 @O0184@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Giuseppe_Trovarelli_1904.jpg
+2 FORM jpg
+2 TITL Firma_Giuseppe_Trovarelli_1904
+1 NOTE @N0112@
+1 CHAN
+2 DATE 11 JAN 2025
+3 TIME 15:16:17
+0 @O0185@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Cappella_di_Famiglia_Dino_Trovarelli_a.jpg
+2 FORM jpg
+2 TITL Cappella_di_Famiglia_Dino_Trovarelli_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:27:14
+0 @O0186@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Angela_Coletti_a.JPG
+2 FORM JPG
+2 TITL Tomba_Angela_Coletti_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:37:06
+0 @O0187@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Vittorio_Trovarelli_a.JPG
+2 FORM JPG
+2 TITL Tomba_Vittorio_Trovarelli_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:37:39
+0 @O0188@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Angela_Coletti_Vittorio_Trovarelli.jpg
+2 FORM jpg
+2 TITL Tomba_Angela_Coletti_Vittorio_Trovarelli
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:44:06
+0 @O0189@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Costantino_Trovarelli_b.JPG
+2 FORM JPG
+2 TITL Tomba_Costantino_Trovarelli_b
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:49:35
+0 @O0190@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Maria_Ciofi_a.JPG
+2 FORM JPG
+2 TITL Tomba_Maria_Ciofi_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:53:19
+0 @O0191@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Costantino_Trovarelli_Maria_Ciofi_b.jpg
+2 FORM jpg
+2 TITL Tomba_Costantino_Trovarelli_Maria_Ciofi_b
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 00:55:17
+0 @O0192@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Dino_Trovarelli_a.jpg
+2 FORM jpg
+2 TITL Tomba_Dino_Trovarelli_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:00:22
+0 @O0193@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Liliana_Angeloni_b.JPG
+2 FORM JPG
+2 TITL Tomba_Liliana_Angeloni_b
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:04:06
+0 @O0194@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Liliana_Angeloni_a.jpg
+2 FORM jpg
+2 TITL Tomba_Liliana_Angeloni_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:07:37
+0 @O0195@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Cappella_di_Famiglia_Moretti_e_Sergio_Grillo_b.jpg
+2 FORM jpg
+2 TITL Cappella_di_Famiglia_Moretti_e_Sergio_Grillo_b
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:17:23
+0 @O0196@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Cappella_di_Famiglia_Annunziata_Moretti_e_Sergio_Grillo_a.jpg
+2 FORM jpg
+2 TITL Cappella_di_Famiglia_Annunziata_Moretti_e_Sergio_Grillo_a
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 01:18:17
 0 TRLR

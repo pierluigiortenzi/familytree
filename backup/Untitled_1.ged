@@ -3,7 +3,7 @@
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
 1 DATE 13 JAN 2025
-2 TIME 01:25:47
+2 TIME 16:36:58
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -596,6 +596,11 @@
 2 DATE EST 2006
 1 BURI
 2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.8524
+4 LONG E12.42219
+3 NOTE @N0114@
+2 OBJE @O0195@
 2 OBJE @O0195@
 1 FAMC @F0063@
 2 PEDI birth
@@ -620,6 +625,11 @@
 2 DATE 19 MAY 2007
 1 BURI
 2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
+3 MAP
+4 LATI N42.8524
+4 LONG E12.42219
+3 NOTE @N0114@
+2 OBJE @O0195@
 1 FAMS @F0005@
 1 OBJE @O0059@
 1 OBJE @O0196@
@@ -4774,11 +4784,11 @@
 4 LONG E12.422
 2 OBJE @O0185@
 1 FAMS @F0072@
-1 OBJE @O0056@
 1 OBJE @O0193@
+1 OBJE @O0056@
 1 CHAN
 2 DATE 13 JAN 2025
-3 TIME 01:08:36
+3 TIME 01:31:20
 0 @I0209@ INDI
 1 NAME Cesare /Caproni/
 2 TYPE birth
@@ -8257,6 +8267,8 @@
 0 @N0111@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838665/0ZkRa4b
 0 @N0112@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QXS-4
 0 @N0113@ NOTE Nato il 18 marzo secondo la tomba.
+0 @N0114@ NOTE La tomba non ha nomi, date o altre indicazioni - forse per volont
+1 CONC à dei defunti.
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.

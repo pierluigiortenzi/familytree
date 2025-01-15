@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 13 JAN 2025
-2 TIME 16:36:58
+1 DATE 15 JAN 2025
+2 TIME 17:05:27
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -30,8 +30,8 @@
 2 PEDI birth
 1 OBJE @O0053@
 1 CHAN
-2 DATE 12 JAN 2025
-3 TIME 23:57:15
+2 DATE 14 JAN 2025
+3 TIME 12:07:34
 0 @I0001@ INDI
 1 NAME Ornella /Ortenzi/
 2 TYPE birth
@@ -257,8 +257,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:25:17
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0007@ INDI
 1 NAME Ester /Martinelli/
 2 TYPE birth
@@ -376,8 +376,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GF6T-HCS
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 15:39:05
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0011@ INDI
 1 NAME Peppina /Ortenzi/
 2 TYPE birth
@@ -387,12 +387,16 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0012@ INDI
 1 NAME Flora /Ortenzi/
 2 TYPE birth
 2 GIVN Flora
+2 SURN Ortenzi
+1 NAME Florida /Ortenzi/
+2 TYPE aka
+2 GIVN Florida
 2 SURN Ortenzi
 1 SEX F
 1 BIRT
@@ -403,8 +407,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-4LW
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0013@ INDI
 1 NAME Federico /Ortenzi/
 2 TYPE birth
@@ -420,6 +424,15 @@
 2 SOUR @S0016@
 3 DATA
 4 DATE 1906
+1 RESI
+2 DATE 1906
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0016@
+3 DATA
+4 DATE 1906
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0070@
@@ -427,8 +440,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-JFG
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:14:25
 0 @I0014@ INDI
 1 NAME Clotilde /Ortenzi/
 2 TYPE birth
@@ -444,8 +457,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF3-3J8
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0015@ INDI
 1 NAME Alfredo /Ortenzi/
 2 TYPE birth
@@ -462,8 +475,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G9B8-QX4
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @I0016@ INDI
 1 NAME Vittorio /Trovarelli/
 2 TYPE birth
@@ -506,7 +519,7 @@
 3 DATA
 4 DATE 1920
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
@@ -520,12 +533,13 @@
 2 PEDI birth
 1 FAMS @F0004@
 1 OBJE @O0187@
+1 OBJE @O0197@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-2Q2
 1 CHAN
 2 DATE 13 JAN 2025
-3 TIME 00:37:42
+3 TIME 17:03:26
 0 @I0017@ INDI
 1 NAME Angela /Coletti/
 2 TYPE birth
@@ -557,7 +571,7 @@
 3 DATA
 4 DATE 1920
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
@@ -595,7 +609,7 @@
 1 DEAT
 2 DATE EST 2006
 1 BURI
-2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.8524
 4 LONG E12.42219
@@ -624,7 +638,7 @@
 1 DEAT
 2 DATE 19 MAY 2007
 1 BURI
-2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Grillo Sergio, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.8524
 4 LONG E12.42219
@@ -647,7 +661,7 @@
 1 DEAT
 2 DATE 24 AUG 1945
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
@@ -656,9 +670,12 @@
 2 PEDI birth
 1 FAMS @F0006@
 1 OBJE @O0189@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHH-8LX
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 00:49:39
+2 DATE 14 JAN 2025
+3 TIME 00:46:45
 0 @I0021@ INDI
 1 NAME Maria /Ciofi/
 2 TYPE birth
@@ -676,16 +693,19 @@
 3 DATA
 4 DATE 2025
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
 2 OBJE @O0185@
 1 FAMS @F0006@
 1 OBJE @O0190@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHH-7GC
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 00:56:04
+2 DATE 14 JAN 2025
+3 TIME 00:55:47
 0 @I0022@ INDI
 1 NAME Dino /Trovarelli/
 2 TYPE birth
@@ -703,7 +723,7 @@
 3 DATA
 4 DATE 2025
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
@@ -714,9 +734,12 @@
 1 OBJE @O0056@
 1 OBJE @O0057@
 1 OBJE @O0012@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMH4-59P
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 17:31:39
+2 DATE 14 JAN 2025
+3 TIME 00:47:58
 0 @I0023@ INDI
 1 NAME Mario /Trovarelli/
 2 TYPE birth
@@ -735,9 +758,12 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 OBJE @O0158@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHH-ML1
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 18:29:00
+2 DATE 14 JAN 2025
+3 TIME 00:54:15
 0 @I0024@ INDI
 1 NAME Alfio /Trovarelli/
 2 TYPE birth
@@ -2076,9 +2102,12 @@
 1 FAMC @F0076@
 2 PEDI birth
 1 FAMS @F0028@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/GBDQ-6QV
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:59:19
+2 DATE 14 JAN 2025
+3 TIME 02:01:38
 0 @I0086@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -3500,7 +3529,10 @@
 2 PLAC Casa di Giulio Camilluzzi, Pesciano, Todi, Umbria
 2 OBJE @O0128@
 1 BURI
-2 PLAC Cimitero di Pesciano, Pesciano, Todi, Umbria
+2 PLAC Cimitero di Pesciano-Montenero, Todi, Umbria
+3 MAP
+4 LATI N42.706891
+4 LONG E12.448255
 1 FAMC @F0008@
 2 PEDI birth
 1 OBJE @O0124@
@@ -3745,9 +3777,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-VJ8
+1 NOTE @N0116@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 12:35:44
 0 @I0168@ INDI
 1 NAME Amalia /Ortenzi/
 2 TYPE birth
@@ -4613,7 +4646,7 @@
 2 SURN Trovarelli
 1 SEX F
 1 BIRT
-2 DATE 1886
+2 DATE 30 MAR 1886
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -4632,7 +4665,7 @@
 2 SURN Trovarelli
 1 SEX F
 1 BIRT
-2 DATE 1888
+2 DATE 1 MAR 1888
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -4651,7 +4684,7 @@
 2 SURN Trovarelli
 1 SEX M
 1 BIRT
-2 DATE 1891
+2 DATE 26 APR 1891
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -4670,7 +4703,7 @@
 2 SURN Trovarelli
 1 SEX M
 1 BIRT
-2 DATE 1899
+2 DATE 17 MAY 1899
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -4680,8 +4713,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5Z-V1B
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 01:18:34
 0 @I0201@ INDI
 1 NAME Sante /Coletti/
 2 TYPE birth
@@ -4778,7 +4811,7 @@
 3 DATA
 4 DATE 2025
 1 BURI
-2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ripaioli, Todi, Umbria
+2 PLAC Cappella di Famiglia Trovarelli Dino, Cimitero di Ilci-Cacciano-Ripaioli, Todi, Umbria
 3 MAP
 4 LATI N42.85234
 4 LONG E12.422
@@ -4832,9 +4865,16 @@
 3 TIME 10:45:08
 0 @I0210@ INDI
 1 NAME Maria /Palmadori/
-2 TYPE birth
+2 TYPE aka
 2 GIVN Maria
 2 SURN Palmadori
+1 NAME Maria /Palmadoro/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Palmadoro
+2 SOUR @S0069@
+3 DATA
+4 DATE 1898
 1 SEX F
 1 BIRT
 2 DATE 31 MAY 1877
@@ -4864,8 +4904,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-5G7
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 13:01:58
+2 DATE 14 JAN 2025
+3 TIME 01:52:00
 0 @I0211@ INDI
 1 NAME Eugenia /Caproni/
 2 TYPE birth
@@ -4896,9 +4936,12 @@
 2 DATA
 3 DATE 2019
 1 OBJE @O0100@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHC-WW1
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:24:25
+2 DATE 14 JAN 2025
+3 TIME 01:55:40
 0 @I0212@ INDI
 1 NAME Tommaso /Caproni/
 2 TYPE birth
@@ -4922,9 +4965,12 @@
 2 DATA
 3 DATE 2019
 1 OBJE @O0109@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHC-CNQ
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:24:25
+2 DATE 14 JAN 2025
+3 TIME 01:54:48
 0 @I0213@ INDI
 1 NAME Alessandro /Bassetti/
 2 TYPE birth
@@ -5048,9 +5094,12 @@
 1 SOUR @S0028@
 2 DATA
 3 DATE 2019
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMHH-GDC
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:24:25
+2 DATE 14 JAN 2025
+3 TIME 01:56:19
 0 @I0221@ INDI
 1 NAME Rinaldo /Sciutti/
 2 TYPE birth
@@ -6580,6 +6629,37 @@
 1 CHAN
 2 DATE 10 JAN 2025
 3 TIME 12:16:54
+0 @I0306@ INDI
+1 NAME Doretta /Trovarelli/
+2 TYPE birth
+2 GIVN Doretta
+2 SURN Trovarelli
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMC @F0072@
+2 PEDI birth
+1 CHAN
+2 DATE 14 JAN 2025
+3 TIME 17:06:02
+0 @I0307@ INDI
+1 NAME Zelinda /Ortenzi/
+2 TYPE birth
+2 GIVN Zelinda
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 1874
+1 DEAT
+2 DATE 1932
+1 FAMC @F0003@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/GN5X-CCW
+1 CHAN
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6638,13 +6718,14 @@
 1 CHIL @I0011@
 1 CHIL @I0013@
 1 CHIL @I0010@
+1 CHIL @I0307@
 1 CHIL @I0012@
 1 CHIL @I0014@
 1 CHIL @I0006@
 1 CHIL @I0015@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 20:10:35
 0 @F0004@ FAM
 1 HUSB @I0016@
 1 WIFE @I0017@
@@ -7264,6 +7345,11 @@
 1 WIFE @I0171@
 1 MARR
 2 DATE 18 FEB 1906
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
 2 SOUR @S0016@
 3 DATA
 4 DATE 1906
@@ -7281,9 +7367,10 @@
 1 HUSB @I0022@
 1 WIFE @I0206@
 1 CHIL @I0204@
+1 CHIL @I0306@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 JAN 2025
+3 TIME 17:06:02
 0 @F0073@ FAM
 1 HUSB @I0101@
 1 WIFE @I0205@
@@ -8269,6 +8356,10 @@
 0 @N0113@ NOTE Nato il 18 marzo secondo la tomba.
 0 @N0114@ NOTE La tomba non ha nomi, date o altre indicazioni - forse per volont
 1 CONC à dei defunti.
+0 @N0115@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99WR-4H59?i=1103
+0 @N0116@ NOTE - Cercare atto di matrimonio (comune di Montecastrilli?) per trovar
+1 CONC e il nome dei genitori, e capire se erano vivi al momento del matrimonio
+1 CONC .
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -9624,4 +9715,12 @@
 1 CHAN
 2 DATE 13 JAN 2025
 3 TIME 01:18:17
+0 @O0197@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Vittorio_Trovarelli_1920.jpg
+2 FORM jpg
+2 TITL Firma_Vittorio_Trovarelli_1920
+1 NOTE @N0115@
+1 CHAN
+2 DATE 13 JAN 2025
+3 TIME 17:03:22
 0 TRLR

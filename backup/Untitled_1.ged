@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 15 JAN 2025
-2 TIME 17:05:27
+1 DATE 17 JAN 2025
+2 TIME 16:09:12
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2738,6 +2738,15 @@
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
+1 RESI
+2 TYPE Risiedeva nella casa dei genitori fino alla morte. Coordinate: 42.643737
+3 CONC 318082934, 12.475253477960173
+2 DATE BEF 1999
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
@@ -2751,8 +2760,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNX-5PT
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 00:39:02
+2 DATE 15 JAN 2025
+3 TIME 22:04:38
 0 @I0120@ INDI
 1 NAME Eugenio /Petrucci/
 2 TYPE birth
@@ -2824,11 +2833,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1940
+1 DEAT
+2 DATE ABT 2015
 1 FAMC @F0040@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 15 JAN 2025
+3 TIME 22:05:28
 0 @I0123@ INDI
 1 NAME Valentino /Petrucci/
 2 TYPE birth
@@ -3441,12 +3452,25 @@
 2 GIVN Ermete
 2 SURN Giovenanzi
 2 NICK Armede
-1 SEX M
-1 BIRT
-2 DATE CAL 1889
 2 SOUR @S0011@
 3 DATA
 4 DATE 1910
+1 NAME Ermete /Giovenazzi/
+2 TYPE aka
+2 GIVN Ermete
+2 SURN Giovenazzi
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1891
+2 SOUR @S0075@
+1 DEAT
+2 DATE 16 DEC 1965
+2 SOUR @S0075@
+1 BURI
+2 PLAC Cimitero di Pesciano-Montenero, Todi, Umbria
+3 MAP
+4 LATI N42.706891
+4 LONG E12.448255
 1 FACT possidente
 2 TYPE Occupation
 2 SOUR @S0011@
@@ -3454,27 +3478,44 @@
 4 DATE 1910
 1 FAMC @F0050@
 2 PEDI birth
+1 OBJE @O0199@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT3-YYV
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 17 JAN 2025
+3 TIME 14:52:02
 0 @I0155@ INDI
 1 NAME Sotero /Giovenanzi/
 2 TYPE birth
 2 GIVN Sotero
 2 SURN Giovenanzi
+1 NAME Sotero /Giovenazzi/
+2 TYPE aka
+2 GIVN Sotero
+2 SURN Giovenazzi
 1 SEX M
+1 BIRT
+2 DATE 7 MAY 1894
+2 SOUR @S0076@
+1 DEAT
+2 DATE 27 FEB 1971
+2 SOUR @S0076@
+1 BURI
+2 PLAC Cimitero di Pesciano-Montenero, Todi, Umbria
+3 MAP
+4 LATI N42.706891
+4 LONG E12.448255
 1 FAMC @F0050@
 2 PEDI birth
 1 FAMS @F0051@
+1 OBJE @O0201@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYTQ-311
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 17 JAN 2025
+3 TIME 15:06:23
 0 @I0156@ INDI
 1 NAME Giuliana //
 2 TYPE birth
@@ -4381,6 +4422,11 @@
 2 GIVN Gaspare
 2 SURN Sciamannini
 1 SEX M
+1 DEAT
+2 DATE BEF 1923
+2 SOUR @S0010@
+3 DATA
+4 DATE 1923
 1 FAMS @F0064@
 1 SOUR @S0010@
 2 DATA
@@ -4390,8 +4436,8 @@
 2 FILE https://www.familysearch.org/tree/person/GNTJ-1S3
 1 NOTE @N0038@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 16 JAN 2025
+3 TIME 15:29:15
 0 @I0188@ INDI
 1 NAME Anna //
 2 TYPE birth
@@ -4400,14 +4446,19 @@
 1 BIRT
 2 DATE BET 1805 AND 1835
 2 NOTE @N_stima_eta@
+1 DEAT
+2 DATE BEF 1923
+2 SOUR @S0010@
+3 DATA
+4 DATE 1923
 1 FAMS @F0064@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GNTJ-TCL
 1 NOTE @N0038@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 16 JAN 2025
+3 TIME 15:29:48
 0 @I0189@ INDI
 1 NAME Angelo /Pacifici/
 2 TYPE birth
@@ -8146,6 +8197,18 @@
 1 CHAN
 2 DATE 13 JAN 2025
 3 TIME 01:07:39
+0 @S0075@ SOUR
+1 TITL Tomba di Ermete Giovenazzi
+1 OBJE @O0198@
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 14:41:34
+0 @S0076@ SOUR
+1 TITL Tomba di Sotero Giovenazzi
+1 OBJE @O0200@
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 15:05:17
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9723,4 +9786,32 @@
 1 CHAN
 2 DATE 13 JAN 2025
 3 TIME 17:03:22
+0 @O0198@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Ermete_Giovenazzi_a.jpg
+2 FORM jpg
+2 TITL Tomba_Ermete_Giovenazzi_a
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 14:41:32
+0 @O0199@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Ermete_Giovenazzi_b.jpg
+2 FORM jpg
+2 TITL Tomba_Ermete_Giovenazzi_b
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 14:52:00
+0 @O0200@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Sotero_Giovenazzi_a.jpg
+2 FORM jpg
+2 TITL Tomba_Sotero_Giovenazzi_a
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 15:05:15
+0 @O0201@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Sotero_Giovenazzi_b.jpg
+2 FORM jpg
+2 TITL Tomba_Sotero_Giovenazzi_b
+1 CHAN
+2 DATE 17 JAN 2025
+3 TIME 15:06:21
 0 TRLR

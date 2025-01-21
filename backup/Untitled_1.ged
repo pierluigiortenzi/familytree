@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 18 JAN 2025
-2 TIME 04:59:44
+1 DATE 21 JAN 2025
+2 TIME 22:06:51
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -226,6 +226,14 @@
 3 DATA
 4 DATE 1913
 1 RESI
+2 TYPE Coordinate casa: 42.80199661921295, 12.497666702323825
+2 DATE AFT 1930
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+1 RESI
 2 DATE ABT 1932
 2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
@@ -257,8 +265,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 18 JAN 2025
+3 TIME 17:55:11
 0 @I0007@ INDI
 1 NAME Ester /Martinelli/
 2 TYPE birth
@@ -334,6 +342,14 @@
 2 SOUR @S0002@
 3 DATA
 4 DATE 1908
+1 RESI
+2 TYPE Coordinate casa: 42.81188829769551, 12.503452448125806
+2 DATE BEF 1908
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
 1 FACT campagnolo
 2 TYPE Occupation
 2 SOUR @S0002@
@@ -346,8 +362,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-CZH
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 18 JAN 2025
+3 TIME 17:51:44
 0 @I0010@ INDI
 1 NAME Pietro /Ortenzi/
 2 TYPE birth
@@ -1724,6 +1740,21 @@
 2 GIVN Odoardo
 2 SURN Zara
 1 SEX M
+1 DEAT
+2 DATE 4 FEB 1973
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.565
+4 LONG E12.629
+2 ADDR
+3 ADR2 Cimitero di Terni
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
 1 FAMC @F0093@
 2 PEDI birth
 1 FAMS @F0020@
@@ -1731,8 +1762,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-WY6
 1 CHAN
-2 DATE 9 NOV 2024
-3 TIME 16:34:15
+2 DATE 21 JAN 2025
+3 TIME 22:04:13
 0 @I0056@ INDI
 1 NAME Adalgisa /Camilluzzi/
 2 TYPE birth
@@ -1770,12 +1801,32 @@
 2 GIVN Giovanni
 2 SURN Zara
 1 SEX M
+1 BIRT
+2 DATE 1923
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 26 APR 1981
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.565
+4 LONG E12.629
+2 ADDR
+3 ADR2 Cimitero di Terni
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
 1 FAMC @F0020@
 2 PEDI birth
 1 FAMS @F0024@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 JAN 2025
+3 TIME 21:58:25
 0 @I0059@ INDI
 1 NAME Lisetta /Zara/
 2 TYPE birth
@@ -1964,12 +2015,30 @@
 2 SURN Zara
 1 SEX M
 1 BIRT
-2 DATE 1956
+2 DATE 3 NOV 1955
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 DEAT
+2 DATE 18 OCT 2016
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.565
+4 LONG E12.629
+2 ADDR
+3 ADR2 Cimitero di Terni
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
 1 FAMC @F0024@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 JAN 2025
+3 TIME 21:54:30
 0 @I0076@ INDI
 1 NAME  /Ricci/
 2 TYPE birth
@@ -3517,19 +3586,32 @@
 2 DATE 17 JAN 2025
 3 TIME 15:06:23
 0 @I0156@ INDI
-1 NAME Giuliana //
+1 NAME Marianna /Palermi/
 2 TYPE birth
-2 GIVN Giuliana
+2 GIVN Marianna
+2 SURN Palermi
 1 SEX F
+1 BIRT
+2 DATE 26 MAY 1915
+2 SOUR @S0086@
+3 OBJE @O0222@
+1 DEAT
+2 DATE 24 AUG 1998
+1 BURI
+2 PLAC Cimitero di Pesciano-Montenero, Todi, Umbria
+3 MAP
+4 LATI N42.706891
+4 LONG E12.448255
 1 FAMS @F0051@
+1 OBJE @O0223@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 JAN 2025
+3 TIME 19:14:40
 0 @I0157@ INDI
-1 NAME Giuliana /Giovenanzi/
+1 NAME Giuliana /Palermi/
 2 TYPE birth
 2 GIVN Giuliana
-2 SURN Giovenanzi
+2 SURN Palermi
 1 SEX F
 1 ADOP Y
 2 FAMC @F0051@
@@ -3538,8 +3620,8 @@
 2 _FREL Adopted
 2 _MREL birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 JAN 2025
+3 TIME 19:09:48
 0 @I0158@ INDI
 1 NAME Marsilia /Camilluzzi/
 2 TYPE birth
@@ -8219,9 +8301,12 @@
 1 OBJE @O0095@
 1 OBJE @O0096@
 1 OBJE @O0097@
+1 OBJE @O0224@
+1 OBJE @O0225@
+1 OBJE @O0226@
 1 CHAN
-2 DATE 3 OCT 2024
-3 TIME 16:40:45
+2 DATE 21 JAN 2025
+3 TIME 22:03:43
 0 @S0031@ SOUR
 1 TITL Carta d'identità di Luigi Camilluzzi (1961)
 1 OBJE @O0101@
@@ -8577,6 +8662,11 @@
 1 CHAN
 2 DATE 18 JAN 2025
 3 TIME 04:39:20
+0 @S0086@ SOUR
+1 TITL Tomba di Marianna Palermi
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 19:12:15
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -10322,4 +10412,39 @@
 1 CHAN
 2 DATE 18 JAN 2025
 3 TIME 04:43:37
+0 @O0222@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Marianna_Palermi_ved_Giovenazzi_a.jpg
+2 FORM jpg
+2 TITL Marianna_Palermi_ved_Giovenazzi_a
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 19:12:28
+0 @O0223@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Marianna_Palermi_ved_Giovenazzi_b.jpg
+2 FORM jpg
+2 TITL Marianna_Palermi_ved_Giovenazzi_b
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 19:14:37
+0 @O0224@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Fausto.png
+2 FORM png
+2 TITL Aldilapp_Zara_Fausto
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 21:53:38
+0 @O0225@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Giovanni.png
+2 FORM png
+2 TITL Aldilapp_Zara_Giovanni
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 21:56:39
+0 @O0226@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Odoardo.png
+2 FORM png
+2 TITL Aldilapp_Zara_Odoardo
+1 CHAN
+2 DATE 21 JAN 2025
+3 TIME 22:03:41
 0 TRLR

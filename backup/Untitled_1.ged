@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 21 JAN 2025
-2 TIME 22:06:51
+1 DATE 27 JAN 2025
+2 TIME 08:09:32
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -607,8 +607,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-6WZ
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 00:37:14
+2 DATE 26 JAN 2025
+3 TIME 04:05:33
 0 @I0018@ INDI
 1 NAME Annunziata /Moretti/
 2 TYPE birth
@@ -641,8 +641,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-J4C
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 01:18:21
+2 DATE 26 JAN 2025
+3 TIME 04:05:57
 0 @I0019@ INDI
 1 NAME Sergio /Grillo/
 2 TYPE birth
@@ -664,8 +664,8 @@
 1 OBJE @O0059@
 1 OBJE @O0196@
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 01:18:44
+2 DATE 26 JAN 2025
+3 TIME 04:06:25
 0 @I0020@ INDI
 1 NAME Costantino /Trovarelli/
 2 TYPE birth
@@ -1191,9 +1191,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-8RV
+1 NOTE @N0117@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 22 JAN 2025
+3 TIME 21:04:31
 0 @I0033@ INDI
 1 NAME Quinto /Caproni/
 2 TYPE birth
@@ -1437,8 +1438,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-F91
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:33:38
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @I0041@ INDI
 1 NAME Tommaso /Caproni/
 2 TYPE birth
@@ -1585,8 +1586,8 @@
 1 FAMS @F0018@
 1 OBJE @O0059@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 26 JAN 2025
+3 TIME 04:06:51
 0 @I0046@ INDI
 1 NAME Luigino /Ortenzi/
 2 TYPE birth
@@ -3739,8 +3740,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF4-6GJ
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 18:29:51
+2 DATE 26 JAN 2025
+3 TIME 04:07:22
 0 @I0161@ INDI
 1 NAME Adelmo /Ortenzi/
 2 TYPE birth
@@ -3773,8 +3774,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF4-7XX
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 18:30:38
+2 DATE 26 JAN 2025
+3 TIME 04:07:41
 0 @I0162@ INDI
 1 NAME Italo /Mazzanti/
 2 TYPE birth
@@ -5091,6 +5092,13 @@
 2 SOUR @S0034@
 3 DATA
 4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Portaria, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.656
+4 LONG E12.561
+2 ADDR
+3 ADR2 Cimitero di Portaria
 1 FAMC @F0076@
 2 PEDI birth
 1 FAMS @F0079@
@@ -5102,8 +5110,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PMHC-CNQ
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 01:54:48
+2 DATE 21 JAN 2025
+3 TIME 22:37:46
 0 @I0213@ INDI
 1 NAME Alessandro /Bassetti/
 2 TYPE birth
@@ -5196,11 +5204,18 @@
 2 SOUR @S0034@
 3 DATA
 4 DATE 2024
+1 BURI
+2 PLAC Cimitero di Portaria, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.656
+4 LONG E12.561
+2 ADDR
+3 ADR2 Cimitero di Portaria
 1 FAMS @F0079@
 1 OBJE @O0100@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 JAN 2025
+3 TIME 22:36:31
 0 @I0219@ INDI
 1 NAME Alvaro /Caproni/
 2 TYPE birth
@@ -6513,9 +6528,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7R-RF3
+1 NOTE @N0120@
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:05:28
+2 DATE 27 JAN 2025
+3 TIME 06:45:30
 0 @I0294@ INDI
 1 NAME Emilio Giuliano Ilarione /Caproni/
 2 TYPE birth
@@ -6617,8 +6633,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-2KN
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:56:37
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @I0297@ INDI
 1 NAME Alessandro Gioacchino Nerio /Pecci/
 2 TYPE birth
@@ -6641,8 +6657,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-L4D
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 12:02:43
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @I0298@ INDI
 1 NAME Cesare /Pecci/
 2 TYPE birth
@@ -6665,8 +6681,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-2W2
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 12:06:34
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @I0299@ INDI
 1 NAME Luigi /Pecci/
 2 TYPE birth
@@ -6679,9 +6695,13 @@
 3 DATA
 4 DATE 1867
 1 FAMS @F0102@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMJL-Q7D
+1 NOTE @N0121@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:53:28
+2 DATE 27 JAN 2025
+3 TIME 07:48:10
 0 @I0300@ INDI
 1 NAME Felice /Manni/
 2 TYPE birth
@@ -6697,9 +6717,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-25L
+1 NOTE @N0118@
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 12:10:43
+2 DATE 26 JAN 2025
+3 TIME 08:20:46
 0 @I0301@ INDI
 1 NAME Angela /Pecci/
 2 TYPE birth
@@ -6723,8 +6744,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-BDX
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 12:13:44
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @I0302@ INDI
 1 NAME Egidio Luigi Paolo /Caproni/
 2 TYPE birth
@@ -7074,6 +7095,66 @@
 1 CHAN
 2 DATE 18 JAN 2025
 3 TIME 04:44:08
+0 @I0320@ INDI
+1 NAME Margherita /Pecci/
+2 TYPE birth
+2 GIVN Margherita
+2 SURN Pecci
+1 SEX F
+1 BIRT
+2 DATE 1858
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0087@
+3 DATA
+4 DATE 1884
+3 OBJE @O0227@
+1 RESI
+2 DATE ABT 1884
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0087@
+3 DATA
+4 DATE 1884
+3 OBJE @O0227@
+1 FAMC @F0100@
+2 PEDI birth
+1 FAMS @F0110@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMJL-MC2
+1 CHAN
+2 DATE 27 JAN 2025
+3 TIME 06:13:59
+0 @I0321@ INDI
+1 NAME Domenico /Caroli/
+2 TYPE birth
+2 GIVN Domenico
+2 SURN Caroli
+1 SEX M
+1 BIRT
+2 DATE 1861
+2 PLAC San Gemini, Umbria
+3 MAP
+4 LATI N42.611111
+4 LONG E12.545833
+2 SOUR @S0087@
+3 DATA
+4 DATE 1884
+3 OBJE @O0227@
+1 FAMS @F0110@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/tree/person/PMJ2-B3P
+1 CHAN
+2 DATE 27 JAN 2025
+3 TIME 06:15:35
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8007,14 +8088,15 @@
 0 @F0100@ FAM
 1 HUSB @I0289@
 1 WIFE @I0295@
+1 CHIL @I0320@
 1 CHIL @I0296@
 1 CHIL @I0297@
 1 CHIL @I0040@
 1 CHIL @I0298@
 1 CHIL @I0301@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:05:41
+2 DATE 27 JAN 2025
+3 TIME 06:07:02
 0 @F0101@ FAM
 1 HUSB @I0293@
 1 CHIL @I0042@
@@ -8080,6 +8162,23 @@
 1 CHAN
 2 DATE 18 JAN 2025
 3 TIME 03:33:06
+0 @F0110@ FAM
+1 HUSB @I0321@
+1 WIFE @I0320@
+1 MARR
+2 DATE 31 JAN 1884
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0087@
+3 DATA
+4 DATE 1884
+3 OBJE @O0227@
+1 CHAN
+2 DATE 27 JAN 2025
+3 TIME 06:13:59
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -8667,6 +8766,11 @@
 1 CHAN
 2 DATE 21 JAN 2025
 3 TIME 19:12:15
+0 @S0087@ SOUR
+1 TITL Atto di matrimonio di Margherita Pecci e Domenico Caroli (1884)
+1 CHAN
+2 DATE 27 JAN 2025
+3 TIME 06:06:21
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -8881,6 +8985,24 @@
 0 @N0116@ NOTE - Cercare atto di matrimonio (comune di Montecastrilli?) per trovar
 1 CONC e il nome dei genitori, e capire se erano vivi al momento del matrimonio
 1 CONC .
+0 @N0117@ NOTE Forse lo stesso Angelo morto nel 1904 a Magliano Sabina: https://an
+1 CONC tenati.cultura.gov.it/ark:/12657/an_ud933006 
+0 @N0118@ NOTE Moglie forse Veneranda Aurizi (vedi:
+1 CONT - atto di matrimonio di Giuseppe Manni, 1862;
+1 CONT - atto di matrimonio di Annibale Manni, 1873;
+1 CONT - atto di morte di Oliva Manni, 1873 - Giuseppe Manni come testimone;
+1 CONT - atto di morte di Bernardo Manni, 1897).
+1 CONT 
+1 CONT Altri riferimenti:
+1 CONT - atto di morte di Settimio Manni, 1874.
+0 @N0119@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838490/LePRZDV
+0 @N0120@ NOTE Moglie forse Maddalena Palmerini (vedi:
+1 CONT - atto di morte di Marco Sinolfi, 1873;
+1 CONT - atto di matrimonio di Maria Sinolfi, 1880;
+1 CONT - atto di matrimonio di Paolo Sinolfi, 1883;
+1 CONT - atto di matrimonio di Filomena Sinolfi, 1883).
+0 @N0121@ NOTE Moglie forse Maria Domenica Olivieri (morta prima del 1873) (vedi a
+1 CONC tto di morte di Giovanni Battista Pecci, 1873).
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -10447,4 +10569,12 @@
 1 CHAN
 2 DATE 21 JAN 2025
 3 TIME 22:03:41
+0 @O0227@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Margherita_Pecci_Domenico_Caroli_1884.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Margherita_Pecci_Domenico_Caroli_1884
+1 NOTE @N0119@
+1 CHAN
+2 DATE 27 JAN 2025
+3 TIME 06:05:18
 0 TRLR

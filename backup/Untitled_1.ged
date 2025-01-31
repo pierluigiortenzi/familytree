@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 27 JAN 2025
-2 TIME 08:09:32
+1 DATE 31 JAN 2025
+2 TIME 22:28:16
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -2644,13 +2644,13 @@
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0037@
-1 OBJE @O0117@
+1 OBJE @O0230@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYY3-QC2
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:46:28
+2 DATE 31 JAN 2025
+3 TIME 19:39:57
 0 @I0110@ INDI
 1 NAME Ottorino /Paiella/
 2 TYPE birth
@@ -2693,6 +2693,11 @@
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
+1 DEAT
+2 DATE 7 MAR 1965
+2 SOUR @S0039@
+3 DATA
+4 DATE 2024
 1 BURI
 2 PLAC Cimitero di Portaria, Portaria, Acquasparta, Umbria
 3 MAP
@@ -2701,14 +2706,14 @@
 2 ADDR
 3 ADR2 Cimitero di Portaria
 1 FAMS @F0037@
-1 OBJE @O0117@
+1 OBJE @O0229@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G14H-3TN
 1 NOTE @N0073@
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 01:01:42
+2 DATE 31 JAN 2025
+3 TIME 19:38:31
 0 @I0112@ INDI
 1 NAME Ivo /Caproni/
 2 TYPE birth
@@ -3595,7 +3600,6 @@
 1 BIRT
 2 DATE 26 MAY 1915
 2 SOUR @S0086@
-3 OBJE @O0222@
 1 DEAT
 2 DATE 24 AUG 1998
 1 BURI
@@ -4990,13 +4994,13 @@
 1 SOUR @S0028@
 2 DATA
 3 DATE 2019
-1 OBJE @O0107@
+1 OBJE @O0231@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7R-L6D
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 10:45:08
+2 DATE 31 JAN 2025
+3 TIME 19:48:16
 0 @I0210@ INDI
 1 NAME Maria /Palmadori/
 2 TYPE aka
@@ -5033,13 +5037,13 @@
 3 DATA
 4 DATE 1900
 1 FAMS @F0076@
-1 OBJE @O0107@
+1 OBJE @O0232@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-5G7
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 01:52:00
+2 DATE 31 JAN 2025
+3 TIME 19:49:47
 0 @I0211@ INDI
 1 NAME Eugenia /Caproni/
 2 TYPE birth
@@ -7111,7 +7115,6 @@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
-3 OBJE @O0227@
 1 RESI
 2 DATE ABT 1884
 2 PLAC Cesi, Terni, Umbria
@@ -7122,7 +7125,6 @@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
-3 OBJE @O0227@
 1 FAMC @F0100@
 2 PEDI birth
 1 FAMS @F0110@
@@ -7147,7 +7149,6 @@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
-3 OBJE @O0227@
 1 FAMS @F0110@
 1 OBJE
 2 FORM URL
@@ -8175,7 +8176,6 @@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
-3 OBJE @O0227@
 1 CHAN
 2 DATE 27 JAN 2025
 3 TIME 06:13:59
@@ -8464,9 +8464,10 @@
 1 TITL Tombe di Alceste Caproni e Maria Vallerini
 1 OBJE @O0116@
 1 OBJE @O0117@
+1 OBJE @O0228@
 1 CHAN
-2 DATE 4 NOV 2024
-3 TIME 17:22:00
+2 DATE 31 JAN 2025
+3 TIME 19:36:04
 0 @S0040@ SOUR
 1 TITL Tomba di Giacomo Michelini e Rosa Cricchi
 1 OBJE @O0118@
@@ -8763,14 +8764,16 @@
 3 TIME 04:39:20
 0 @S0086@ SOUR
 1 TITL Tomba di Marianna Palermi
+1 OBJE @O0233@
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 19:12:15
+2 DATE 31 JAN 2025
+3 TIME 20:17:39
 0 @S0087@ SOUR
 1 TITL Atto di matrimonio di Margherita Pecci e Domenico Caroli (1884)
+1 OBJE @O0227@
 1 CHAN
-2 DATE 27 JAN 2025
-3 TIME 06:06:21
+2 DATE 31 JAN 2025
+3 TIME 22:25:55
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -10577,4 +10580,46 @@
 1 CHAN
 2 DATE 27 JAN 2025
 3 TIME 06:05:18
+0 @O0228@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Maria_Vallerini_a.jpg
+2 FORM jpg
+2 TITL Tomba_Maria_Vallerini_a
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 19:36:02
+0 @O0229@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Maria_Vallerini_Foto.JPG
+2 FORM JPG
+2 TITL Maria_Vallerini_Foto
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 19:38:26
+0 @O0230@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Alceste_Caproni_foto.JPG
+2 FORM JPG
+2 TITL Alceste_Caproni_foto
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 19:39:54
+0 @O0231@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Cesare_Caproni_foto_a.JPG
+2 FORM JPG
+2 TITL Cesare_Caproni_foto_a
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 19:48:14
+0 @O0232@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Maria_Palmadori_n1877_foto.JPG
+2 FORM JPG
+2 TITL Maria_Palmadori_n1877_foto
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 19:49:45
+0 @O0233@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Marianna_Palermi_ved_Giovenazzi_a.jpg
+2 FORM jpg
+2 TITL Marianna_Palermi_ved_Giovenazzi_a
+1 CHAN
+2 DATE 31 JAN 2025
+3 TIME 20:17:37
 0 TRLR

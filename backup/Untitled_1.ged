@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 31 JAN 2025
-2 TIME 22:28:16
+1 DATE 1 FEB 2025
+2 TIME 15:28:09
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -1137,6 +1137,8 @@
 2 DATE 22 JUL 1865
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
@@ -1144,6 +1146,8 @@
 2 DATE 18 AUG 1935
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
@@ -1172,6 +1176,8 @@
 2 DATE 1858
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 1 FAMC @F0017@
 2 PEDI birth
 1 FAMS @F0010@
@@ -1554,6 +1560,8 @@
 3 NOTE @N0061@
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 1 FAMS @F0017@
 1 OBJE
 2 FORM URL
@@ -1705,10 +1713,11 @@
 1 BIRT
 2 DATE 1892
 1 DEAT
-2 DATE 1919
-2 SOUR @S0025@
+2 DATE 18 FEB 1919
+2 SOUR @S0089@
+3 PAGE Camilluzzi
 3 DATA
-4 DATE 2023
+4 DATE 2025
 1 FAMC @F0009@
 2 PEDI birth
 1 OBJE
@@ -2142,6 +2151,8 @@
 2 DATE 1904
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 1 DEAT
 2 DATE 1971
 1 FAMC @F0010@
@@ -2188,6 +2199,8 @@
 2 DATE 22 AUG 1928
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0048@
 3 DATA
 4 DATE 2024
@@ -2220,6 +2233,8 @@
 2 DATE 17 JUN 1931
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0040@
 3 DATA
 4 DATE 2024
@@ -2253,6 +2268,8 @@
 2 DATE 20 MAR 1934
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0038@
 3 DATA
 4 DATE 2024
@@ -2260,6 +2277,8 @@
 2 DATE 14 JAN 1984
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0038@
 3 DATA
 4 DATE 2024
@@ -2288,6 +2307,8 @@
 2 DATE 1940
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0034@
@@ -2305,6 +2326,8 @@
 2 DATE 1944
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0035@
@@ -2715,17 +2738,32 @@
 2 DATE 31 JAN 2025
 3 TIME 19:38:31
 0 @I0112@ INDI
-1 NAME Ivo /Caproni/
+1 NAME Olivo /Caproni/
 2 TYPE birth
-2 GIVN Ivo
+2 GIVN Olivo
 2 SURN Caproni
+2 NICK Ivo
 1 SEX M
+1 BIRT
+2 DATE 16 DEC 1930
+2 SOUR @S0088@
+1 DEAT
+2 DATE 25 MAY 1986
+2 SOUR @S0088@
+1 BURI
+2 PLAC Cimitero di Portaria, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.656
+4 LONG E12.561
+2 ADDR
+3 ADR2 Cimitero di Portaria
 1 FAMC @F0037@
 2 PEDI birth
 1 FAMS @F0038@
+1 OBJE @O0234@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 1 FEB 2025
+3 TIME 12:32:59
 0 @I0113@ INDI
 1 NAME Pierina /Primieri/
 2 TYPE birth
@@ -8774,6 +8812,24 @@
 1 CHAN
 2 DATE 31 JAN 2025
 3 TIME 22:25:55
+0 @S0088@ SOUR
+1 TITL Tomba di Olivo Caproni
+1 OBJE @O0235@
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 12:32:15
+0 @S0089@ SOUR
+1 TITL De Castro Farnectae (2025)
+1 AUTH Marco Corradi
+1 PUBL 979-8341008366
+1 OBJE @O0237@
+1 OBJE @O0238@
+1 OBJE @O0239@
+1 OBJE @O0240@
+1 OBJE @O0241@
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:50:25
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -10622,4 +10678,60 @@
 1 CHAN
 2 DATE 31 JAN 2025
 3 TIME 20:17:37
+0 @O0234@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Olivo_Caproni_b.JPG
+2 FORM JPG
+2 TITL Olivo_Caproni_b
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 12:29:02
+0 @O0235@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cimiteri\Tomba_Olivo_Caproni_a.JPG
+2 FORM JPG
+2 TITL Tomba_Olivo_Caproni_a
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 12:32:13
+0 @O0236@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p285_b.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p285_b
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:48:54
+0 @O0237@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_285_b.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p_285_b
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:49:38
+0 @O0238@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_290.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p_290
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:49:46
+0 @O0239@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_298_b.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p_298_b
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:49:55
+0 @O0240@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_303_a.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p_303_a
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:50:04
+0 @O0241@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_412_a.JPG
+2 FORM JPG
+2 TITL De_Castro_Farnectae_2025_p_412_a
+1 CHAN
+2 DATE 1 FEB 2025
+3 TIME 14:50:14
 0 TRLR

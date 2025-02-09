@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 1 FEB 2025
-2 TIME 15:28:09
+1 DATE 9 FEB 2025
+2 TIME 19:18:46
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -1266,13 +1266,13 @@
 3 DATA
 4 DATE 2024
 1 RESI
-2 TYPE Coordinate casa: 42.646964114280685, 12.549854236312598
 2 DATE ABT 2000
-2 PLAC Portaria, Acquasparta, Umbria
+2 PLAC Casa Caproni Quinto, Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
+4 LATI N42.646964
+4 LONG E12.549854
+2 OBJE @O0242@
+2 OBJE @O0243@
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
 2 ADDR
@@ -1472,12 +1472,20 @@
 3 DATA
 4 DATE 1898
 1 RESI
-2 DATE ABT 1870
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
+2 DATE BET 1867 AND 1870
+2 PLAC Frazione Vallerosa, Portaria, Acquasparta, Umbria
+2 SOUR @S0059@
+3 DATA
+4 DATE 1867
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+1 RESI
+2 DATE ABT 1874
+2 PLAC Vocabolo Casto Le Monache, Portaria, Acquasparta, Umbria
+2 SOUR @S0051@
+3 DATA
+4 DATE 1874
 1 FACT campagnolo
 2 TYPE Occupation
 2 SOUR @S0050@
@@ -1500,8 +1508,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-HQG
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:34:56
+2 DATE 9 FEB 2025
+3 TIME 18:16:17
 0 @I0042@ INDI
 1 NAME Maddalena /Sinolfi/
 2 TYPE birth
@@ -1537,6 +1545,21 @@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
+1 RESI
+2 DATE BET 1867 AND 1870
+2 PLAC Frazione Vallerosa, Portaria, Acquasparta, Umbria
+2 SOUR @S0059@
+3 DATA
+4 DATE 1867
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+1 RESI
+2 DATE ABT 1874
+2 PLAC Vocabolo Casto Le Monache, Portaria, Acquasparta, Umbria
+2 SOUR @S0051@
+3 DATA
+4 DATE 1874
 1 FAMC @F0101@
 2 PEDI birth
 1 FAMS @F0016@
@@ -1544,8 +1567,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYR4-YLZ
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:28:14
+2 DATE 9 FEB 2025
+3 TIME 18:16:45
 0 @I0043@ INDI
 1 NAME Giovanni /Michelini/
 2 TYPE birth
@@ -6440,19 +6463,17 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 1 RESI
-2 TYPE Vocabolo Valleluva
-2 DATE BET 1867 AND 1869
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
+2 DATE BET 1867 AND 1871
+2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
 2 SOUR @S0065@
 3 DATA
 4 DATE 1869
 2 SOUR @S0064@
 3 DATA
 4 DATE 1867
+2 SOUR @S0090@
+3 DATA
+4 DATE 1871
 1 RESI
 2 DATE ABT 1893
 2 PLAC Cesi, Terni, Umbria
@@ -6528,9 +6549,12 @@
 4 DATE 1893
 1 FAMC @F0015@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMG3-7SF
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:46:28
+2 DATE 3 FEB 2025
+3 TIME 18:39:02
 0 @I0292@ INDI
 1 NAME Angela /Caproni/
 2 TYPE birth
@@ -6628,6 +6652,18 @@
 3 DATA
 4 DATE 1861
 1 RESI
+2 DATE BET 1867 AND 1871
+2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
+2 SOUR @S0065@
+3 DATA
+4 DATE 1869
+2 SOUR @S0064@
+3 DATA
+4 DATE 1867
+2 SOUR @S0090@
+3 DATA
+4 DATE 1871
+1 RESI
 2 DATE ABT 1893
 2 PLAC Cesi, Terni, Umbria
 3 MAP
@@ -6641,8 +6677,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-XGW
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:48:32
+2 DATE 8 FEB 2025
+3 TIME 11:22:24
 0 @I0296@ INDI
 1 NAME Maria Felice Rosa /Pecci/
 2 TYPE birth
@@ -6709,11 +6745,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 MAR 1867
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
+2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
 2 SOUR @S0064@
 3 DATA
 4 DATE 1867
@@ -6771,11 +6803,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 MAY 1869
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
+2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
 2 SOUR @S0065@
 3 DATA
 4 DATE 1869
@@ -6806,9 +6834,12 @@
 4 DATE 1900
 1 FAMC @F0015@
 2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMGS-CZQ
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:46:28
+2 DATE 3 FEB 2025
+3 TIME 18:24:17
 0 @I0305@ INDI
 1 NAME Giovanni /Gobbi/
 2 TYPE birth
@@ -7194,6 +7225,49 @@
 1 CHAN
 2 DATE 27 JAN 2025
 3 TIME 06:15:35
+0 @I0322@ INDI
+1 NAME Serafina /Pecci/
+2 TYPE birth
+2 GIVN Serafina
+2 SURN Pecci
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1871
+2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
+2 SOUR @S0090@
+3 DATA
+4 DATE 1871
+1 FAMC @F0100@
+2 PEDI birth
+1 FAMS @F0111@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM5W-MFB
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:41:31
+0 @I0323@ INDI
+1 NAME Giovanni /Galeazzi/
+2 TYPE birth
+2 GIVN Giovanni
+2 SURN Galeazzi
+1 SEX M
+1 BIRT
+2 DATE 1853
+2 PLAC San Gemini, Umbria
+3 MAP
+4 LATI N42.611111
+4 LONG E12.545833
+2 SOUR @S0091@
+3 DATA
+4 DATE 1889
+1 FAMS @F0111@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM5W-P85
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:41:19
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8133,9 +8207,10 @@
 1 CHIL @I0040@
 1 CHIL @I0298@
 1 CHIL @I0301@
+1 CHIL @I0322@
 1 CHAN
-2 DATE 27 JAN 2025
-3 TIME 06:07:02
+2 DATE 8 FEB 2025
+3 TIME 11:14:10
 0 @F0101@ FAM
 1 HUSB @I0293@
 1 CHIL @I0042@
@@ -8217,6 +8292,22 @@
 1 CHAN
 2 DATE 27 JAN 2025
 3 TIME 06:13:59
+0 @F0111@ FAM
+1 HUSB @I0323@
+1 WIFE @I0322@
+1 MARR
+2 DATE 25 NOV 1889
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
+2 SOUR @S0091@
+3 DATA
+4 DATE 1889
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:41:19
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -8830,6 +8921,18 @@
 1 CHAN
 2 DATE 1 FEB 2025
 3 TIME 14:50:25
+0 @S0090@ SOUR
+1 TITL Atto di nascita di Serafina Pecci (1871)
+1 OBJE @O0244@
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:44:59
+0 @S0091@ SOUR
+1 TITL Atto di matrimonio di Giovanni Galeazzi e Serafina Pecci (1889)
+1 OBJE @O0245@
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:34:22
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9049,10 +9152,12 @@
 0 @N0118@ NOTE Moglie forse Veneranda Aurizi (vedi:
 1 CONT - atto di matrimonio di Giuseppe Manni, 1862;
 1 CONT - atto di matrimonio di Annibale Manni, 1873;
-1 CONT - atto di morte di Oliva Manni, 1873 - Giuseppe Manni come testimone;
+1 CONT - atto di morte di Oliva Manni, 1873 - Giuseppe Manni come testimone, zi
+1 CONC o di Oliva;
 1 CONT - atto di morte di Bernardo Manni, 1897).
 1 CONT 
 1 CONT Altri riferimenti:
+1 CONT - atto di matrimonio di Bernardo Manni, 1861;
 1 CONT - atto di morte di Settimio Manni, 1874.
 0 @N0119@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838490/LePRZDV
 0 @N0120@ NOTE Moglie forse Maddalena Palmerini (vedi:
@@ -9062,6 +9167,48 @@
 1 CONT - atto di matrimonio di Filomena Sinolfi, 1883).
 0 @N0121@ NOTE Moglie forse Maria Domenica Olivieri (morta prima del 1873) (vedi a
 1 CONC tto di morte di Giovanni Battista Pecci, 1873).
+0 @N0122@ NOTE In questo stesso periodo, arrivano a Farnetta anche i Camiluzzi, ch
+1 CONC e invece provengono da Magliano Sabina. Giovanni e Angelo Camiluzzi si t
+1 CONC rasferiscono nelle campagne farnettane per lavoro, e velocemente si impa
+1 CONC rentano con famiglie locali: gli Aquilini di Castel Todino, i Manni di D
+1 CONC unarobba ed i Venturi di Farnetta. Rimarranno a Farnetta fino alla fin
+1 CONC e degli anni Venti del XX secolo, quando l'ultimo discendente, Giulio Ca
+1 CONC milluzzi, dopo aver fatto fortuna per qualche anno all'estero, torna i
+1 CONC n Italia e acquista un podere ad Acquasparta. A Farnetta nasce, nel 1923
+1 CONC , l'unico figlio di Giulio, Luigi Camilluzzi.
+0 @N0123@ NOTE 1873-1878
+1 CONT 
+1 CONT Secondo un registro di contabilità della famiglia Nevi 803 nelle divers
+1 CONC e case di Farnetta (ci sono anche alcune case di poderi situati a Montec
+1 CONC astrilli e Dunarobba) di proprietà della famiglia vi sono i seguenti col
+1 CONC oni: Camilluzzi Angiolo [La Rena 804], [...]
+1 CONT 
+1 CONT 804 Dovrebbe trattarsi della casa al Vocabolo Zappa oggi detto del Monac
+1 CONC o.
+0 @N0124@ NOTE 1898
+1 CONT 
+1 CONT [...]
+1 CONT 
+1 CONT In questo periodo, un incendio si sviluppa al casale del Poggio di Angel
+1 CONC o Nevi. Vi lavora e vive in quel periodo Luigi Camilluzzi, che infermo p
+1 CONC er un problema di salute, non riesce a fuggire e muore in giovane età, l
+1 CONC asciando tre figli adolescenti Giulio, Giacomo e Margherita Camilluzzi
+1 CONC . Sua moglie Adeliade Manni, qualche anno dopo, sposerà, in seconde nozz
+1 CONC e, Felice Michelini, che da diversi anni si era trasferito a Farnetta d
+1 CONC a Montenero di Todi. Da Felice Michelini e Adeliade nascerà nel 1900 Enr
+1 CONC ico Michelini.
+0 @N0125@ NOTE 1919
+1 CONT 
+1 CONT L'epidemia di Spagnola arriva a Farnetta verso la fine del 1918 e dura p
+1 CONC er l'intero 1919, probabilmente portata dai soldati di ritorno dalla gue
+1 CONC rra. Gli effetti furono terribili, la mortalità a Farnetta raddoppia, pa
+1 CONC ssando da una media 6-7 decessi annui a 14 in un solo anno. Un'altra sve
+1 CONC ntura, dopo l'incendio dove mori Luigi a fine Ottocento, colpisce la fam
+1 CONC iglia Camilluzzi. A casa Camiluzzi muoiono in un solo giorno (18 febbrai
+1 CONC o 1919) due persone, tra cui il giovane Giacomo Camilluzzi di soli 27 an
+1 CONC ni. 
+0 @N0126@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840835/0MRdaG2
+0 @N0127@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838598/5GvAMXv
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
 1 CONC l figlio/a.
@@ -10692,41 +10839,38 @@
 1 CHAN
 2 DATE 1 FEB 2025
 3 TIME 12:32:13
-0 @O0236@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p285_b.JPG
-2 FORM JPG
-2 TITL De_Castro_Farnectae_2025_p285_b
-1 CHAN
-2 DATE 1 FEB 2025
-3 TIME 14:48:54
 0 @O0237@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_285_b.JPG
 2 FORM JPG
 2 TITL De_Castro_Farnectae_2025_p_285_b
+1 NOTE @N0122@
 1 CHAN
 2 DATE 1 FEB 2025
-3 TIME 14:49:38
+3 TIME 17:33:08
 0 @O0238@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_290.JPG
 2 FORM JPG
 2 TITL De_Castro_Farnectae_2025_p_290
+1 NOTE @N0123@
 1 CHAN
 2 DATE 1 FEB 2025
-3 TIME 14:49:46
+3 TIME 17:35:21
 0 @O0239@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_298_b.JPG
 2 FORM JPG
 2 TITL De_Castro_Farnectae_2025_p_298_b
+1 NOTE @N0124@
 1 CHAN
 2 DATE 1 FEB 2025
-3 TIME 14:49:55
+3 TIME 17:36:32
 0 @O0240@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_303_a.JPG
 2 FORM JPG
 2 TITL De_Castro_Farnectae_2025_p_303_a
+1 NOTE @N0125@
 1 CHAN
 2 DATE 1 FEB 2025
-3 TIME 14:50:04
+3 TIME 17:38:07
 0 @O0241@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\De_Castro_Farnectae_2025_p_412_a.JPG
 2 FORM JPG
@@ -10734,4 +10878,34 @@
 1 CHAN
 2 DATE 1 FEB 2025
 3 TIME 14:50:14
+0 @O0242@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Casa_Caproni_Quinto_2025_a.jpg
+2 FORM jpg
+2 TITL Casa_Caproni_Quinto_2025_a
+1 CHAN
+2 DATE 2 FEB 2025
+3 TIME 19:42:47
+0 @O0243@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Casa_Caproni_Quinto_2025_b.jpg
+2 FORM jpg
+2 TITL Casa_Caproni_Quinto_2025_b
+1 CHAN
+2 DATE 2 FEB 2025
+3 TIME 19:43:00
+0 @O0244@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Serafina_Pecci_1871.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Serafina_Pecci_1871
+1 NOTE @N0126@
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:13:53
+0 @O0245@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Giovanni_Galeazzi_Serafina_Pecci_1889.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Giovanni_Galeazzi_Serafina_Pecci_1889
+1 NOTE @N0127@
+1 CHAN
+2 DATE 8 FEB 2025
+3 TIME 11:34:16
 0 TRLR

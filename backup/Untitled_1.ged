@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 9 FEB 2025
-2 TIME 19:18:46
+1 DATE 11 FEB 2025
+2 TIME 20:02:08
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -69,12 +69,13 @@
 1 OBJE @O0043@
 1 OBJE @O0057@
 1 OBJE @O0053@
+1 OBJE @O0260@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY2F-TJ6
 1 CHAN
-2 DATE 12 JAN 2025
-3 TIME 23:58:21
+2 DATE 11 FEB 2025
+3 TIME 18:13:52
 0 @I0003@ INDI
 1 NAME Vania /Camilluzzi/
 2 TYPE birth
@@ -144,12 +145,18 @@
 1 OBJE @O0056@
 1 OBJE @O0008@
 1 OBJE @O0009@
+1 OBJE @O0254@
+1 OBJE @O0255@
+1 OBJE @O0256@
+1 OBJE @O0257@
+1 OBJE @O0258@
+1 OBJE @O0259@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 17:50:28
+2 DATE 11 FEB 2025
+3 TIME 18:11:17
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -763,7 +770,14 @@
 2 SURN Trovarelli
 1 SEX M
 1 BIRT
-2 DATE 1930
+2 DATE 1932
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0005@
+3 PAGE 1945
 1 DEAT
 2 DATE 2005
 1 RESI
@@ -773,13 +787,15 @@
 4 LONG E12.6178
 1 FAMC @F0004@
 2 PEDI birth
+1 FAMS @F0112@
 1 OBJE @O0158@
+1 OBJE @O0247@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PMHH-ML1
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 00:54:15
+2 DATE 11 FEB 2025
+3 TIME 19:08:37
 0 @I0024@ INDI
 1 NAME Alfio /Trovarelli/
 2 TYPE birth
@@ -1616,9 +1632,10 @@
 2 PEDI birth
 1 FAMS @F0018@
 1 OBJE @O0059@
+1 OBJE @O0247@
 1 CHAN
-2 DATE 26 JAN 2025
-3 TIME 04:06:51
+2 DATE 11 FEB 2025
+3 TIME 19:29:53
 0 @I0046@ INDI
 1 NAME Luigino /Ortenzi/
 2 TYPE birth
@@ -1632,9 +1649,12 @@
 1 FAMS @F0019@
 1 OBJE @O0043@
 1 OBJE @O0044@
+1 OBJE @O0260@
+1 OBJE @O0261@
+1 OBJE @O0247@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 FEB 2025
+3 TIME 19:08:06
 0 @I0047@ INDI
 1 NAME Luisa /Belloni/
 2 TYPE birth
@@ -1645,9 +1665,10 @@
 2 DATE 3 NOV 1978
 1 FAMC @F0018@
 2 PEDI birth
+1 OBJE @O0260@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 FEB 2025
+3 TIME 18:14:25
 0 @I0048@ INDI
 1 NAME Renzo /Belloni/
 2 TYPE birth
@@ -1657,9 +1678,10 @@
 1 BIRT
 2 DATE AUG 1946
 1 FAMS @F0018@
+1 OBJE @O0247@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 FEB 2025
+3 TIME 17:42:45
 0 @I0049@ INDI
 1 NAME Stefano /Belloni/
 2 TYPE birth
@@ -1724,9 +1746,10 @@
 1 BIRT
 2 DATE 14 OCT 1961
 1 FAMS @F0019@
+1 OBJE @O0260@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 FEB 2025
+3 TIME 18:12:56
 0 @I0053@ INDI
 1 NAME Giacomo /Camilluzzi/
 2 TYPE birth
@@ -7268,6 +7291,53 @@
 1 CHAN
 2 DATE 8 FEB 2025
 3 TIME 11:41:19
+0 @I0324@ INDI
+1 NAME Maria /Tarantini/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Tarantini
+1 SEX F
+1 FAMS @F0112@
+1 SOUR @S0092@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 05:28:50
+0 @I0325@ INDI
+1 NAME Adriana /Trovarelli/
+2 TYPE birth
+2 GIVN Adriana
+2 SURN Trovarelli
+1 SEX F
+1 FAMC @F0006@
+2 PEDI birth
+1 OBJE @O0261@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:47:48
+0 @I0326@ INDI
+1 NAME Laura /Trovarelli/
+2 TYPE birth
+2 GIVN Laura
+2 SURN Trovarelli
+1 SEX F
+1 FAMC @F0112@
+2 PEDI birth
+1 OBJE @O0261@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:50:03
+0 @I0327@ INDI
+1 NAME Vittorio /Trovarelli/
+2 TYPE birth
+2 GIVN Vittorio
+2 SURN Trovarelli
+1 SEX M
+1 FAMC @F0112@
+2 PEDI birth
+1 OBJE @O0247@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 19:09:53
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -7365,9 +7435,10 @@
 0 @F0006@ FAM
 1 HUSB @I0020@
 1 WIFE @I0021@
+1 CHIL @I0325@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 11 FEB 2025
+3 TIME 18:47:48
 0 @F0007@ FAM
 1 HUSB @I0025@
 1 WIFE @I0026@
@@ -8308,6 +8379,14 @@
 1 CHAN
 2 DATE 8 FEB 2025
 3 TIME 11:41:19
+0 @F0112@ FAM
+1 HUSB @I0023@
+1 WIFE @I0324@
+1 CHIL @I0326@
+1 CHIL @I0327@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:56:14
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -8933,6 +9012,12 @@
 1 CHAN
 2 DATE 8 FEB 2025
 3 TIME 11:34:22
+0 @S0092@ SOUR
+1 TITL Invito di matrimonio di Mario Trovarelli e Maria Tarantini
+1 OBJE @O0246@
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 05:28:39
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -10908,4 +10993,75 @@
 1 CHAN
 2 DATE 8 FEB 2025
 3 TIME 11:34:16
+0 @O0246@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Invito_matrimonio_Mario_Trovarelli_Maria_Tarantini.jpeg
+2 FORM jpeg
+2 TITL Invito_matrimonio_Mario_Trovarelli_Maria_Tarantini
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 05:28:37
+0 @O0247@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Ortenzi_Belloni_senza_data.jpg
+2 FORM jpg
+2 TITL Ortenzi_Belloni_senza_data
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 19:07:03
+0 @O0254@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Diario_Francesco_Ortenzi_1943_a.jpg
+2 FORM jpg
+2 TITL Diario_Francesco_Ortenzi_1943_a
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:09:45
+0 @O0255@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Diario_Francesco_Ortenzi_1943_b.jpg
+2 FORM jpg
+2 TITL Diario_Francesco_Ortenzi_1943_b
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:10:36
+0 @O0256@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libretto_personale_Francesco_Ortenzi_a.jpg
+2 FORM jpg
+2 TITL Libretto_personale_Francesco_Ortenzi_a
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:10:47
+0 @O0257@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libretto_personale_Francesco_Ortenzi_b.jpg
+2 FORM jpg
+2 TITL Libretto_personale_Francesco_Ortenzi_b
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:10:56
+0 @O0258@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libretto_personale_Francesco_Ortenzi_c.jpg
+2 FORM jpg
+2 TITL Libretto_personale_Francesco_Ortenzi_c
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:11:04
+0 @O0259@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libretto_personale_Francesco_Ortenzi_d.jpg
+2 FORM jpg
+2 TITL Libretto_personale_Francesco_Ortenzi_d
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:11:11
+0 @O0260@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Osvaldo_Luigino_Ortenzi_Patrizia_Piervisani_Luisa_Belloni_c_1983.jpg
+2 FORM jpg
+2 TITL Osvaldo_Luigino_Ortenzi_Patrizia_Piervisani_Luisa_Belloni_c_1983
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:12:52
+0 @O0261@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Adriana_Trovarelli_di_Costantino_Laura_Trovarelli_di_Mario_Luigino_Ortenzi.jpg
+2 FORM jpg
+2 TITL Adriana_Trovarelli_di_Costantino_Laura_Trovarelli_di_Mario_Luigino_Orten
+3 CONC zi
+1 CHAN
+2 DATE 11 FEB 2025
+3 TIME 18:49:11
 0 TRLR

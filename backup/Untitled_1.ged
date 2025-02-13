@@ -3,7 +3,7 @@
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
 1 DATE 13 FEB 2025
-2 TIME 03:33:25
+2 TIME 05:47:13
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -7593,15 +7593,15 @@
 3 DATA
 4 DATE 1922
 1 RESI
-2 DATE ABT 1913
+2 DATE AFT 1907
 2 PLAC Magliano Sabina, Lazio
 3 MAP
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
-2 SOUR @S0094@
+2 SOUR @S0097@
 3 DATA
-4 DATE 1913
+4 DATE 1907
 1 FACT contadino
 2 TYPE Occupation
 2 SOUR @S0094@
@@ -7639,15 +7639,15 @@
 3 DATA
 4 DATE 1913
 1 RESI
-2 DATE ABT 1913
+2 DATE AFT 1907
 2 PLAC Magliano Sabina, Lazio
 3 MAP
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
-2 SOUR @S0094@
+2 SOUR @S0097@
 3 DATA
-4 DATE 1913
+4 DATE 1907
 1 FAMS @F0115@
 1 SOUR @S0089@
 2 PAGE Camilluzzi
@@ -7696,7 +7696,7 @@
 2 FILE https://www.familysearch.org/en/tree/person/GY19-MRJ
 1 CHAN
 2 DATE 13 FEB 2025
-3 TIME 01:08:49
+3 TIME 05:37:57
 0 @I0337@ INDI
 1 NAME Costantino /Venturi/
 2 TYPE birth
@@ -7716,6 +7716,53 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 01:08:08
+0 @I0338@ INDI
+1 NAME Margherita /Camilluzzi/
+2 TYPE birth
+2 GIVN Margherita
+2 SURN Camilluzzi
+1 SEX F
+1 BIRT
+2 DATE 1887
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0097@
+3 DATA
+4 DATE 1907
+1 FAMC @F0115@
+2 PEDI birth
+1 FAMS @F0117@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTX-XZC
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 05:41:41
+0 @I0339@ INDI
+1 NAME Pasquale /Menghi/
+2 TYPE birth
+2 GIVN Pasquale
+2 SURN Menghi
+1 SEX M
+1 BIRT
+2 DATE 1880
+2 PLAC Otricoli, Umbria
+3 MAP
+4 LATI N42.4184
+4 LONG E12.4832
+2 SOUR @S0097@
+3 DATA
+4 DATE 1907
+1 FAMS @F0117@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTF-WZR
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 05:41:23
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8785,16 +8832,33 @@
 0 @F0115@ FAM
 1 HUSB @I0334@
 1 WIFE @I0335@
+1 CHIL @I0338@
 1 CHIL @I0336@
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 23:40:04
+2 DATE 13 FEB 2025
+3 TIME 05:37:57
 0 @F0116@ FAM
 1 HUSB @I0337@
 1 WIFE @I0333@
 1 CHAN
 2 DATE 12 FEB 2025
 3 TIME 23:41:56
+0 @F0117@ FAM
+1 HUSB @I0339@
+1 WIFE @I0338@
+1 MARR
+2 DATE 17 FEB 1907
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+2 SOUR @S0097@
+3 DATA
+4 DATE 1907
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 05:41:23
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9450,6 +9514,12 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 02:10:03
+0 @S0097@ SOUR
+1 TITL Atto di matrimonio di Pasquale Menghi e Margherita Camilluzzi (1907)
+1 OBJE @O0266@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 05:37:37
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9741,6 +9811,7 @@
 1 CONC aly
 1 CONT - Pagina SIUSA: https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagin
 1 CONC a.pl?TipoPag=comparc&Chiave=153433 
+0 @N0136@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua932644/LexjgKD
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
@@ -11527,4 +11598,12 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 02:10:02
+0 @O0266@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Pasquale_Menghi_Margherita_Camilluzzi_1907.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Pasquale_Menghi_Margherita_Camilluzzi_1907
+1 NOTE @N0136@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 05:37:35
 0 TRLR

@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 11 FEB 2025
-2 TIME 20:02:08
+1 DATE 13 FEB 2025
+2 TIME 03:33:25
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -781,7 +781,7 @@
 1 DEAT
 2 DATE 2005
 1 RESI
-2 PLAC Monterotondo
+2 PLAC Monterotondo, Lazio
 3 MAP
 4 LATI N42.0503
 4 LONG E12.6178
@@ -1005,6 +1005,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 1 RESI
 2 DATE BET 1957 AND 1963
 2 PLAC Terni, Umbria
@@ -1086,6 +1087,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 1 RESI
 2 DATE BET 1957 AND 1991
 2 PLAC Terni, Umbria
@@ -1122,27 +1124,32 @@
 2 SURN Camilluzzi
 1 SEX M
 1 DEAT
-2 DATE 1898
+2 DATE BET 1898 AND 1901
 2 PLAC Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6483
 4 LONG E12.4512
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
 1 RESI
 2 DATE FROM 1889 TO 1898
 2 PLAC Casa di Luigi Camilluzzi, Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.651692
 4 LONG E12.450354
-1 FAMC @F0011@
+1 FAMC @F0114@
 2 PEDI birth
 1 FAMS @F0009@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-7Z5
+1 NOTE @N0130@
 1 NOTE @N0068@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 FEB 2025
+3 TIME 23:35:35
 0 @I0030@ INDI
 1 NAME Adelaide /Manni/
 2 TYPE birth
@@ -1179,9 +1186,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-Z4J
+1 NOTE @N0129@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:32:55
+2 DATE 12 FEB 2025
+3 TIME 22:59:50
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1204,19 +1212,50 @@
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
 0 @I0032@ INDI
-1 NAME Angiolo /Camilluzzi/
+1 NAME Angelo /Camilluzzi/
 2 TYPE birth
-2 GIVN Angiolo
+2 GIVN Angelo
 2 SURN Camilluzzi
+2 NICK Angiolo
 1 SEX M
+1 BIRT
+2 DATE 1823
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 DEAT
+2 DATE 25 NOV 1904
+2 PLAC Contrada Rocchette, Magliano Sabina, Lazio
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 RESI
+2 DATE FROM 1873 TO 1878
+2 PLAC Podere La Rena, Farnetta, Montecastrilli, Umbria
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 FAMC @F0113@
+2 PEDI birth
 1 FAMS @F0011@
 1 OBJE
 2 FORM URL
-2 FILE https://www.familysearch.org/tree/person/GYRH-8RV
+2 FILE https://www.familysearch.org/en/tree/person/GY19-L22
 1 NOTE @N0117@
 1 CHAN
-2 DATE 22 JAN 2025
-3 TIME 21:04:31
+2 DATE 13 FEB 2025
+3 TIME 02:12:20
 0 @I0033@ INDI
 1 NAME Quinto /Caproni/
 2 TYPE birth
@@ -1231,6 +1270,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1278,6 +1318,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1411,6 +1452,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 1 FACT campagnolo
 2 TYPE Occupation
 1 FACT agricoltore
@@ -1444,6 +1486,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 NOTE @N0089@
 2 SOUR @S0053@
 3 DATA
@@ -1558,6 +1601,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -1744,7 +1788,7 @@
 2 SURN Piervisani
 1 SEX F
 1 BIRT
-2 DATE 14 OCT 1961
+2 DATE 19 OCT 1961
 1 FAMS @F0019@
 1 OBJE @O0260@
 1 CHAN
@@ -1835,10 +1879,13 @@
 1 FAMC @F0074@
 2 PEDI birth
 1 FAMS @F0021@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTD-FWS
 1 NOTE @N0066@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 22:33:33
+2 DATE 13 FEB 2025
+3 TIME 00:36:07
 0 @I0057@ INDI
 1 NAME Giacomo /Zara/
 2 TYPE birth
@@ -2223,6 +2270,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0068@
 3 DATA
 4 DATE 1900
@@ -2692,6 +2740,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
@@ -3421,6 +3470,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0029@
 1 RESI
 2 DATE BET 1899 AND 1935
@@ -3439,6 +3489,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -4131,12 +4182,8 @@
 3 DATA
 4 DATE 1875
 1 DEAT
-2 TYPE Voc. Casella
 2 DATE 14 SEP 1875
-2 PLAC Ficareto, Todi, Umbria
-3 MAP
-4 LATI N42.8102
-4 LONG E12.4904
+2 PLAC Voc. Casella, Ficareto, Todi, Umbria
 2 SOUR @S0019@
 3 DATA
 4 DATE 1875
@@ -5057,6 +5104,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
@@ -6025,7 +6073,6 @@
 4 LATI N51.751944
 4 LONG W1.257778
 2 ADDR
-3 CITY Oxford
 3 CTRY Inghilterra
 1 FAMC @F0091@
 2 PEDI birth
@@ -6411,6 +6458,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0051@
 3 DATA
 4 DATE 1874
@@ -6440,6 +6488,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0052@
 3 DATA
 4 DATE 1862
@@ -6485,6 +6534,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 1 RESI
 2 DATE BET 1867 AND 1871
 2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
@@ -6543,6 +6593,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -6567,6 +6618,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0057@
 3 DATA
 4 DATE 1893
@@ -6591,6 +6643,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0059@
 3 DATA
 4 DATE 1867
@@ -6634,6 +6687,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0060@
 3 DATA
 4 DATE 1877
@@ -6671,6 +6725,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -6715,6 +6770,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -6725,6 +6781,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0066@
 3 DATA
 4 DATE 1861
@@ -6749,6 +6806,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0063@
 3 DATA
 4 DATE 1862
@@ -6852,6 +6910,7 @@
 4 LATI N42.6564
 4 LONG E12.5655
 3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0067@
 3 DATA
 4 DATE 1900
@@ -7332,12 +7391,331 @@
 2 GIVN Vittorio
 2 SURN Trovarelli
 1 SEX M
+1 DEAT
+2 DATE BEF 2025
 1 FAMC @F0112@
 2 PEDI birth
 1 OBJE @O0247@
 1 CHAN
 2 DATE 11 FEB 2025
-3 TIME 19:09:53
+3 TIME 20:21:24
+0 @I0328@ INDI
+1 NAME Fedele /Camilluzzi/
+2 TYPE birth
+2 GIVN Fedele
+2 SURN Camilluzzi
+1 SEX M
+1 DEAT
+2 DATE BEF 1904
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 RESI
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 FAMS @F0113@
+1 SOUR @S0089@
+2 PAGE Camilluzzi
+2 DATA
+3 DATE 2025
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY19-PTG
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:18:02
+0 @I0329@ INDI
+1 NAME Giovanni /Camilluzzi/
+2 TYPE birth
+2 GIVN Giovanni
+2 SURN Camilluzzi
+1 SEX M
+1 DEAT
+2 DATE 1863
+2 SOUR @S0025@
+3 DATA
+4 DATE 2023
+1 RESI
+2 DATE ABT 1865
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+1 FAMC @F0113@
+2 PEDI birth
+1 FAMS @F0114@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMT8-ZN8
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 00:46:08
+0 @I0330@ INDI
+1 NAME Anna Maria /Quaglietti/
+2 TYPE birth
+2 GIVN Anna Maria
+2 SURN Quaglietti
+1 SEX F
+1 BIRT
+2 DATE BET 1779 AND 1809
+2 NOTE @N_stima_eta@
+1 DEAT
+2 DATE BEF 1904
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 RESI
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+1 FACT contadina
+2 TYPE Occupation
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 FAMS @F0113@
+1 SOUR @S0089@
+2 PAGE Camilluzzi
+2 DATA
+3 DATE 2025
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY19-XMW
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:17:31
+0 @I0331@ INDI
+1 NAME Maria //
+2 TYPE birth
+2 GIVN Maria
+1 SEX F
+1 FAMS @F0114@
+1 SOUR @S0089@
+2 PAGE Camilluzzi
+2 DATA
+3 DATE 2025
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMT8-PCH
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:10:12
+0 @I0332@ INDI
+1 NAME Maria /Sabatini/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Sabatini
+1 SEX F
+1 BIRT
+2 DATE BET 1812 AND 1841
+2 NOTE @N_stima_eta@
+1 DEAT
+2 DATE BEF 1904
+2 SOUR @S0096@
+3 DATA
+4 DATE 1904
+1 FAMS @F0011@
+1 SOUR @S0089@
+2 PAGE Camilluzzi
+2 DATA
+3 DATE 2025
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY19-G5F
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:20:30
+0 @I0333@ INDI
+1 NAME Bibiana /Camilluzzi/
+2 TYPE birth
+2 GIVN Bibiana
+2 SURN Camilluzzi
+1 SEX F
+1 BIRT
+2 DATE 1855
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+1 DEAT
+2 DATE 1915
+2 SOUR @S0027@
+3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0116@
+1 CHAN
+2 DATE 12 FEB 2025
+3 TIME 23:41:56
+0 @I0334@ INDI
+1 NAME Carlo /Camilluzzi/
+2 TYPE birth
+2 GIVN Carlo
+2 SURN Camilluzzi
+1 SEX M
+1 BIRT
+2 DATE 1856
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+2 SOUR @S0093@
+3 DATA
+4 DATE 1922
+1 DEAT
+2 DATE 22 JAN 1922
+2 PLAC Contrada Rocchette, Magliano Sabina, Lazio
+2 SOUR @S0093@
+3 DATA
+4 DATE 1922
+1 RESI
+2 DATE ABT 1913
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+2 SOUR @S0094@
+3 DATA
+4 DATE 1913
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0094@
+3 DATA
+4 DATE 1913
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0115@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY1M-T1G
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:47:01
+0 @I0335@ INDI
+1 NAME Maria /Acquilini/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Acquilini
+1 SEX F
+1 BIRT
+2 DATE 1858
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0095@
+3 DATA
+4 DATE 1913
+1 DEAT
+2 DATE 27 DEC 1913
+2 PLAC Contrada Rocchette, Magliano Sabina, Lazio
+2 SOUR @S0095@
+3 DATA
+4 DATE 1913
+1 RESI
+2 DATE ABT 1913
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+2 SOUR @S0094@
+3 DATA
+4 DATE 1913
+1 FAMS @F0115@
+1 SOUR @S0089@
+2 PAGE Camilluzzi
+2 DATA
+3 DATE 2025
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY1M-JGD
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:00:07
+0 @I0336@ INDI
+1 NAME Gioacchino /Camilluzzi/
+2 TYPE birth
+2 GIVN Gioacchino
+2 SURN Camilluzzi
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+2 SOUR @S0094@
+3 DATA
+4 DATE 1913
+1 DEAT
+2 DATE 11 FEB 1913
+2 PLAC Contrada Rocchette, Magliano Sabina, Lazio
+2 SOUR @S0094@
+3 DATA
+4 DATE 1913
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+1 FAMC @F0115@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GY19-MRJ
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:08:49
+0 @I0337@ INDI
+1 NAME Costantino /Venturi/
+2 TYPE birth
+2 GIVN Costantino
+2 SURN Venturi
+1 SEX M
+1 DEAT
+2 DATE 1919
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
+1 FAMS @F0116@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTD-2GD
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:08:08
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -7484,10 +7862,12 @@
 3 TIME 15:23:59
 0 @F0011@ FAM
 1 HUSB @I0032@
-1 CHIL @I0029@
+1 WIFE @I0332@
+1 CHIL @I0333@
+1 CHIL @I0334@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 FEB 2025
+3 TIME 23:37:52
 0 @F0012@ FAM
 1 HUSB @I0033@
 1 WIFE @I0034@
@@ -8387,6 +8767,34 @@
 1 CHAN
 2 DATE 11 FEB 2025
 3 TIME 18:56:14
+0 @F0113@ FAM
+1 HUSB @I0328@
+1 WIFE @I0330@
+1 CHIL @I0032@
+1 CHIL @I0329@
+1 CHAN
+2 DATE 12 FEB 2025
+3 TIME 23:08:53
+0 @F0114@ FAM
+1 HUSB @I0329@
+1 WIFE @I0331@
+1 CHIL @I0029@
+1 CHAN
+2 DATE 12 FEB 2025
+3 TIME 23:34:50
+0 @F0115@ FAM
+1 HUSB @I0334@
+1 WIFE @I0335@
+1 CHIL @I0336@
+1 CHAN
+2 DATE 12 FEB 2025
+3 TIME 23:40:04
+0 @F0116@ FAM
+1 HUSB @I0337@
+1 WIFE @I0333@
+1 CHAN
+2 DATE 12 FEB 2025
+3 TIME 23:41:56
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9018,6 +9426,30 @@
 1 CHAN
 2 DATE 11 FEB 2025
 3 TIME 05:28:39
+0 @S0093@ SOUR
+1 TITL Atto di morte di Carlo Camilluzzi (1922)
+1 OBJE @O0264@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 00:03:26
+0 @S0094@ SOUR
+1 TITL Atto di morte di Gioacchino Camilluzzi (1913)
+1 NOTE @N0132@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:39:01
+0 @S0095@ SOUR
+1 TITL Atto di morte di Maria Acquilini (1913)
+1 NOTE @N0133@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 01:58:34
+0 @S0096@ SOUR
+1 TITL Atto di morte di Angelo Camilluzzi (1904)
+1 OBJE @O0265@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:10:03
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9294,9 +9726,24 @@
 1 CONC ni. 
 0 @N0126@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840835/0MRdaG2
 0 @N0127@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37838598/5GvAMXv
+0 @N0128@ NOTE Fonti:
+1 CONT - Libri della Parrocchia dei Santi Giacomo e Filippo in Portaria di Acqu
+1 CONC asparta
+0 @N0129@ NOTE La famiglia è originaria di Dunarobba (Corradi 2025, p. 285).
+0 @N0130@ NOTE Secondo il file MacFamilyTree Luigi sarebbe invece figlio di Angiol
+1 CONC o.
+0 @N0131@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua934486/02q6jbG
+0 @N0132@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua933822/5KX66qd
+0 @N0133@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ud933879
+0 @N0134@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua932873/5BV22Rm
+0 @N0135@ NOTE - Cataloghi su FamilySearch: https://www.familysearch.org/en/search
+1 CONC /catalog/results?q.place=Magliano%20Sabina%2C%20Rieti%2C%20Lazio%2C%20It
+1 CONC aly
+1 CONT - Pagina SIUSA: https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagin
+1 CONC a.pl?TipoPag=comparc&Chiave=153433 
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
-0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni ed un massimo di 44 alla nascita de
-1 CONC l figlio/a.
+0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
+1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
 0 @O0000@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Elvira_Petrucci_1987.jpg
 2 FORM jpg
@@ -11064,4 +11511,20 @@
 1 CHAN
 2 DATE 11 FEB 2025
 3 TIME 18:49:11
+0 @O0264@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Carlo_Camilluzzi_1922.jpg
+2 FORM jpg
+2 TITL Atto_morte_Carlo_Camilluzzi_1922
+1 NOTE @N0131@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 00:03:24
+0 @O0265@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Angelo_Camilluzzi_1904.jpg
+2 FORM jpg
+2 TITL Atto_morte_Angelo_Camilluzzi_1904
+1 NOTE @N0134@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 02:10:02
 0 TRLR

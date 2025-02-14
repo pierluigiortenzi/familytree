@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 13 FEB 2025
-2 TIME 05:47:13
+1 DATE 14 FEB 2025
+2 TIME 08:25:51
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -828,11 +828,10 @@
 1 SEX M
 1 BIRT
 2 DATE 25 MAR 1923
-2 PLAC Montecastrilli, Umbria
+2 PLAC Farnetta, Montecastrilli, Umbria
 3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0024@
 3 DATA
 4 DATE 1923
@@ -873,6 +872,9 @@
 2 SOUR @S0031@
 3 DATA
 4 DATE 1961
+1 FACT 16054
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMS @F0007@
@@ -901,8 +903,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 17:47:56
+2 DATE 14 FEB 2025
+3 TIME 06:51:51
 0 @I0026@ INDI
 1 NAME Iolanda /Caproni/
 2 TYPE birth
@@ -1020,6 +1022,9 @@
 2 ADDR
 3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
+1 FACT 22667 BIS
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0009@
 2 PEDI birth
 1 FAMS @F0008@
@@ -1031,8 +1036,8 @@
 1 NOTE @N0048@
 1 NOTE @N0056@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:28:37
+2 DATE 14 FEB 2025
+3 TIME 06:56:26
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1283,6 +1288,9 @@
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
 2 ADDR
 3 ADR2 Cimitero di Portaria
+1 FACT 16639
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0012@
@@ -1293,8 +1301,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY58-KQ5
 1 NOTE @N0048@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:46:28
+2 DATE 14 FEB 2025
+3 TIME 07:05:46
 0 @I0034@ INDI
 1 NAME Elvira /Petrucci/
 2 TYPE birth
@@ -1808,14 +1816,17 @@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+1 FACT 29351 BIS
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0009@
 2 PEDI birth
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYTB-PWW
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:38:16
 0 @I0054@ INDI
 1 NAME Margherita /Camilluzzi/
 2 TYPE birth
@@ -1840,6 +1851,9 @@
 2 GIVN Odoardo
 2 SURN Zara
 1 SEX M
+1 BIRT
+2 DATE 1887
+2 SOUR @S0100@
 1 DEAT
 2 DATE 4 FEB 1973
 2 SOUR @S0030@
@@ -1855,6 +1869,8 @@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+1 FACT 18341 BIS
+2 TYPE N° matricola militare
 1 FAMC @F0093@
 2 PEDI birth
 1 FAMS @F0020@
@@ -1862,8 +1878,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-WY6
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 22:04:13
+2 DATE 14 FEB 2025
+3 TIME 07:24:32
 0 @I0056@ INDI
 1 NAME Adalgisa /Camilluzzi/
 2 TYPE birth
@@ -1892,12 +1908,18 @@
 2 GIVN Giacomo
 2 SURN Zara
 1 SEX M
+1 BIRT
+2 DATE 1924
+2 SOUR @S0099@
+1 FACT 19943
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0020@
 2 PEDI birth
 1 FAMS @F0022@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0058@ INDI
 1 NAME Giovanni /Zara/
 2 TYPE birth
@@ -1909,6 +1931,7 @@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+2 SOUR @S0099@
 1 DEAT
 2 DATE 26 APR 1981
 2 SOUR @S0030@
@@ -1924,12 +1947,15 @@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+1 FACT 16212
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0020@
 2 PEDI birth
 1 FAMS @F0024@
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 21:58:25
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0059@ INDI
 1 NAME Lisetta /Zara/
 2 TYPE birth
@@ -1940,8 +1966,8 @@
 2 PEDI birth
 1 FAMS @F0026@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0060@ INDI
 1 NAME Lucia /Zara/
 2 TYPE birth
@@ -1951,8 +1977,8 @@
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0061@ INDI
 1 NAME Maria /Zara/
 2 TYPE birth
@@ -1962,8 +1988,8 @@
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0062@ INDI
 1 NAME Matteo /Zara/
 2 TYPE birth
@@ -1973,31 +1999,43 @@
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0063@ INDI
 1 NAME Pietro /Zara/
 2 TYPE birth
 2 GIVN Pietro
 2 SURN Zara
 1 SEX M
+1 BIRT
+2 DATE 1928
+2 SOUR @S0099@
+1 FACT 31814
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0020@
 2 PEDI birth
 1 FAMS @F0027@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0064@ INDI
 1 NAME Simone /Zara/
 2 TYPE birth
 2 GIVN Simone
 2 SURN Zara
 1 SEX M
+1 BIRT
+2 DATE 1934
+2 SOUR @S0099@
+1 FACT 50300
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @I0065@ INDI
 1 NAME Pompeo /Palermi/
 2 TYPE birth
@@ -2310,13 +2348,16 @@
 4 LONG E12.484
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
+1 FACT 31714
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0029@
 1 OBJE @O0151@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 10:00:54
+2 DATE 14 FEB 2025
+3 TIME 07:59:35
 0 @I0087@ INDI
 1 NAME Giacomo /Michelini/
 2 TYPE birth
@@ -2344,14 +2385,17 @@
 4 LONG E12.4583
 2 ADDR
 3 ADR2 Cimitero di Farnetta
+1 FACT 40628
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0031@
 1 OBJE @O0099@
 1 OBJE @O0054@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 10:00:54
+2 DATE 14 FEB 2025
+3 TIME 07:58:22
 0 @I0088@ INDI
 1 NAME Gino /Michelini/
 2 TYPE birth
@@ -2759,6 +2803,9 @@
 4 LONG E12.561
 2 ADDR
 3 ADR2 Cimitero di Portaria
+1 FACT 6444 BIS
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0037@
@@ -2767,8 +2814,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYY3-QC2
 1 CHAN
-2 DATE 31 JAN 2025
-3 TIME 19:39:57
+2 DATE 14 FEB 2025
+3 TIME 07:04:19
 0 @I0110@ INDI
 1 NAME Ottorino /Paiella/
 2 TYPE birth
@@ -2791,14 +2838,17 @@
 2 ADDR
 3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
+1 FACT 16846 TER
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMS @F0036@
 1 OBJE @O0120@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G14Z-97T
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 01:18:06
+2 DATE 14 FEB 2025
+3 TIME 08:03:58
 0 @I0111@ INDI
 1 NAME Maria /Vallerini/
 2 TYPE birth
@@ -2852,13 +2902,16 @@
 4 LONG E12.561
 2 ADDR
 3 ADR2 Cimitero di Portaria
+1 FACT 38480
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0037@
 2 PEDI birth
 1 FAMS @F0038@
 1 OBJE @O0234@
 1 CHAN
-2 DATE 1 FEB 2025
-3 TIME 12:32:59
+2 DATE 14 FEB 2025
+3 TIME 07:10:40
 0 @I0113@ INDI
 1 NAME Pierina /Primieri/
 2 TYPE birth
@@ -2960,6 +3013,9 @@
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
+1 FACT 19991
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0013@
 2 PEDI birth
 1 FAMS @F0040@
@@ -2968,8 +3024,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GBNX-5PT
 1 CHAN
-2 DATE 15 JAN 2025
-3 TIME 22:04:38
+2 DATE 14 FEB 2025
+3 TIME 08:07:51
 0 @I0120@ INDI
 1 NAME Eugenio /Petrucci/
 2 TYPE birth
@@ -3209,6 +3265,9 @@
 2 ADDR
 3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
+1 FACT 40561
+2 TYPE N° matricola militare
+2 SOUR @S0099@
 1 FAMC @F0012@
 2 PEDI birth
 1 FAMC @F0036@
@@ -3220,8 +3279,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY1Z-8NK
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:22:05
+2 DATE 14 FEB 2025
+3 TIME 07:00:38
 0 @I0131@ INDI
 1 NAME Gemma //
 2 TYPE birth
@@ -3325,10 +3384,16 @@
 2 GIVN Nello
 2 SURN Sisti
 1 SEX M
+1 BIRT
+2 DATE 1912
+2 SOUR @S0100@
+1 FACT 19470
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMS @F0045@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 08:15:16
 0 @I0138@ INDI
 1 NAME Isolina /Medori/
 2 TYPE birth
@@ -5088,9 +5153,12 @@
 1 FAMS @F0072@
 1 OBJE @O0193@
 1 OBJE @O0056@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTY-CDC
 1 CHAN
-2 DATE 13 JAN 2025
-3 TIME 01:31:20
+2 DATE 14 FEB 2025
+3 TIME 04:33:33
 0 @I0209@ INDI
 1 NAME Cesare /Caproni/
 2 TYPE birth
@@ -5235,6 +5303,9 @@
 4 LONG E12.561
 2 ADDR
 3 ADR2 Cimitero di Portaria
+1 FACT 19346
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0076@
 2 PEDI birth
 1 FAMS @F0079@
@@ -5246,8 +5317,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PMHC-CNQ
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 22:37:46
+2 DATE 14 FEB 2025
+3 TIME 07:09:39
 0 @I0213@ INDI
 1 NAME Alessandro /Bassetti/
 2 TYPE birth
@@ -5390,14 +5461,20 @@
 2 GIVN Rinaldo
 2 SURN Sciutti
 1 SEX M
+1 BIRT
+2 DATE 1908
+2 SOUR @S0100@
+1 FACT 8062
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMS @F0080@
 1 SOUR @S0028@
 2 DATA
 3 DATE 2019
 1 OBJE @O0100@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 08:12:52
 0 @I0222@ INDI
 1 NAME Renzo /Sciutti/
 2 TYPE birth
@@ -6622,14 +6699,17 @@
 2 SOUR @S0057@
 3 DATA
 4 DATE 1893
+1 FACT 30720 BIS
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0015@
 2 PEDI birth
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMG3-7SF
 1 CHAN
-2 DATE 3 FEB 2025
-3 TIME 18:39:02
+2 DATE 14 FEB 2025
+3 TIME 07:03:33
 0 @I0292@ INDI
 1 NAME Angela /Caproni/
 2 TYPE birth
@@ -7621,6 +7701,13 @@
 2 TYPE birth
 2 GIVN Maria
 2 SURN Acquilini
+1 NAME Maria /Aquilini/
+2 TYPE aka
+2 GIVN Maria
+2 SURN Aquilini
+2 SOUR @S0098@
+3 DATA
+4 DATE 1921
 1 SEX F
 1 BIRT
 2 DATE 1858
@@ -7656,9 +7743,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GY1M-JGD
+1 NOTE @N0138@
 1 CHAN
 2 DATE 13 FEB 2025
-3 TIME 02:00:07
+3 TIME 18:09:51
 0 @I0336@ INDI
 1 NAME Gioacchino /Camilluzzi/
 2 TYPE birth
@@ -7756,13 +7844,63 @@
 2 SOUR @S0097@
 3 DATA
 4 DATE 1907
+1 FACT 8664 TER
+2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMS @F0117@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMTF-WZR
 1 CHAN
+2 DATE 14 FEB 2025
+3 TIME 07:14:16
+0 @I0340@ INDI
+1 NAME Pasqua /Camilluzzi/
+2 TYPE birth
+2 GIVN Pasqua
+2 SURN Camilluzzi
+1 SEX F
+1 BIRT
+2 DATE 1897
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0098@
+3 DATA
+4 DATE 1921
+1 FAMC @F0115@
+2 PEDI birth
+1 FAMS @F0118@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTN-QTJ
+1 CHAN
 2 DATE 13 FEB 2025
-3 TIME 05:41:23
+3 TIME 09:21:40
+0 @I0341@ INDI
+1 NAME Alfredo /Renna/
+2 TYPE birth
+2 GIVN Alfredo
+2 SURN Renna
+1 SEX M
+1 BIRT
+2 DATE 1885
+2 PLAC Amelia, Umbria
+3 MAP
+4 LATI N42.5541
+4 LONG E12.4173
+2 SOUR @S0098@
+3 DATA
+4 DATE 1921
+1 FAMS @F0118@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTN-G8V
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 09:23:23
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8009,17 +8147,17 @@
 2 SOUR @S0023@
 3 DATA
 4 DATE 1922
-1 CHIL @I0057@
 1 CHIL @I0058@
+1 CHIL @I0057@
+1 CHIL @I0063@
+1 CHIL @I0064@
 1 CHIL @I0059@
 1 CHIL @I0060@
 1 CHIL @I0061@
 1 CHIL @I0062@
-1 CHIL @I0063@
-1 CHIL @I0064@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 FEB 2025
+3 TIME 07:33:20
 0 @F0021@ FAM
 1 HUSB @I0065@
 1 WIFE @I0056@
@@ -8834,9 +8972,10 @@
 1 WIFE @I0335@
 1 CHIL @I0338@
 1 CHIL @I0336@
+1 CHIL @I0340@
 1 CHAN
 2 DATE 13 FEB 2025
-3 TIME 05:37:57
+3 TIME 09:13:49
 0 @F0116@ FAM
 1 HUSB @I0337@
 1 WIFE @I0333@
@@ -8859,6 +8998,22 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 05:41:23
+0 @F0118@ FAM
+1 HUSB @I0341@
+1 WIFE @I0340@
+1 MARR
+2 DATE 31 JAN 1921
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+2 SOUR @S0098@
+3 DATA
+4 DATE 1921
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 09:21:40
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9520,6 +9675,26 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 05:37:37
+0 @S0098@ SOUR
+1 TITL Atto di matrimonio di Alfredo Renna e Pasqua Camilluzzi (1921)
+1 OBJE @O0267@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 09:12:23
+0 @S0099@ SOUR
+1 TITL Ruoli matricolari del distretto di Orvieto. Parte II. 1913 -1937
+1 AUTH Archivio di Stato di Viterbo
+1 NOTE @N0139@
+1 CHAN
+2 DATE 14 FEB 2025
+3 TIME 06:51:26
+0 @S0100@ SOUR
+1 TITL Ruoli matricolari del distretto di Orvieto. Parte I. 1876 -1912
+1 AUTH Archivio di Stato di Viterbo
+1 NOTE @N0140@
+1 CHAN
+2 DATE 14 FEB 2025
+3 TIME 06:56:11
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9812,6 +9987,14 @@
 1 CONT - Pagina SIUSA: https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagin
 1 CONC a.pl?TipoPag=comparc&Chiave=153433 
 0 @N0136@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua932644/LexjgKD
+0 @N0137@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua932659/5KX6jAP
+0 @N0138@ NOTE Famiglia originaria di Casteltodino (Corradi 2025, p 285).
+0 @N0139@ NOTE https://archiviodistatoviterbo.cultura.gov.it/fileadmin/risorse/PDF
+1 CONC /Inventari_on_line/26_Ruoli_matricolari_Orvieto__parte_seconda_1913-1937
+1 CONC .pdf
+0 @N0140@ NOTE https://archiviodistatoviterbo.cultura.gov.it/fileadmin/risorse/PDF
+1 CONC /Inventari_on_line/25_Ruoli_matricolari_Orvieto__parte_prima_1876-1912.p
+1 CONC df
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
@@ -11606,4 +11789,12 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 05:37:35
+0 @O0267@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Alfredo_Renna_Pasqua_Camilluzzi_1921.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Alfredo_Renna_Pasqua_Camilluzzi_1921
+1 NOTE @N0137@
+1 CHAN
+2 DATE 13 FEB 2025
+3 TIME 09:12:14
 0 TRLR

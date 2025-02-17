@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 14 FEB 2025
-2 TIME 08:25:51
+1 DATE 17 FEB 2025
+2 TIME 14:51:15
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -105,16 +105,16 @@
 1 SEX M
 1 BIRT
 2 DATE 14 FEB 1918
-2 PLAC Viepri, Massa Martana, Umbria
+2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
-4 LATI N42.8261
-4 LONG E12.523
-2 SOUR @S0003@
-3 DATA
-4 DATE BET 1942 AND 1943
+4 LATI N42.7957
+4 LONG E12.5065
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+2 SOUR @S0102@
+3 DATA
+4 DATE 1918
 1 DEAT
 2 DATE 14 NOV 2004
 2 PLAC San Gemini, Umbria
@@ -124,6 +124,15 @@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+1 RESI
+2 DATE ABT 1943
+2 PLAC Viepri, Massa Martana, Umbria
+3 MAP
+4 LATI N42.8261
+4 LONG E12.523
+2 SOUR @S0003@
+3 DATA
+4 DATE BET 1942 AND 1943
 1 _MILT
 2 DATE FROM 1942 TO 1943
 1 BURI
@@ -155,8 +164,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
 1 CHAN
-2 DATE 11 FEB 2025
-3 TIME 18:11:17
+2 DATE 16 FEB 2025
+3 TIME 09:19:37
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -233,13 +242,11 @@
 3 DATA
 4 DATE 1913
 1 RESI
-2 TYPE Coordinate casa: 42.80199661921295, 12.497666702323825
 2 DATE AFT 1930
-2 PLAC Massa Martana, Umbria
+2 PLAC Casa di Luigi Ortenzi, Castelrinaldi, Massa Martana, Umbria
 3 MAP
-4 LATI N42.7843
-4 LONG E12.5189
-3 NOTE @N0060@
+4 LATI N42.801997
+4 LONG E12.497667
 1 RESI
 2 DATE ABT 1932
 2 PLAC Castelrinaldi, Massa Martana, Umbria
@@ -350,13 +357,11 @@
 3 DATA
 4 DATE 1908
 1 RESI
-2 TYPE Coordinate casa: 42.81188829769551, 12.503452448125806
 2 DATE BEF 1908
-2 PLAC Massa Martana, Umbria
+2 PLAC Casa di Francesco Ortenzi (m. 1908), Massa Martana, Umbria
 3 MAP
-4 LATI N42.7843
-4 LONG E12.5189
-3 NOTE @N0060@
+4 LATI N42.811888
+4 LONG E12.503452
 1 FACT campagnolo
 2 TYPE Occupation
 2 SOUR @S0002@
@@ -1257,10 +1262,9 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GY19-L22
-1 NOTE @N0117@
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 02:12:20
+2 DATE 14 FEB 2025
+3 TIME 08:33:39
 0 @I0033@ INDI
 1 NAME Quinto /Caproni/
 2 TYPE birth
@@ -1361,19 +1365,33 @@
 2 TYPE birth
 2 GIVN Valentino
 2 SURN Petrucci
+2 SOUR @S0106@
+3 DATA
+4 DATE 1916
 1 SEX M
+1 RESI
+2 PLAC Casa di Valentino Petrucci, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.643737
+4 LONG E12.475253
 1 FAMS @F0013@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-D89
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 17 FEB 2025
+3 TIME 14:03:05
 0 @I0036@ INDI
-1 NAME Maria Assunta /Pauselli/
+1 NAME Assunta /Pauselli/
 2 TYPE birth
-2 GIVN Maria Assunta
+2 GIVN Assunta
 2 SURN Pauselli
+2 SOUR @S0106@
+3 DATA
+4 DATE 1916
+2 SOUR @S0049@
+3 DATA
+4 DATE 2024
 1 SEX F
 1 BIRT
 2 DATE 16 JUL 1869
@@ -1395,6 +1413,12 @@
 2 SOUR @S0049@
 3 DATA
 4 DATE 2024
+1 RESI
+2 DATE BEF 1949
+2 PLAC Casa di Valentino Petrucci, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.643737
+4 LONG E12.475253
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -1408,9 +1432,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-XMS
+1 NOTE @N0145@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:31:50
+2 DATE 17 FEB 2025
+3 TIME 14:05:00
 0 @I0037@ INDI
 1 NAME Filippo /Pauselli/
 2 TYPE birth
@@ -3000,14 +3025,12 @@
 3 DATA
 4 DATE 2024
 1 RESI
-2 TYPE Risiedeva nella casa dei genitori fino alla morte. Coordinate: 42.643737
-3 CONC 318082934, 12.475253477960173
+2 TYPE Risiedeva nella casa dei genitori fino alla morte.
 2 DATE BEF 1999
-2 PLAC Montecastrilli, Umbria
+2 PLAC Casa di Valentino Petrucci, Montecastrilli, Umbria
 3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+4 LATI N42.643737
+4 LONG E12.475253
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
 2 ADDR
@@ -3035,9 +3058,17 @@
 1 SEX M
 1 BIRT
 2 DATE 2 MAY 1897
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
+2 SOUR @S0106@
+3 DATA
+4 DATE 1916
 1 DEAT
 2 DATE 27 OCT 1987
 2 SOUR @S0047@
@@ -3879,9 +3910,16 @@
 1 SEX F
 1 BIRT
 2 DATE 1 JUN 1922
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+2 SOUR @S0104@
+3 DATA
+4 DATE 1922
 1 DEAT
 2 DATE 8 NOV 2008
 2 SOUR @S0030@
@@ -3917,14 +3955,16 @@
 1 SEX M
 1 BIRT
 2 DATE 21 APR 1920
-2 PLAC Massa Martana, Umbria
+2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
-4 LATI N42.7843
-4 LONG E12.5189
-3 NOTE @N0060@
+4 LATI N42.7957
+4 LONG E12.5065
 2 SOUR @S0004@
 3 DATA
 4 DATE 2024
+2 SOUR @S0103@
+3 DATA
+4 DATE 1920
 1 DEAT
 2 DATE EST 30 OCT 1943
 2 SOUR @S0004@
@@ -3947,30 +3987,35 @@
 2 DATE 26 JAN 2025
 3 TIME 04:07:22
 0 @I0161@ INDI
-1 NAME Adelmo /Ortenzi/
+1 NAME Ademo /Ortenzi/
 2 TYPE birth
-2 GIVN Adelmo
+2 GIVN Ademo
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
 2 DATE 7 JUL 1915
-2 PLAC Massa Martana, Umbria
+2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
-4 LATI N42.7843
-4 LONG E12.5189
-3 NOTE @N0060@
+4 LATI N42.7957
+4 LONG E12.5065
 2 SOUR @S0004@
 3 DATA
 4 DATE 2024
+2 SOUR @S0101@
+3 DATA
+4 DATE 1915
 1 DEAT
-2 DATE EST 23 SEP 1943
-2 PLAC Corsica
+2 DATE 23 SEP 1943
+2 PLAC Farinole, Corsica
 3 MAP
-4 LATI N42.0
-4 LONG E9.0
+4 LATI N42.7324
+4 LONG E9.3658
 2 SOUR @S0004@
 3 DATA
 4 DATE 2024
+2 SOUR @S0101@
+3 DATA
+4 DATE 1915
 1 FAMC @F0002@
 2 PEDI birth
 1 OBJE @O0160@
@@ -3978,8 +4023,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF4-7XX
 1 CHAN
-2 DATE 26 JAN 2025
-3 TIME 04:07:41
+2 DATE 16 FEB 2025
+3 TIME 08:49:58
 0 @I0162@ INDI
 1 NAME Italo /Mazzanti/
 2 TYPE birth
@@ -6071,9 +6116,12 @@
 2 PEDI foster
 1 FAMS @F0089@
 1 OBJE @O0140@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMB6-TX2
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 00:39:02
+2 DATE 17 FEB 2025
+3 TIME 14:35:57
 0 @I0263@ INDI
 1 NAME Pompilia /Patrizi/
 2 TYPE birth
@@ -6260,9 +6308,17 @@
 1 SEX M
 1 BIRT
 2 DATE 30 JUL 1897
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
 2 SOUR @S0046@
 3 DATA
 4 DATE 2024
+2 SOUR @S0105@
+3 DATA
+4 DATE 1915
 1 DEAT
 2 DATE 18 FEB 1971
 2 SOUR @S0046@
@@ -6277,9 +6333,12 @@
 3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0089@
 1 OBJE @O0137@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMBX-MMX
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:29:18
+2 DATE 17 FEB 2025
+3 TIME 14:35:38
 0 @I0275@ INDI
 1 NAME Imola /Carletti/
 2 TYPE birth
@@ -8578,6 +8637,11 @@
 1 WIFE @I0014@
 1 MARR
 2 DATE 9 APR 1905
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
 2 SOUR @S0015@
 3 DATA
 4 DATE 1905
@@ -9695,6 +9759,46 @@
 1 CHAN
 2 DATE 14 FEB 2025
 3 TIME 06:56:11
+0 @S0101@ SOUR
+1 TITL Atto di nascita di Ademo Ortenzi (1915)
+1 OBJE @O0268@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 08:49:52
+0 @S0102@ SOUR
+1 TITL Atto di nascita di Francesco Ortenzi (1918)
+1 OBJE @O0269@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:16:09
+0 @S0103@ SOUR
+1 TITL Atto di nascita di Edo Ortenzi
+1 OBJE @O0270@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:33:34
+0 @S0104@ SOUR
+1 TITL Atto di nascita di Amabilia Ortenzi (1922)
+1 OBJE @O0271@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:44:33
+0 @S0105@ SOUR
+1 TITL Liste di Leva - Igino Patrizi
+1 OBJE @O0272@
+1 REPO @R0000@
+1 CHAN
+2 DATE 17 FEB 2025
+3 TIME 13:47:54
+0 @S0106@ SOUR
+1 TITL Liste di leva - Eugenio Petrucci
+1 OBJE @O0273@
+1 REPO @R0000@
+1 CHAN
+2 DATE 17 FEB 2025
+3 TIME 14:01:28
+0 @R0000@ REPO
+1 NAME Archivio di Stato di Terni
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
 0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
 1 CONC yTree.
@@ -9995,6 +10099,15 @@
 0 @N0140@ NOTE https://archiviodistatoviterbo.cultura.gov.it/fileadmin/risorse/PDF
 1 CONC /Inventari_on_line/25_Ruoli_matricolari_Orvieto__parte_prima_1876-1912.p
 1 CONC df
+0 @N0141@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSZJ-K?cat=83
+1 CONC 5027&i=461
+0 @N0142@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XS82-T?cat=83
+1 CONC 5027&i=585
+0 @N0143@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XS8N-3?cat=83
+1 CONC 5027&i=688
+0 @N0144@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSZ3-Y?cat=83
+1 CONC 5027&i=827
+0 @N0145@ NOTE Nome riportato come Maria Assunta nel file MacFamilyTree.
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
@@ -11797,4 +11910,50 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 09:12:14
+0 @O0268@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Ademo_Ortenzi_1915.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Ademo_Ortenzi_1915
+1 NOTE @N0141@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 08:49:43
+0 @O0269@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Francesco_Ortenzi_1918.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Francesco_Ortenzi_1918
+1 NOTE @N0142@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:16:07
+0 @O0270@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Edo_Ortenzi_1920.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Edo_Ortenzi_1920
+1 NOTE @N0143@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:33:32
+0 @O0271@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Amabilia_Ortenzi_1922.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Amabilia_Ortenzi_1922
+1 NOTE @N0144@
+1 CHAN
+2 DATE 16 FEB 2025
+3 TIME 09:44:24
+0 @O0272@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Lista_Leva_Igino_Patrizi_1915.jpg
+2 FORM jpg
+2 TITL Lista_Leva_Igino_Patrizi_1915
+1 CHAN
+2 DATE 17 FEB 2025
+3 TIME 13:47:04
+0 @O0273@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Lista_leva_Eugenio_Petrucci_1916.jpg
+2 FORM jpg
+2 TITL Lista_leva_Eugenio_Petrucci_1916
+1 CHAN
+2 DATE 17 FEB 2025
+3 TIME 14:01:25
 0 TRLR

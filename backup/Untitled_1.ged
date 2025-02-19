@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 17 FEB 2025
-2 TIME 14:51:15
+1 DATE 19 FEB 2025
+2 TIME 21:49:20
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -134,7 +134,11 @@
 3 DATA
 4 DATE BET 1942 AND 1943
 1 _MILT
+2 TYPE 235° Ospedale da Campo
 2 DATE FROM 1942 TO 1943
+2 SOUR @S0107@
+3 DATA
+4 DATE EST 1942
 1 BURI
 2 PLAC Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -418,10 +422,11 @@
 2 DATE 14 JAN 2025
 3 TIME 20:10:35
 0 @I0012@ INDI
-1 NAME Flora /Ortenzi/
+1 NAME Florida /Ortenzi/
 2 TYPE birth
-2 GIVN Flora
+2 GIVN Florida
 2 SURN Ortenzi
+2 NICK Flora
 1 NAME Florida /Ortenzi/
 2 TYPE aka
 2 GIVN Florida
@@ -435,8 +440,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-4LW
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 19 FEB 2025
+3 TIME 06:58:42
 0 @I0013@ INDI
 1 NAME Federico /Ortenzi/
 2 TYPE birth
@@ -1041,8 +1046,8 @@
 1 NOTE @N0048@
 1 NOTE @N0056@
 1 CHAN
-2 DATE 14 FEB 2025
-3 TIME 06:56:26
+2 DATE 19 FEB 2025
+3 TIME 18:05:53
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1168,10 +1173,12 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JUL 1865
-2 SOUR @S0027@
-3 PAGE Genealogia della famiglia Michelini di Farnetta
-3 DATA
-4 DATE 2005
+2 PLAC Dunarobba, Avigliano Umbro, Umbria
+3 MAP
+4 LATI N42.6718
+4 LONG E12.4516
+2 SOUR @S0110@
+3 PAGE 65
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
@@ -1191,6 +1198,8 @@
 4 LONG E12.4583
 2 ADDR
 3 ADR2 Cimitero di Farnetta
+1 FAMC @F0119@
+2 PEDI birth
 1 FAMS @F0009@
 1 FAMS @F0010@
 1 OBJE
@@ -1198,8 +1207,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY5N-Z4J
 1 NOTE @N0129@
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 22:59:50
+2 DATE 19 FEB 2025
+3 TIME 20:20:15
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1208,10 +1217,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1858
+2 PLAC Montenero, Todi, Umbria
+3 MAP
+4 LATI N42.7183
+4 LONG E12.4448
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
 4 DATE 2005
+2 SOUR @S0110@
+3 PAGE 65
 1 FAMC @F0017@
 2 PEDI birth
 1 FAMS @F0010@
@@ -1679,24 +1694,28 @@
 3 DATA
 4 DATE 2005
 1 FAMS @F0017@
+1 SOUR @S0110@
+2 PAGE 65
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G1WM-V3X
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 14:47:46
+2 DATE 19 FEB 2025
+3 TIME 20:09:19
 0 @I0044@ INDI
 1 NAME Loreta //
 2 TYPE birth
 2 GIVN Loreta
 1 SEX F
 1 FAMS @F0017@
+1 SOUR @S0110@
+2 PAGE 65
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G1WM-6R8
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 14:52:00
+2 DATE 19 FEB 2025
+3 TIME 20:09:31
 0 @I0045@ INDI
 1 NAME Edda /Ortenzi/
 2 TYPE birth
@@ -1832,9 +1851,13 @@
 2 TYPE birth
 2 GIVN Giacomo
 2 SURN Camilluzzi
+2 NICK Giacomino
+2 SOUR @S0110@
+3 PAGE 65
 1 SEX M
 1 BIRT
 2 DATE 1892
+2 SOUR @S0100@
 1 DEAT
 2 DATE 18 FEB 1919
 2 SOUR @S0089@
@@ -1850,16 +1873,28 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYTB-PWW
 1 CHAN
-2 DATE 14 FEB 2025
-3 TIME 07:38:16
+2 DATE 19 FEB 2025
+3 TIME 20:14:54
 0 @I0054@ INDI
 1 NAME Margherita /Camilluzzi/
 2 TYPE birth
 2 GIVN Margherita
 2 SURN Camilluzzi
+1 NAME Margarita /Camilluzzi/
+2 TYPE birth
+2 GIVN Margarita
+2 SURN Camilluzzi
+2 SOUR @S0110@
+3 PAGE 65
 1 SEX F
 1 BIRT
 2 DATE 1895
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 65
 1 FAMC @F0009@
 2 PEDI birth
 1 FAMS @F0074@
@@ -1868,8 +1903,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-Z7Y
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 FEB 2025
+3 TIME 20:15:42
 0 @I0055@ INDI
 1 NAME Odoardo /Zara/
 2 TYPE birth
@@ -1896,6 +1931,7 @@
 4 DATE 2024
 1 FACT 18341 BIS
 2 TYPE N° matricola militare
+2 SOUR @S0100@
 1 FAMC @F0093@
 2 PEDI birth
 1 FAMS @F0020@
@@ -1903,8 +1939,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-WY6
 1 CHAN
-2 DATE 14 FEB 2025
-3 TIME 07:24:32
+2 DATE 19 FEB 2025
+3 TIME 04:17:49
 0 @I0056@ INDI
 1 NAME Adalgisa /Camilluzzi/
 2 TYPE birth
@@ -1912,10 +1948,16 @@
 2 SURN Camilluzzi
 1 SEX F
 1 BIRT
-2 DATE 1917
+2 DATE 13 APR 1917
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0025@
 3 DATA
 4 DATE 2023
+2 SOUR @S0110@
+3 PAGE 74
 1 DEAT Y
 1 FAMC @F0074@
 2 PEDI birth
@@ -2304,11 +2346,13 @@
 2 NICK Richetto
 1 SEX M
 1 BIRT
-2 DATE 1904
-2 SOUR @S0027@
-3 PAGE Genealogia della famiglia Michelini di Farnetta
-3 DATA
-4 DATE 2005
+2 DATE 1900
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 65
 1 DEAT
 2 DATE 1971
 1 FAMC @F0010@
@@ -2318,8 +2362,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-7CS
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 FEB 2025
+3 TIME 17:36:29
 0 @I0085@ INDI
 1 NAME Ines Gilda Lucia /Caproni/
 2 TYPE birth
@@ -2354,6 +2398,10 @@
 1 SEX M
 1 BIRT
 2 DATE 22 AUG 1928
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
@@ -2361,6 +2409,8 @@
 2 SOUR @S0048@
 3 DATA
 4 DATE 2024
+2 SOUR @S0110@
+3 PAGE 82
 1 DEAT
 2 DATE 29 JUL 1993
 2 SOUR @S0048@
@@ -2391,6 +2441,10 @@
 1 SEX M
 1 BIRT
 2 DATE 17 JUN 1931
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
@@ -2398,6 +2452,8 @@
 2 SOUR @S0040@
 3 DATA
 4 DATE 2024
+2 SOUR @S0110@
+3 PAGE 84
 1 DEAT
 2 DATE 2 MAR 2016
 2 SOUR @S0040@
@@ -2507,9 +2563,12 @@
 1 FAMC @F0097@
 2 PEDI birth
 1 FAMS @F0029@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1N-76K
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:15:39
+2 DATE 19 FEB 2025
+3 TIME 19:41:48
 0 @I0092@ INDI
 1 NAME Giorgio /Michelini/
 2 TYPE birth
@@ -5634,8 +5693,23 @@
 1 SEX F
 1 BIRT
 2 DATE 1847
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0108@
+3 DATA
+4 DATE 1926
 1 DEAT
 2 DATE 20 JAN 1926
+2 PLAC Viepri, Massa Martana, Umbria
+3 MAP
+4 LATI N42.8261
+4 LONG E12.523
+2 SOUR @S0108@
+3 DATA
+4 DATE 1926
 1 FAMC @F0055@
 2 PEDI birth
 1 OBJE
@@ -5650,6 +5724,13 @@
 2 GIVN Pietro
 2 SURN Ortenzi
 1 SEX M
+1 DEAT
+2 DATE BEF 1907
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0109@
 1 FAMC @F0055@
 2 PEDI birth
 1 FAMS @F0108@
@@ -5657,8 +5738,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GDRL-1PR
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 00:34:40
+2 DATE 19 FEB 2025
+3 TIME 07:04:41
 0 @I0231@ INDI
 1 NAME Romina //
 2 TYPE birth
@@ -6239,9 +6320,12 @@
 1 SOUR @S0023@
 2 DATA
 3 DATE 1922
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1X-GK6
 1 CHAN
-2 DATE 9 NOV 2024
-3 TIME 16:34:15
+2 DATE 19 FEB 2025
+3 TIME 17:51:45
 0 @I0270@ INDI
 1 NAME Edward Philip /Conway/
 2 TYPE birth
@@ -7598,12 +7682,14 @@
 1 FAMC @F0113@
 2 PEDI birth
 1 FAMS @F0114@
+1 SOUR @S0110@
+2 PAGE 124
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMT8-ZN8
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 00:46:08
+2 DATE 19 FEB 2025
+3 TIME 18:24:16
 0 @I0330@ INDI
 1 NAME Anna Maria /Quaglietti/
 2 TYPE birth
@@ -7645,7 +7731,16 @@
 2 TYPE birth
 2 GIVN Maria
 1 SEX F
+1 BIRT
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0110@
+3 PAGE 121
 1 FAMS @F0114@
+1 FAMS @F0121@
 1 SOUR @S0089@
 2 PAGE Camilluzzi
 2 DATA
@@ -7654,8 +7749,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMT8-PCH
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 01:10:12
+2 DATE 19 FEB 2025
+3 TIME 18:55:39
 0 @I0332@ INDI
 1 NAME Maria /Sabatini/
 2 TYPE birth
@@ -7694,11 +7789,19 @@
 3 DATA
 4 DATE 2025
 1 DEAT
-2 DATE 1915
+2 DATE 30 MAR 1915
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
 4 DATE 2005
+2 SOUR @S0110@
+3 PAGE 186
+3 DATA
+4 DATE 2025
 1 FAMC @F0011@
 2 PEDI birth
 1 FAMS @F0116@
@@ -7850,19 +7953,34 @@
 2 GIVN Costantino
 2 SURN Venturi
 1 SEX M
+1 BIRT
+2 PLAC Dunarobba, Avigliano Umbro, Umbria
+3 MAP
+4 LATI N42.6718
+4 LONG E12.4516
+2 SOUR @S0110@
+3 PAGE 123
 1 DEAT
-2 DATE 1919
+2 DATE 18 FEB 1919
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+2 SOUR @S0110@
+3 PAGE 187
+1 FAMC @F0120@
+2 PEDI birth
 1 FAMS @F0116@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMTD-2GD
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 01:08:08
+2 DATE 19 FEB 2025
+3 TIME 18:46:14
 0 @I0338@ INDI
 1 NAME Margherita /Camilluzzi/
 2 TYPE birth
@@ -7960,6 +8078,66 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 09:23:23
+0 @I0342@ INDI
+1 NAME Giovanni /Manni/
+2 TYPE birth
+2 GIVN Giovanni
+2 SURN Manni
+1 SEX M
+1 FAMS @F0119@
+1 SOUR @S0110@
+2 PAGE 124
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1F-1FH
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 18:32:27
+0 @I0343@ INDI
+1 NAME Salvatore /Venturi/
+2 TYPE birth
+2 GIVN Salvatore
+2 SURN Venturi
+1 SEX M
+1 FAMS @F0120@
+1 SOUR @S0110@
+2 PAGE 123
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1N-72G
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 18:48:13
+0 @I0344@ INDI
+1 NAME Geronimo /Piacenti/
+2 TYPE birth
+2 GIVN Geronimo
+2 SURN Piacenti
+1 SEX M
+1 FAMS @F0121@
+1 SOUR @S0110@
+2 PAGE 121
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1F-1LL
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 19:00:28
+0 @I0345@ INDI
+1 NAME Barbara /Bonamici/
+2 TYPE birth
+2 GIVN Barbara
+2 SURN Bonamici
+1 SEX F
+1 FAMS @F0119@
+1 SOUR @S0110@
+2 PAGE 65
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1N-LJ1
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 20:20:15
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8091,19 +8269,35 @@
 0 @F0009@ FAM
 1 HUSB @I0029@
 1 WIFE @I0030@
+1 MARR
+2 DATE 4 MAR 1886
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 124
 1 CHIL @I0027@
 1 CHIL @I0053@
 1 CHIL @I0054@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 FEB 2025
+3 TIME 18:05:53
 0 @F0010@ FAM
 1 HUSB @I0031@
 1 WIFE @I0030@
+1 MARR
+2 DATE 26 SEP 1900
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 126
 1 CHIL @I0084@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 FEB 2025
+3 TIME 17:36:29
 0 @F0011@ FAM
 1 HUSB @I0032@
 1 WIFE @I0332@
@@ -8297,6 +8491,13 @@
 1 WIFE @I0091@
 1 MARR
 2 DATE EST 1957
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0110@
+3 PAGE 82
 1 CHIL @I0092@
 1 CHAN
 2 DATE 11 NOV 2024
@@ -9043,9 +9244,17 @@
 0 @F0116@ FAM
 1 HUSB @I0337@
 1 WIFE @I0333@
+1 MARR
+2 DATE 27 NOV 1875
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 123
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 23:41:56
+2 DATE 19 FEB 2025
+3 TIME 18:40:37
 0 @F0117@ FAM
 1 HUSB @I0339@
 1 WIFE @I0338@
@@ -9078,6 +9287,29 @@
 1 CHAN
 2 DATE 13 FEB 2025
 3 TIME 09:21:40
+0 @F0119@ FAM
+1 HUSB @I0342@
+1 WIFE @I0345@
+1 CHIL @I0030@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 20:20:15
+0 @F0120@ FAM
+1 HUSB @I0343@
+1 CHIL @I0337@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 18:46:14
+0 @F0121@ FAM
+1 HUSB @I0344@
+1 WIFE @I0331@
+1 MARR
+2 DATE 5 MAY 1864
+2 SOUR @S0110@
+3 PAGE 121
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 18:55:06
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9797,6 +10029,41 @@
 1 CHAN
 2 DATE 17 FEB 2025
 3 TIME 14:01:28
+0 @S0107@ SOUR
+1 TITL Libretto personale di Francesco Ortenzi
+1 OBJE @O0256@
+1 OBJE @O0257@
+1 OBJE @O0258@
+1 OBJE @O0259@
+1 CHAN
+2 DATE 18 FEB 2025
+3 TIME 02:21:58
+0 @S0108@ SOUR
+1 TITL Atto di morte di Rufina Ortenzi (1926)
+1 NOTE @N0146@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 05:19:41
+0 @S0109@ SOUR
+1 TITL Atto di morte di Rosa Ortenzi (1907)
+1 NOTE @N0147@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 07:04:34
+0 @S0110@ SOUR
+1 TITL De Castro Farnectae: Addenda Documentaria
+1 AUTH Marco Corradi
+1 PUBL ISBN 9798307514962
+1 OBJE @O0274@
+1 OBJE @O0280@
+1 OBJE @O0279@
+1 OBJE @O0278@
+1 OBJE @O0277@
+1 OBJE @O0276@
+1 OBJE @O0275@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:48:10
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
@@ -10108,6 +10375,8 @@
 0 @N0144@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSZ3-Y?cat=83
 1 CONC 5027&i=827
 0 @N0145@ NOTE Nome riportato come Maria Assunta nel file MacFamilyTree.
+0 @N0146@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9M7-B
+0 @N0147@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQRP-P
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
@@ -11956,4 +12225,53 @@
 1 CHAN
 2 DATE 17 FEB 2025
 3 TIME 14:01:25
+0 @O0274@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p65.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p65
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:46:41
+0 @O0275@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p187.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p187
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:46:48
+0 @O0276@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p131.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p131
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:46:54
+0 @O0277@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p126.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p126
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:47:01
+0 @O0278@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p124.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p124
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:47:09
+0 @O0279@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p123.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p123
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:47:23
+0 @O0280@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Libri\castro_farnectae_addenda_p121.jpeg
+2 FORM jpeg
+2 TITL castro_farnectae_addenda_p121
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 21:47:37
 0 TRLR

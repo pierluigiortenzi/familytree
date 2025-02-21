@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 19 FEB 2025
-2 TIME 21:49:20
+1 DATE 21 FEB 2025
+2 TIME 12:19:34
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -178,7 +178,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUL 1927
-2 PLAC Montorsolo, Todi, Umbria
+2 PLAC Vocabolo Montorsolo, Todi, Umbria
 3 MAP
 4 LATI N42.82018
 4 LONG E12.48967
@@ -1138,6 +1138,12 @@
 2 GIVN Luigi
 2 SURN Camilluzzi
 1 SEX M
+1 BIRT
+2 DATE BEF 1863
+2 SOUR @S0089@
+3 PAGE Camilluzzi
+3 DATA
+4 DATE 2025
 1 DEAT
 2 DATE BET 1898 AND 1901
 2 PLAC Farnetta, Montecastrilli, Umbria
@@ -1163,8 +1169,8 @@
 1 NOTE @N0130@
 1 NOTE @N0068@
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 23:35:35
+2 DATE 21 FEB 2025
+3 TIME 05:34:54
 0 @I0030@ INDI
 1 NAME Adelaide /Manni/
 2 TYPE birth
@@ -1177,11 +1183,15 @@
 3 MAP
 4 LATI N42.6718
 4 LONG E12.4516
-2 SOUR @S0110@
-3 PAGE 65
+2 SOUR @S0027@
+3 PAGE Genealogia della famiglia Michelini di Farnetta
+3 DATA
+4 DATE 2005
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
+2 SOUR @S0110@
+3 PAGE 124
 1 DEAT
 2 DATE 18 AUG 1935
 2 SOUR @S0027@
@@ -1208,7 +1218,7 @@
 1 NOTE @N0129@
 1 CHAN
 2 DATE 19 FEB 2025
-3 TIME 20:20:15
+3 TIME 22:05:41
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -6381,9 +6391,16 @@
 2 GIVN Tersilia
 2 SURN Maurini
 1 SEX F
+1 BIRT
+2 PLAC Dunarobba, Avigliano Umbro, Umbria
+3 MAP
+4 LATI N42.6718
+4 LONG E12.4516
+2 SOUR @S0110@
+3 PAGE 131
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 17:47:10
+2 DATE 19 FEB 2025
+3 TIME 22:22:16
 0 @I0274@ INDI
 1 NAME Igino /Patrizi/
 2 TYPE birth
@@ -7784,6 +7801,10 @@
 1 SEX F
 1 BIRT
 2 DATE 1855
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
@@ -7805,9 +7826,12 @@
 1 FAMC @F0011@
 2 PEDI birth
 1 FAMS @F0116@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMTD-X3J
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 23:41:56
+2 DATE 19 FEB 2025
+3 TIME 21:59:03
 0 @I0334@ INDI
 1 NAME Carlo /Camilluzzi/
 2 TYPE birth
@@ -8129,6 +8153,9 @@
 2 GIVN Barbara
 2 SURN Bonamici
 1 SEX F
+1 BIRT
+2 DATE BET 1821 AND 1851
+2 NOTE @N_stima_eta@
 1 FAMS @F0119@
 1 SOUR @S0110@
 2 PAGE 65
@@ -8136,8 +8163,72 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PM1N-LJ1
 1 CHAN
+2 DATE 20 FEB 2025
+3 TIME 00:50:23
+0 @I0346@ INDI
+1 NAME Enrico /Venturi/
+2 TYPE birth
+2 GIVN Enrico
+2 SURN Venturi
+1 SEX M
+1 BIRT
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 129
+1 FAMC @F0116@
+2 PEDI birth
+1 FAMS @F0122@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1V-XRJ
+1 CHAN
 2 DATE 19 FEB 2025
-3 TIME 20:20:15
+3 TIME 22:15:47
+0 @I0347@ INDI
+1 NAME Genoeffa /Vitali/
+2 TYPE birth
+2 GIVN Genoeffa
+2 SURN Vitali
+1 SEX F
+1 BIRT
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 129
+1 FAMS @F0122@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1V-1SZ
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 22:17:23
+0 @I0348@ INDI
+1 NAME Pasqua /Venturi/
+2 TYPE birth
+2 GIVN Pasqua
+2 SURN Venturi
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1913
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 71
+1 FAMC @F0122@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PM1K-FSY
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 22:34:12
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -8258,6 +8349,10 @@
 1 WIFE @I0028@
 1 MARR
 2 DATE 11 SEP 1922
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0022@
 3 DATA
 4 DATE 1922
@@ -9252,9 +9347,10 @@
 4 LONG E12.4512
 2 SOUR @S0110@
 3 PAGE 123
+1 CHIL @I0346@
 1 CHAN
 2 DATE 19 FEB 2025
-3 TIME 18:40:37
+3 TIME 22:12:35
 0 @F0117@ FAM
 1 HUSB @I0339@
 1 WIFE @I0338@
@@ -9305,11 +9401,30 @@
 1 WIFE @I0331@
 1 MARR
 2 DATE 5 MAY 1864
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0110@
 3 PAGE 121
 1 CHAN
 2 DATE 19 FEB 2025
 3 TIME 18:55:06
+0 @F0122@ FAM
+1 HUSB @I0346@
+1 WIFE @I0347@
+1 MARR
+2 DATE 24 NOV 1912
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0110@
+3 PAGE 129
+1 CHIL @I0348@
+1 CHAN
+2 DATE 19 FEB 2025
+3 TIME 22:34:12
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9334,9 +9449,12 @@
 1 TITL Diario di Francesco Ortenzi (1942-1943)
 1 OBJE @O0008@
 1 OBJE @O0009@
+1 OBJE @O0254@
+1 OBJE @O0255@
+1 NOTE @N0148@
 1 CHAN
-2 DATE 2 SEP 2024
-3 TIME 11:27:46
+2 DATE 20 FEB 2025
+3 TIME 10:17:22
 0 @S0004@ SOUR
 1 TITL Ademo ed Edo Ortenzi (Difesa.it, 2024)
 1 OBJE @O0015@
@@ -10346,6 +10464,9 @@
 1 CONT - Libri della Parrocchia dei Santi Giacomo e Filippo in Portaria di Acqu
 1 CONC asparta
 0 @N0129@ NOTE La famiglia è originaria di Dunarobba (Corradi 2025, p. 285).
+1 CONT 
+1 CONT Altrimenti il luogo di nascita è dato anche come Rosaro (Corradi, Addend
+1 CONC a, p. 124).
 0 @N0130@ NOTE Secondo il file MacFamilyTree Luigi sarebbe invece figlio di Angiol
 1 CONC o.
 0 @N0131@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua934486/02q6jbG
@@ -10377,6 +10498,46 @@
 0 @N0145@ NOTE Nome riportato come Maria Assunta nel file MacFamilyTree.
 0 @N0146@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9M7-B
 0 @N0147@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQRP-P
+0 @N0148@ NOTE Signor Ortenzi Francesco Massa 
+1 CONT Martana Viepri (Perugia) 
+1 CONT 
+1 CONT 80 nomi dei [...]
+1 CONT Russi in Italiano
+1 CONT 
+1 CONT -->
+1 CONT 
+1 CONT 31-1-43    12-3-42
+1 CONT 
+1 CONT Il Giorno 16 Febbraio mi anno detto ch'era
+1 CONT stata ri'abbolita la circolare di tre 
+1 CONT Fratelli 
+1 CONT 
+1 CONT Ortenzi Francesco Massa Martana
+1 CONT 
+1 CONT [Lista di vocaboli in russo]
+1 CONT 
+1 CONT 25.2.43 Gomel Bombardamento Terribile
+1 CONT (Bobruish) Ielovih) Il Bagno Brestel
+1 CONT 
+1 CONT 13-2-43    14-2-43 Abbiamo attraversato le
+1 CONT sterpe Russe con un ginocchi di
+1 CONT neve, e bufera
+1 CONT 
+1 CONT [da qui in avanti scritto rovesciato]
+1 CONT 
+1 CONT Pregasi che questo foglio non 
+1 CONT venga spaduto nel caso che 
+1 CONT [barrato: tutti Pozionali] venga attribbuita la 
+1 CONT polizia
+1 CONT 
+1 CONT = R. 6 Tedeschi
+1 CONT = cortelli
+1 CONT = [barrato illegibile] confusi i Romaniani
+1 CONT = Fiammiferi) (varie cinte di cuoio
+1 CONT = 4 sicari grandi
+1 CONT = 1 macchinetta da baradà) questa roba è accumulata in
+1 CONT in saccehtta dentro alla valigia) (con varie lettere e cartoline
+1 CONT compresi tre libretti piccoli e uno grande 
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
@@ -10441,9 +10602,10 @@
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Francesco_Ortenzi_1943_a.jpg
 2 FORM jpg
 2 TITL Diario Francesco_Ortenzi_1943_a
+1 NOTE @N0148@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 20 FEB 2025
+3 TIME 10:17:20
 0 @O0009@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Francesco_Ortenzi_1943_b.jpg
 2 FORM jpg
@@ -12094,9 +12256,10 @@
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Diario_Francesco_Ortenzi_1943_a.jpg
 2 FORM jpg
 2 TITL Diario_Francesco_Ortenzi_1943_a
+1 NOTE @N0148@
 1 CHAN
-2 DATE 11 FEB 2025
-3 TIME 18:09:45
+2 DATE 20 FEB 2025
+3 TIME 10:16:05
 0 @O0255@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Diario_Francesco_Ortenzi_1943_b.jpg
 2 FORM jpg

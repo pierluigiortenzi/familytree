@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 1 MAR 2025
-2 TIME 17:23:22
+1 DATE 7 MAR 2025
+2 TIME 23:33:25
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -683,9 +683,12 @@
 1 FAMS @F0005@
 1 OBJE @O0059@
 1 OBJE @O0196@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P94W-593
 1 CHAN
-2 DATE 26 JAN 2025
-3 TIME 04:06:25
+2 DATE 6 MAR 2025
+3 TIME 09:15:34
 0 @I0020@ INDI
 1 NAME Costantino /Trovarelli/
 2 TYPE birth
@@ -1548,7 +1551,6 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
-2 NOTE @N0089@
 2 SOUR @S0053@
 3 DATA
 4 DATE 1870
@@ -10267,10 +10269,6 @@
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
-0 @N0003@ NOTE Riportata come madre di Luigi Ortenzi (nato 1883) nel file MacFamil
-1 CONC yTree.
-0 @N0005@ NOTE Già defunta nel 1932 secondo la carta d'identità del figlio, Luig
-1 CONC i Ortenzi.
 0 @N0006@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-Y28M
 0 @N0007@ NOTE Cognome Ciarli o Ciculi?
 0 @N0008@ NOTE Nome incerto - riportato come "Jo.dom" sul registro parrocchiale ch
@@ -10297,7 +10295,6 @@
 0 @N0026@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9WR-48DZ
 0 @N0027@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9WR-48RX
 0 @N0028@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z15B
-0 @N0029@ NOTE https://www.youtube.com/watch?v=Of6FFqIO9os
 0 @N0030@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YPMB
 0 @N0031@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YGYW
 0 @N0032@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-4QP2
@@ -10367,7 +10364,6 @@
 1 CONC uxta rituale Romanum. 
 1 CONT 
 1 CONT Ita est = Jeremias Lancellotti Parochus M.n ppa.
-0 @N0055@ NOTE Morto giovane.
 0 @N0056@ NOTE Nato a Farnetta, dove abitava fino a 11 anni quando è morto il padr
 1 CONC e. La madre si è risposata con Michelini. Giulio è stato mandato a lavor
 1 CONC are in una famiglia a Narni.
@@ -10417,16 +10413,8 @@
 0 @N0069@ NOTE 4 SEZIONE - RIQUADRO P - RIQUADRO P - Loculo 1144
 0 @N0070@ NOTE 6 SEZIONE - R-27 RIQUADRO 27° - Loculo 6677
 0 @N0071@ NOTE Nome riportato come 'Maria Letizia' nel file MacFamilyTree.
-0 @N0072@ NOTE Albero interattivo: https://pierluigiortenzi.github.io/topola-viewe
-1 CONC r/
 0 @N0073@ NOTE Nome riportato come "Pierina" nel file MacFamilyTree.
-0 @N0074@ NOTE Stimata calcolando:
-1 CONT - un minimo di 14 anni alla nascita della prima figlia Candelora (189
-1 CONC 5 - 14 = 1881);
-1 CONT - un massimo di 44 anni alla nascita dell'ultimo figlio Quinto (1903 - 4
-1 CONC 4 = 1859).
 0 @N0075@ NOTE Stimata perchè ricordato dalla nipote Iolanda.
-0 @N0076@ NOTE Parentela incerta.
 0 @N0077@ NOTE Morta di tifo.
 0 @N0078@ NOTE https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=269196649:09
 1 CONC 88&d=bmd_1729815772
@@ -10441,9 +10429,6 @@
 0 @N0086@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840811/5xmZKAg
 0 @N0087@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840907/wleZZP2
 0 @N0088@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839633/wQbDPAK
-0 @N0089@ NOTE Incerto se si tratti della stessa Filomena Pecci nata a Portaria ne
-1 CONC l 1864 (il registro delle nascite di Portaria per il 1864 sembra esser
-1 CONC e mancante).
 0 @N0090@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841587/wkNJN7A
 0 @N0091@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841378/wEdJXW7
 0 @N0092@ NOTE Il comune di Cesi includeva l'ex comune di Portaria dal 1875 al 192
@@ -10480,8 +10465,6 @@
 0 @N0116@ NOTE - Cercare atto di matrimonio (comune di Montecastrilli?) per trovar
 1 CONC e il nome dei genitori, e capire se erano vivi al momento del matrimonio
 1 CONC .
-0 @N0117@ NOTE Forse lo stesso Angelo morto nel 1904 a Magliano Sabina: https://an
-1 CONC tenati.cultura.gov.it/ark:/12657/an_ud933006 
 0 @N0118@ NOTE Moglie forse Veneranda Aurizi (vedi:
 1 CONT - atto di matrimonio di Giuseppe Manni, 1862;
 1 CONT - atto di matrimonio di Annibale Manni, 1873;
@@ -10602,7 +10585,7 @@
 1 CONT (Bobruish) Ielovih) Il Bagno Brestel
 1 CONT 
 1 CONT 13-2-43    14-2-43 Abbiamo attraversato le
-1 CONT sterpe Russe con un ginocchi di
+1 CONT sterpe Russe con un ginocchio di
 1 CONT neve, e bufera
 1 CONT 
 1 CONT [da qui in avanti scritto rovesciato]
@@ -10627,6 +10610,8 @@
 1 CONT http://www.pcn.minambiente.it/viewer/
 1 CONT 
 1 CONT Layer: Toponimi IGM, Carta IGM scala 25.000.
+0 @N_albero@ NOTE Albero interattivo: https://pierluigiortenzi.github.io/topola-viewe
+1 CONC r/
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.

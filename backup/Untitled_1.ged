@@ -3,7 +3,7 @@
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
 1 DATE 14 MAR 2025
-2 TIME 02:20:04
+2 TIME 15:17:58
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -283,8 +283,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 17:55:11
+2 DATE 14 MAR 2025
+3 TIME 04:37:45
 0 @I0007@ INDI
 1 NAME Ester /Martinelli/
 2 TYPE birth
@@ -1199,7 +1199,7 @@
 1 NOTE @N0068@
 1 CHAN
 2 DATE 14 MAR 2025
-3 TIME 00:42:13
+3 TIME 04:37:45
 0 @I0030@ INDI
 1 NAME Adelaide /Manni/
 2 TYPE birth
@@ -1480,7 +1480,7 @@
 2 FILE https://www.familysearch.org/tree/person/GY5N-D89
 1 CHAN
 2 DATE 14 MAR 2025
-3 TIME 01:10:29
+3 TIME 04:37:45
 0 @I0036@ INDI
 1 NAME Assunta /Pauselli/
 2 TYPE birth
@@ -1619,7 +1619,14 @@
 2 SURN Caproni
 1 SEX M
 1 BIRT
+2 TYPE Portaria. Riportato come Cesi sull'atto di matrimonio in quanto allora p
+3 CONC arte di questo comune.
 2 DATE BET 1857 AND 1866
+2 PLAC Cesi, Terni, Umbria
+3 MAP
+4 LATI N42.6112
+4 LONG E12.5848
+3 NOTE @N0092@
 2 SOUR @S0054@
 3 DATA
 4 DATE 1895
@@ -1627,6 +1634,9 @@
 3 DATA
 4 DATE 1897
 2 SOUR @S0057@
+3 DATA
+4 DATE 1893
+2 SOUR @S0061@
 3 DATA
 4 DATE 1893
 1 DEAT
@@ -3814,8 +3824,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-B1F
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:34:56
+2 DATE 14 MAR 2025
+3 TIME 04:37:34
 0 @I0148@ INDI
 1 NAME Giulia /Battistoni/
 2 TYPE birth
@@ -4861,6 +4871,15 @@
 3 DATA
 4 DATE 1925
 1 RESI
+2 DATE ABT 1900
+2 PLAC Cerqueto, Marsciano, Umbria
+3 MAP
+4 LATI N42.9503
+4 LONG E12.3191
+2 SOUR @S0115@
+3 DATA
+4 DATE 1900
+1 RESI
 2 DATE ABT 1920
 2 PLAC Pantalla, Todi, Umbria
 3 MAP
@@ -4877,12 +4896,13 @@
 1 FAMC @F0071@
 2 PEDI birth
 1 FAMS @F0062@
+1 OBJE @O0285@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-LBH
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 MAR 2025
+3 TIME 13:12:35
 0 @I0185@ INDI
 1 NAME Ersilia /Ricci/
 2 TYPE birth
@@ -4907,6 +4927,15 @@
 2 SOUR @S0013@
 3 DATA
 4 DATE 1911
+1 RESI
+2 DATE ABT 1900
+2 PLAC Cerqueto, Marsciano, Umbria
+3 MAP
+4 LATI N42.9503
+4 LONG E12.3191
+2 SOUR @S0115@
+3 DATA
+4 DATE 1900
 1 FACT colona
 2 TYPE Occupation
 2 SOUR @S0013@
@@ -4919,8 +4948,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-MJ1
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 MAR 2025
+3 TIME 13:12:57
 0 @I0186@ INDI
 1 NAME Costantino /Moretti/
 2 TYPE birth
@@ -4960,13 +4989,14 @@
 1 FACT bracciante
 2 TYPE Occupation
 1 FAMS @F0063@
+1 OBJE @O0286@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-CVW
 1 NOTE @N0016@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 MAR 2025
+3 TIME 14:56:05
 0 @I0187@ INDI
 1 NAME Gaspare /Sciamannini/
 2 TYPE birth
@@ -8435,6 +8465,30 @@
 1 CHAN
 2 DATE 22 FEB 2025
 3 TIME 13:04:43
+0 @I0349@ INDI
+1 NAME Teresa Margherita Maria /Coletti/
+2 TYPE birth
+2 GIVN Teresa Margherita Maria
+2 SURN Coletti
+1 SEX F
+1 BIRT
+2 TYPE Numero 69.
+2 DATE 7 JUN 1900
+2 PLAC Cerqueto, Marsciano, Umbria
+3 MAP
+4 LATI N42.9503
+4 LONG E12.3191
+2 SOUR @S0115@
+3 DATA
+4 DATE 1900
+1 FAMC @F0062@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P98L-GJM
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 13:17:17
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -9086,9 +9140,10 @@
 1 HUSB @I0184@
 1 WIFE @I0185@
 1 CHIL @I0017@
+1 CHIL @I0349@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 MAR 2025
+3 TIME 13:10:47
 0 @F0063@ FAM
 1 HUSB @I0186@
 1 WIFE @I0017@
@@ -10414,6 +10469,12 @@
 1 CHAN
 2 DATE 14 MAR 2025
 3 TIME 00:47:26
+0 @S0115@ SOUR
+1 TITL Atto di nascita di Teresa Coletti (1900)
+1 OBJE @O0284@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 13:08:22
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
@@ -10708,7 +10769,6 @@
 1 CONC 5027&i=688
 0 @N0144@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSZ3-Y?cat=83
 1 CONC 5027&i=827
-0 @N0145@ NOTE Nome riportato come Maria Assunta nel file MacFamilyTree.
 0 @N0146@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9M7-B
 0 @N0147@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQRP-P
 0 @N0148@ NOTE Signor Ortenzi Francesco Massa 
@@ -10754,6 +10814,7 @@
 0 @N0149@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841141/LyJkgMK
 0 @N0150@ NOTE Figlio di ignoti.
 0 @N0152@ NOTE Analfabeta.
+0 @N0153@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99WR-MZPS
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -12681,4 +12742,27 @@
 1 CHAN
 2 DATE 14 MAR 2025
 3 TIME 00:47:24
+0 @O0284@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Teresa_Coletti_1900.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Teresa_Coletti_1900
+1 NOTE @N0153@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 13:08:21
+0 @O0285@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Domenico_Coletti_1900.jpg
+2 FORM jpg
+2 TITL Firma_Domenico_Coletti_1900
+1 NOTE @N0153@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 13:11:22
+0 @O0286@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Costantino_Moretti_1914.jpg
+2 FORM jpg
+2 TITL Firma_Costantino_Moretti_1914
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 14:56:02
 0 TRLR

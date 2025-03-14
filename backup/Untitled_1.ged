@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 7 MAR 2025
-2 TIME 23:33:25
+1 DATE 14 MAR 2025
+2 TIME 02:20:04
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -981,13 +981,19 @@
 4 LATI N42.6483
 4 LONG E12.4512
 2 SOUR @S0029@
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 DEAT
 2 DATE 13 OCT 1963
-2 PLAC Terni, Umbria
+2 PLAC San Gemini, Umbria
 3 MAP
-4 LATI N42.561944
-4 LONG E12.641389
+4 LATI N42.611111
+4 LONG E12.545833
 2 SOUR @S0029@
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 RESI
 2 DATE FROM 1889 TO 1898
 2 PLAC Casa di Luigi Camilluzzi, Farnetta, Montecastrilli, Umbria
@@ -1145,11 +1151,14 @@
 2 SURN Camilluzzi
 1 SEX M
 1 BIRT
-2 DATE BEF 1863
+2 DATE ABT 1856
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 DEAT
 2 DATE BET 1898 AND 1901
 2 PLAC Farnetta, Montecastrilli, Umbria
@@ -1161,11 +1170,25 @@
 3 DATA
 4 DATE 2025
 1 RESI
+2 DATE ABT 1889
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
+1 RESI
 2 DATE FROM 1889 TO 1898
 2 PLAC Casa di Luigi Camilluzzi, Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.651692
 4 LONG E12.450354
+1 FACT campagnolo
+2 TYPE Occupation
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 FAMC @F0114@
 2 PEDI birth
 1 FAMS @F0009@
@@ -1175,8 +1198,8 @@
 1 NOTE @N0130@
 1 NOTE @N0068@
 1 CHAN
-2 DATE 21 FEB 2025
-3 TIME 05:34:54
+2 DATE 14 MAR 2025
+3 TIME 00:42:13
 0 @I0030@ INDI
 1 NAME Adelaide /Manni/
 2 TYPE birth
@@ -1207,6 +1230,15 @@
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
+1 RESI
+2 DATE ABT 1889
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 BURI
 2 PLAC Cimitero di Farnetta, Farnetta, Montecastrilli, Umbria
 3 MAP
@@ -1214,6 +1246,11 @@
 4 LONG E12.4583
 2 ADDR
 3 ADR2 Cimitero di Farnetta
+1 FACT campagnola
+2 TYPE Occupation
+2 SOUR @S0113@
+3 DATA
+4 DATE 1889
 1 FAMC @F0119@
 2 PEDI birth
 1 FAMS @F0009@
@@ -1223,8 +1260,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY5N-Z4J
 1 NOTE @N0129@
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 22:05:41
+2 DATE 14 MAR 2025
+3 TIME 00:42:36
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1354,6 +1391,9 @@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 DEAT
 2 DATE 2 JAN 2001
 2 PLAC Portaria, Acquasparta, Umbria
@@ -1365,6 +1405,9 @@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 RESI
 2 DATE ABT 2000
 2 PLAC Casa Caproni Quinto, Portaria, Acquasparta, Umbria
@@ -1400,18 +1443,44 @@
 3 DATA
 4 DATE 1916
 1 SEX M
+1 BIRT
+2 DATE ABT 1851
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
+1 DEAT
+2 DATE BEF 1949
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
+1 RESI
+2 TYPE Numero 192.
+2 DATE ABT 1908
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 RESI
 2 PLAC Casa di Valentino Petrucci, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.643737
 4 LONG E12.475253
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 FAMS @F0013@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-D89
 1 CHAN
-2 DATE 17 FEB 2025
-3 TIME 14:03:05
+2 DATE 14 MAR 2025
+3 TIME 01:10:29
 0 @I0036@ INDI
 1 NAME Assunta /Pauselli/
 2 TYPE birth
@@ -1423,33 +1492,53 @@
 2 SOUR @S0049@
 3 DATA
 4 DATE 2024
+1 NAME Maria Assunta /Pauselli/
+2 TYPE aka
+2 GIVN Maria Assunta
+2 SURN Pauselli
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 SEX F
 1 BIRT
 2 DATE 16 JUL 1869
-2 PLAC Montecastrilli, Umbria
+2 PLAC Acquasparta, Umbria
 3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+4 LATI N42.6915
+4 LONG E12.5464
+3 NOTE @N0062@
 2 SOUR @S0049@
 3 DATA
 4 DATE 2024
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 DEAT
 2 DATE 30 DEC 1949
-2 PLAC Montecastrilli, Umbria
-3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+2 PLAC Vocabolo Spreghetta, Montecastrilli, Umbria
 2 SOUR @S0049@
 3 DATA
 4 DATE 2024
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 RESI
 2 DATE BEF 1949
 2 PLAC Casa di Valentino Petrucci, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.643737
 4 LONG E12.475253
+1 RESI
+2 TYPE Numero 192.
+2 DATE ABT 1908
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -1457,38 +1546,72 @@
 4 LONG E12.484
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
+1 FACT campagnola
+2 TYPE Occupation
+2 SOUR @S0112@
+3 DATA
+4 DATE 1908
+1 FACT donna di casa
+2 TYPE Occupation
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 FAMC @F0014@
 2 PEDI birth
 1 FAMS @F0013@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-XMS
-1 NOTE @N0145@
 1 CHAN
-2 DATE 17 FEB 2025
-3 TIME 14:05:00
+2 DATE 14 MAR 2025
+3 TIME 01:20:15
 0 @I0037@ INDI
 1 NAME Filippo /Pauselli/
 2 TYPE birth
 2 GIVN Filippo
 2 SURN Pauselli
 1 SEX M
+1 RESI
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 FAMS @F0014@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P98N-HW3
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 14 MAR 2025
+3 TIME 01:41:23
 0 @I0038@ INDI
-1 NAME Diamante //
+1 NAME Diamante /Menciotti/
 2 TYPE birth
 2 GIVN Diamante
+2 SURN Menciotti
 1 SEX F
 1 BIRT
 2 DATE BET 1825 AND 1855
 2 NOTE @N_stima_eta@
+1 RESI
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 FAMS @F0014@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P98N-13G
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 09:09:21
+2 DATE 14 MAR 2025
+3 TIME 01:41:41
 0 @I0039@ INDI
 1 NAME Giuseppe /Caproni/
 2 TYPE birth
@@ -6463,14 +6586,19 @@
 4 LONG E12.484
 2 ADDR
 3 ADR2 Cimitero di Montecastrilli
+1 FACT impiegato
+2 TYPE Occupation
+2 SOUR @S0114@
+3 DATA
+4 DATE 1949
 1 FAMS @F0089@
 1 OBJE @O0137@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMBX-MMX
 1 CHAN
-2 DATE 17 FEB 2025
-3 TIME 14:35:38
+2 DATE 14 MAR 2025
+3 TIME 00:49:13
 0 @I0275@ INDI
 1 NAME Imola /Carletti/
 2 TYPE birth
@@ -7800,11 +7928,13 @@
 2 GIVN Maria
 1 SEX F
 1 BIRT
+2 DATE BET 1812 AND 1842
 2 PLAC Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6511
 4 LONG E12.486
 3 NOTE @N0059@
+2 NOTE @N_stima_eta@
 2 SOUR @S0110@
 3 PAGE 121
 1 FAMS @F0114@
@@ -10266,6 +10396,24 @@
 1 CHAN
 2 DATE 21 FEB 2025
 3 TIME 15:54:00
+0 @S0112@ SOUR
+1 TITL Atto di nascita di Elvira Petrucci (1908)
+1 OBJE @O0281@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:24:39
+0 @S0113@ SOUR
+1 TITL Atto di nascita di Giulio Camilluzzi (1889)
+1 OBJE @O0282@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:36:51
+0 @S0114@ SOUR
+1 TITL Atto di morte di Assunta Pauselli (1949)
+1 OBJE @O0283@
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:47:26
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
@@ -10605,6 +10753,7 @@
 1 CONT compresi tre libretti piccoli e uno grande 
 0 @N0149@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841141/LyJkgMK
 0 @N0150@ NOTE Figlio di ignoti.
+0 @N0152@ NOTE Analfabeta.
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -12511,4 +12660,25 @@
 1 CHAN
 2 DATE 19 FEB 2025
 3 TIME 21:47:37
+0 @O0281@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Elvira_Petrucci_1908.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Elvira_Petrucci_1908
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:24:11
+0 @O0282@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Giulio_Camilluzzi_1889.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Giulio_Camilluzzi_1889
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:36:45
+0 @O0283@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Assunta_Pauselli_1949.jpg
+2 FORM jpg
+2 TITL Atto_morte_Assunta_Pauselli_1949
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 00:47:24
 0 TRLR

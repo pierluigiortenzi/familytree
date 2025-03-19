@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 14 MAR 2025
-2 TIME 15:17:58
+1 DATE 19 MAR 2025
+2 TIME 09:52:51
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -105,10 +105,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 FEB 1918
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -356,10 +353,7 @@
 4 LONG E12.4904
 1 DEAT
 2 DATE 8 NOV 1908
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 55, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0002@
 3 DATA
 4 DATE 1908
@@ -383,6 +377,30 @@
 1 CHAN
 2 DATE 18 JAN 2025
 3 TIME 17:51:44
+0 @I0009@ INDI
+1 NAME Albino /Martinelli/
+2 TYPE birth
+2 GIVN Albino
+2 SURN Martinelli
+1 SEX M
+1 BIRT
+2 DATE 28 FEB 1906
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0119@
+3 DATA
+4 DATE 1906
+3 NOTE @N0000@
+1 FAMC @F0069@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P9X6-TNN
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:03:43
 0 @I0010@ INDI
 1 NAME Pietro /Ortenzi/
 2 TYPE birth
@@ -485,7 +503,27 @@
 2 SURN Ortenzi
 1 SEX F
 1 BIRT
-2 DATE 1881
+2 DATE 5 OCT 1881
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0015@
+3 DATA
+4 DATE 1905
+1 DEAT
+2 DATE 11 JUL 1950
+2 SOUR @S0123@
+3 NOTE @N0005@
+1 BURI
+2 PLAC Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.565
+4 LONG E12.629
+2 ADDR
+3 ADR2 Cimitero di Terni
+2 SOUR @S0123@
+3 NOTE @N0005@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0069@
@@ -493,8 +531,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF3-3J8
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 19 MAR 2025
+3 TIME 09:14:30
 0 @I0015@ INDI
 1 NAME Alfredo /Ortenzi/
 2 TYPE birth
@@ -627,8 +665,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-6WZ
 1 CHAN
-2 DATE 26 JAN 2025
-3 TIME 04:05:33
+2 DATE 17 MAR 2025
+3 TIME 03:50:57
 0 @I0018@ INDI
 1 NAME Annunziata /Moretti/
 2 TYPE birth
@@ -1055,11 +1093,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
-1 NOTE @N0048@
 1 NOTE @N0056@
 1 CHAN
-2 DATE 22 FEB 2025
-3 TIME 13:04:19
+2 DATE 15 MAR 2025
+3 TIME 06:33:25
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1383,11 +1420,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 MAY 1908
-2 PLAC Montecastrilli, Umbria
-3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+2 PLAC Casa n. 192, Montecastrilli, Umbria
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1430,10 +1463,9 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY58-HHC
-1 NOTE @N0048@
 1 CHAN
-2 DATE 13 NOV 2024
-3 TIME 00:39:02
+2 DATE 15 MAR 2025
+3 TIME 06:34:18
 0 @I0035@ INDI
 1 NAME Valentino /Petrucci/
 2 TYPE birth
@@ -1449,7 +1481,7 @@
 3 DATA
 4 DATE 1908
 1 DEAT
-2 DATE BEF 1949
+2 DATE BET 1913 AND 1949
 2 SOUR @S0114@
 3 DATA
 4 DATE 1949
@@ -1621,12 +1653,13 @@
 1 BIRT
 2 TYPE Portaria. Riportato come Cesi sull'atto di matrimonio in quanto allora p
 3 CONC arte di questo comune.
-2 DATE BET 1857 AND 1866
+2 DATE BET 1857 AND 1860
 2 PLAC Cesi, Terni, Umbria
 3 MAP
 4 LATI N42.6112
 4 LONG E12.5848
 3 NOTE @N0092@
+2 NOTE @N0162@
 2 SOUR @S0054@
 3 DATA
 4 DATE 1895
@@ -2016,10 +2049,16 @@
 2 SOUR @S0100@
 1 DEAT
 2 DATE 18 FEB 1919
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+2 SOUR @S0110@
+3 PAGE 187
 1 FACT 29351 BIS
 2 TYPE N° matricola militare
 2 SOUR @S0100@
@@ -2527,12 +2566,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 MAR 1900
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Casa n. 80, Portaria, Acquasparta, Umbria
 2 SOUR @S0068@
 3 DATA
 4 DATE 1900
@@ -2996,6 +3030,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 FEB 1895
+2 PLAC Casa n. 41, Portaria, Acquasparta, Umbria
 2 SOUR @S0041@
 3 DATA
 4 DATE 2024
@@ -3027,12 +3062,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 MAY 1897
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Casa n. 50, Portaria, Acquasparta, Umbria
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
@@ -3824,8 +3854,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-B1F
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 04:37:34
+2 DATE 16 MAR 2025
+3 TIME 18:34:26
 0 @I0148@ INDI
 1 NAME Giulia /Battistoni/
 2 TYPE birth
@@ -3936,14 +3966,42 @@
 2 GIVN Augusto
 2 SURN Battistoni
 1 SEX M
+1 BIRT
+2 DATE 1878
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0117@
+3 DATA
+4 DATE 1909
+1 DEAT
+2 DATE 13 JUL 1909
+2 PLAC Foligno, Umbria
+3 MAP
+4 LATI N42.9574
+4 LONG E12.7029
+2 SOUR @S0117@
+3 DATA
+4 DATE 1909
+1 NMR 0 (celibe)
+2 SOUR @S0117@
+3 DATA
+4 DATE 1909
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0117@
+3 DATA
+4 DATE 1909
 1 FAMC @F0049@
 2 PEDI birth
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYTQ-9PP
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 17 MAR 2025
+3 TIME 02:01:49
 0 @I0152@ INDI
 1 NAME Cristina /Battistoni/
 2 TYPE birth
@@ -4063,9 +4121,12 @@
 4 LONG E12.448255
 1 FAMS @F0051@
 1 OBJE @O0223@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P9DX-2G5
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 19:14:40
+2 DATE 15 MAR 2025
+3 TIME 22:15:26
 0 @I0157@ INDI
 1 NAME Giuliana /Palermi/
 2 TYPE birth
@@ -4133,10 +4194,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 JUN 1922
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -4178,10 +4236,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 APR 1920
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0004@
 3 DATA
 4 DATE 2024
@@ -4217,10 +4272,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 JUL 1915
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0004@
 3 DATA
 4 DATE 2024
@@ -4304,6 +4356,54 @@
 1 CHAN
 2 DATE 13 NOV 2024
 3 TIME 02:46:46
+0 @I0164@ INDI
+1 NAME Emilio /Martinelli/
+2 TYPE birth
+2 GIVN Emilio
+2 SURN Martinelli
+1 SEX M
+1 BIRT
+2 DATE 10 JUL 1907
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0120@
+3 DATA
+4 DATE 1907
+3 NOTE @N0001@
+1 FAMC @F0069@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P9XX-HVM
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:05:26
+0 @I0165@ INDI
+1 NAME Enida /Martinelli/
+2 TYPE birth
+2 GIVN Enida
+2 SURN Martinelli
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1910
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0121@
+3 DATA
+4 DATE 1910
+3 NOTE @N0003@
+1 FAMC @F0069@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P9XF-SW5
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:07:12
 0 @I0166@ INDI
 1 NAME Mario /Meloni/
 2 TYPE birth
@@ -4355,10 +4455,7 @@
 3 NOTE @N0059@
 1 DEAT
 2 DATE 31 MAR 1923
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0010@
 3 DATA
 4 DATE 1923
@@ -4378,23 +4475,27 @@
 2 DATE 14 JAN 2025
 3 TIME 12:35:44
 0 @I0168@ INDI
-1 NAME Amalia /Ortenzi/
+1 NAME Amabilia Elena Tita /Ortenzi/
 2 TYPE birth
+2 GIVN Amabilia Elena Tita
+2 SURN Ortenzi
+1 NAME Amalia /Ortenzi/
+2 TYPE aka
 2 GIVN Amalia
 2 SURN Ortenzi
+2 SOUR @S0001@
+3 DATA
+4 DATE 1913
 1 SEX F
 1 BIRT
-2 DATE NOV 1913
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 DATE 10 NOV 1913
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0116@
+3 DATA
+4 DATE 1913
 1 DEAT
 2 DATE 12 DEC 1913
-2 PLAC Castelrinaldi, Massa Martana, Umbria
-3 MAP
-4 LATI N42.7957
-4 LONG E12.5065
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0001@
 3 DATA
 4 DATE 1913
@@ -4404,8 +4505,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-4G8
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 16 MAR 2025
+3 TIME 21:07:41
 0 @I0169@ INDI
 1 NAME Sante /Martinelli/
 2 TYPE birth
@@ -4496,6 +4597,26 @@
 1 SEX M
 1 BIRT
 2 DATE 24 FEB 1877
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0015@
+3 DATA
+4 DATE 1905
+1 DEAT
+2 DATE 3 DEC 1962
+2 SOUR @S0122@
+3 NOTE @N0004@
+1 BURI
+2 PLAC Cimitero di Terni, Terni, Umbria
+3 MAP
+4 LATI N42.565
+4 LONG E12.629
+2 ADDR
+3 ADR2 Cimitero di Terni
+2 SOUR @S0122@
+3 NOTE @N0004@
 1 FAMC @F0054@
 2 PEDI birth
 1 FAMS @F0069@
@@ -4503,8 +4624,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJFS-BGF
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 MAR 2025
+3 TIME 09:08:56
 0 @I0173@ INDI
 1 NAME Filippo /Ortenzi/
 2 TYPE birth
@@ -4863,10 +4984,7 @@
 4 DATE 1925
 1 DEAT
 2 DATE 24 JAN 1925
-2 PLAC Ilci, Todi, Umbria
-3 MAP
-4 LATI N42.839
-4 LONG E12.413
+2 PLAC Casa n. 25, Ilci, Todi, Umbria
 2 SOUR @S0017@
 3 DATA
 4 DATE 1925
@@ -5465,12 +5583,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 MAR 1870
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Frazione Vallerosa, Portaria, Acquasparta, Umbria
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
@@ -6860,10 +6973,10 @@
 2 SURN Caproni
 1 SEX M
 1 DEAT
-2 DATE AFT 1870
-2 SOUR @S0050@
+2 DATE AFT 1874
+2 SOUR @S0051@
 3 DATA
-4 DATE 1870
+4 DATE 1874
 1 FAMS @F0099@
 1 OBJE
 2 FORM URL
@@ -6879,12 +6992,11 @@
 1 SEX F
 1 BIRT
 2 DATE 23 OCT 1874
-2 PLAC Portaria, Acquasparta, Umbria
+2 PLAC Vocabolo Costa Le Monache, Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+4 LATI N42.6473
+4 LONG E12.5803
+3 NOTE @N_IGM@
 2 SOUR @S0051@
 3 DATA
 4 DATE 1874
@@ -7043,12 +7155,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 JUN 1893
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Casa n. 60, Portaria, Acquasparta, Umbria
 2 SOUR @S0057@
 3 DATA
 4 DATE 1893
@@ -7071,12 +7178,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 JAN 1867
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Frazione Vallerosa, Portaria, Acquasparta, Umbria
 2 SOUR @S0059@
 3 DATA
 4 DATE 1867
@@ -7115,12 +7217,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 OCT 1877
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Casa n. 9 (case sparse), Portaria, Acquasparta, Umbria
 2 SOUR @S0060@
 3 DATA
 4 DATE 1877
@@ -7350,12 +7447,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 JAN 1900
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Casa n. 100, Portaria, Acquasparta, Umbria
 2 SOUR @S0067@
 3 DATA
 4 DATE 1900
@@ -8472,12 +8564,8 @@
 2 SURN Coletti
 1 SEX F
 1 BIRT
-2 TYPE Numero 69.
 2 DATE 7 JUN 1900
-2 PLAC Cerqueto, Marsciano, Umbria
-3 MAP
-4 LATI N42.9503
-4 LONG E12.3191
+2 PLAC Casa n. 69, Cerqueto, Marsciano, Umbria
 2 SOUR @S0115@
 3 DATA
 4 DATE 1900
@@ -8487,8 +8575,56 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/P98L-GJM
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 13:17:17
+2 DATE 17 MAR 2025
+3 TIME 03:50:57
+0 @I0350@ INDI
+1 NAME Paolo /Coletti/
+2 TYPE birth
+2 GIVN Paolo
+2 SURN Coletti
+1 SEX M
+1 BIRT
+2 DATE 1898
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
+2 SOUR @S0118@
+3 DATA
+4 DATE 1923
+1 FAMC @F0062@
+2 PEDI birth
+1 FAMS @F0123@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P966-NCP
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 03:52:42
+0 @I0351@ INDI
+1 NAME Anna /Bizzarri/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Bizzarri
+1 SEX F
+1 BIRT
+2 DATE 1904
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0118@
+3 DATA
+4 DATE 1923
+1 FAMS @F0123@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P966-5M8
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 03:53:27
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -9140,15 +9276,24 @@
 1 HUSB @I0184@
 1 WIFE @I0185@
 1 CHIL @I0017@
+1 CHIL @I0350@
 1 CHIL @I0349@
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 13:10:47
+2 DATE 17 MAR 2025
+3 TIME 03:50:57
 0 @F0063@ FAM
 1 HUSB @I0186@
 1 WIFE @I0017@
 1 MARR
 2 DATE 22 JAN 1914
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0008@
+3 DATA
+4 DATE 1914
 1 CHIL @I0018@
 1 CHAN
 2 DATE 7 NOV 2024
@@ -9204,9 +9349,12 @@
 2 SOUR @S0015@
 3 DATA
 4 DATE 1905
+1 CHIL @I0009@
+1 CHIL @I0164@
+1 CHIL @I0165@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 19 MAR 2025
+3 TIME 09:07:12
 0 @F0070@ FAM
 1 HUSB @I0013@
 1 WIFE @I0171@
@@ -9688,6 +9836,22 @@
 1 CHAN
 2 DATE 22 FEB 2025
 3 TIME 13:04:43
+0 @F0123@ FAM
+1 HUSB @I0350@
+1 WIFE @I0351@
+1 MARR
+2 DATE 1 FEB 1923
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0118@
+3 DATA
+4 DATE 1923
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 03:50:35
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -9695,19 +9859,20 @@
 2 DATE 5 SEP 2024
 3 TIME 01:02:19
 0 @S0001@ SOUR
-1 TITL Atto di morte di Amalia Ortenzi (1913)
+1 TITL Atto di morte di Amabilia (Amalia) Ortenzi (1913)
 1 OBJE @O0013@
 1 NOTE @N0028@
 1 CHAN
-2 DATE 5 SEP 2024
-3 TIME 01:59:10
+2 DATE 16 MAR 2025
+3 TIME 21:07:08
 0 @S0002@ SOUR
 1 TITL Atto di morte di Francesco Ortenzi (1908)
 1 OBJE @O0014@
 1 NOTE @N0006@
+1 NOTE @N0154@
 1 CHAN
-2 DATE 5 SEP 2024
-3 TIME 01:59:19
+2 DATE 16 MAR 2025
+3 TIME 18:47:19
 0 @S0003@ SOUR
 1 TITL Diario di Francesco Ortenzi (1942-1943)
 1 OBJE @O0008@
@@ -9735,12 +9900,12 @@
 2 DATE 4 OCT 2024
 3 TIME 11:09:53
 0 @S0006@ SOUR
-1 TITL Atto di matrimonio di Ortenzi Luigi e Martinelli Ester (1913)
+1 TITL Atto di matrimonio di Luigi Ortenzi e Ester Martinelli (1913)
 1 OBJE @O0022@
 1 NOTE @N0027@
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 22:29:06
+2 DATE 19 MAR 2025
+3 TIME 09:15:57
 0 @S0007@ SOUR
 1 TITL Atto di matrimonio di Vittorio Trovarelli ed Angela Coletti (1920)
 1 OBJE @O0024@
@@ -9827,9 +9992,10 @@
 1 TITL Atto di morte di Filippo Ortenzi (1875)
 1 OBJE @O0034@
 1 NOTE @N0034@
+1 NOTE @N0158@
 1 CHAN
-2 DATE 5 SEP 2024
-3 TIME 08:18:45
+2 DATE 16 MAR 2025
+3 TIME 23:17:02
 0 @S0020@ SOUR
 1 TITL Registro parrocchiale - Morte di Francesco Ortenzi (1832)
 1 OBJE @O0035@
@@ -9889,11 +10055,11 @@
 2 DATE 28 SEP 2024
 3 TIME 07:43:54
 0 @S0028@ SOUR
-1 TITL Genealogia Famiglia di Caproni Cesare
+1 TITL Genealogia Famiglia di Cesare Caproni
 1 OBJE @O0086@
 1 CHAN
-2 DATE 17 OCT 2024
-3 TIME 14:55:23
+2 DATE 19 MAR 2025
+3 TIME 09:18:23
 0 @S0029@ SOUR
 1 TITL Tomba di Giulio Camilluzzi e Agostino Vaccarini
 1 OBJE @O0087@
@@ -10071,9 +10237,10 @@
 0 @S0052@ SOUR
 1 TITL Atto di morte di Angela Caproni (1862)
 1 OBJE @O0163@
+1 NOTE @N0155@
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 11:37:58
+2 DATE 16 MAR 2025
+3 TIME 19:11:21
 0 @S0053@ SOUR
 1 TITL Indice decennale delle nascite, Portaria 1860-1870
 1 OBJE @O0164@
@@ -10381,15 +10548,16 @@
 0 @S0102@ SOUR
 1 TITL Atto di nascita di Francesco Ortenzi (1918)
 1 OBJE @O0269@
+1 NOTE @N0161@
 1 CHAN
-2 DATE 16 FEB 2025
-3 TIME 09:16:09
+2 DATE 18 MAR 2025
+3 TIME 18:03:30
 0 @S0103@ SOUR
-1 TITL Atto di nascita di Edo Ortenzi
+1 TITL Atto di nascita di Edo Ortenzi (1920)
 1 OBJE @O0270@
 1 CHAN
-2 DATE 16 FEB 2025
-3 TIME 09:33:34
+2 DATE 19 MAR 2025
+3 TIME 09:17:52
 0 @S0104@ SOUR
 1 TITL Atto di nascita di Amabilia Ortenzi (1922)
 1 OBJE @O0271@
@@ -10466,18 +10634,70 @@
 0 @S0114@ SOUR
 1 TITL Atto di morte di Assunta Pauselli (1949)
 1 OBJE @O0283@
+1 NOTE @N0156@
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 00:47:26
+2 DATE 16 MAR 2025
+3 TIME 19:27:55
 0 @S0115@ SOUR
 1 TITL Atto di nascita di Teresa Coletti (1900)
 1 OBJE @O0284@
 1 CHAN
 2 DATE 14 MAR 2025
 3 TIME 13:08:22
+0 @S0116@ SOUR
+1 TITL Atto di nascita di Amabilia (Amalia) Ortenzi (1913)
+1 OBJE @O0287@
+1 CHAN
+2 DATE 16 MAR 2025
+3 TIME 21:06:26
+0 @S0117@ SOUR
+1 TITL Dichiarazione di morte di Augusto Battistoni (1909)
+1 OBJE @O0288@
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 01:55:49
+0 @S0118@ SOUR
+1 TITL Atto di matrimonio di Paolo Coletti e Anna Bizzarri (1923)
+1 OBJE @O0289@
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 03:47:51
+0 @S0119@ SOUR
+1 TITL Atto di nascita di Albino Martinelli (1906)
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:03:10
+0 @S0120@ SOUR
+1 TITL Atto di nascita di Emilio Martinelli (1907)
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:04:34
+0 @S0121@ SOUR
+1 TITL Atto di nascita di Enida Martinelli (1910)
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:06:28
+0 @S0122@ SOUR
+1 TITL Aldilapp - Mattia Martinelli
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:07:56
+0 @S0123@ SOUR
+1 TITL Aldilapp - Clotilde Ortenzi
+1 CHAN
+2 DATE 19 MAR 2025
+3 TIME 09:13:45
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
+0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
+1 CONC =697&lang=en
+0 @N0001@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BRX2?cat=835978&i
+1 CONC =987&lang=en
 0 @N0002@ NOTE https://www.youtube.com/watch?v=LVyrhTV1ZSk
+0 @N0003@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-1VX?cat=835978&i=
+1 CONC 1617&lang=en
+0 @N0004@ NOTE https://www.familysearch.org/en/photos/artifacts/218407442
+0 @N0005@ NOTE https://www.familysearch.org/en/photos/artifacts/218407552
 0 @N0006@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-Y28M
 0 @N0007@ NOTE Cognome Ciarli o Ciculi?
 0 @N0008@ NOTE Nome incerto - riportato come "Jo.dom" sul registro parrocchiale ch
@@ -10815,6 +11035,128 @@
 0 @N0150@ NOTE Figlio di ignoti.
 0 @N0152@ NOTE Analfabeta.
 0 @N0153@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99WR-MZPS
+0 @N0154@ NOTE L'anno millenovecentotto addì otto di settembre
+1 CONT a ore antimeridiane nove e minuti trentotto nella Casa Comunale.
+1 CONT Avanti di me Alcini Enrico Sindaco ed
+1 CONT Ufficiale dello Stato Civile del Comune di Massa Martana sono comparsi
+1 CONT Ortenzi Pietro di anni trentotto, colono, domiciliato
+1 CONT in Castelrinaldi, e Alcini Nazzareno, di anni ventinove,
+1 CONT colono, domiciliato in Massa Martana, i quali mi hanno dichiarato ch
+1 CONC e a ore
+1 CONT antimeridiane una e minuti ___ di oggi nella casa posta in
+1 CONT Castelrinaldi al numero cinquantacinque è morto Ortenzi Francesco
+1 CONT di anni settantadue, campagnolo, residente in Castelrinaldi,
+1 CONT nato in Ficareto, dal fu Filippo campagnolo, domiciliato
+1 CONT in vita a Ficareto, e dalla fu Perni [Rosalia?] campagnola, domiciliata
+1 CONT in vita a Ficareto, marito di Sciamannini Petronilla.
+1 CONT 
+1 CONT A quest'atto sono stati presenti quali testimoni, Rossi Ulisse
+1 CONT di anni quarantuno, possidente, e Marcucci Giuseppe
+1 CONT di anni trentanove, agricoltore, ambi residenti in questo Comune. Lett
+1 CONC o il
+1 CONT presente atto agl'intervenuti, l'hanno questi meco sottoscritto.
+0 @N0155@ NOTE L'anno milleottocentosessantadue e questo dì 11 9bre
+1 CONT a ore 4 pomeridiane Avanti di Noi Uffiziale dello Stato Civile del Comun
+1 CONC e
+1 CONT di Portaria Provincia dell'Umbria si sono presentati il
+1 CONT Signore Pietro Capitoli dell’età di anni 40 di condizione
+1 CONT [lavorante legna?] domiciliato in Portaria ed il Sig. Clemente Pedrelli
+1 CONT dell’età di anni 58 di condizione [usciere?] domiciliato
+1 CONT in Portaria, i quali hanno dichiarato che nel giorno di Lunedì 17
+1 CONT del mese di Novembre all'ora 9 antimeridiane è morta una bambina nominat
+1 CONC a
+1 CONT Angela Caproni dell’età di anni - mesi 10 e giorni - di
+1 CONT condizione campagnola pos. nata nel Comune di Portaria domiciliata
+1 CONT in Portaria, figlia di Tommaso Caproni e di Maddalena 
+1 CONT Sinolfi il quale ha lasciati N. ___ figli.
+0 @N0156@ NOTE L'anno millenovecentoquarantaquattro addì trentuno del mese
+1 CONT di Dicembre alle ore dieci e minuti __ nella Casa Comunale.
+1 CONT Avanti di me Bernardini Augusto Sindaco, Ufficiale dello Stato Civile
+1 CONT del Comune di Montecastrilli
+1 CONT 
+1 CONT È comparso Piacenti Igino di fu Agostino
+1 CONT di anni cinquantadue, impiegato, residente in Montecastrilli
+1 CONT 
+1 CONT il quale alla presenza dei testimoni Piacenti Gabriele,
+1 CONT di fu Giuseppe, di anni trenta, commerciante,
+1 CONT residente in Quadrelli, e [Ribera?] Marino,
+1 CONT di fu Giovanni, di anni sessantatre, impiegato,
+1 CONT residente in Montecastrilli, mi ha dichiarato quanto segue:
+1 CONT 
+1 CONT Il giorno trenta del mese di Dicembre dell'anno millenovecentoquarantano
+1 CONC ve
+1 CONT alle ore tredici e minuti __,
+1 CONT nella casa posta in Montecastrilli al Voc. Spreghetta,
+1 CONT è morta Pauselli Assunta dell’età di anni ottanta
+1 CONT residente in Montecastrilli,
+1 CONT donna di casa, che era nata in Acquasparta da fu Filippo,
+1 CONT già residente in Montecastrilli e da fu Menciotti
+1 CONT Diamante, residente in vita a Montecastrilli e che era vedova di
+1 CONT Petrucci Valentino
+1 CONT 
+1 CONT Il presente atto viene letto agli intervenuti, i quali tutti, insieme co
+1 CONC n me, lo sottoscrivono:
+1 CONT 
+1 CONT Patrizi Igino
+1 CONT Piacenti Gabriele (Teste)
+1 CONT Ribera Marino teste
+1 CONT L'ufficiale di Stato Civile
+1 CONT Bernardini Augusto
+0 @N0157@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSDZ-7
+0 @N0158@ NOTE L'anno milleottocentosettantacinque, addì quattordici di settembre
+1 CONT a ore pomeridiane cinque e minuti quindici, nella Casa comunale.
+1 CONT 
+1 CONT Avanti di me Giuseppe Paolucci, assessore delegato con atto del sindaco
+1 CONT in data primo agosto 18settantatre debitamente approvato
+1 CONT 
+1 CONT Uffiziale dello Stato Civile del Comune di Todi, sono comparsi
+1 CONT Ribeca Domenico, di anni trenta, colono, domiciliato
+1 CONT in Monticello, e Ribeca Pasquale, di anni ventisette,
+1 CONT colono, domiciliato in Monticello, i quali mi hanno dichiarato che a ore
+1 CONT pomeridiane una e minuti __ di oggi, nella casa posta in
+1 CONT Voc. Casella al numero __, è morto Ortenzi Filippo
+1 CONT di anni ottanta, possidente, residente in Ficareto,
+1 CONT nato in Monticello, dal fu Francesco, domiciliato in __,
+1 CONT e dalla fu Ciculi Marianna, domiciliata in __,
+1 CONT marito di Rosalinda Perni.
+1 CONT 
+1 CONT A quest'atto sono stati presenti quali testimoni Gabellini Francesco,
+1 CONT di anni cinquantatre, impiegato, e [Marellini?] Ettore,
+1 CONT di anni trenta, possidente, ambi residenti in questo Comune. Letto il pr
+1 CONC esente atto
+1 CONT a tutti gl'intervenuti, lo hanno meco firmatoi soli testimoni
+1 CONT avendo i dichiaranti asserito di non sapere scrivere.
+1 CONT 
+1 CONT Ettore Marellini
+1 CONT Francesco Gabellini
+1 CONT G. Paolucci, ass. delegato
+0 @N0159@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-T4QG
+0 @N0160@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-L9WR-4484
+0 @N0161@ NOTE L'anno millenovecentodiciotto, addì diciassette di febbraio
+1 CONT a ore pomeridiane tre e minuti venti nella casa Comunale.
+1 CONT Avanti di me Orsini Federici Rag. Antonio 
+1 CONT Sindaco ed
+1 CONT Uffiziale dello Stato Civile del Comune di Massa Martana, è
+1 CONT comparso Ortenzi Luigi, di anni trentatre Campagnolo
+1 CONT domiciliato in Castelrinaldi il quale mi ha dichiarato che alle ore pome
+1 CONC ridiane
+1 CONT sette e minuti __ del dì quattordici del corrente
+1 CONT mese, nella casa posta in Castelrinaldi numero ottantasei
+1 CONT da Martinelli Ester sua moglie Campagnola
+1 CONT qui domiciliata e seco lui convivente
+1 CONT è nato un bambino di sesso mascolino che egli mi presenta, e a cui dà i
+1 CONC l nome di
+1 CONT Francesco
+1 CONT 
+1 CONT A quanto sopra e a questo atto sono stati presenti quali testimoni Fiore
+1 CONC lli
+1 CONT Ottavio, di anni trentuno, Possidente, Titati Tobia
+1 CONT di anni quarantaquattro, Possidente, entrambi residenti in questo Comune
+1 CONT Letto il presente atto agli intervenuti l'hanno
+1 CONT questi meco sottoscritto ad eccezione del dichiarante
+1 CONT qualificazione analfabeta.
+0 @N0162@ NOTE Nato comunque prima del 1861 in quanto non presente nel registro de
+1 CONC cennale dei nati 1861-1870 di Portaria.
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -10919,19 +11261,19 @@
 2 DATE 7 NOV 2024
 3 TIME 13:24:25
 0 @O0013@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Amalia_Ortenzi_1913.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Amalia_Ortenzi_1913.jpg
 2 FORM jpg
 2 TITL Amalia_Ortenzi_1913
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:53:43
 0 @O0014@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_di_Morte_Francesco_Ortenzi_1908.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_di_Morte_Francesco_Ortenzi_1908.jpg
 2 FORM jpg
 2 TITL Atto_di_Morte_Francesco_Ortenzi_1908
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:55:19
 0 @O0015@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Ademo_Edo_Ortenzi_Difesa_2024.png
 2 FORM png
@@ -10940,47 +11282,47 @@
 2 DATE 7 NOV 2024
 3 TIME 13:24:25
 0 @O0019@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1919.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1919.jpg
 2 FORM jpg
 2 TITL Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1919
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 05:08:47
 0 @O0021@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1945.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1945.jpg
 2 FORM jpg
 2 TITL Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1945
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 05:09:06
 0 @O0022@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atti_matrimonio_Ortenzi_Luigi_Martinelli_Ester_1913.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atti_matrimonio_Ortenzi_Luigi_Martinelli_Ester_1913.jpg
 2 FORM jpg
 2 TITL Atti_matrimonio_Ortenzi_Luigi_Martinelli_Ester_1913
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:54:14
 0 @O0023@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1951.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1951.jpg
 2 FORM jpg
 2 TITL Stato_civile_di_Todi,_Indici_decennali_1926-1935_p1951
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 05:09:30
 0 @O0024@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Matrimonio_Vittorio_Trovarelli_Angela_Coletti_1920.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Matrimonio_Vittorio_Trovarelli_Angela_Coletti_1920.jpg
 2 FORM jpg
 2 TITL Atto_Matrimonio_Vittorio_Trovarelli_Angela_Coletti_1920
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:57:15
 0 @O0025@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_di_matrimonio_Costantino_Moretti_Angela_Coletti_1914.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_di_matrimonio_Costantino_Moretti_Angela_Coletti_1914.jpg
 2 FORM jpg
 2 TITL Atto_di_matrimonio_Costantino_Moretti_Angela_Coletti_1914
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:54:53
 0 @O0026@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Costantino_Moretti_CadutiGrandeGuerra.jpg
 2 FORM jpg
@@ -10989,61 +11331,61 @@
 2 DATE 7 NOV 2024
 3 TIME 13:24:25
 0 @O0027@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Morte_Petronilla_Sciamannini_1923.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Morte_Petronilla_Sciamannini_1923.jpg
 2 FORM jpg
 2 TITL Atto_Morte_Petronilla_Sciamannini_1923
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:59:40
 0 @O0028@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Morte_Giulia_Battistoni_1910.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Morte_Giulia_Battistoni_1910.jpg
 2 FORM jpg
 2 TITL Atto_Morte_Giulia_Battistoni_1910
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:58:45
 0 @O0029@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_di_Morte_di_Dorotea_Pacifici_1906.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_di_Morte_di_Dorotea_Pacifici_1906.jpg
 2 FORM jpg
 2 TITL Atto_di_Morte_di_Dorotea_Pacifici_1906
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:55:08
 0 @O0030@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Morte_Ersilia_Ricci_1911.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Morte_Ersilia_Ricci_1911.jpg
 2 FORM jpg
 2 TITL Atto_Morte_Ersilia_Ricci_1911
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:58:30
 0 @O0031@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Matrimonio_Giuseppe_Trovarelli_Maria_Monacelli_1904.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Matrimonio_Giuseppe_Trovarelli_Maria_Monacelli_1904.jpg
 2 FORM jpg
 2 TITL Atto_Matrimonio_Giuseppe_Trovarelli_Maria_Monacelli_1904
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:56:49
 0 @O0032@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Morte_Domenico_Coletti_1925.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Morte_Domenico_Coletti_1925.jpg
 2 FORM jpg
 2 TITL Atto_Morte_Domenico_Coletti_1925
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:58:08
 0 @O0033@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Collazzone_Indice_decennale_morti_1906-1915_p35.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Collazzone_Indice_decennale_morti_1906-1915_p35.jpg
 2 FORM jpg
 2 TITL Collazzone_Indice_decennale_morti_1906-1915_p35
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 05:06:20
 0 @O0034@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_di_Morte_Ortenzi_Filippo_1875.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_di_Morte_Ortenzi_Filippo_1875.jpg
 2 FORM jpg
 2 TITL Atto_di_Morte_Ortenzi_Filippo_1875
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 16 MAR 2025
+3 TIME 04:55:31
 0 @O0035@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\RP_Morte_Francesco_Ortenzi_1832.jpg
 2 FORM jpg
@@ -11406,75 +11748,75 @@
 2 DATE 17 OCT 2024
 3 TIME 20:35:22
 0 @O0088@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Belloni_Stefano.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Belloni_Stefano.png
+2 FORM png
 2 TITL Aldilapp_Belloni_Stefano
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:08
 0 @O0089@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Vaccarini_Agostina.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Vaccarini_Agostina.png
+2 FORM png
 2 TITL Aldilapp_Vaccarini_Agostina
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:35:43
 0 @O0090@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Ortenzi_Luigi.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Ortenzi_Luigi.png
+2 FORM png
 2 TITL Aldilapp_Ortenzi_Luigi
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:35:33
 0 @O0091@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Ortenzi_Francesco.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Ortenzi_Francesco.png
+2 FORM png
 2 TITL Aldilapp_Ortenzi_Francesco
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:35:23
 0 @O0092@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Ortenzi_Amabilia.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Ortenzi_Amabilia.png
+2 FORM png
 2 TITL Aldilapp_Ortenzi_Amabilia
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:35:04
 0 @O0093@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Meloni_Mario.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Meloni_Mario.png
+2 FORM png
 2 TITL Aldilapp_Meloni_Mario
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:54
 0 @O0094@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Martinelli_Ester.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Martinelli_Ester.png
+2 FORM png
 2 TITL Aldilapp_Martinelli_Ester
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:45
 0 @O0095@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Caproni_Iolanda.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Caproni_Iolanda.png
+2 FORM png
 2 TITL Aldilapp_Caproni_Iolanda
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:35
 0 @O0096@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Camilluzzi_Luigi.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Camilluzzi_Luigi.png
+2 FORM png
 2 TITL Aldilapp_Camilluzzi_Luigi
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:26
 0 @O0097@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Camilluzzi_Giulio.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Camilluzzi_Giulio.png
+2 FORM png
 2 TITL Aldilapp_Camilluzzi_Giulio
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 18 MAR 2025
+3 TIME 17:34:17
 0 @O0098@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Anselmo_Petrucci_circa_1990.jpg
 2 FORM jpg
@@ -11707,12 +12049,12 @@
 2 DATE 10 NOV 2024
 3 TIME 20:07:18
 0 @O0131@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Births_1982_Conway_Paul_David_Field.png
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Births_1982_Conway_Paul_David_Field.png
 2 FORM png
 2 TITL Births_1982_Conway_Paul_David_Field
 1 CHAN
-2 DATE 10 NOV 2024
-3 TIME 21:16:08
+2 DATE 16 MAR 2025
+3 TIME 05:11:03
 0 @O0132@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Tomba_Italo_Mazzanti_b.jpg
 2 FORM jpg
@@ -11903,173 +12245,173 @@
 2 DATE 15 NOV 2024
 3 TIME 18:30:35
 0 @O0161@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_Nascita_Cesare_Caproni_1870.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_Nascita_Cesare_Caproni_1870.jpg
 2 FORM jpg
 2 TITL Atto_Nascita_Cesare_Caproni_1870
 1 NOTE @N0086@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 16:43:51
+2 DATE 16 MAR 2025
+3 TIME 05:01:55
 0 @O0162@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Settimia_Caproni_1874.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Settimia_Caproni_1874.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Settimia_Caproni_1874
 1 NOTE @N0087@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 19:05:35
+2 DATE 16 MAR 2025
+3 TIME 05:04:35
 0 @O0163@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_morte_Angela_Caproni_1862.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Angela_Caproni_1862.jpg
 2 FORM jpg
 2 TITL Atto_morte_Angela_Caproni_1862
 1 NOTE @N0088@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 19:25:32
+2 DATE 16 MAR 2025
+3 TIME 04:57:32
 0 @O0164@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Indice_nati_Portaria_1860-1870.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Indice_nati_Portaria_1860-1870.jpg
 2 FORM jpg
 2 TITL Indice_nati_Portaria_1860-1870
 1 NOTE @N0090@
 1 CHAN
-2 DATE 6 JAN 2025
-3 TIME 19:44:10
+2 DATE 16 MAR 2025
+3 TIME 05:07:13
 0 @O0165@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Candelora_Caproni_1895.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Candelora_Caproni_1895.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Candelora_Caproni_1895
 1 NOTE @N0091@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:17:00
+2 DATE 16 MAR 2025
+3 TIME 05:01:34
 0 @O0166@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Alceste_Caproni_1897.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Alceste_Caproni_1897.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Alceste_Caproni_1897
 1 NOTE @N0093@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:29:07
+2 DATE 16 MAR 2025
+3 TIME 05:00:01
 0 @O0167@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Luigi_Caproni_1863.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Luigi_Caproni_1863.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Luigi_Caproni_1863
 1 NOTE @N0094@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 05:45:37
+2 DATE 16 MAR 2025
+3 TIME 05:03:41
 0 @O0168@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Illidio_Caproni_1893.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Illidio_Caproni_1893.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Illidio_Caproni_1893
 1 NOTE @N0095@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:01:04
+2 DATE 16 MAR 2025
+3 TIME 05:03:06
 0 @O0169@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Caproni_1862.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Angela_Caproni_1862.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Angela_Caproni_1862
 1 NOTE @N0096@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:09:44
+2 DATE 16 MAR 2025
+3 TIME 05:00:36
 0 @O0170@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Caproni_1867.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Angela_Caproni_1867.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Angela_Caproni_1867
 1 NOTE @N0097@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:25:55
+2 DATE 16 MAR 2025
+3 TIME 05:00:49
 0 @O0171@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Emilio_Caproni_1877.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Emilio_Caproni_1877.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Emilio_Caproni_1877
 1 NOTE @N0098@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 06:40:25
+2 DATE 16 MAR 2025
+3 TIME 05:02:47
 0 @O0172@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893.jpg
 2 FORM jpg
 2 TITL Atto_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893
 1 NOTE @N0099@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:01:40
+2 DATE 16 MAR 2025
+3 TIME 04:56:35
 0 @O0173@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Maria_Felice_Pecci_1861.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Maria_Felice_Pecci_1861.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Maria_Felice_Pecci_1861
 1 NOTE @N0100@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:22:17
+2 DATE 16 MAR 2025
+3 TIME 05:04:00
 0 @O0174@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Alessandro_Pecci_1862.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Alessandro_Pecci_1862.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Alessandro_Pecci_1862
 1 NOTE @N0101@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:33:13
+2 DATE 16 MAR 2025
+3 TIME 05:00:18
 0 @O0175@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Cesare_Pecci_1867.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Cesare_Pecci_1867.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Cesare_Pecci_1867
 1 NOTE @N0102@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 07:49:21
+2 DATE 16 MAR 2025
+3 TIME 05:02:11
 0 @O0176@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Angela_Pecci_1869.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Angela_Pecci_1869.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Angela_Pecci_1869
 1 NOTE @N0103@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:05:28
+2 DATE 16 MAR 2025
+3 TIME 05:01:11
 0 @O0177@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_morte_Maria_Felice_Pecci_1861.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Maria_Felice_Pecci_1861.jpg
 2 FORM jpg
 2 TITL Atto_morte_Maria_Felice_Pecci_1861
 1 NOTE @N0104@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 08:27:12
+2 DATE 16 MAR 2025
+3 TIME 04:59:11
 0 @O0178@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Egidio_Caproni_1900.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Egidio_Caproni_1900.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Egidio_Caproni_1900
 1 NOTE @N0105@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:46:06
+2 DATE 16 MAR 2025
+3 TIME 05:02:31
 0 @O0179@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_nascita_Ines_Caproni_1900.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Ines_Caproni_1900.jpg
 2 FORM jpg
 2 TITL Atto_nascita_Ines_Caproni_1900
 1 NOTE @N0106@
 1 CHAN
-2 DATE 7 JAN 2025
-3 TIME 09:54:43
+2 DATE 16 MAR 2025
+3 TIME 05:03:26
 0 @O0180@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Cesare_Caproni_Maria_Palmadori_1898.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Cesare_Caproni_Maria_Palmadori_1898.jpg
 2 FORM jpg
 2 TITL Atto_matrimonio_Cesare_Caproni_Maria_Palmadori_1898
 1 NOTE @N0107@
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 10:13:17
+2 DATE 16 MAR 2025
+3 TIME 04:56:08
 0 @O0181@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Atto_matrimonio_Angela_Pecci_Giovanni_Gobbi_1889.jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Angela_Pecci_Giovanni_Gobbi_1889.jpg
 2 FORM jpg
 2 TITL Atto_matrimonio_Angela_Pecci_Giovanni_Gobbi_1889
 1 NOTE @N0108@
 1 CHAN
-2 DATE 10 JAN 2025
-3 TIME 10:30:19
+2 DATE 16 MAR 2025
+3 TIME 04:55:49
 0 @O0182@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Firme\Firma_Filippo_Pecci_1861.jpg
 2 FORM jpg
@@ -12369,26 +12711,26 @@
 2 DATE 21 JAN 2025
 3 TIME 19:14:37
 0 @O0224@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Fausto.png
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Zara_Fausto.png
 2 FORM png
 2 TITL Aldilapp_Zara_Fausto
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 21:53:38
+2 DATE 18 MAR 2025
+3 TIME 17:35:53
 0 @O0225@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Giovanni.png
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Zara_Giovanni.png
 2 FORM png
 2 TITL Aldilapp_Zara_Giovanni
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 21:56:39
+2 DATE 18 MAR 2025
+3 TIME 17:36:05
 0 @O0226@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp_Zara_Odoardo.png
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Aldilapp\Aldilapp_Zara_Odoardo.png
 2 FORM png
 2 TITL Aldilapp_Zara_Odoardo
 1 CHAN
-2 DATE 21 JAN 2025
-3 TIME 22:03:41
+2 DATE 18 MAR 2025
+3 TIME 17:36:14
 0 @O0227@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Margherita_Pecci_Domenico_Caroli_1884.jpg
 2 FORM jpg
@@ -12611,13 +12953,13 @@
 2 DATE 13 FEB 2025
 3 TIME 02:10:02
 0 @O0266@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Pasquale_Menghi_Margherita_Camilluzzi_1907.jpg
-2 FORM jpg
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Pasquale_Menghi_Margherita_Camilluzzi_1907.png
+2 FORM png
 2 TITL Atto_matrimonio_Pasquale_Menghi_Margherita_Camilluzzi_1907
 1 NOTE @N0136@
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 05:37:35
+2 DATE 16 MAR 2025
+3 TIME 18:55:56
 0 @O0267@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Alfredo_Renna_Pasqua_Camilluzzi_1921.jpg
 2 FORM jpg
@@ -12640,8 +12982,8 @@
 2 TITL Atto_nascita_Francesco_Ortenzi_1918
 1 NOTE @N0142@
 1 CHAN
-2 DATE 16 FEB 2025
-3 TIME 09:16:07
+2 DATE 18 MAR 2025
+3 TIME 18:03:15
 0 @O0270@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Edo_Ortenzi_1920.jpg
 2 FORM jpg
@@ -12765,4 +13107,28 @@
 1 CHAN
 2 DATE 14 MAR 2025
 3 TIME 14:56:02
+0 @O0287@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Amabilia-Amalia_Ortenzi_1913_moz.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Amabilia-Amalia_Ortenzi_1913_moz
+1 NOTE @N0157@
+1 CHAN
+2 DATE 16 MAR 2025
+3 TIME 21:06:25
+0 @O0288@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Dichiarazione_morte_Augusto_Battistoni_1909.jpg
+2 FORM jpg
+2 TITL Dichiarazione_morte_Augusto_Battistoni_1909
+1 NOTE @N0159@
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 01:55:46
+0 @O0289@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Paolo_Coletti_Anna_Bizzarri_1923.jpg
+2 FORM jpg
+2 TITL Atto_matrimonio_Paolo_Coletti_Anna_Bizzarri_1923
+1 NOTE @N0160@
+1 CHAN
+2 DATE 17 MAR 2025
+3 TIME 03:47:48
 0 TRLR

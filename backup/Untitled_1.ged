@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 19 MAR 2025
-2 TIME 09:52:51
+1 DATE 20 MAR 2025
+2 TIME 23:08:36
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -392,7 +392,6 @@
 2 SOUR @S0119@
 3 DATA
 4 DATE 1906
-3 NOTE @N0000@
 1 FAMC @F0069@
 2 PEDI birth
 1 OBJE
@@ -408,7 +407,14 @@
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
-2 DATE 1870
+2 DATE 8 JUN 1870
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0131@
+3 DATA
+4 DATE 1900
 1 RESI
 2 DATE 1908
 2 PLAC Castelrinaldi, Massa Martana, Umbria
@@ -425,12 +431,13 @@
 4 DATE 1908
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0075@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GF6T-HCS
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 20 MAR 2025
+3 TIME 17:50:35
 0 @I0011@ INDI
 1 NAME Peppina /Ortenzi/
 2 TYPE birth
@@ -540,17 +547,29 @@
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
-2 DATE 1891
+2 DATE 10 JUL 1891
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0138@
+3 DATA
+4 DATE 1921
 1 DEAT
-2 DATE 1945
+2 DATE 10 SEP 1945
+2 PLAC Perugia, Umbria
+3 MAP
+4 LATI N43.114
+4 LONG E12.3898
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0124@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G9B8-QX4
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 20 MAR 2025
+3 TIME 18:37:27
 0 @I0016@ INDI
 1 NAME Vittorio /Trovarelli/
 2 TYPE birth
@@ -4371,7 +4390,6 @@
 2 SOUR @S0120@
 3 DATA
 4 DATE 1907
-3 NOTE @N0001@
 1 FAMC @F0069@
 2 PEDI birth
 1 OBJE
@@ -4395,7 +4413,6 @@
 2 SOUR @S0121@
 3 DATA
 4 DATE 1910
-3 NOTE @N0003@
 1 FAMC @F0069@
 2 PEDI birth
 1 OBJE
@@ -4580,6 +4597,13 @@
 1 SEX F
 1 BIRT
 2 DATE 14 AUG 1874
+2 PLAC Chioano, Todi, Umbria
+3 MAP
+4 LATI N42.77618
+4 LONG E12.45678
+2 SOUR @S0016@
+3 DATA
+4 DATE 1906
 1 FAMC @F0054@
 2 PEDI birth
 1 FAMS @F0070@
@@ -5575,6 +5599,60 @@
 1 CHAN
 2 DATE 14 FEB 2025
 3 TIME 04:33:33
+0 @I0207@ INDI
+1 NAME Armando Sabatino Nerio /Ortenzi/
+2 TYPE birth
+2 GIVN Armando Sabatino Nerio
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 4 MAY 1907
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0124@
+3 DATA
+4 DATE 1907
+1 DEAT
+2 DATE 2 JUL 1943
+2 PLAC Sicilia
+3 MAP
+4 LATI N37.6
+4 LONG E14.0
+2 SOUR @S0124@
+3 DATA
+4 DATE 1907
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GFK8-JR6
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:33:08
+0 @I0208@ INDI
+1 NAME Pierina Giuseppina Lenida /Ortenzi/
+2 TYPE birth
+2 GIVN Pierina Giuseppina Lenida
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1909
+2 PLAC Casa n. 55, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0125@
+3 DATA
+4 DATE 1909
+1 DEAT
+2 DATE 4 MAY 1990
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GFK8-66Z
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:36:01
 0 @I0209@ INDI
 1 NAME Cesare /Caproni/
 2 TYPE birth
@@ -5945,8 +6023,19 @@
 1 SEX M
 1 BIRT
 2 DATE 2 AUG 1833
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
 1 DEAT
 2 DATE 2 MAR 1917
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0141@
+3 DATA
+4 DATE 1917
 1 FAMC @F0055@
 2 PEDI birth
 1 OBJE
@@ -6032,12 +6121,14 @@
 2 SURN Ortenzi
 1 SEX M
 1 DEAT
-2 DATE BEF 1907
+2 DATE BEF 1902
 2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
 4 LATI N42.7957
 4 LONG E12.5065
-2 SOUR @S0109@
+2 SOUR @S0142@
+3 DATA
+4 DATE 1902
 1 FAMC @F0055@
 2 PEDI birth
 1 FAMS @F0108@
@@ -7459,6 +7550,52 @@
 1 CHAN
 2 DATE 3 FEB 2025
 3 TIME 18:24:17
+0 @I0303@ INDI
+1 NAME Giuseppa Rosa Maria /Ortenzi/
+2 TYPE birth
+2 GIVN Giuseppa Rosa Maria
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1911
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0126@
+3 DATA
+4 DATE 1911
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P967-74Y
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:39:02
+0 @I0304@ INDI
+1 NAME Amabilia /Ortenzi/
+2 TYPE birth
+2 GIVN Amabilia
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 26 DEC 1913
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0127@
+3 DATA
+4 DATE 1913
+1 DEAT
+2 DATE 4 JAN 1914
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0128@
+3 DATA
+4 DATE 1914
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GNT4-WV2
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:43:02
 0 @I0305@ INDI
 1 NAME Giovanni /Gobbi/
 2 TYPE birth
@@ -7508,6 +7645,28 @@
 1 CHAN
 2 DATE 14 JAN 2025
 3 TIME 20:10:35
+0 @I0308@ INDI
+1 NAME Rosina Maria Angiolina /Ortenzi/
+2 TYPE birth
+2 GIVN Rosina Maria Angiolina
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1915
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0129@
+3 DATA
+4 DATE 1915
+1 DEAT
+2 DATE 20 MAY 2000
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFS-YPL
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:46:42
 0 @I0309@ INDI
 1 NAME Francesco /Ortenzi/
 2 TYPE birth
@@ -7559,8 +7718,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTK9-TL3
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @I0311@ INDI
 1 NAME Decio /Ortenzi/
 2 TYPE birth
@@ -7569,7 +7728,14 @@
 1 SEX M
 1 BIRT
 2 DATE 16 JUL 1870
+2 PLAC San Damiano, Todi, Umbria
+3 MAP
+4 LATI N42.8055
+4 LONG E12.467
 2 SOUR @S0079@
+2 SOUR @S0142@
+3 DATA
+4 DATE 1902
 1 DEAT
 2 DATE 23 FEB 1943
 2 SOUR @S0079@
@@ -7580,13 +7746,14 @@
 4 LONG E12.48981
 1 FAMC @F0108@
 2 PEDI birth
+1 FAMS @F0125@
 1 OBJE @O0209@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GDRG-ST9
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 03:15:43
+2 DATE 20 MAR 2025
+3 TIME 18:52:21
 0 @I0312@ INDI
 1 NAME Filippo /Ortenzi/
 2 TYPE birth
@@ -7611,8 +7778,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTK9-TRZ
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @I0313@ INDI
 1 NAME Filippo /Ortenzi/
 2 TYPE birth
@@ -7621,10 +7788,22 @@
 1 SEX M
 1 BIRT
 2 DATE 7 MAY 1893
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
 2 SOUR @S0081@
 1 DEAT
-2 DATE 1926
+2 DATE 4 AUG 1926
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
 2 SOUR @S0081@
+2 SOUR @S0154@
+3 DATA
+4 DATE 1926
 1 BURI
 2 PLAC Cimitero di Monticello-Ficareto, Todi, Umbria
 3 MAP
@@ -7645,9 +7824,9 @@
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
-2 DATE 1878
+2 DATE 19 MAR 1878
 1 DEAT
-2 DATE 1961
+2 DATE 20 DEC 1961
 1 FAMC @F0106@
 2 PEDI birth
 1 FAMS @F0109@
@@ -7681,8 +7860,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/details/GJFZ-53F
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 03:34:54
+2 DATE 20 MAR 2025
+3 TIME 22:55:33
 0 @I0316@ INDI
 1 NAME Michele /Ortenzi/
 2 TYPE birth
@@ -7707,8 +7886,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTK9-VXT
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @I0317@ INDI
 1 NAME Nazzareno /Ortenzi/
 2 TYPE birth
@@ -7728,13 +7907,14 @@
 4 LONG E12.48981
 1 FAMC @F0107@
 2 PEDI birth
+1 FAMS @F0127@
 1 OBJE @O0218@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTK9-GYS
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:04:20
 0 @I0318@ INDI
 1 NAME Maria /Ortenzi/
 2 TYPE birth
@@ -7746,6 +7926,11 @@
 2 SOUR @S0085@
 1 DEAT
 2 DATE 20 JUL 2015
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
 2 SOUR @S0085@
 1 BURI
 2 PLAC Cimitero di Monticello-Ficareto, Todi, Umbria
@@ -7759,8 +7944,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTVK-526
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @I0319@ INDI
 1 NAME Domitilla /Ortenzi/
 2 TYPE birth
@@ -7769,9 +7954,15 @@
 1 SEX F
 1 BIRT
 2 DATE 13 MAR 1930
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
 2 SOUR @S0085@
 1 DEAT
 2 DATE 21 NOV 2010
+2 PLAC Lazio
 2 SOUR @S0085@
 1 BURI
 2 PLAC Cimitero di Monticello-Ficareto, Todi, Umbria
@@ -7785,8 +7976,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/LTVH-VGX
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @I0320@ INDI
 1 NAME Margherita /Pecci/
 2 TYPE birth
@@ -8625,6 +8816,674 @@
 1 CHAN
 2 DATE 17 MAR 2025
 3 TIME 03:53:27
+0 @I0352@ INDI
+1 NAME Giulio /Ortenzi/
+2 TYPE birth
+2 GIVN Giulio
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1919
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0130@
+3 DATA
+4 DATE 1919
+1 DEAT
+2 DATE 30 JUL 2009
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJ6Z-1MB
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:49:09
+0 @I0353@ INDI
+1 NAME Italo /Ortenzi/
+2 TYPE birth
+2 GIVN Italo
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1901
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0132@
+3 DATA
+4 DATE 1927
+1 FAMC @F0075@
+2 PEDI birth
+1 FAMS @F0104@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GNTQ-84R
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:05:46
+0 @I0354@ INDI
+1 NAME Elida Sabina Maria /Ortenzi/
+2 TYPE birth
+2 GIVN Elida Sabina Maria
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 5 MAY 1904
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0133@
+3 DATA
+4 DATE 1904
+1 DEAT
+2 DATE 17 JUL 1904
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0134@
+3 DATA
+4 DATE 1904
+1 FAMC @F0075@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GFVQ-RJL
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:58:42
+0 @I0355@ INDI
+1 NAME Amadeo /Ortenzi/
+2 TYPE birth
+2 GIVN Amadeo
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 26 JAN 1906
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0135@
+3 DATA
+4 DATE 1906
+1 DEAT
+2 DATE 10 AUG 1907
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0136@
+3 DATA
+4 DATE 1907
+1 FAMC @F0075@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GFVQ-6JZ
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:58:28
+0 @I0356@ INDI
+1 NAME Arcangela /Ortenzi/
+2 TYPE birth
+2 GIVN Arcangela
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1928
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0137@
+3 DATA
+4 DATE 1928
+1 FAMC @F0104@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYT-DDW
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:05:46
+0 @I0357@ INDI
+1 NAME Alberto /Ortenzi/
+2 TYPE birth
+2 GIVN Alberto
+2 SURN Ortenzi
+1 SEX M
+1 FAMC @F0104@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJF3-BQM
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:06:13
+0 @I0358@ INDI
+1 NAME Angelina /Ortenzi/
+2 TYPE birth
+2 GIVN Angelina
+2 SURN Ortenzi
+1 SEX F
+1 FAMC @F0104@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFQ-72T
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:06:37
+0 @I0359@ INDI
+1 NAME Francesco /Ortenzi/
+2 TYPE birth
+2 GIVN Francesco
+2 SURN Ortenzi
+1 SEX M
+1 FAMC @F0104@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJF3-YKD
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:06:56
+0 @I0360@ INDI
+1 NAME Gina /Ortenzi/
+2 TYPE birth
+2 GIVN Gina
+2 SURN Ortenzi
+1 SEX F
+1 FAMC @F0104@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFQ-W5F
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:07:13
+0 @I0361@ INDI
+1 NAME Primo /Ortenzi/
+2 TYPE birth
+2 GIVN Primo
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1921
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0139@
+3 DATA
+4 DATE 1921
+1 DEAT
+2 DATE 23 DEC 1980
+2 PLAC Milano, Lombardia
+3 MAP
+4 LATI N45.4688
+4 LONG E9.1901
+1 FAMC @F0124@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G9B8-S4S
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:37:27
+0 @I0362@ INDI
+1 NAME Giuseppe /Ortenzi/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 4 MAR 1925
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0140@
+3 DATA
+4 DATE 1925
+1 DEAT
+2 DATE 5 APR 2000
+2 PLAC Terni, Umbria
+3 MAP
+4 LATI N42.561944
+4 LONG E12.641389
+1 FAMC @F0124@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G9B8-W3N
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:40:12
+0 @I0363@ INDI
+1 NAME Gina Emilia /Ortenzi/
+2 TYPE birth
+2 GIVN Gina Emilia
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 7 APR 1903
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0143@
+3 DATA
+4 DATE 1903
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G6MS-LX9
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:52:34
+0 @I0364@ INDI
+1 NAME Maria Italia Pia /Ortenzi/
+2 TYPE birth
+2 GIVN Maria Italia Pia
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 22 NOV 1904
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0144@
+3 DATA
+4 DATE 1904
+1 DEAT
+2 DATE 31 JUL 1991
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G6M3-8LH
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:54:45
+0 @I0365@ INDI
+1 NAME Alessandro Ferdinando Adelmo /Ortenzi/
+2 TYPE birth
+2 GIVN Alessandro Ferdinando Adelmo
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 24 FEB 1910
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0145@
+3 DATA
+4 DATE 1910
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G6MS-N9K
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:56:40
+0 @I0366@ INDI
+1 NAME Rosa Pia Ermelinda /Ortenzi/
+2 TYPE birth
+2 GIVN Rosa Pia Ermelinda
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1912
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0146@
+3 DATA
+4 DATE 1912
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P967-X38
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:58:41
+0 @I0367@ INDI
+1 NAME Pina /Ortenzi/
+2 TYPE birth
+2 GIVN Pina
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 12 MAY 1915
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0147@
+3 DATA
+4 DATE 1915
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYT-3BJ
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:00:26
+0 @I0368@ INDI
+1 NAME Giuseppe /Ortenzi/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 7 APR 1917
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0148@
+3 DATA
+4 DATE 1917
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYR-KYV
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:02:16
+0 @I0369@ INDI
+1 NAME Annita /Ortenzi/
+2 TYPE birth
+2 GIVN Annita
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 2 OCT 1919
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0149@
+3 DATA
+4 DATE 1919
+1 FAMC @F0125@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYT-4TF
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:03:37
+0 @I0370@ INDI
+1 NAME Rosa /Ortenzi/
+2 TYPE birth
+2 GIVN Rosa
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 1865
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0109@
+1 DEAT
+2 DATE 6 JUL 1907
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0109@
+1 FAMC @F0108@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYP-F66
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:05:45
+0 @I0371@ INDI
+1 NAME Climene /Ortenzi/
+2 TYPE birth
+2 GIVN Climene
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 1884
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0151@
+3 DATA
+4 DATE 1910
+1 DEAT
+2 DATE 27 MAY 1910
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0151@
+3 DATA
+4 DATE 1910
+1 FAMC @F0106@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PMYP-67M
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:13:43
+0 @I0372@ INDI
+1 NAME Elvira /Ortenzi/
+2 TYPE birth
+2 GIVN Elvira
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 1886
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0152@
+3 DATA
+4 DATE 1914
+1 DEAT
+2 DATE 1957
+1 FAMC @F0106@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G6MS-31Z
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:18:40
+0 @I0373@ INDI
+1 NAME Amedeo Primo Aquilio /Ortenzi/
+2 TYPE birth
+2 GIVN Amedeo Primo Aquilio
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1904
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0153@
+3 DATA
+4 DATE 1904
+1 FAMC @F0109@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFZ-46N
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:55:33
+0 @I0374@ INDI
+1 NAME Nicodemo /Ortenzi/
+2 TYPE birth
+2 GIVN Nicodemo
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1907
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0155@
+3 DATA
+4 DATE 1907
+1 DEAT
+2 DATE 30 NOV 1912
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0156@
+3 DATA
+4 DATE 1912
+1 FAMC @F0109@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GNGX-NL3
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:55:33
+0 @I0375@ INDI
+1 NAME Giuseppe /Ortenzi/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE ABT 1911
+1 FAMC @F0109@
+2 PEDI birth
+1 FAMS @F0126@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFZ-RGW
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:55:33
+0 @I0376@ INDI
+1 NAME Mario /Ortenzi/
+2 TYPE birth
+2 GIVN Mario
+2 SURN Ortenzi
+1 SEX M
+1 FAMC @F0126@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFZ-Z4V
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:54:23
+0 @I0377@ INDI
+1 NAME Annita /Ortenzi/
+2 TYPE birth
+2 GIVN Annita
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE DEC 1913
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0157@
+3 DATA
+4 DATE 1914
+1 DEAT
+2 DATE 16 APR 1914
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0157@
+3 DATA
+4 DATE 1914
+1 FAMC @F0107@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GNGX-JQY
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
+0 @I0378@ INDI
+1 NAME Achille /Ortenzi/
+2 TYPE birth
+2 GIVN Achille
+2 SURN Ortenzi
+1 SEX M
+1 BIRT
+2 DATE 10 FEB 1916
+1 DEAT
+2 DATE OCT 1991
+1 FAMC @F0107@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/LTK9-YHQ
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
+0 @I0379@ INDI
+1 NAME Anita /Ortenzi/
+2 TYPE birth
+2 GIVN Anita
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1921
+1 FAMC @F0107@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/LTK9-TL8
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
+0 @I0380@ INDI
+1 NAME Rino /Ortenzi/
+2 TYPE birth
+2 GIVN Rino
+2 SURN Ortenzi
+1 SEX M
+1 FAMC @F0127@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJF8-STG
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 23:04:20
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -9368,9 +10227,15 @@
 2 SOUR @S0016@
 3 DATA
 4 DATE 1906
+1 CHIL @I0207@
+1 CHIL @I0208@
+1 CHIL @I0303@
+1 CHIL @I0304@
+1 CHIL @I0308@
+1 CHIL @I0352@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 20 MAR 2025
+3 TIME 12:49:09
 0 @F0071@ FAM
 1 HUSB @I0201@
 1 WIFE @I0202@
@@ -9402,6 +10267,14 @@
 1 CHAN
 2 DATE 7 NOV 2024
 3 TIME 15:23:59
+0 @F0075@ FAM
+1 HUSB @I0010@
+1 CHIL @I0353@
+1 CHIL @I0354@
+1 CHIL @I0355@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:58:28
 0 @F0076@ FAM
 1 HUSB @I0209@
 1 WIFE @I0210@
@@ -9636,6 +10509,16 @@
 1 CHAN
 2 DATE 7 JAN 2025
 3 TIME 07:55:15
+0 @F0104@ FAM
+1 HUSB @I0353@
+1 CHIL @I0356@
+1 CHIL @I0357@
+1 CHIL @I0358@
+1 CHIL @I0359@
+1 CHIL @I0360@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:07:13
 0 @F0105@ FAM
 1 HUSB @I0305@
 1 WIFE @I0301@
@@ -9657,32 +10540,41 @@
 1 CHIL @I0309@
 1 CHIL @I0313@
 1 CHIL @I0314@
+1 CHIL @I0371@
+1 CHIL @I0372@
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 03:29:02
+2 DATE 20 MAR 2025
+3 TIME 22:18:40
 0 @F0107@ FAM
 1 HUSB @I0309@
+1 CHIL @I0377@
+1 CHIL @I0378@
 1 CHIL @I0316@
+1 CHIL @I0379@
 1 CHIL @I0317@
 1 CHIL @I0318@
 1 CHIL @I0312@
 1 CHIL @I0319@
 1 CHIL @I0310@
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 04:44:08
+2 DATE 20 MAR 2025
+3 TIME 23:01:50
 0 @F0108@ FAM
 1 HUSB @I0230@
 1 CHIL @I0311@
+1 CHIL @I0370@
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 00:34:40
+2 DATE 20 MAR 2025
+3 TIME 19:05:45
 0 @F0109@ FAM
 1 HUSB @I0314@
+1 CHIL @I0373@
+1 CHIL @I0374@
+1 CHIL @I0375@
 1 CHIL @I0315@
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 03:33:06
+2 DATE 20 MAR 2025
+3 TIME 22:55:33
 0 @F0110@ FAM
 1 HUSB @I0321@
 1 WIFE @I0320@
@@ -9852,6 +10744,37 @@
 1 CHAN
 2 DATE 17 MAR 2025
 3 TIME 03:50:35
+0 @F0124@ FAM
+1 HUSB @I0015@
+1 CHIL @I0361@
+1 CHIL @I0362@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:40:12
+0 @F0125@ FAM
+1 HUSB @I0311@
+1 CHIL @I0363@
+1 CHIL @I0364@
+1 CHIL @I0365@
+1 CHIL @I0366@
+1 CHIL @I0367@
+1 CHIL @I0368@
+1 CHIL @I0369@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:03:37
+0 @F0126@ FAM
+1 HUSB @I0375@
+1 CHIL @I0376@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:54:23
+0 @F0127@ FAM
+1 HUSB @I0317@
+1 CHIL @I0380@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 23:04:20
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -10596,9 +11519,10 @@
 0 @S0109@ SOUR
 1 TITL Atto di morte di Rosa Ortenzi (1907)
 1 NOTE @N0147@
+1 NOTE @N0173@
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 07:04:34
+2 DATE 20 MAR 2025
+3 TIME 19:10:04
 0 @S0110@ SOUR
 1 TITL De Castro Farnectae: Addenda Documentaria
 1 AUTH Marco Corradi
@@ -10664,19 +11588,22 @@
 3 TIME 03:47:51
 0 @S0119@ SOUR
 1 TITL Atto di nascita di Albino Martinelli (1906)
+1 NOTE @N0000@
 1 CHAN
-2 DATE 19 MAR 2025
-3 TIME 09:03:10
+2 DATE 20 MAR 2025
+3 TIME 15:10:49
 0 @S0120@ SOUR
 1 TITL Atto di nascita di Emilio Martinelli (1907)
+1 NOTE @N0001@
 1 CHAN
-2 DATE 19 MAR 2025
-3 TIME 09:04:34
+2 DATE 20 MAR 2025
+3 TIME 15:11:12
 0 @S0121@ SOUR
 1 TITL Atto di nascita di Enida Martinelli (1910)
+1 NOTE @N0003@
 1 CHAN
-2 DATE 19 MAR 2025
-3 TIME 09:06:28
+2 DATE 20 MAR 2025
+3 TIME 15:11:43
 0 @S0122@ SOUR
 1 TITL Aldilapp - Mattia Martinelli
 1 CHAN
@@ -10687,6 +11614,205 @@
 1 CHAN
 2 DATE 19 MAR 2025
 3 TIME 09:13:45
+0 @S0124@ SOUR
+1 TITL Atto di nascita di Armando Ortenzi (1907)
+1 NOTE @N0011@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:30:13
+0 @S0125@ SOUR
+1 TITL Atto di nascita di Pierina Ortenzi (1909)
+1 NOTE @N0014@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:35:21
+0 @S0126@ SOUR
+1 TITL Atto di nascita di Giuseppa Ortenzi (1911)
+1 NOTE @N0020@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:38:38
+0 @S0127@ SOUR
+1 TITL Atto di nascita di Amabilia Ortenzi di Federico (1913)
+1 NOTE @N0029@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:40:53
+0 @S0128@ SOUR
+1 TITL Atto di morte di Amabilia Ortenzi (1914)
+1 NOTE @N0047@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:42:44
+0 @S0129@ SOUR
+1 TITL Atto di nascita di Rosina Ortenzi (1915)
+1 NOTE @N0054@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:45:55
+0 @S0130@ SOUR
+1 TITL Atto di nascita di Giulio Ortenzi (1919)
+1 NOTE @N0055@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 12:48:17
+0 @S0131@ SOUR
+1 TITL Atto di matrimonio di Pietro Ortenzi e Domenica Crispoldi (1900)
+1 NOTE @N0072@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:47:48
+0 @S0132@ SOUR
+1 TITL Atto di matrimonio di Italo Ortenzi e Assunta Grassi (1927)
+1 NOTE @N0074@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:50:23
+0 @S0133@ SOUR
+1 TITL Atto di nascita di Elida Ortenzi (1904)
+1 NOTE @N0076@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:52:46
+0 @S0134@ SOUR
+1 TITL Atto di morte di Elida Ortenzi (1904)
+1 NOTE @N0084@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:53:49
+0 @S0135@ SOUR
+1 TITL Atto di nascita di Amadeo Ortenzi (1906)
+1 NOTE @N0085@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:55:09
+0 @S0136@ SOUR
+1 TITL Atto di morte di Amadeo Ortenzi (1907)
+1 NOTE @N0089@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 17:58:01
+0 @S0137@ SOUR
+1 TITL Atto di nascita di Arcangela Ortenzi (1928)
+1 NOTE @N0117@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:05:16
+0 @S0138@ SOUR
+1 TITL Pubblicazione di matrimonio di Alfredo Ortenzi e Gemmina Bonsignori (192
+2 CONC 1)
+1 NOTE @N0145@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:32:42
+0 @S0139@ SOUR
+1 TITL Atto di nascita di Primo Ortenzi (1921)
+1 NOTE @N0151@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:35:16
+0 @S0140@ SOUR
+1 TITL Atto di nascita di Giuseppe Ortenzi (1925)
+1 NOTE @N0163@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:38:53
+0 @S0141@ SOUR
+1 TITL Atto di morte di Costantino Ortenzi (1917)
+1 NOTE @N0164@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:45:24
+0 @S0142@ SOUR
+1 TITL Atto di matrimonio di Decio Ortenzi e Giuseppa Bordacchini (1902)
+1 NOTE @N0165@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:09:34
+0 @S0143@ SOUR
+1 TITL Atto di nascita di Gina Emilia Ortenzi (1903)
+1 NOTE @N0166@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:51:37
+0 @S0144@ SOUR
+1 TITL Atto di nascita di Maria Italia Pia Ortenzi (1904)
+1 NOTE @N0167@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:54:07
+0 @S0145@ SOUR
+1 TITL Atto di nascita di Alessandro Ferdinando Adelmo Ortenzi (1910)
+1 NOTE @N0168@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:55:54
+0 @S0146@ SOUR
+1 TITL Atto di nascita di Rosa Pia Ermelinda Ortenzi (1912)
+1 NOTE @N0169@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:57:45
+0 @S0147@ SOUR
+1 TITL Atto di nascita di Pina Ortenzi (1915)
+1 NOTE @N0170@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 18:59:44
+0 @S0148@ SOUR
+1 TITL Atto di nascita di Giuseppe Ortenzi (1917)
+1 NOTE @N0171@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:01:53
+0 @S0149@ SOUR
+1 TITL Atto di nascita di Annita Ortenzi (1919)
+1 NOTE @N0172@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 19:03:22
+0 @S0151@ SOUR
+1 TITL Atto di morte di Climene Ortenzi (1910)
+1 NOTE @N0174@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:12:51
+0 @S0152@ SOUR
+1 TITL Atto di matrimonio di Pasquale Bordacchini e Elvira Ortenzi (1914)
+1 NOTE @N0175@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:16:01
+0 @S0153@ SOUR
+1 TITL Atto di nascita di Amedeo Primo Aquilio Ortenzi (1904)
+1 NOTE @N0176@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:28:02
+0 @S0154@ SOUR
+1 TITL Atto di morte di Filippo Ortenzi (1926)
+1 NOTE @N0177@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:47:08
+0 @S0155@ SOUR
+1 TITL Atto di nascita di Nicodemo Ortenzi (1907)
+1 NOTE @N0178@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:50:50
+0 @S0156@ SOUR
+1 TITL Atto di morte di Nicodemo Ortenzi (1912)
+1 NOTE @N0179@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:52:13
+0 @S0157@ SOUR
+1 TITL Atto di morte di Annita Ortenzi (1914)
+1 NOTE @N0180@
+1 CHAN
+2 DATE 20 MAR 2025
+3 TIME 22:58:00
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
@@ -10706,14 +11832,18 @@
 1 CONC ra-e-della-memoria-della-difesa/banca-dati-dei-caduti-e-dispersi-2-guerr
 1 CONC a-mondiale.html
 0 @N0010@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-43SS
+0 @N0011@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-1H2B?lang=en
 0 @N0012@ NOTE Dicitura cognome incerta (vedi atto di matrimonio del figlio).
 0 @N0013@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99WR-4H59
+0 @N0014@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-1H88?lang=en
 0 @N0015@ NOTE Secondo matrimonio per Angela Coletti, che era precedentemente vedo
 1 CONC va.
 0 @N0016@ NOTE Padre e madre ignoti secondo l'atto di matrimonio del 1914.
 0 @N0017@ NOTE https://www.cadutigrandeguerra.it/CercaNome.aspx
 0 @N0018@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-Y7HQ-J
 0 @N0019@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9MC-V
+0 @N0020@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSNH-H?cat=835027
+1 CONC &i=203&lang=en
 0 @N0021@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-Y79P-G
 0 @N0022@ NOTE Dicitura cognome incerta (preso dall'atto di morte di Ersilia Ricci
 1 CONC ).
@@ -10724,6 +11854,8 @@
 0 @N0026@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9WR-48DZ
 0 @N0027@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9WR-48RX
 0 @N0028@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z15B
+0 @N0029@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSXH-Y?lang=en&i=
+1 CONC 353
 0 @N0030@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YPMB
 0 @N0031@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YGYW
 0 @N0032@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-4QP2
@@ -10769,6 +11901,7 @@
 1 CONC 3 - 14 = 1819);
 1 CONT - un massimo di 44 anni alla nascita dell'ultima figlia Rufina (1847 - 4
 1 CONC 4 = 1803).
+0 @N0047@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z99M-2?lang=en
 0 @N0048@ NOTE - Trovare atto di nascita.
 0 @N0049@ NOTE - Nascita e morte riportati come 1928-1930 nel file MacFamilyTree.
 1 CONT - Controllare atto di nascita / morte per verificare che si tratti dell
@@ -10793,6 +11926,10 @@
 1 CONC uxta rituale Romanum. 
 1 CONT 
 1 CONT Ita est = Jeremias Lancellotti Parochus M.n ppa.
+0 @N0054@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSDS-H?cat=835027
+1 CONC &i=447&lang=en
+0 @N0055@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XS8N-6?cat=835027
+1 CONC &i=637&lang=en
 0 @N0056@ NOTE Nato a Farnetta, dove abitava fino a 11 anni quando è morto il padr
 1 CONC e. La madre si è risposata con Michelini. Giulio è stato mandato a lavor
 1 CONC are in una famiglia a Narni.
@@ -10842,8 +11979,13 @@
 0 @N0069@ NOTE 4 SEZIONE - RIQUADRO P - RIQUADRO P - Loculo 1144
 0 @N0070@ NOTE 6 SEZIONE - R-27 RIQUADRO 27° - Loculo 6677
 0 @N0071@ NOTE Nome riportato come 'Maria Letizia' nel file MacFamilyTree.
+0 @N0072@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-89W5-Y5DQ?lang=en&
+1 CONC i=82
 0 @N0073@ NOTE Nome riportato come "Pierina" nel file MacFamilyTree.
+0 @N0074@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-ZYSF?lang=en&
+1 CONC i=334
 0 @N0075@ NOTE Stimata perchè ricordato dalla nipote Iolanda.
+0 @N0076@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-1HX2?lang=en
 0 @N0077@ NOTE Morta di tifo.
 0 @N0078@ NOTE https://www.freebmd.org.uk/cgi/information.pl?scan=1&r=269196649:09
 1 CONC 88&d=bmd_1729815772
@@ -10855,9 +11997,12 @@
 0 @N0081@ NOTE Morta di "infantigliole".
 0 @N0082@ NOTE Figlia "di latte".
 0 @N0083@ NOTE Luogo del matrimonio incerto.
+0 @N0084@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-YGST?lang=en
+0 @N0085@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-1HB5?lang=en
 0 @N0086@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840811/5xmZKAg
 0 @N0087@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37840907/wleZZP2
 0 @N0088@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839633/wQbDPAK
+0 @N0089@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YLQ1?lang=en
 0 @N0090@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841587/wkNJN7A
 0 @N0091@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841378/wEdJXW7
 0 @N0092@ NOTE Il comune di Cesi includeva l'ex comune di Portaria dal 1875 al 192
@@ -10894,6 +12039,8 @@
 0 @N0116@ NOTE - Cercare atto di matrimonio (comune di Montecastrilli?) per trovar
 1 CONC e il nome dei genitori, e capire se erano vivi al momento del matrimonio
 1 CONC .
+0 @N0117@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSDP-Q?cat=83
+1 CONC 5027&i=1194&lang=en
 0 @N0118@ NOTE Moglie forse Veneranda Aurizi (vedi:
 1 CONT - atto di matrimonio di Giuseppe Manni, 1862;
 1 CONT - atto di matrimonio di Annibale Manni, 1873;
@@ -10989,6 +12136,7 @@
 1 CONC 5027&i=688
 0 @N0144@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSZ3-Y?cat=83
 1 CONC 5027&i=827
+0 @N0145@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9MK-3?lang=en
 0 @N0146@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9M7-B
 0 @N0147@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQRP-P
 0 @N0148@ NOTE Signor Ortenzi Francesco Massa 
@@ -11033,6 +12181,8 @@
 1 CONT compresi tre libretti piccoli e uno grande 
 0 @N0149@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37841141/LyJkgMK
 0 @N0150@ NOTE Figlio di ignoti.
+0 @N0151@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSFW-P?cat=835027
+1 CONC &i=773&lang=en
 0 @N0152@ NOTE Analfabeta.
 0 @N0153@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99WR-MZPS
 0 @N0154@ NOTE L'anno millenovecentotto addì otto di settembre
@@ -11157,6 +12307,30 @@
 1 CONT qualificazione analfabeta.
 0 @N0162@ NOTE Nato comunque prima del 1861 in quanto non presente nel registro de
 1 CONC cennale dei nati 1861-1870 di Portaria.
+0 @N0163@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XSDJ-S?cat=835027
+1 CONC &i=1013&lang=en
+0 @N0164@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-431F?lang=en
+0 @N0165@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-YPN4?lang=en
+0 @N0166@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-1CZ1?lang=en
+0 @N0167@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-1CDX?lang=en
+0 @N0168@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9W5-1H9D?lang=en
+0 @N0169@ NOTE https://www.familysearch.org/en/tree/person/P967-X38
+0 @N0170@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XS6P-G?cat=835027
+1 CONC &i=453&lang=en
+0 @N0171@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQG-XS8K-Y?cat=835027
+1 CONC &i=550&lang=en
+0 @N0172@ NOTE https://www.familysearch.org/en/tree/person/PMYT-4TF
+0 @N0173@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQRP-P?view=explo
+1 CONC re&groupId=M9Z4-JGS&lang=en
+0 @N0174@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSDM-Y732-3?view=explo
+1 CONC re&groupId=M9Z4-JG7&lang=en
+0 @N0175@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9WR-483L?lang=en
+0 @N0176@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BBRZ?view=explore
+1 CONC &groupId=M9K7-VPR&lang=en
+0 @N0177@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-4SH4?lang=en
+0 @N0178@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BRDL?lang=en
+0 @N0179@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-49BN?lang=en
+0 @N0180@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-4VP?lang=en
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/

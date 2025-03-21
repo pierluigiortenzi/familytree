@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 20 MAR 2025
-2 TIME 23:08:36
+1 DATE 21 MAR 2025
+2 TIME 15:37:27
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -280,8 +280,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 04:37:45
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0007@ INDI
 1 NAME Ester /Martinelli/
 2 TYPE birth
@@ -436,8 +436,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GF6T-HCS
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 17:50:35
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0011@ INDI
 1 NAME Peppina /Ortenzi/
 2 TYPE birth
@@ -447,8 +447,8 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0012@ INDI
 1 NAME Florida /Ortenzi/
 2 TYPE birth
@@ -461,15 +461,23 @@
 2 SURN Ortenzi
 1 SEX F
 1 BIRT
-2 DATE 1879
+2 DATE 22 MAY 1879
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0159@
+3 DATA
+4 DATE 1904
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0129@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-4LW
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 06:58:42
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0013@ INDI
 1 NAME Federico /Ortenzi/
 2 TYPE birth
@@ -501,8 +509,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-JFG
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:14:25
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0014@ INDI
 1 NAME Clotilde /Ortenzi/
 2 TYPE birth
@@ -538,8 +546,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJF3-3J8
 1 CHAN
-2 DATE 19 MAR 2025
-3 TIME 09:14:30
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0015@ INDI
 1 NAME Alfredo /Ortenzi/
 2 TYPE birth
@@ -568,8 +576,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G9B8-QX4
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 18:37:27
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0016@ INDI
 1 NAME Vittorio /Trovarelli/
 2 TYPE birth
@@ -5625,12 +5633,13 @@
 4 DATE 1907
 1 FAMC @F0070@
 2 PEDI birth
+1 FAMS @F0130@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GFK8-JR6
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 12:33:08
+2 DATE 21 MAR 2025
+3 TIME 13:39:55
 0 @I0208@ INDI
 1 NAME Pierina Giuseppina Lenida /Ortenzi/
 2 TYPE birth
@@ -5647,12 +5656,13 @@
 2 DATE 4 MAY 1990
 1 FAMC @F0070@
 2 PEDI birth
+1 FAMS @F0132@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GFK8-66Z
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 12:36:01
+2 DATE 21 MAR 2025
+3 TIME 13:42:56
 0 @I0209@ INDI
 1 NAME Cesare /Caproni/
 2 TYPE birth
@@ -6073,14 +6083,24 @@
 2 DATE 1840
 1 DEAT
 2 DATE 28 JUN 1937
+1 RESI
+2 DATE ABT 1916
+2 PLAC Colvalenza, Todi, Umbria
+3 MAP
+4 LATI N42.746
+4 LONG E12.4853
+2 SOUR @S0161@
+3 DATA
+4 DATE 1916
 1 FAMC @F0055@
 2 PEDI birth
+1 FAMS @F0134@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJXN-GLM
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 MAR 2025
+3 TIME 14:05:04
 0 @I0229@ INDI
 1 NAME Rufina /Ortenzi/
 2 TYPE birth
@@ -6108,12 +6128,13 @@
 4 DATE 1926
 1 FAMC @F0055@
 2 PEDI birth
+1 FAMS @F0135@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GD1Y-G37
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 MAR 2025
+3 TIME 14:13:51
 0 @I0230@ INDI
 1 NAME Pietro /Ortenzi/
 2 TYPE birth
@@ -7634,17 +7655,25 @@
 2 SURN Ortenzi
 1 SEX F
 1 BIRT
-2 DATE 1874
+2 DATE 24 JUN 1874
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0158@
+3 DATA
+4 DATE 1899
 1 DEAT
-2 DATE 1932
+2 DATE 9 MAY 1932
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0128@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GN5X-CCW
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @I0308@ INDI
 1 NAME Rosina Maria Angiolina /Ortenzi/
 2 TYPE birth
@@ -7661,12 +7690,13 @@
 2 DATE 20 MAY 2000
 1 FAMC @F0070@
 2 PEDI birth
+1 FAMS @F0133@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GJFS-YPL
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 12:46:42
+2 DATE 21 MAR 2025
+3 TIME 13:44:54
 0 @I0309@ INDI
 1 NAME Francesco /Ortenzi/
 2 TYPE birth
@@ -9484,6 +9514,294 @@
 1 CHAN
 2 DATE 20 MAR 2025
 3 TIME 23:04:20
+0 @I0381@ INDI
+1 NAME Giuseppe /Stufara/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Stufara
+1 SEX M
+1 BIRT
+2 DATE 1863
+2 PLAC Fiore, Todi, Umbria
+3 MAP
+4 LATI N42.7498
+4 LONG E12.3912
+2 SOUR @S0158@
+3 DATA
+4 DATE 1899
+1 FAMS @F0128@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GN5X-2SV
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:18:25
+0 @I0382@ INDI
+1 NAME Giuseppe /Lanari/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Lanari
+1 SEX M
+1 BIRT
+2 DATE 1877
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0159@
+3 DATA
+4 DATE 1904
+1 FAMS @F0129@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJ91-JF7
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:23:33
+0 @I0383@ INDI
+1 NAME Teresa Elisa Natalina /Lanari/
+2 TYPE birth
+2 GIVN Teresa Elisa Natalina
+2 SURN Lanari
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1908
+2 PLAC Castelrinaldi, Massa Martana, Umbria
+3 MAP
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0160@
+3 DATA
+4 DATE 1908
+1 FAMC @F0129@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFQ-S7Y
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:25:42
+0 @I0384@ INDI
+1 NAME Ivana /Ortenzi/
+2 TYPE birth
+2 GIVN Ivana
+2 SURN Ortenzi
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 DEAT
+2 DATE 1991
+1 FAMC @F0130@
+2 PEDI birth
+1 FAMS @F0131@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFS-6JR
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:41:13
+0 @I0385@ INDI
+1 NAME Ida Barbara /Quartucci/
+2 TYPE birth
+2 GIVN Ida Barbara
+2 SURN Quartucci
+1 SEX F
+1 BIRT
+2 DATE 26 APR 1959
+1 DEAT
+2 DATE 14 OCT 2016
+1 FAMC @F0131@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFS-Z64
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:41:13
+0 @I0386@ INDI
+1 NAME Luigia /Fioretti/
+2 TYPE birth
+2 GIVN Luigia
+2 SURN Fioretti
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1935
+1 DEAT
+2 DATE 20 NOV 1994
+1 BURI
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+1 FAMC @F0132@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFS-3KW
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:42:56
+0 @I0387@ INDI
+1 NAME Urbano /Parretti/
+2 TYPE birth
+2 GIVN Urbano
+2 SURN Parretti
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1939
+2 PLAC Torrececcona, Todi, Umbria
+3 MAP
+4 LATI N42.7738
+4 LONG E12.4855
+1 FAMC @F0133@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJFS-K8S
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:44:54
+0 @I0388@ INDI
+1 NAME Antonio /Menestò/
+2 TYPE birth
+2 GIVN Antonio
+2 SURN Menestò
+1 SEX M
+1 BIRT
+2 DATE 1887
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+2 SOUR @S0161@
+3 DATA
+4 DATE 1916
+1 FAMC @F0134@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G4F1-TYB
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:02:23
+0 @I0389@ INDI
+1 NAME Brandolice /Paolantoni/
+2 TYPE birth
+2 GIVN Brandolice
+2 SURN Paolantoni
+1 SEX M
+1 BIRT
+2 DATE 1882
+2 PLAC Ficareto, Todi, Umbria
+3 MAP
+4 LATI N42.8102
+4 LONG E12.4904
+2 SOUR @S0162@
+3 DATA
+4 DATE 1905
+1 FAMC @F0135@
+2 PEDI birth
+1 FAMS @F0136@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GD1Y-KRD
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:17:26
+0 @I0390@ INDI
+1 NAME Elena /Paolantoni/
+2 TYPE birth
+2 GIVN Elena
+2 SURN Paolantoni
+1 SEX F
+1 BIRT
+2 DATE 1906
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0163@
+3 DATA
+4 DATE 1928
+1 FAMC @F0136@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GKGT-VXB
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:17:26
+0 @I0391@ INDI
+1 NAME Anello /Paolantoni/
+2 TYPE birth
+2 GIVN Anello
+2 SURN Paolantoni
+1 SEX M
+1 BIRT
+2 DATE 1909
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0164@
+3 DATA
+4 DATE 1910
+1 DEAT
+2 DATE 2 JUN 1910
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0164@
+3 DATA
+4 DATE 1910
+1 FAMC @F0136@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJZJ-8PQ
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:19:40
+0 @I0392@ INDI
+1 NAME Italia /Paolantoni/
+2 TYPE birth
+2 GIVN Italia
+2 SURN Paolantoni
+1 SEX F
+1 BIRT
+2 DATE 1911
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0165@
+3 DATA
+4 DATE 1912
+1 DEAT
+2 DATE 25 MAR 1912
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0165@
+3 DATA
+4 DATE 1912
+1 FAMC @F0136@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/GJZN-BPP
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:21:44
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -9539,7 +9857,6 @@
 0 @F0003@ FAM
 1 HUSB @I0008@
 1 WIFE @I0167@
-1 CHIL @I0011@
 1 CHIL @I0013@
 1 CHIL @I0010@
 1 CHIL @I0307@
@@ -9547,9 +9864,10 @@
 1 CHIL @I0014@
 1 CHIL @I0006@
 1 CHIL @I0015@
+1 CHIL @I0011@
 1 CHAN
-2 DATE 14 JAN 2025
-3 TIME 20:10:35
+2 DATE 21 MAR 2025
+3 TIME 13:45:54
 0 @F0004@ FAM
 1 HUSB @I0016@
 1 WIFE @I0017@
@@ -10775,6 +11093,80 @@
 1 CHAN
 2 DATE 20 MAR 2025
 3 TIME 23:04:20
+0 @F0128@ FAM
+1 HUSB @I0381@
+1 WIFE @I0307@
+1 MARR
+2 DATE 3 JUN 1899
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:18:25
+0 @F0129@ FAM
+1 HUSB @I0382@
+1 WIFE @I0012@
+1 MARR
+2 DATE 10 APR 1904
+2 PLAC Massa Martana, Umbria
+3 MAP
+4 LATI N42.7843
+4 LONG E12.5189
+3 NOTE @N0060@
+2 SOUR @S0159@
+3 DATA
+4 DATE 1904
+1 CHIL @I0383@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:25:42
+0 @F0130@ FAM
+1 HUSB @I0207@
+1 CHIL @I0384@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:39:55
+0 @F0131@ FAM
+1 WIFE @I0384@
+1 CHIL @I0385@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:41:13
+0 @F0132@ FAM
+1 WIFE @I0208@
+1 CHIL @I0386@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:42:56
+0 @F0133@ FAM
+1 WIFE @I0308@
+1 CHIL @I0387@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:44:54
+0 @F0134@ FAM
+1 WIFE @I0228@
+1 CHIL @I0388@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:02:23
+0 @F0135@ FAM
+1 WIFE @I0229@
+1 CHIL @I0389@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:13:51
+0 @F0136@ FAM
+1 HUSB @I0389@
+1 CHIL @I0390@
+1 CHIL @I0391@
+1 CHIL @I0392@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:21:44
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -11813,6 +12205,55 @@
 1 CHAN
 2 DATE 20 MAR 2025
 3 TIME 22:58:00
+0 @S0158@ SOUR
+1 TITL Pubblicazione di matrimonio di Giuseppe Stufara e Zelinda Ortenzi (1899)
+1 NOTE @N0181@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:12:02
+0 @S0159@ SOUR
+1 TITL Atto di matrimonio di Giuseppe Lanari e Florida Ortenzi (1904)
+1 NOTE @N0182@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:20:44
+0 @S0160@ SOUR
+1 TITL Atto di nascita di Teresa Lanari (1908)
+1 NOTE @N0183@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 13:35:45
+0 @S0161@ SOUR
+1 TITL Atto di matrimonio di Antonio Menestò e Ida Antonelli (1916)
+1 NOTE @N0184@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:01:55
+0 @S0162@ SOUR
+1 TITL Atto di matrimonio di Brandolice Paolantoni e Angelica Bordacchini (1905
+2 CONC )
+1 NOTE @N0185@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:13:12
+0 @S0163@ SOUR
+1 TITL Atto di matrimonio di Giovanni Salvatelli e Elena Paolantoni (1928)
+1 NOTE @N0186@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:16:56
+0 @S0164@ SOUR
+1 TITL Atto di morte di Anello Paolantoni (1910)
+1 NOTE @N0187@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:18:44
+0 @S0165@ SOUR
+1 TITL Atto di morte di Italia Paolantoni (1912)
+1 NOTE @N0188@
+1 CHAN
+2 DATE 21 MAR 2025
+3 TIME 14:20:59
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
@@ -12331,6 +12772,18 @@
 0 @N0178@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BRDL?lang=en
 0 @N0179@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-49BN?lang=en
 0 @N0180@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-4VP?lang=en
+0 @N0181@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-L9W5-B9Q4-F?lang=en
+0 @N0182@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-YPWC?lang=en
+0 @N0183@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-L9W5-1HCJ?cat=8350
+1 CONC 27&i=497&lang=en
+0 @N0184@ NOTE https://familysearch.org/ark:/61903/3:1:3QSQ-G9WR-4ZXS?lang=en
+0 @N0185@ NOTE https://www.familysearch.org/en/tree/person/GD1Y-KRD
+0 @N0186@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9WR-48V2?lang=en&
+1 CONC i=2029
+0 @N0187@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99W5-Y2LB?lang=en&
+1 CONC i=826
+0 @N0188@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-ZYPT?lang=en&
+1 CONC i=472
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/

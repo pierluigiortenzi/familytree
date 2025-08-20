@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 29 JUL 2025
-2 TIME 17:05:05
+1 DATE 20 AUG 2025
+2 TIME 11:33:04
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -257,15 +257,23 @@
 3 DATA
 4 DATE 2024
 1 RESI
-2 DATE ABT 1913
-2 PLAC Massa Martana, Umbria
-3 MAP
-4 LATI N42.7843
-4 LONG E12.5189
-3 NOTE @N0060@
+2 DATE FROM 1913 TO 1918
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
 2 SOUR @S0006@
 3 DATA
 4 DATE 1913
+2 SOUR @S0102@
+3 DATA
+4 DATE 1918
+1 RESI
+2 DATE FROM 1920 TO 1922
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0103@
+3 DATA
+4 DATE 1920
+2 SOUR @S0104@
+3 DATA
+4 DATE 1922
 1 RESI
 2 DATE AFT 1930
 2 PLAC Casa di Luigi Ortenzi, Castelrinaldi, Massa Martana, Umbria
@@ -304,41 +312,50 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 21 MAR 2025
-3 TIME 13:45:54
+2 DATE 20 AUG 2025
+3 TIME 11:26:51
 0 @I0007@ INDI
-1 NAME Ester /Martinelli/
+1 NAME Ester Agata /Martinelli/
 2 TYPE birth
-2 GIVN Ester
+2 GIVN Ester Agata
 2 SURN Martinelli
 1 SEX F
 1 BIRT
-2 DATE 1893
-2 PLAC Todi, Umbria
-3 MAP
-4 LATI N42.778889
-4 LONG E12.414167
-3 NOTE @N0061@
-2 SOUR @S0006@
-3 DATA
-4 DATE 1913
-1 DEAT
-2 DATE 18 JAN 1968
-2 SOUR @S0030@
-3 DATA
-4 DATE 2024
-1 RESI
-2 DATE FROM 1905 TO 1920
+2 DATE 27 MAY 1893
 2 PLAC Monticello, Todi, Umbria
 3 MAP
 4 LATI N42.7961
 4 LONG E12.48048
-2 SOUR @S0015@
+2 SOUR @S0178@
 3 DATA
-4 DATE 1905
-2 SOUR @S0176@
+4 DATE 1893
+1 DEAT
+2 DATE 18 JAN 1968
+2 PLAC San Gemini, Umbria
+3 MAP
+4 LATI N42.611111
+4 LONG E12.545833
+2 SOUR @S0030@
+3 DATA
+4 DATE 2024
+1 RESI
+2 DATE FROM 1913 TO 1918
+2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0006@
+3 DATA
+4 DATE 1913
+2 SOUR @S0102@
+3 DATA
+4 DATE 1918
+1 RESI
+2 DATE FROM 1920 TO 1922
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0103@
 3 DATA
 4 DATE 1920
+2 SOUR @S0104@
+3 DATA
+4 DATE 1922
 1 BURI
 2 PLAC Cappella di Famiglia Ortenzi Francesco, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -361,8 +378,8 @@
 2 FILE https://www.familysearch.org/tree/person/GJZJ-HHF
 1 NOTE @N0041@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:33:03
+2 DATE 20 AUG 2025
+3 TIME 11:27:15
 0 @I0008@ INDI
 1 NAME Francesco /Ortenzi/
 2 TYPE birth
@@ -1031,11 +1048,12 @@
 1 SEX F
 1 BIRT
 2 DATE 16 AUG 1933
-2 PLAC Acquasparta, Umbria
+2 PLAC Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6915
-4 LONG E12.5464
-3 NOTE @N0062@
+4 LATI N42.6564
+4 LONG E12.5655
+3 NOTE @N0109@
+3 NOTE @N0128@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -1132,12 +1150,7 @@
 2 OBJE @O0128@
 1 RESI
 2 DATE BET 1935 AND 1957
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Podere L'Arieta, Portaria, Acquasparta, Umbria
 1 RESI
 2 DATE BET 1957 AND 1963
 2 PLAC Terni, Umbria
@@ -1165,8 +1178,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
 1 NOTE @N0056@
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 22:41:12
+2 DATE 30 JUL 2025
+3 TIME 17:01:06
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1214,14 +1227,8 @@
 2 PLAC Casa di Giulio Camilluzzi, Pesciano, Todi, Umbria
 2 OBJE @O0128@
 1 RESI
-2 TYPE Podere L'Arieta
 2 DATE BET 1935 AND 1957
-2 PLAC Portaria, Acquasparta, Umbria
-3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+2 PLAC Podere L'Arieta, Portaria, Acquasparta, Umbria
 1 RESI
 2 DATE BET 1957 AND 1991
 2 PLAC Terni, Umbria
@@ -1316,10 +1323,13 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JUL 1865
-2 PLAC Dunarobba, Avigliano Umbro, Umbria
+2 PLAC Rosaro, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6718
-4 LONG E12.4516
+4 LATI N42.7077
+4 LONG E12.4846
+2 NOTE @N0206@
+2 SOUR @S0110@
+3 PAGE 124
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
@@ -1327,8 +1337,6 @@
 2 SOUR @S0036@
 3 DATA
 4 DATE 2024
-2 SOUR @S0110@
-3 PAGE 124
 1 DEAT
 2 DATE 18 AUG 1935
 2 SOUR @S0027@
@@ -1367,9 +1375,10 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-Z4J
 1 NOTE @N0129@
+1 NOTE @N0207@
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 00:42:36
+2 DATE 17 AUG 2025
+3 TIME 08:43:13
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1560,13 +1569,8 @@
 3 DATA
 4 DATE 1949
 1 RESI
-2 TYPE Numero 192.
 2 DATE ABT 1908
-2 PLAC Montecastrilli, Umbria
-3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+2 PLAC Casa n. 192, Montecastrilli, Umbria
 2 SOUR @S0112@
 3 DATA
 4 DATE 1908
@@ -1635,13 +1639,8 @@
 4 LATI N42.643737
 4 LONG E12.475253
 1 RESI
-2 TYPE Numero 192.
 2 DATE ABT 1908
-2 PLAC Montecastrilli, Umbria
-3 MAP
-4 LATI N42.6511
-4 LONG E12.486
-3 NOTE @N0059@
+2 PLAC Casa n. 192, Montecastrilli, Umbria
 2 SOUR @S0112@
 3 DATA
 4 DATE 1908
@@ -3840,6 +3839,10 @@
 1 SEX M
 1 BIRT
 2 DATE APR 1972
+2 PLAC Lombardia
+3 MAP
+4 LATI N45.472
+4 LONG E9.185
 1 FAMS @F0047@
 1 CHAN
 2 DATE 7 NOV 2024
@@ -4592,20 +4595,34 @@
 2 GIVN Sante
 2 SURN Martinelli
 1 SEX M
+1 BIRT
+2 DATE 1844
+2 SOUR @S0178@
+3 DATA
+4 DATE 1893
 1 DEAT
 2 DATE AFT 1920
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
 1 RESI
-2 DATE FROM 1905 TO 1920
+2 DATE 1874
+2 PLAC Chioano, Todi, Umbria
+3 MAP
+4 LATI N42.77618
+4 LONG E12.45678
+2 SOUR @S0016@
+3 DATA
+4 DATE 1906
+1 RESI
+2 DATE FROM 1893 TO 1920
 2 PLAC Monticello, Todi, Umbria
 3 MAP
 4 LATI N42.7961
 4 LONG E12.48048
-2 SOUR @S0015@
+2 SOUR @S0178@
 3 DATA
-4 DATE 1905
+4 DATE 1893
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
@@ -4615,8 +4632,8 @@
 2 FILE https://www.familysearch.org/tree/person/GFVQ-3LL
 1 NOTE @N0040@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 20 AUG 2025
+3 TIME 11:21:58
 0 @I0170@ INDI
 1 NAME Maria /Marcelli/
 2 TYPE birth
@@ -4632,14 +4649,23 @@
 3 DATA
 4 DATE 1920
 1 RESI
-2 DATE FROM 1905 TO 1920
+2 DATE 1874
+2 PLAC Chioano, Todi, Umbria
+3 MAP
+4 LATI N42.77618
+4 LONG E12.45678
+2 SOUR @S0016@
+3 DATA
+4 DATE 1906
+1 RESI
+2 DATE FROM 1893 TO 1920
 2 PLAC Monticello, Todi, Umbria
 3 MAP
 4 LATI N42.7961
 4 LONG E12.48048
-2 SOUR @S0015@
+2 SOUR @S0178@
 3 DATA
-4 DATE 1905
+4 DATE 1893
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
@@ -4649,8 +4675,8 @@
 2 FILE https://www.familysearch.org/tree/person/GFVQ-3LT
 1 NOTE @N0040@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 20 AUG 2025
+3 TIME 11:22:23
 0 @I0171@ INDI
 1 NAME Sestilia /Martinelli/
 2 TYPE birth
@@ -4673,8 +4699,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GFVQ-7P5
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 3 AUG 2025
+3 TIME 09:05:56
 0 @I0172@ INDI
 1 NAME Mattia /Martinelli/
 2 TYPE birth
@@ -4710,8 +4736,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJFS-BGF
 1 CHAN
-2 DATE 19 MAR 2025
-3 TIME 09:08:56
+2 DATE 3 AUG 2025
+3 TIME 09:05:56
 0 @I0173@ INDI
 1 NAME Filippo /Ortenzi/
 2 TYPE birth
@@ -4809,6 +4835,7 @@
 1 BIRT
 2 DATE ABT 1772
 1 DEAT
+2 TYPE Domo praedii Domini Angeli Berti de Inderto
 2 DATE 22 JAN 1832
 2 PLAC Ficareto, Todi, Umbria
 3 MAP
@@ -4958,7 +4985,7 @@
 2 SURN Trovarelli
 1 SEX M
 1 BIRT
-2 DATE 1864
+2 DATE 1863
 2 PLAC Gualdo Cattaneo, Umbria
 3 MAP
 4 LATI N42.9172
@@ -5005,7 +5032,7 @@
 2 SURN Monacelli
 1 SEX F
 1 BIRT
-2 DATE 1864
+2 DATE 1863
 2 PLAC Todi, Umbria
 3 MAP
 4 LATI N42.778889
@@ -5502,9 +5529,17 @@
 1 SEX F
 1 BIRT
 2 DATE 1 MAR 1888
+2 PLAC Gualdo Cattaneo, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.5519
+3 NOTE @N0065@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
+2 SOUR @S0172@
+3 DATA
+4 DATE 1909
 1 FAMC @F0061@
 2 PEDI birth
 1 FAMS @F0139@
@@ -10037,8 +10072,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PQMD-7YF
 1 CHAN
-2 DATE 28 JUL 2025
-3 TIME 21:18:40
+2 DATE 3 AUG 2025
+3 TIME 09:05:56
 0 @I0398@ INDI
 1 NAME Dalida /Grassi/
 2 TYPE birth
@@ -10062,6 +10097,40 @@
 1 CHAN
 2 DATE 28 JUL 2025
 3 TIME 21:18:40
+0 @I0399@ INDI
+1 NAME Silvestro /Girolami/
+2 TYPE birth
+2 GIVN Silvestro
+2 SURN Girolami
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1910
+2 PLAC Collazzone, Umbria
+3 MAP
+4 LATI N42.9011
+4 LONG E12.4338
+3 NOTE @N0063@
+2 SOUR @S0177@
+3 DATA
+4 DATE 1910
+1 DEAT
+2 DATE 10 JUN 1910
+2 PLAC Collazzone, Umbria
+3 MAP
+4 LATI N42.9011
+4 LONG E12.4338
+3 NOTE @N0063@
+2 SOUR @S0177@
+3 DATA
+4 DATE 1910
+1 FAMC @F0139@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQ9Z-TS8
+1 CHAN
+2 DATE 29 JUL 2025
+3 TIME 17:45:00
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -10648,11 +10717,11 @@
 1 WIFE @I0170@
 1 CHIL @I0171@
 1 CHIL @I0172@
-1 CHIL @I0007@
 1 CHIL @I0397@
+1 CHIL @I0007@
 1 CHAN
-2 DATE 28 JUL 2025
-3 TIME 21:16:15
+2 DATE 3 AUG 2025
+3 TIME 09:05:56
 0 @F0055@ FAM
 1 HUSB @I0173@
 1 WIFE @I0174@
@@ -11464,9 +11533,10 @@
 2 SOUR @S0172@
 3 DATA
 4 DATE 1909
+1 CHIL @I0399@
 1 CHAN
-2 DATE 27 JUL 2025
-3 TIME 06:42:07
+2 DATE 29 JUL 2025
+3 TIME 17:45:00
 0 @F0140@ FAM
 1 HUSB @I0397@
 1 WIFE @I0398@
@@ -12646,6 +12716,18 @@
 1 CHAN
 2 DATE 28 JUL 2025
 3 TIME 21:16:08
+0 @S0177@ SOUR
+1 TITL Atto di nascita di Silvestro Girolami (1910)
+1 NOTE @N0205@
+1 CHAN
+2 DATE 29 JUL 2025
+3 TIME 17:44:24
+0 @S0178@ SOUR
+1 TITL Atto di nascita di Ester Martinelli (1893)
+1 OBJE @O0263@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 11:01:33
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
@@ -13204,6 +13286,13 @@
 0 @N0203@ NOTE https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877;3750
 0 @N0204@ NOTE https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:
 1 CONC 1920-05-13;607
+0 @N0205@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QDQ-Y?cat=83
+1 CONC 4503&i=1442&lang=en
+0 @N0206@ NOTE Rosaro in Acquasparta sembra più probabile come luogo di nascita d
+1 CONC i Dunarobba in quanto l'atto di nascita non è stato trovato in Montecast
+1 CONC rilli neanche con la data di nascita esatta.
+0 @N0207@ NOTE Richiedere atto di nascita in Acquasparta, o l'atto di morte in Mon
+1 CONC tecastrilli. 
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -13776,8 +13865,8 @@
 2 FORM jpg
 2 TITL Giulio_Camilluzzi_fine_1960
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 3 AUG 2025
+3 TIME 06:19:30
 0 @O0080@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Iolanda_Caproni_Luigi_Camilluzzi_1955.jpg
 2 FORM jpg
@@ -15098,6 +15187,13 @@
 1 CHAN
 2 DATE 29 JUL 2025
 3 TIME 15:28:12
+0 @O0263@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Ester_Martinelli_1893.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Ester_Martinelli_1893
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 11:01:31
 0 @O0264@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Carlo_Camilluzzi_1922.jpg
 2 FORM jpg

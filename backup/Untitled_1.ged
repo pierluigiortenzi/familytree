@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 20 AUG 2025
-2 TIME 11:33:04
+1 DATE 21 AUG 2025
+2 TIME 06:14:44
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -376,10 +376,9 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-HHF
-1 NOTE @N0041@
 1 CHAN
 2 DATE 20 AUG 2025
-3 TIME 11:27:15
+3 TIME 11:49:27
 0 @I0008@ INDI
 1 NAME Francesco /Ortenzi/
 2 TYPE birth
@@ -1276,14 +1275,13 @@
 4 DATE 1889
 1 DEAT
 2 DATE BET 1898 AND 1901
-2 PLAC Farnetta, Montecastrilli, Umbria
-3 MAP
-4 LATI N42.6483
-4 LONG E12.4512
+2 PLAC Casale del Poggio, Farnetta, Montecastrilli, Umbria
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+2 SOUR @S0089@
+3 PAGE 298
 1 RESI
 2 DATE ABT 1889
 2 PLAC Farnetta, Montecastrilli, Umbria
@@ -4626,6 +4624,11 @@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0178@
+3 DATA
+4 DATE 1893
 1 FAMS @F0054@
 1 OBJE
 2 FORM URL
@@ -4633,7 +4636,7 @@
 1 NOTE @N0040@
 1 CHAN
 2 DATE 20 AUG 2025
-3 TIME 11:21:58
+3 TIME 11:59:41
 0 @I0170@ INDI
 1 NAME Maria /Marcelli/
 2 TYPE birth
@@ -5103,15 +5106,18 @@
 4 DATE 1925
 1 RESI
 2 DATE ABT 1900
-2 PLAC Cerqueto, Marsciano, Umbria
-3 MAP
-4 LATI N42.9503
-4 LONG E12.3191
+2 PLAC Casa n. 69, Cerqueto, Marsciano, Umbria
 2 SOUR @S0115@
 3 DATA
 4 DATE 1900
 1 RESI
-2 DATE ABT 1920
+2 DATE 1902
+2 PLAC Casa n. 66, Papiano, Marsciano, Umbria
+2 SOUR @S0184@
+3 DATA
+4 DATE 1902
+1 RESI
+2 DATE FROM 1904 TO 1920
 2 PLAC Pantalla, Todi, Umbria
 3 MAP
 4 LATI N42.8742
@@ -5119,6 +5125,9 @@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
+2 SOUR @S0181@
+3 DATA
+4 DATE 1904
 1 FACT colono
 2 TYPE Occupation
 2 SOUR @S0017@
@@ -5132,8 +5141,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPT-LBH
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 13:12:35
+2 DATE 21 AUG 2025
+3 TIME 05:26:49
 0 @I0185@ INDI
 1 NAME Ersilia /Ricci/
 2 TYPE birth
@@ -5160,13 +5169,16 @@
 4 DATE 1911
 1 RESI
 2 DATE ABT 1900
-2 PLAC Cerqueto, Marsciano, Umbria
-3 MAP
-4 LATI N42.9503
-4 LONG E12.3191
+2 PLAC Casa n. 69, Cerqueto, Marsciano, Umbria
 2 SOUR @S0115@
 3 DATA
 4 DATE 1900
+1 RESI
+2 DATE 1902
+2 PLAC Casa n. 66, Papiano, Marsciano, Umbria
+2 SOUR @S0184@
+3 DATA
+4 DATE 1902
 1 FACT colona
 2 TYPE Occupation
 2 SOUR @S0013@
@@ -5179,8 +5191,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-MJ1
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 13:12:57
+2 DATE 21 AUG 2025
+3 TIME 05:28:16
 0 @I0186@ INDI
 1 NAME Costantino /Moretti/
 2 TYPE birth
@@ -5593,19 +5605,38 @@
 2 GIVN Sante
 2 SURN Coletti
 1 SEX M
-1 DEAT
-2 DATE BEF 1906
-2 SOUR @S0170@
+1 BIRT
+2 DATE 1816
+2 PLAC Cerqueto, Marsciano, Umbria
+3 MAP
+4 LATI N42.9503
+4 LONG E12.3191
+2 SOUR @S0181@
 3 DATA
-4 DATE 1906
+4 DATE 1904
+1 DEAT
+2 DATE 14 SEP 1904
+2 PLAC Pantalla, Todi, Umbria
+3 MAP
+4 LATI N42.8742
+4 LONG E12.40471
+2 SOUR @S0181@
+3 DATA
+4 DATE 1904
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0181@
+3 DATA
+4 DATE 1904
+1 FAMC @F0142@
+2 PEDI birth
 1 FAMS @F0071@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5F-P2F
-1 NOTE @N0045@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 AUG 2025
+3 TIME 05:09:24
 0 @I0202@ INDI
 1 NAME Teresa /Ripiccini/
 2 TYPE birth
@@ -5613,13 +5644,13 @@
 2 SURN Ripiccini
 1 SEX F
 1 BIRT
-2 DATE BET 1812 AND 1842
+2 DATE BET 1824 AND 1842
 2 NOTE @N_stima_eta@
 1 DEAT
-2 DATE BEF 1906
-2 SOUR @S0170@
+2 DATE BEF 1901
+2 SOUR @S0179@
 3 DATA
-4 DATE 1906
+4 DATE 1901
 1 FAMS @F0071@
 1 OBJE
 2 FORM URL
@@ -8919,14 +8950,23 @@
 2 SOUR @S0115@
 3 DATA
 4 DATE 1900
+1 DEAT
+2 DATE 15 OCT 1904
+2 PLAC Pantalla, Todi, Umbria
+3 MAP
+4 LATI N42.8742
+4 LONG E12.40471
+2 SOUR @S0182@
+3 DATA
+4 DATE 1904
 1 FAMC @F0062@
 2 PEDI birth
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/P98L-GJM
 1 CHAN
-2 DATE 17 MAR 2025
-3 TIME 03:50:57
+2 DATE 21 AUG 2025
+3 TIME 03:41:08
 0 @I0350@ INDI
 1 NAME Paolo /Coletti/
 2 TYPE birth
@@ -10131,6 +10171,155 @@
 1 CHAN
 2 DATE 29 JUL 2025
 3 TIME 17:45:00
+0 @I0400@ INDI
+1 NAME Natale /Coletti/
+2 TYPE birth
+2 GIVN Natale
+2 SURN Coletti
+1 SEX M
+1 BIRT
+2 DATE 1868
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
+2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0141@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQJZ-7QW
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 02:02:21
+0 @I0401@ INDI
+1 NAME Stella /Bajocco/
+2 TYPE birth
+2 GIVN Stella
+2 SURN Bajocco
+1 SEX F
+1 BIRT
+2 DATE 1861
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
+2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+1 FAMS @F0141@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQJ8-72S
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 02:04:03
+0 @I0402@ INDI
+1 NAME Giovanni Valentino Antonio /Coletti/
+2 TYPE birth
+2 GIVN Giovanni Valentino Antonio
+2 SURN Coletti
+1 SEX M
+1 BIRT
+2 DATE 21 FEB 1904
+2 PLAC Papiano, Marsciano, Umbria
+3 MAP
+4 LATI N42.962
+4 LONG E12.3486
+2 SOUR @S0185@
+3 DATA
+4 DATE 1904
+1 DEAT
+2 DATE 6 MAY 1904
+2 PLAC Papiano, Marsciano, Umbria
+3 MAP
+4 LATI N42.962
+4 LONG E12.3486
+2 SOUR @S0180@
+3 DATA
+4 DATE 1904
+1 FAMC @F0141@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQJD-388
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 06:02:51
+0 @I0403@ INDI
+1 NAME Nicola /Coletti/
+2 TYPE birth
+2 GIVN Nicola
+2 SURN Coletti
+1 SEX M
+1 FAMS @F0142@
+1 SOUR @S0181@
+2 DATA
+3 DATE 1904
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQJD-9Y3
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:30:21
+0 @I0404@ INDI
+1 NAME Maria Antonia /Coloni/
+2 TYPE birth
+2 GIVN Maria Antonia
+2 SURN Coloni
+1 SEX F
+1 BIRT
+2 DATE BET 1772 AND 1802
+2 NOTE @N_stima_eta@
+1 FAMS @F0142@
+1 SOUR @S0181@
+2 DATA
+3 DATE 1904
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/PQJD-VNP
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:30:41
+0 @I0405@ INDI
+1 NAME Giulio Pompilio Patrizio /Coletti/
+2 TYPE birth
+2 GIVN Giulio Pompilio Patrizio
+2 SURN Coletti
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1902
+2 PLAC Casa n. 66, Papiano, Marsciano, Umbria
+2 SOUR @S0184@
+3 DATA
+4 DATE 1902
+1 DEAT
+2 DATE 23 FEB 1904
+2 PLAC Pantalla, Todi, Umbria
+3 MAP
+4 LATI N42.8742
+4 LONG E12.40471
+2 SOUR @S0183@
+3 DATA
+4 DATE 1904
+1 FAMC @F0062@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/it/tree/person/PQJ8-FCP
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 05:24:31
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -10794,9 +10983,10 @@
 1 CHIL @I0017@
 1 CHIL @I0350@
 1 CHIL @I0349@
+1 CHIL @I0405@
 1 CHAN
-2 DATE 17 MAR 2025
-3 TIME 03:50:57
+2 DATE 21 AUG 2025
+3 TIME 03:58:35
 0 @F0063@ FAM
 1 HUSB @I0186@
 1 WIFE @I0017@
@@ -10898,9 +11088,10 @@
 1 WIFE @I0202@
 1 CHIL @I0184@
 1 CHIL @I0394@
+1 CHIL @I0400@
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 17:28:38
+2 DATE 21 AUG 2025
+3 TIME 01:56:06
 0 @F0072@ FAM
 1 HUSB @I0022@
 1 WIFE @I0206@
@@ -11553,6 +11744,30 @@
 1 CHAN
 2 DATE 28 JUL 2025
 3 TIME 21:18:40
+0 @F0141@ FAM
+1 HUSB @I0400@
+1 WIFE @I0401@
+1 MARR
+2 DATE 21 AUG 1901
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
+2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+1 CHIL @I0402@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 02:34:48
+0 @F0142@ FAM
+1 HUSB @I0403@
+1 WIFE @I0404@
+1 CHIL @I0201@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:19:14
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -12728,6 +12943,48 @@
 1 CHAN
 2 DATE 20 AUG 2025
 3 TIME 11:01:33
+0 @S0179@ SOUR
+1 TITL Atto di matrimonio di Natale Coletti e Stella Bajocco (1901)
+1 OBJE @O0290@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 01:55:35
+0 @S0180@ SOUR
+1 TITL Atto di morte di Giovanni Coletti (1904)
+1 NOTE @N0209@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 02:33:11
+0 @S0181@ SOUR
+1 TITL Atto di morte di Sante Coletti (1904)
+1 OBJE @O0291@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:13:53
+0 @S0182@ SOUR
+1 TITL Atto di morte di Teresa Coletti (1904)
+1 NOTE @N0211@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:40:57
+0 @S0183@ SOUR
+1 TITL Atto di morte di Giulio Coletti (1904)
+1 NOTE @N0212@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:53:02
+0 @S0184@ SOUR
+1 TITL Atto di nascita di Giulio Coletti (1902)
+1 OBJE @O0292@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 05:22:45
+0 @S0185@ SOUR
+1 TITL Atto di nascita di Giovanni Coletti (1904)
+1 NOTE @N0214@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 06:00:24
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
@@ -12791,9 +13048,6 @@
 1 CONC a del marito).
 0 @N0040@ NOTE - Atto di morte non tra i registri di Todi fino al 1935; non tr
 1 CONC a i registri di Massa Martana fino al 1929.
-1 CONT - Trovare atto di nascita della figlia per trovare il luogo di nascita d
-1 CONC ei genitori, e trovarne l'età all'epoca.
-0 @N0041@ NOTE - Trovare atto di nascita tra i registri di Todi.
 0 @N0042@ NOTE - Cercare atto di morte nei registri di Collazzone dopo del 1920 (
 1 CONC i registri online si fermano al 1915).
 0 @N0043@ NOTE - Cercare tra gli atti di morte di Gualdo Cattaneo (nessuno onlin
@@ -12876,8 +13130,10 @@
 0 @N0064@ NOTE - Stato civile del Comune di Marsciano: https://siusa-archivi.cultu
 1 CONC ra.gov.it/cgi-bin/pagina.pl?TipoPag=comparc&Chiave=310657&RicProgetto=re
 1 CONC g-umb
-0 @N0065@ NOTE - Comune di Gualdo Cattaneo, Preunitario e fondi aggregati. Inventa
-1 CONC ri: https://inventari-san.cultura.gov.it/inventari/1296/pdf
+0 @N0065@ NOTE - Stato civile del Comune di Gualdo Cattaneo: https://siusa-archivi
+1 CONC .cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=326467
+1 CONT - Comune di Gualdo Cattaneo, Preunitario e fondi aggregati. Inventari: h
+1 CONC ttps://inventari-san.cultura.gov.it/inventari/1296/pdf
 0 @N0066@ NOTE Padre forse morto in guerra (i genitori non erano sposati).
 0 @N0067@ NOTE Interpretazione di M. Corradi:
 1 CONT 
@@ -13139,7 +13395,7 @@
 1 CONT Avanti di me Bernardini Augusto Sindaco, Ufficiale dello Stato Civile
 1 CONT del Comune di Montecastrilli
 1 CONT 
-1 CONT È comparso Piacenti Igino di fu Agostino
+1 CONT È comparso Patrizi Igino di fu Agostino
 1 CONT di anni cinquantadue, impiegato, residente in Montecastrilli
 1 CONT 
 1 CONT il quale alla presenza dei testimoni Piacenti Gabriele,
@@ -13293,6 +13549,20 @@
 1 CONC rilli neanche con la data di nascita esatta.
 0 @N0207@ NOTE Richiedere atto di nascita in Acquasparta, o l'atto di morte in Mon
 1 CONC tecastrilli. 
+0 @N0208@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9W5-1WFX?cat=8349
+1 CONC 64&i=35&lang=en
+0 @N0209@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-L9W5-1XB?cat=83496
+1 CONC 4&i=1585&lang=en
+0 @N0210@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQBR-L?cat=83
+1 CONC 5978&i=1478&lang=en
+0 @N0211@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQB2-J?cat=83
+1 CONC 5978&i=1489&lang=en
+0 @N0212@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQB2-3?cat=83
+1 CONC 5978&i=1430&lang=en
+0 @N0213@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-L9WR-MCQN?wc=MCRK-
+1 CONC 83D%3A387470701%2C388036101%2C388036102%26cc%3D2043831&lang=it&i=382
+0 @N0214@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99W5-BZBJ?wc=MCRK-
+1 CONC 8Z9%3A387470701%2C388036101%2C388037301%26cc%3D2043831&lang=it&i=30
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -15389,4 +15659,28 @@
 1 CHAN
 2 DATE 17 MAR 2025
 3 TIME 03:47:48
+0 @O0290@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_matrimonio_Natale_Coletti_Stella_Bajocco_1901.png
+2 FORM png
+2 TITL Atto_matrimonio_Natale_Coletti_Stella_Bajocco_1901
+1 NOTE @N0208@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 01:55:32
+0 @O0291@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Sante_Coletti_1904.jpg
+2 FORM jpg
+2 TITL Atto_morte_Sante_Coletti_1904
+1 NOTE @N0210@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 03:13:50
+0 @O0292@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Giulio_Coletti_1902.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Giulio_Coletti_1902
+1 NOTE @N0213@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 05:22:43
 0 TRLR

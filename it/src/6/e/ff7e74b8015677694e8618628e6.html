@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -83,21 +85,49 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="SourceDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../it/img/5/4/ff7ff9398d77e4bf84746236e45.html" title="Atto_morte_Giulio_Coletti_1904">
+						<img alt="Atto_morte_Giulio_Coletti_1904" src="../../../../thumb/5/4/ff7ff9398d77e4bf84746236e45.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Atto di morte di Giulio Coletti (1904)</h3>
 			<table class="infolist source ltr">
 				<tbody>
 				</tbody>
 			</table>
-			<div class="subsection narrative">
-				<h4>Note</h4>
-				<div class="subsection narrative" id="toggle_note" style="display:block">
-					<h4>Collegamento</h4>
-					<div class="grampsstylednote">
-						<p>
-						https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-YQB2-3?cat=835978&amp;i=1430&amp;lang=en
-						</p>
+			<div class="subsection" id="indivgallery">
+				<h4>Multimedia</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/5/4/ff7ff9398d77e4bf84746236e45.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/1 - Atto_morte_Giulio_Coletti_1904
+								</div>
+								<a href="../../../../it/img/5/4/ff7ff9398d77e4bf84746236e45.html">
+									<img src="../../../../images/5/4/ff7ff9398d77e4bf84746236e45.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
 					</div>
 				</div>
+				<div class="fullclear"></div>
 			</div>
 			<div class="subsection" id="references">
 				<h4>Riferimenti</h4>
@@ -105,6 +135,13 @@ function GoToTop() {
 					<li>
 					
 						<ol class="Col1" role="Volume-n-Page" type=a>
+							<li>
+								<a href="../../../ppl/2/e/ff7e743eb8c1cf0dc10013481e2.html">
+								Coletti, Giulio Pompilio Patrizio
+								
+								
+								</a>
+							</li>
 							<li>
 							Death, Coletti, Giulio Pompilio Patrizio
 								<ol class="Col1" role="Volume-n-Page" type=I>
@@ -116,13 +153,6 @@ function GoToTop() {
 										</a>
 									</li>
 								</ol>
-							</li>
-							<li>
-								<a href="../../../ppl/2/e/ff7e743eb8c1cf0dc10013481e2.html">
-								Coletti, Giulio Pompilio Patrizio
-								
-								
-								</a>
 							</li>
 						</ol>
 					</li>
@@ -139,7 +169,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a il 21/8/2025
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a il 28/8/2025
 			</p>
 			<p id="copyright">
 			

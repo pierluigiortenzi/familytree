@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 21 AUG 2025
-2 TIME 06:14:44
+1 DATE 28 AUG 2025
+2 TIME 12:00:31
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -384,6 +384,9 @@
 2 TYPE birth
 2 GIVN Francesco
 2 SURN Ortenzi
+1 NAME Francescone //
+2 TYPE aka
+2 GIVN Francescone
 1 SEX M
 1 BIRT
 2 DATE 1836
@@ -391,6 +394,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+2 NOTE @N0221@
 1 DEAT
 2 DATE 8 NOV 1908
 2 PLAC Casa n. 55, Castelrinaldi, Massa Martana, Umbria
@@ -415,8 +419,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G69K-CZH
 1 CHAN
-2 DATE 18 JAN 2025
-3 TIME 17:51:44
+2 DATE 25 AUG 2025
+3 TIME 01:28:39
 0 @I0009@ INDI
 1 NAME Albino /Martinelli/
 2 TYPE birth
@@ -1149,7 +1153,11 @@
 2 OBJE @O0128@
 1 RESI
 2 DATE BET 1935 AND 1957
-2 PLAC Podere L'Arieta, Portaria, Acquasparta, Umbria
+2 PLAC Vocabolo Rieta, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6522
+4 LONG E12.5458
+3 NOTE @N_IGM@
 1 RESI
 2 DATE BET 1957 AND 1963
 2 PLAC Terni, Umbria
@@ -1167,6 +1175,11 @@
 1 FACT 22667 BIS
 2 TYPE N° matricola militare
 2 SOUR @S0100@
+1 FACT agricoltore
+2 TYPE Occupation
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
 1 FAMC @F0009@
 2 PEDI birth
 1 FAMS @F0008@
@@ -1177,8 +1190,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
 1 NOTE @N0056@
 1 CHAN
-2 DATE 30 JUL 2025
-3 TIME 17:01:06
+2 DATE 22 AUG 2025
+3 TIME 16:10:37
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1227,7 +1240,11 @@
 2 OBJE @O0128@
 1 RESI
 2 DATE BET 1935 AND 1957
-2 PLAC Podere L'Arieta, Portaria, Acquasparta, Umbria
+2 PLAC Vocabolo Rieta, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6522
+4 LONG E12.5458
+3 NOTE @N_IGM@
 1 RESI
 2 DATE BET 1957 AND 1991
 2 PLAC Terni, Umbria
@@ -1242,6 +1259,11 @@
 2 ADDR
 3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
+1 FACT campagnola
+2 TYPE Occupation
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
 1 FAMC @F0048@
 2 PEDI birth
 1 FAMS @F0008@
@@ -1256,8 +1278,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-NV4
 1 NOTE @N0048@
 1 CHAN
-2 DATE 5 APR 2025
-3 TIME 12:38:43
+2 DATE 22 AUG 2025
+3 TIME 16:12:26
 0 @I0029@ INDI
 1 NAME Luigi /Camilluzzi/
 2 TYPE birth
@@ -1265,7 +1287,12 @@
 2 SURN Camilluzzi
 1 SEX M
 1 BIRT
-2 DATE ABT 1856
+2 DATE 1856
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
+2 NOTE @N0218@
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
@@ -1273,9 +1300,12 @@
 2 SOUR @S0113@
 3 DATA
 4 DATE 1889
+2 SOUR @S0110@
+3 PAGE 124
 1 DEAT
-2 DATE BET 1898 AND 1901
+2 DATE BET 1898 AND 1900
 2 PLAC Casale del Poggio, Farnetta, Montecastrilli, Umbria
+2 NOTE @N0248@
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
@@ -1283,7 +1313,7 @@
 2 SOUR @S0089@
 3 PAGE 298
 1 RESI
-2 DATE ABT 1889
+2 DATE 1889
 2 PLAC Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6483
@@ -1345,7 +1375,7 @@
 3 DATA
 4 DATE 2024
 1 RESI
-2 DATE ABT 1889
+2 DATE 1889
 2 PLAC Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6483
@@ -1365,6 +1395,9 @@
 2 SOUR @S0113@
 3 DATA
 4 DATE 1889
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
 1 FAMC @F0119@
 2 PEDI birth
 1 FAMS @F0009@
@@ -1375,8 +1408,8 @@
 1 NOTE @N0129@
 1 NOTE @N0207@
 1 CHAN
-2 DATE 17 AUG 2025
-3 TIME 08:43:13
+2 DATE 22 AUG 2025
+3 TIME 16:14:44
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1433,6 +1466,7 @@
 1 RESI
 2 DATE FROM 1873 TO 1878
 2 PLAC Podere La Rena, Farnetta, Montecastrilli, Umbria
+3 NOTE @N0242@
 2 SOUR @S0089@
 3 PAGE Camilluzzi
 3 DATA
@@ -1557,7 +1591,8 @@
 4 DATE 1916
 1 SEX M
 1 BIRT
-2 DATE ABT 1851
+2 DATE 1851
+2 NOTE @N0219@
 2 SOUR @S0112@
 3 DATA
 4 DATE 1908
@@ -1567,7 +1602,7 @@
 3 DATA
 4 DATE 1949
 1 RESI
-2 DATE ABT 1908
+2 DATE 1908
 2 PLAC Casa n. 192, Montecastrilli, Umbria
 2 SOUR @S0112@
 3 DATA
@@ -1637,7 +1672,7 @@
 4 LATI N42.643737
 4 LONG E12.475253
 1 RESI
-2 DATE ABT 1908
+2 DATE 1908
 2 PLAC Casa n. 192, Montecastrilli, Umbria
 2 SOUR @S0112@
 3 DATA
@@ -1811,9 +1846,16 @@
 2 TYPE birth
 2 GIVN Tommaso
 2 SURN Caproni
+1 NAME Tommasso //
+2 TYPE birth
+2 GIVN Tommasso
+2 SOUR @S0059@
+3 DATA
+4 DATE 1867
 1 SEX M
 1 BIRT
 2 DATE BET 1834 AND 1835
+2 NOTE @N0222@
 2 SOUR @S0050@
 3 DATA
 4 DATE 1870
@@ -1826,6 +1868,12 @@
 2 SOUR @S0060@
 3 DATA
 4 DATE 1877
+2 SOUR @S0188@
+3 DATA
+4 DATE 1893
+2 SOUR @S0189@
+3 DATA
+4 DATE 1898
 1 DEAT
 2 DATE AFT 1898
 2 SOUR @S0069@
@@ -1872,8 +1920,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYRH-HQG
 1 CHAN
-2 DATE 9 FEB 2025
-3 TIME 18:16:17
+2 DATE 25 AUG 2025
+3 TIME 01:28:12
 0 @I0042@ INDI
 1 NAME Maddalena /Sinolfi/
 2 TYPE birth
@@ -1882,18 +1930,19 @@
 1 SEX F
 1 BIRT
 2 DATE BET 1830 AND 1844
-2 SOUR @S0050@
-3 DATA
-4 DATE 1870
-2 SOUR @S0056@
-3 DATA
-4 DATE 1863
-2 SOUR @S0051@
-3 DATA
-4 DATE 1874
+2 NOTE @N0225@
 2 SOUR @S0058@
 3 DATA
 4 DATE 1862
+2 SOUR @S0056@
+3 DATA
+4 DATE 1863
+2 SOUR @S0050@
+3 DATA
+4 DATE 1870
+2 SOUR @S0051@
+3 DATA
+4 DATE 1874
 1 DEAT
 2 DATE AFT 1898
 2 SOUR @S0069@
@@ -1968,6 +2017,9 @@
 2 TYPE birth
 2 GIVN Loreta
 1 SEX F
+1 BIRT
+2 DATE BET 1814 AND 1844
+2 NOTE @N_stima_eta@
 1 FAMS @F0017@
 1 SOUR @S0110@
 2 PAGE 65
@@ -1975,8 +2027,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G1WM-6R8
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 20:09:31
+2 DATE 24 AUG 2025
+3 TIME 16:37:40
 0 @I0045@ INDI
 1 NAME Edda /Ortenzi/
 2 TYPE birth
@@ -2628,8 +2680,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYT1-7CS
 1 CHAN
-2 DATE 22 FEB 2025
-3 TIME 13:04:11
+2 DATE 22 AUG 2025
+3 TIME 20:13:18
 0 @I0085@ INDI
 1 NAME Ines Gilda Lucia /Caproni/
 2 TYPE birth
@@ -2830,15 +2882,13 @@
 2 GIVN Valeria
 2 SURN Sabatini
 1 SEX F
-1 FAMC @F0097@
-2 PEDI birth
 1 FAMS @F0029@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PM1N-76K
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 19:41:48
+2 DATE 24 AUG 2025
+3 TIME 01:29:43
 0 @I0092@ INDI
 1 NAME Giorgio /Michelini/
 2 TYPE birth
@@ -3146,6 +3196,13 @@
 2 SOUR @S0039@
 3 DATA
 4 DATE 2024
+1 _MILT
+2 TYPE Cavaliere dell’Ordine di Vittorio Veneto
+2 DATE 31 MAR 1971
+2 SOUR @S0194@
+3 DATA
+4 DATE 1971
+3 NOTE @N0236@
 1 BURI
 2 PLAC Cimitero di Portaria, Portaria, Acquasparta, Umbria
 3 MAP
@@ -3164,8 +3221,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYY3-QC2
 1 CHAN
-2 DATE 14 FEB 2025
-3 TIME 07:04:19
+2 DATE 22 AUG 2025
+3 TIME 21:34:32
 0 @I0110@ INDI
 1 NAME Ottorino /Paiella/
 2 TYPE birth
@@ -3886,16 +3943,23 @@
 1 SEX M
 1 BIRT
 2 DATE 30 JUN 1864
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
 2 SOUR @S0029@
 1 DEAT
 2 DATE 12 MAR 1951
-2 PLAC Portaria, Acquasparta, Umbria
+2 PLAC Vocabolo Rieta, Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6564
-4 LONG E12.5655
-3 NOTE @N0109@
-3 NOTE @N0128@
+4 LATI N42.6522
+4 LONG E12.5458
+3 NOTE @N_IGM@
 2 SOUR @S0029@
+2 SOUR @S0201@
+3 DATA
+4 DATE 1951
 1 RESI
 2 DATE BET 1899 AND 1935
 2 PLAC Casa Battistoni, Pesciano, Todi, Umbria
@@ -3927,13 +3991,20 @@
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
+1 FAMC @F0144@
+2 PEDI birth
 1 FAMS @F0048@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-B1F
 1 CHAN
-2 DATE 16 MAR 2025
-3 TIME 18:34:26
+2 DATE 28 AUG 2025
+3 TIME 11:17:30
 0 @I0148@ INDI
 1 NAME Giulia /Battistoni/
 2 TYPE birth
@@ -3941,7 +4012,7 @@
 2 SURN Battistoni
 1 SEX F
 1 BIRT
-2 DATE ABT 1872
+2 DATE 1872
 2 PLAC Todi, Umbria
 3 MAP
 4 LATI N42.778889
@@ -4166,6 +4237,13 @@
 1 DEAT
 2 DATE 27 FEB 1971
 2 SOUR @S0076@
+1 _MILT
+2 TYPE Cavaliere dell’Ordine di Vittorio Veneto
+2 DATE 25 NOV 1970
+2 SOUR @S0194@
+3 DATA
+4 DATE 1970
+3 NOTE @N0235@
 1 BURI
 2 PLAC Cimitero di Pesciano-Montenero, Todi, Umbria
 3 MAP
@@ -4179,8 +4257,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYTQ-311
 1 CHAN
-2 DATE 17 JAN 2025
-3 TIME 15:06:23
+2 DATE 22 AUG 2025
+3 TIME 21:28:55
 0 @I0156@ INDI
 1 NAME Marianna /Palermi/
 2 TYPE birth
@@ -4391,6 +4469,13 @@
 2 SOUR @S0044@
 3 DATA
 4 DATE 2024
+1 _MILT
+2 TYPE Cavaliere dell’Ordine di Vittorio Veneto
+2 DATE 30 DEC 1971
+2 SOUR @S0194@
+3 DATA
+4 DATE 1971
+3 NOTE @N0237@
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -4401,8 +4486,8 @@
 1 FAMS @F0052@
 1 OBJE @O0132@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 19:00:06
+2 DATE 22 AUG 2025
+3 TIME 21:47:30
 0 @I0163@ INDI
 1 NAME Sisa Maria /Capanna/
 2 TYPE birth
@@ -4533,6 +4618,7 @@
 4 LATI N42.6511
 4 LONG E12.486
 3 NOTE @N0059@
+2 NOTE @N0220@
 1 DEAT
 2 DATE 31 MAR 1923
 2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
@@ -4748,7 +4834,7 @@
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
-2 DATE CAL 1795
+2 DATE 1795
 2 PLAC Monticello, Todi, Umbria
 3 MAP
 4 LATI N42.7961
@@ -4836,7 +4922,7 @@
 2 SURN Ortenzi
 1 SEX M
 1 BIRT
-2 DATE ABT 1772
+2 DATE 1772
 1 DEAT
 2 TYPE Domo praedii Domini Angeli Berti de Inderto
 2 DATE 22 JAN 1832
@@ -4883,6 +4969,7 @@
 2 SURN Ortenzi
 1 SEX M
 1 DEAT
+2 TYPE Predio Il Poggio di Victorini Perni
 2 DATE 9 JAN 1816
 2 PLAC Ficareto, Todi, Umbria
 3 MAP
@@ -5095,9 +5182,13 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+2 NOTE @N0230@
 2 SOUR @S0017@
 3 DATA
 4 DATE 1925
+2 SOUR @S0193@
+3 DATA
+4 DATE 1922
 1 DEAT
 2 DATE 24 JAN 1925
 2 PLAC Casa n. 25, Ilci, Todi, Umbria
@@ -5190,9 +5281,10 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-MJ1
+1 NOTE @N0217@
 1 CHAN
 2 DATE 21 AUG 2025
-3 TIME 05:28:16
+3 TIME 15:13:10
 0 @I0186@ INDI
 1 NAME Costantino /Moretti/
 2 TYPE birth
@@ -5427,7 +5519,7 @@
 2 SURN Grappa
 1 SEX F
 1 BIRT
-2 DATE BET 1820 AND 1850
+2 DATE BET 1819 AND 1849
 2 NOTE @N_stima_eta@
 1 DEAT
 2 DATE AFT 1904
@@ -5458,6 +5550,11 @@
 2 GIVN Giovanni
 2 SURN Monacelli
 1 SEX M
+1 BIRT
+2 DATE 1832
+2 SOUR @S0187@
+3 DATA
+4 DATE 1904
 1 DEAT
 2 DATE AFT 1904
 2 SOUR @S0014@
@@ -5476,8 +5573,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY5C-VPJ
 1 NOTE @N0036@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 AUG 2025
+3 TIME 13:55:33
 0 @I0196@ INDI
 1 NAME Amabilia /Rinalducci/
 2 TYPE birth
@@ -5485,7 +5582,7 @@
 2 SURN Rinalducci
 1 SEX F
 1 BIRT
-2 DATE BET 1820 AND 1850
+2 DATE BET 1819 AND 1849
 2 NOTE @N_stima_eta@
 1 DEAT
 2 DATE 1913
@@ -5611,9 +5708,13 @@
 3 MAP
 4 LATI N42.9503
 4 LONG E12.3191
+2 NOTE @N0226@
 2 SOUR @S0181@
 3 DATA
 4 DATE 1904
+2 SOUR @S0190@
+3 DATA
+4 DATE 1901
 1 DEAT
 2 DATE 14 SEP 1904
 2 PLAC Pantalla, Todi, Umbria
@@ -5647,7 +5748,20 @@
 2 DATE BET 1824 AND 1842
 2 NOTE @N_stima_eta@
 1 DEAT
+2 DATE BET 1867 AND 1901
+2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+2 SOUR @S0186@
+3 DATA
+4 DATE 1901
+1 RESI
 2 DATE BEF 1901
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
@@ -5657,8 +5771,8 @@
 2 FILE https://www.familysearch.org/tree/person/GY5F-LVZ
 1 NOTE @N0045@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 21 AUG 2025
+3 TIME 12:42:11
 0 @I0203@ INDI
 1 NAME Lucrezia /Gatti/
 2 TYPE birth
@@ -6180,6 +6294,9 @@
 2 TYPE birth
 2 GIVN Michele
 2 SURN Ortenzi
+1 NAME Michelone //
+2 TYPE aka
+2 GIVN Michelone
 1 SEX M
 1 BIRT
 2 DATE 1838
@@ -6204,8 +6321,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G6MC-RP9
 1 CHAN
-2 DATE 17 JAN 2025
-3 TIME 21:33:47
+2 DATE 25 AUG 2025
+3 TIME 01:29:03
 0 @I0228@ INDI
 1 NAME Chiara /Ortenzi/
 2 TYPE birth
@@ -6873,6 +6990,11 @@
 2 GIVN Simone
 2 SURN Zara
 1 SEX M
+1 DEAT
+2 DATE AFT 1922
+2 SOUR @S0023@
+3 DATA
+4 DATE 1922
 1 FAMS @F0093@
 1 SOUR @S0023@
 2 DATA
@@ -6881,8 +7003,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PM1X-GK6
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 17:51:45
+2 DATE 21 AUG 2025
+3 TIME 19:49:25
 0 @I0270@ INDI
 1 NAME Edward Philip /Conway/
 2 TYPE birth
@@ -6972,6 +7094,13 @@
 2 SOUR @S0046@
 3 DATA
 4 DATE 2024
+1 _MILT
+2 TYPE Cavaliere dell’Ordine di Vittorio Veneto
+2 DATE 25 JAN 1969
+2 SOUR @S0194@
+3 DATA
+4 DATE 1969
+3 NOTE @N0238@
 1 BURI
 2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
 3 MAP
@@ -6990,8 +7119,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMBX-MMX
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 00:49:13
+2 DATE 22 AUG 2025
+3 TIME 21:51:48
 0 @I0275@ INDI
 1 NAME Imola /Carletti/
 2 TYPE birth
@@ -7131,62 +7260,6 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 23:24:16
-0 @I0281@ INDI
-1 NAME Pietro /Sabatini/
-2 TYPE birth
-2 GIVN Pietro
-2 SURN Sabatini
-1 SEX M
-1 BIRT
-2 DATE 11 DEC 1896
-2 SOUR @S0048@
-3 DATA
-4 DATE 2024
-1 DEAT
-2 DATE 30 SEP 1984
-2 SOUR @S0048@
-3 DATA
-4 DATE 2024
-1 BURI
-2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
-3 MAP
-4 LATI N42.64
-4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
-1 FAMS @F0097@
-1 OBJE @O0152@
-1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:15:39
-0 @I0282@ INDI
-1 NAME Argia /Mangialaio/
-2 TYPE birth
-2 GIVN Argia
-2 SURN Mangialaio
-1 SEX F
-1 BIRT
-2 DATE 9 JUL 1907
-2 SOUR @S0048@
-3 DATA
-4 DATE 2024
-1 DEAT
-2 DATE 25 APR 1998
-2 SOUR @S0048@
-3 DATA
-4 DATE 2024
-1 BURI
-2 PLAC Cimitero di Montecastrilli, Montecastrilli, Umbria
-3 MAP
-4 LATI N42.64
-4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
-1 FAMS @F0097@
-1 OBJE @O0152@
-1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:15:39
 0 @I0283@ INDI
 1 NAME Chiara //
 2 TYPE birth
@@ -7310,6 +7383,15 @@
 2 SOUR @S0064@
 3 DATA
 4 DATE 1867
+2 SOUR @S0199@
+3 DATA
+4 DATE 1889
+2 SOUR @S0188@
+3 DATA
+4 DATE 1893
+2 SOUR @S0200@
+3 DATA
+4 DATE 1884
 1 DEAT
 2 DATE AFT 1900
 2 SOUR @S0067@
@@ -7594,14 +7676,20 @@
 2 SOUR @S0063@
 3 DATA
 4 DATE 1862
+1 FACT bracciante
+2 TYPE Occupation
+2 SOUR @S0195@
+3 DATA
+4 DATE 1890
 1 FAMC @F0100@
 2 PEDI birth
+1 FAMS @F0143@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7T-L4D
 1 CHAN
-2 DATE 27 JAN 2025
-3 TIME 06:07:02
+2 DATE 24 AUG 2025
+3 TIME 01:12:19
 0 @I0298@ INDI
 1 NAME Cesare /Pecci/
 2 TYPE birth
@@ -8561,10 +8649,10 @@
 2 DATE 13 FEB 2025
 3 TIME 01:47:01
 0 @I0335@ INDI
-1 NAME Maria /Acquilini/
+1 NAME Maria /Aquilini/
 2 TYPE birth
 2 GIVN Maria
-2 SURN Acquilini
+2 SURN Aquilini
 1 NAME Maria /Aquilini/
 2 TYPE aka
 2 GIVN Maria
@@ -8612,8 +8700,8 @@
 2 FILE https://www.familysearch.org/en/tree/person/GY1M-JGD
 1 NOTE @N0138@
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 18:09:51
+2 DATE 24 AUG 2025
+3 TIME 01:18:33
 0 @I0336@ INDI
 1 NAME Gioacchino /Camilluzzi/
 2 TYPE birth
@@ -9653,6 +9741,13 @@
 1 SEX M
 1 BIRT
 2 DATE 10 FEB 1916
+2 PLAC Monticello, Todi, Umbria
+3 MAP
+4 LATI N42.7961
+4 LONG E12.48048
+2 SOUR @S0198@
+3 DATA
+4 DATE 1916
 1 DEAT
 2 DATE OCT 1991
 1 FAMC @F0107@
@@ -10039,6 +10134,11 @@
 2 SOUR @S0170@
 3 DATA
 4 DATE 1906
+1 FACT colono
+2 TYPE Occupation
+2 SOUR @S0170@
+3 DATA
+4 DATE 1906
 1 FAMC @F0071@
 2 PEDI birth
 1 FAMS @F0138@
@@ -10046,14 +10146,23 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/P3Y6-9HV
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 17:33:58
+2 DATE 26 AUG 2025
+3 TIME 20:39:53
 0 @I0395@ INDI
 1 NAME Rosa /Chiucchini/
 2 TYPE birth
 2 GIVN Rosa
 2 SURN Chiucchini
 1 SEX F
+1 BIRT
+2 DATE 1875
+2 PLAC Deruta, Umbria
+3 MAP
+4 LATI N42.9825
+4 LONG E12.4173
+2 SOUR @S0196@
+3 DATA
+4 DATE 1904
 1 DEAT
 2 DATE AFT 1906
 2 SOUR @S0170@
@@ -10064,8 +10173,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/P3YD-PVG
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 17:42:39
+2 DATE 24 AUG 2025
+3 TIME 06:39:08
 0 @I0396@ INDI
 1 NAME Amanzio /Girolami/
 2 TYPE birth
@@ -10178,13 +10287,16 @@
 2 SURN Coletti
 1 SEX M
 1 BIRT
-2 DATE 1868
+2 DATE 19 DEC 1867
 2 PLAC Marsciano, Umbria
 3 MAP
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
 2 SOUR @S0179@
+3 DATA
+4 DATE 1901
+2 SOUR @S0186@
 3 DATA
 4 DATE 1901
 1 FACT colono
@@ -10202,13 +10314,13 @@
 2 DATE 21 AUG 2025
 3 TIME 02:02:21
 0 @I0401@ INDI
-1 NAME Stella /Bajocco/
+1 NAME Stella Maria Domenica /Baiocco/
 2 TYPE birth
-2 GIVN Stella
-2 SURN Bajocco
+2 GIVN Stella Maria Domenica
+2 SURN Baiocco
 1 SEX F
 1 BIRT
-2 DATE 1861
+2 DATE 12 JAN 1861
 2 PLAC Marsciano, Umbria
 3 MAP
 4 LATI N42.9172
@@ -10217,13 +10329,16 @@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
+2 SOUR @S0186@
+3 DATA
+4 DATE 1901
 1 FAMS @F0141@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PQJ8-72S
 1 CHAN
-2 DATE 21 AUG 2025
-3 TIME 02:04:03
+2 DATE 24 AUG 2025
+3 TIME 01:18:20
 0 @I0402@ INDI
 1 NAME Giovanni Valentino Antonio /Coletti/
 2 TYPE birth
@@ -10262,6 +10377,11 @@
 2 GIVN Nicola
 2 SURN Coletti
 1 SEX M
+1 DEAT
+2 DATE BEF 1904
+2 SOUR @S0185@
+3 DATA
+4 DATE 1904
 1 FAMS @F0142@
 1 SOUR @S0181@
 2 DATA
@@ -10271,7 +10391,7 @@
 2 FILE https://www.familysearch.org/en/tree/person/PQJD-9Y3
 1 CHAN
 2 DATE 21 AUG 2025
-3 TIME 03:30:21
+3 TIME 06:33:04
 0 @I0404@ INDI
 1 NAME Maria Antonia /Coloni/
 2 TYPE birth
@@ -10281,6 +10401,11 @@
 1 BIRT
 2 DATE BET 1772 AND 1802
 2 NOTE @N_stima_eta@
+1 DEAT
+2 DATE BEF 1904
+2 SOUR @S0181@
+3 DATA
+4 DATE 1904
 1 FAMS @F0142@
 1 SOUR @S0181@
 2 DATA
@@ -10290,7 +10415,7 @@
 2 FILE https://www.familysearch.org/en/tree/person/PQJD-VNP
 1 CHAN
 2 DATE 21 AUG 2025
-3 TIME 03:30:41
+3 TIME 06:32:18
 0 @I0405@ INDI
 1 NAME Giulio Pompilio Patrizio /Coletti/
 2 TYPE birth
@@ -10320,6 +10445,124 @@
 1 CHAN
 2 DATE 21 AUG 2025
 3 TIME 05:24:31
+0 @I0406@ INDI
+1 NAME Zenobia /Pedalo/
+2 TYPE birth
+2 GIVN Zenobia
+2 SURN Pedalo
+1 SEX F
+1 BIRT
+2 DATE 1901
+2 PLAC Guardea, Umbria
+3 MAP
+4 LATI N42.6158
+4 LONG E12.2992
+2 NOTE @N0232@
+2 SOUR @S0110@
+3 PAGE 65
+1 FAMC @F0010@
+2 PEDI foster
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/it/tree/person/P9VS-QXL
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 20:13:18
+0 @I0407@ INDI
+1 NAME Anna //
+2 TYPE birth
+2 GIVN Anna
+1 SEX F
+1 BIRT
+2 DATE 1903
+2 SOUR @S0110@
+3 PAGE 65
+1 FAMC @F0010@
+2 PEDI foster
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/it/tree/person/P9V9-J69
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 20:13:18
+0 @I0408@ INDI
+1 NAME Angela /Cancelli/
+2 TYPE birth
+2 GIVN Angela
+2 SURN Cancelli
+1 SEX F
+1 BIRT
+2 DATE 1871
+2 PLAC Foligno, Umbria
+3 MAP
+4 LATI N42.9574
+4 LONG E12.7029
+2 SOUR @S0195@
+3 DATA
+4 DATE 1890
+1 FAMS @F0143@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/it/tree/person/PQKC-GNZ
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 01:11:22
+0 @I0409@ INDI
+1 NAME Ines /Coletti/
+2 TYPE birth
+2 GIVN Ines
+2 SURN Coletti
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1905
+2 PLAC Pantalla, Todi, Umbria
+3 MAP
+4 LATI N42.8742
+4 LONG E12.40471
+2 SOUR @S0197@
+3 DATA
+4 DATE 1905
+1 FAMC @F0138@
+2 PEDI birth
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/it/tree/person/PQK2-1KB
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 15:38:28
+0 @I0410@ INDI
+1 NAME Giuseppe /Vaccarini/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Vaccarini
+1 SEX M
+1 DEAT
+2 DATE BEF 1951
+2 SOUR @S0201@
+3 DATA
+4 DATE 1951
+1 FAMS @F0144@
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 11:17:30
+0 @I0411@ INDI
+1 NAME Giuseppa /Quondam Carli/
+2 TYPE birth
+2 GIVN Giuseppa
+2 SURN Quondam Carli
+1 SEX F
+1 BIRT
+2 DATE BET 1820 AND 1850
+2 NOTE @N_stima_eta@
+1 DEAT
+2 DATE BEF 1951
+2 SOUR @S0201@
+3 DATA
+4 DATE 1951
+1 FAMS @F0144@
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 11:17:30
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -10457,6 +10700,9 @@
 2 SOUR @S0022@
 3 DATA
 4 DATE 1922
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
 1 CHIL @I0025@
 1 CHIL @I0158@
 1 CHAN
@@ -10491,9 +10737,11 @@
 2 SOUR @S0110@
 3 PAGE 126
 1 CHIL @I0084@
+1 CHIL @I0406@
+1 CHIL @I0407@
 1 CHAN
-2 DATE 22 FEB 2025
-3 TIME 13:04:11
+2 DATE 22 AUG 2025
+3 TIME 20:13:18
 0 @F0011@ FAM
 1 HUSB @I0032@
 1 WIFE @I0332@
@@ -10593,6 +10841,10 @@
 1 WIFE @I0054@
 1 MARR
 2 DATE 26 FEB 1922
+2 PLAC Farnetta, Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6483
+4 LONG E12.4512
 2 SOUR @S0023@
 3 DATA
 4 DATE 1922
@@ -11306,13 +11558,6 @@
 1 CHAN
 2 DATE 12 NOV 2024
 3 TIME 20:15:38
-0 @F0097@ FAM
-1 HUSB @I0281@
-1 WIFE @I0282@
-1 CHIL @I0091@
-1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:15:39
 0 @F0098@ FAM
 1 HUSB @I0285@
 1 WIFE @I0204@
@@ -11708,9 +11953,21 @@
 0 @F0138@ FAM
 1 HUSB @I0394@
 1 WIFE @I0395@
+1 MARR
+2 DATE 19 DEC 1904
+2 PLAC Marsciano, Umbria
+3 MAP
+4 LATI N42.9172
+4 LONG E12.3349
+3 NOTE @N0064@
+2 NOTE @N0247@
+2 SOUR @S0196@
+3 DATA
+4 DATE 1904
+1 CHIL @I0409@
 1 CHAN
-2 DATE 24 JUL 2025
-3 TIME 17:29:37
+2 DATE 24 AUG 2025
+3 TIME 15:38:28
 0 @F0139@ FAM
 1 HUSB @I0396@
 1 WIFE @I0198@
@@ -11768,6 +12025,28 @@
 1 CHAN
 2 DATE 21 AUG 2025
 3 TIME 03:19:14
+0 @F0143@ FAM
+1 HUSB @I0297@
+1 WIFE @I0408@
+1 MARR
+2 DATE 30 JUN 1890
+2 PLAC Foligno, Umbria
+3 MAP
+4 LATI N42.9574
+4 LONG E12.7029
+2 SOUR @S0195@
+3 DATA
+4 DATE 1890
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 01:11:22
+0 @F0144@ FAM
+1 HUSB @I0410@
+1 WIFE @I0411@
+1 CHIL @I0147@
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 11:17:30
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -11917,9 +12196,10 @@
 1 OBJE @O0035@
 1 NOTE @N0051@
 1 NOTE @N0053@
+1 NOTE @N0241@
 1 CHAN
-2 DATE 7 SEP 2024
-3 TIME 08:33:03
+2 DATE 24 AUG 2025
+3 TIME 07:45:10
 0 @S0021@ SOUR
 1 TITL Registro parrocchiale - Morte di Filippo Ortenzi (1816)
 1 OBJE @O0036@
@@ -12694,12 +12974,12 @@
 2 DATE 20 MAR 2025
 3 TIME 18:05:16
 0 @S0138@ SOUR
-1 TITL Pubblicazione di matrimonio di Alfredo Ortenzi e Gemmina Bonsignori (192
+1 TITL Pubblicazioni di matrimonio di Alfredo Ortenzi e Gemmina Bonsignori (192
 2 CONC 1)
 1 NOTE @N0145@
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 18:32:42
+2 DATE 26 AUG 2025
+3 TIME 04:55:22
 0 @S0139@ SOUR
 1 TITL Atto di nascita di Primo Ortenzi (1921)
 1 NOTE @N0151@
@@ -12815,11 +13095,11 @@
 2 DATE 20 MAR 2025
 3 TIME 22:58:00
 0 @S0158@ SOUR
-1 TITL Pubblicazione di matrimonio di Giuseppe Stufara e Zelinda Ortenzi (1899)
+1 TITL Pubblicazioni di matrimonio di Giuseppe Stufara e Zelinda Ortenzi (1899)
 1 NOTE @N0181@
 1 CHAN
-2 DATE 21 MAR 2025
-3 TIME 13:12:02
+2 DATE 26 AUG 2025
+3 TIME 04:53:50
 0 @S0159@ SOUR
 1 TITL Atto di matrimonio di Giuseppe Lanari e Florida Ortenzi (1904)
 1 NOTE @N0182@
@@ -12969,10 +13249,10 @@
 3 TIME 03:40:57
 0 @S0183@ SOUR
 1 TITL Atto di morte di Giulio Coletti (1904)
-1 NOTE @N0212@
+1 OBJE @O0294@
 1 CHAN
 2 DATE 21 AUG 2025
-3 TIME 03:53:02
+3 TIME 15:12:02
 0 @S0184@ SOUR
 1 TITL Atto di nascita di Giulio Coletti (1902)
 1 OBJE @O0292@
@@ -12985,6 +13265,98 @@
 1 CHAN
 2 DATE 21 AUG 2025
 3 TIME 06:00:24
+0 @S0186@ SOUR
+1 TITL Allegati di matrimonio di Natale Coletti e Stella Bajocco (1901)
+1 NOTE @N0215@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 12:30:33
+0 @S0187@ SOUR
+1 TITL Pubblicazioni di matrimonio di Giuseppe Trovarelli e Maria Monacelli (19
+2 CONC 04)
+1 OBJE @O0293@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 13:54:19
+0 @S0188@ SOUR
+1 TITL Pubblicazioni di matrimonio di Giuseppe Caproni e FIlomena Pecci (1893)
+1 OBJE @O0295@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 23:55:58
+0 @S0189@ SOUR
+1 TITL Pubblicazioni di matrimonio di Cesare Caproni e Maria Palmadoro (1898)
+1 NOTE @N0224@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 00:01:10
+0 @S0190@ SOUR
+1 TITL Pubblicazioni di matrimonio di Natale Coletti e Stella Baiocco (1901)
+1 NOTE @N0227@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 00:33:05
+0 @S0192@ SOUR
+1 TITL Pubblicazioni di matrimonio di Giulio Camilluzzi e Agostina Vaccarini (1
+2 CONC 922)
+1 OBJE @O0297@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 16:10:32
+0 @S0193@ SOUR
+1 TITL Pubblicazioni di matrimonio di Paolo Coletti e Anna Bizzarri (1922)
+1 NOTE @N0229@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 16:30:30
+0 @S0194@ SOUR
+1 TITL Onorificenze - Quirinale.it
+1 NOTE @N0233@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 21:27:24
+0 @S0195@ SOUR
+1 TITL Atto di matrimonio di Alessandro Pecci e Angela Cancelli (1890)
+1 NOTE @N0239@
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 01:10:18
+0 @S0196@ SOUR
+1 TITL Atto di matrimonio di Alessandro Coletti e Rosa Chiucchini
+1 NOTE @N0240@
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 06:37:19
+0 @S0197@ SOUR
+1 TITL Atto di nascita di Ines Coletti (1905)
+1 NOTE @N0243@
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 15:34:33
+0 @S0198@ SOUR
+1 TITL Atto di nascita di Achille Ortenzi (1916)
+1 NOTE @N0244@
+1 CHAN
+2 DATE 24 AUG 2025
+3 TIME 16:12:19
+0 @S0199@ SOUR
+1 TITL Pubblicazioni di matrimonio di Giovanni Galeazzi e Serafina Pecci (1889)
+1 NOTE @N0245@
+1 CHAN
+2 DATE 26 AUG 2025
+3 TIME 04:56:58
+0 @S0200@ SOUR
+1 TITL Pubblicazioni di matrimoni di Margherita Pecci e Domenico Caroli (1884)
+1 NOTE @N0246@
+1 CHAN
+2 DATE 26 AUG 2025
+3 TIME 04:56:36
+0 @S0201@ SOUR
+1 TITL Atto di morte di Agostino Vaccarini (1951)
+1 OBJE @O0299@
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 11:05:28
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
@@ -13563,6 +13935,151 @@
 1 CONC 83D%3A387470701%2C388036101%2C388036102%26cc%3D2043831&lang=it&i=382
 0 @N0214@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99W5-BZBJ?wc=MCRK-
 1 CONC 8Z9%3A387470701%2C388036101%2C388037301%26cc%3D2043831&lang=it&i=30
+0 @N0215@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-89W5-P9GC?view=exp
+1 CONC lore&groupId=M9H7-F4G&lang=it
+0 @N0216@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QDK-P?view=e
+1 CONC xplore&groupId=M9ZM-FCT&lang=it
+0 @N0217@ NOTE Riportata come celibe nell'atto di morte del figlio del 1904.
+0 @N0218@ NOTE Data di nascita stimata sulla base di una fonte:
+1 CONT - Età 33 al 3 aprile 1889 → data di nascita 4 aprile 1855 – 3 aprile 185
+1 CONC 6
+0 @N0219@ NOTE Data di nascita stimata sulla base di una fonte:
+1 CONT - Età 57 al 11 maggio 1908 → data di nascita 12 maggio 1850 – 11 maggi
+1 CONC o 1851
+1 CONT 
+0 @N0220@ NOTE Data di nascita stimata sulla base di una fonte:
+1 CONT - Età 74 al 31 marzo 1923 → data di nascita 1 aprile 1848 – 31 marzo 184
+1 CONC 9
+1 CONT 
+0 @N0221@ NOTE Data di nascita stimata sulla base di fonti con età contrastanti:
+1 CONT - Età 63 al 17 maggio 1899 → data di nascita 18 maggio 1835 – 17 maggi
+1 CONC o 1836
+1 CONT - Età 72 all’8 settembre 1908 → data di nascita 9 settembre 1835 – 8 set
+1 CONC tembre 1836
+1 CONT Intervallo sovrapposto: 9 settembre 1835 – 17 maggio 1836
+0 @N0222@ NOTE Data di nascita stimata sulla base di fonti con età contrastanti:
+1 CONT - Età 28 al 24 gennaio 1862 → data di nascita 25 gennaio 1833 – 24 genna
+1 CONC io 1834
+1 CONT - Età 28 al 15 novembre 1863 → data di nascita 16 novembre 1834 – 15 nov
+1 CONC embre 1835
+1 CONT - Età 32 al 4 gennaio 1867 → data di nascita 5 gennaio 1834 – 4 gennai
+1 CONC o 1835
+1 CONT - Età 35 al 25 marzo 1870 → data di nascita 26 marzo 1834 – 25 marzo 183
+1 CONC 5
+1 CONT - Età 37 al 24 ottobre 1874 → data di nascita 25 ottobre 1836 – 24 ottob
+1 CONC re 1837
+1 CONT - Età 42 al 21 ottobre 1877 → data di nascita 22 ottobre 1834 – 21 ottob
+1 CONC re 1835
+1 CONT - Età 61 al 22 gennaio 1893 → data di nascita 23 gennaio 1831 – 22 genna
+1 CONC io 1832
+1 CONT - Età 66 al 4 dicembre 1898 → data di nascita 5 dicembre 1831 – 4 dicemb
+1 CONC re 1832
+1 CONT 
+0 @N0223@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839430/5GvdbKx
+0 @N0224@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839519/LyJkvDl
+0 @N0225@ NOTE Data di nascita stimata sulla base di fonti con età fortemente cont
+1 CONC rastanti (non coerenti tra loro):
+1 CONT - Età 32 al 24 gennaio 1862 → data di nascita 25 gennaio 1829 – 24 genna
+1 CONC io 1830
+1 CONT - Età 28 al 15 novembre 1863 → data di nascita 16 novembre 1834 – 15 nov
+1 CONC embre 1835
+1 CONT - Età 33 al 25 marzo 1870 → data di nascita 26 marzo 1836 – 25 marzo 183
+1 CONC 7
+1 CONT - Età 30 al 24 ottobre 1874 → data di nascita 25 ottobre 1843 – 24 ottob
+1 CONC re 1844
+1 CONT Intervallo stimato molto ampio: circa 1829 – 1844
+1 CONT 
+0 @N0226@ NOTE Data di nascita stimata sulla base di fonti con età contrastanti:
+1 CONT - Età 88 al 14 settembre 1904 → data di nascita 15 settembre 1815 – 14 s
+1 CONC ettembre 1816
+1 CONT - Età 83 al 21 luglio 1901 → data di nascita 22 luglio 1817 – 21 lugli
+1 CONC o 1818
+0 @N0227@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BNMB?view=explore
+1 CONC &groupId=M9HW-9K5&lang=it
+0 @N0228@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ5-J9KT-Y?view=e
+1 CONC xplore&groupId=M9HV-D1V&lang=it
+0 @N0229@ NOTE https://familysearch.org/ark:/61903/3:1:3Q9M-CSQ5-J9KB-L?view=explo
+1 CONC re&groupId=M9HV-D1V&lang=it
+0 @N0230@ NOTE Data di nascita stimata sulla base di fonti con età contrastanti: 
+1 CONT - Età 43 l’11 giugno 1900 → data di nascita 12 giugno 1856 – 11 giugno 1
+1 CONC 857
+1 CONT - Età 47 al 18 marzo 1902 → data di nascita 19 marzo 1854 – 18 marzo 185
+1 CONC 5
+1 CONT - Età 66 al 3 febbraio 1920 → data di nascita 4 febbraio 1853 – 3 febbra
+1 CONC io 1854
+1 CONT - Età 66 al 30 dicembre 1922 → data di nascita 31 dicembre 1855 – 30 dic
+1 CONC embre 1856
+1 CONT - Età 69 al 24 gennaio 1925 → data di nascita 25 gennaio 1855 – 24 genna
+1 CONC io 1856
+0 @N0231@ NOTE Cavaliere
+1 CONT Paiella Ottorino
+1 CONT 
+1 CONT Uomo forte sergente __
+1 CONT grande [invalido?] della guerra
+1 CONT mondia[le] amò Dio la patria
+1 CONT la famiglia la moglie, il __
+1 CONT a perenne ricordo
+0 @N0232@ NOTE Non risulta nell'indice dei nati di Guardea.
+0 @N0233@ NOTE https://www.quirinale.it/Onorificenze
+0 @N0235@ NOTE Cavaliere dell’Ordine di Vittorio Veneto
+1 CONT 
+1 CONT Data del conferimento: 25/11/1970
+1 CONT 
+1 CONT motivazione:
+1 CONT 
+1 CONT Partecipazione al Primo Conflitto Mondiale - residenza anagrafica al mom
+1 CONC ento del conferimento Todi (PG)
+1 CONT 
+1 CONT https://www.quirinale.it/onorificenze/insigniti/1295252
+0 @N0236@ NOTE Cavaliere dell’Ordine di Vittorio Veneto
+1 CONT 
+1 CONT Data del conferimento: 31/03/1971
+1 CONT 
+1 CONT motivazione:
+1 CONT 
+1 CONT Partecipazione al Primo Conflitto Mondiale - residenza anagrafica al mom
+1 CONC ento del conferimento Acquasparta (TR)
+1 CONT 
+1 CONT https://www.quirinale.it/onorificenze/insigniti/653462
+0 @N0237@ NOTE Cavaliere dell’Ordine di Vittorio Veneto
+1 CONT 
+1 CONT Data del conferimento: 30/12/1971
+1 CONT 
+1 CONT motivazione:
+1 CONT 
+1 CONT Partecipazione al Primo Conflitto Mondiale - residenza anagrafica al mom
+1 CONC ento del conferimento Montecastrilli (TR)
+1 CONT 
+1 CONT https://www.quirinale.it/onorificenze/insigniti/1430585
+0 @N0238@ NOTE Cavaliere dell’Ordine di Vittorio Veneto
+1 CONT 
+1 CONT Data del conferimento: 25/01/1969
+1 CONT 
+1 CONT motivazione:
+1 CONT 
+1 CONT Partecipazione al Primo Conflitto Mondiale - residenza anagrafica al mom
+1 CONC ento del conferimento Montecastrilli (TR)
+1 CONT 
+1 CONT https://www.quirinale.it/onorificenze/insigniti/504041
+0 @N0239@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-L9W5-R497?cat=8345
+1 CONC 10&i=2985
+0 @N0240@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-99W5-17X6?view=exp
+1 CONC lore&groupId=M98F-LYF
+0 @N0241@ NOTE Un Angelo Berti risulta proprietario a Ficareto nel Catasto Gregori
+1 CONC ano (particella 541) [fonte].
+1 CONT Un Angelo Berti - non è chiaro se lo stesso - era un'importante figura p
+1 CONC olitica a Todi al finire del 1700. [fonte] [fonte 2]
+0 @N0242@ NOTE "Dovrebbe trattarsi della casa al Vocabolo Zappa oggi detto del Mon
+1 CONC aco."
+0 @N0243@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QS7-89W5-BRJR?view=exp
+1 CONC lore&groupId=M9K7-VPV
+0 @N0244@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ5-V94Y-T?view=e
+1 CONC xplore&groupId=M9ML-RDW
+0 @N0245@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839355/wXleG8W
+0 @N0246@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua37839262/LozZYNR
+0 @N0247@ NOTE Entrambi vedovi all'epoca del matrimonio.
+0 @N0248@ NOTE Comunque prima del 26 settembre 1900, quando Adelaide Manni si risp
+1 CONC osa.
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -14149,8 +14666,8 @@
 2 FORM jpg
 2 TITL Millino_Petrucci
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 13:24:25
+2 DATE 26 AUG 2025
+3 TIME 20:34:13
 0 @O0082@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Famiglia_Caproni_1967.jpg
 2 FORM jpg
@@ -14428,9 +14945,10 @@
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_Famiglia_Paiella_Pietro_b.jpg
 2 FORM jpg
 2 TITL Cappella_di_Famiglia_Paiella_Pietro_b
+1 NOTE @N0231@
 1 CHAN
-2 DATE 4 NOV 2024
-3 TIME 17:47:03
+2 DATE 22 AUG 2025
+3 TIME 20:03:07
 0 @O0122@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Cappella_di_Famiglia_Paiella_Pietro_c.jpg
 2 FORM jpg
@@ -15683,4 +16201,44 @@
 1 CHAN
 2 DATE 21 AUG 2025
 3 TIME 05:22:43
+0 @O0293@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Pubblicazioni_matrimonio_Giuseppe_Trovarelli_Maria_Monacelli_1904_compressed.jpg
+2 FORM jpg
+2 TITL Pubblicazioni_matrimonio_Giuseppe_Trovarelli_Maria_Monacelli_1904_compre
+3 CONC ssed
+1 NOTE @N0216@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 13:54:18
+0 @O0294@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Giulio_Coletti_1904.jpg
+2 FORM jpg
+2 TITL Atto_morte_Giulio_Coletti_1904
+1 NOTE @N0212@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 15:12:00
+0 @O0295@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Pubblicazioni_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893.jpg
+2 FORM jpg
+2 TITL Pubblicazioni_matrimonio_Giuseppe_Caproni_Filomena_Pecci_1893
+1 NOTE @N0223@
+1 CHAN
+2 DATE 21 AUG 2025
+3 TIME 23:56:39
+0 @O0297@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Pubblicazioni_matrimonio_Giulio_Camilluzzi_Agostina_Vaccarini_1922.jpg
+2 FORM jpg
+2 TITL Pubblicazioni_matrimonio_Giulio_Camilluzzi_Agostina_Vaccarini_1922
+1 NOTE @N0228@
+1 CHAN
+2 DATE 22 AUG 2025
+3 TIME 16:10:30
+0 @O0299@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Agostino_Vaccarini_1951.jpg
+2 FORM jpg
+2 TITL Atto_morte_Agostino_Vaccarini_1951
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 11:05:23
 0 TRLR

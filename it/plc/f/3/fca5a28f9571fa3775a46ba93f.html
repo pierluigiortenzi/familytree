@@ -5,7 +5,7 @@
 	<meta charset="UTF-8" />
 	<meta name ="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=0.5, maximum-scale=10.0, user-scalable=yes" />
 	<meta name ="apple-mobile-web-app-capable" content="yes" />
-	<meta name="generator" content="Gramps AIO64-5.2.3-r1-aa03f5a http://gramps-project.org/" />
+	<meta name="generator" content="Gramps AIO64-6.0.4--1 http://gramps-project.org/" />
 	<meta name="author" content="" />
 	<meta name="robots" content="noindex" />
 	<meta name="googlebot" content="noindex" />
@@ -35,11 +35,12 @@
 		</div>
 		<div class="wrappernav ltr" id="nav" role="navigation">
 			<div class="container">
-				<ul class="nav dropmenu" id="dropmenu">
+				<ul class="nav" id="dropmenu">
 					<li><a href="../../../individuals.html" title="Persone">Persone</a></li>
 					<li><a href="../../../index.html" title="Cognomi">Cognomi</a></li>
 					<li><a href="../../../families.html" title="Famiglie">Famiglie</a></li>
 					<li class = "CurrentSection"><a href="../../../places.html" title="Luoghi">Luoghi</a></li>
+					<li><a href="../../../heatmaps.html" title="Heatmap">Heatmap</a></li>
 					<li><a href="../../../sources.html" title="Fonti">Fonti</a></li>
 					<li><a href="../../../thumbnails.html" title="Miniature">Miniature</a></li>
 					<li><a href="../../../updates.html" title="Aggiornamenti">Aggiornamenti</a></li>
@@ -48,8 +49,8 @@
 					<li class="lang">
 					Lingua
 						<ul class="lang">
-							<li><a href="../../../../it/plc/f/3/fca5a28f9571fa3775a46ba93f.html" title="Italiano">Italiano</a></li>
-							<li><a href="../../../../it/plc/f/3/fca5a28f9571fa3775a46ba93f.html" title="Italiano">Italiano</a></li>
+							<li><a href="../../../../it/plc/f/3/fca5a28f9571fa3775a46ba93f.html" style="white-space:nowrap;" title="Italiano">Italiano</a></li>
+							<li><a href="../../../../it/plc/f/3/fca5a28f9571fa3775a46ba93f.html" style="white-space:nowrap;" title="Italiano">Italiano</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -182,6 +183,13 @@ function GoToTop() {
 						</a>
 					</li>
 					<li>
+						<a href="../../../fam/d/9/fce7dbcba1eedbde80db519e9d.html">
+						Famiglia di Caroli, Domenico e Pecci, Margherita
+						
+						
+						</a>
+					</li>
+					<li>
 						<a href="../../../ppl/d/a/fce7dbd0b206feb843edd293cad.html">
 						Caroli, Domenico
 						(1861-)
@@ -189,8 +197,8 @@ function GoToTop() {
 						</a>
 					</li>
 					<li>
-						<a href="../../../fam/d/9/fce7dbcba1eedbde80db519e9d.html">
-						Famiglia di Caroli, Domenico e Pecci, Margherita
+						<a href="../../../fam/d/b/fd0f34363ac5c19d7112ad56cbd.html">
+						Famiglia di Galeazzi, Giovanni e Pecci, Serafina
 						
 						
 						</a>
@@ -199,13 +207,6 @@ function GoToTop() {
 						<a href="../../../ppl/2/5/fd0f349afd25cf1b5d1aa14c652.html">
 						Galeazzi, Giovanni
 						(1853-)
-						
-						</a>
-					</li>
-					<li>
-						<a href="../../../fam/d/b/fd0f34363ac5c19d7112ad56cbd.html">
-						Famiglia di Galeazzi, Giovanni e Pecci, Serafina
-						
 						
 						</a>
 					</li>
@@ -231,16 +232,16 @@ function GoToTop() {
 						</a>
 					</li>
 					<li>
-						<a href="../../../ppl/7/3/fafd5a6c66b5e671084bb3bd837.html">
-						Michelini, Enrico (Richetto)
-						(1900-1971)
+						<a href="../../../fam/8/5/fafd5ae35f147f1f9dddac5958.html">
+						Famiglia di Michelini, Enrico (Richetto) e Caproni, Ines Gilda Lucia
+						
 						
 						</a>
 					</li>
 					<li>
-						<a href="../../../fam/8/5/fafd5ae35f147f1f9dddac5958.html">
-						Famiglia di Michelini, Enrico (Richetto) e Caproni, Ines Gilda Lucia
-						
+						<a href="../../../ppl/7/3/fafd5a6c66b5e671084bb3bd837.html">
+						Michelini, Enrico (Richetto)
+						(1900-1971)
 						
 						</a>
 					</li>
@@ -282,7 +283,7 @@ function GoToTop() {
 					<li>
 						<a href="../../../ppl/7/3/fafd1b21498157e197d43154937.html">
 						Pecci, Filomena
-						(1864-)
+						(1864-1903)
 						
 						</a>
 					</li>
@@ -309,6 +310,7 @@ function GoToTop() {
 		
   window.addEventListener("load", function() {
     var map;
+    var heat = 'markers';
     var tracelife = [[12.5848, 42.6112, 'Cesi, Terni, Umbria', ' ']];
     var iconStyle = new ol.style.Style({
       image: new ol.style.Icon(({
@@ -321,6 +323,10 @@ function GoToTop() {
     });
     var markerSource = new ol.source.Vector({
     });
+    var centerCoord = new ol.proj.transform([12.58480000, 42.61120000], 'EPSG:4326', 'EPSG:3857');
+    var zoom = 10;
+    var radius = 0;
+    var blur = 0;
     for (var i = 0; i < tracelife.length; i++) {
       var loc = tracelife[i];
       var iconFeature = new ol.Feature({
@@ -340,13 +346,27 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.58480000, 42.61120000], 'EPSG:4326', 'EPSG:3857');
-    map = new ol.Map({
-                 target: 'map_canvas',
-                 layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
-                          markerLayer, tooltip],
-                 view: new ol.View({ center: centerCoord, zoom: 10 })
-                 });
+    heatmap = new ol.layer.Heatmap({
+      source: markerSource,
+      radius: radius,
+      blur: blur,
+      style: iconStyle
+    });
+    if (heat == "heatmap") {
+      map = new ol.Map({
+                   target: 'map_canvas',
+                   layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
+                            heatmap],
+                   view: new ol.View({ center: centerCoord, zoom: zoom })
+                   });
+    } else {
+      map = new ol.Map({
+                   target: 'map_canvas',
+                   layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
+                            markerLayer, tooltip],
+                   view: new ol.View({ center: centerCoord, zoom: zoom })
+                   });
+    };
 
 		
     var element = document.getElementById('popup');
@@ -355,6 +375,8 @@ function GoToTop() {
     var closer = document.getElementById('popup-closer');
     var tip = document.getElementById('tooltip');
     var tipcontent = document.getElementById('tooltip-content');
+    var tltip1 = undefined;
+    var tltip2 = undefined;
     var tooltip = new ol.Overlay({
       element: tip,
       positioning: 'bottom-center',
@@ -376,12 +398,18 @@ function GoToTop() {
     closer.onclick = function() {
       popup.setPosition(undefined);
       closer.blur();
+      tltip1 = undefined;
+      tltip2 = undefined;
       return false;
     };
     map.on('pointermove', function(evt) {
       evt.preventDefault()
+      if (tltip2 !== undefined) {
+        return;
+      }
       var feature = this.forEachFeatureAtPixel(evt.pixel,
                                                function(feature, layer) {
+        tltip1 = feature;
         return feature;
       });
       map.getTargetElement().style.cursor = feature ? 'pointer' : '';
@@ -399,8 +427,12 @@ function GoToTop() {
     });
     map.on('singleclick', function(evt) {
       evt.preventDefault();
+      if (tltip1 !== undefined) {
+        tooltip.setPosition(undefined);
+      }
       var feature = map.forEachFeatureAtPixel(evt.pixel,
                                               function(feature, layer) {
+        tltip2 = feature;
         return feature;
       });
       if (feature) {
@@ -425,7 +457,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2025-01-07 05:24:23
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-6.0.4--1<br />Ultima modifica il 2025-01-07 05:24:23
 			</p>
 			<p id="copyright">
 			

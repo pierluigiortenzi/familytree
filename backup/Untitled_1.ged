@@ -1,9 +1,9 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS AIO64-5.2.3-r1-aa03f5a
+2 VERS AIO64-6.0.4--1
 2 NAME Gramps
-1 DATE 28 AUG 2025
-2 TIME 12:00:31
+1 DATE 3 SEP 2025
+2 TIME 11:09:13
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -26,6 +26,7 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 FAMC @F0000@
 2 PEDI birth
 1 OBJE @O0053@
@@ -63,6 +64,7 @@
 3 MAP
 4 LATI N42.611111
 4 LONG E12.545833
+3 NOTE @N_pop1816@
 1 FAMC @F0001@
 2 PEDI birth
 1 FAMS @F0000@
@@ -85,11 +87,11 @@
 1 SEX F
 1 BIRT
 2 DATE 2 SEP 1956
-2 PLAC Acquasparta, Umbria
+2 PLAC Vocabolo Rieta, Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6915
-4 LONG E12.5464
-3 NOTE @N0062@
+4 LATI N42.6522
+4 LONG E12.5458
+3 NOTE @N_IGM@
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0000@
@@ -120,6 +122,7 @@
 3 MAP
 4 LATI N42.611111
 4 LONG E12.545833
+3 NOTE @N_pop1816@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -134,13 +137,14 @@
 4 DATE BET 1942 AND 1943
 1 _MILT
 2 TYPE 235° Ospedale da Campo
-2 DATE FROM 1942 TO 1943
+2 DATE FROM 3 APR 1939 TO 8 SEP 1943
 2 SOUR @S0107@
 3 DATA
 4 DATE EST 1942
+2 SOUR @S0204@
 1 RESI
 2 DATE BET 1950 AND 2004
-2 PLAC Casa di Francesco Ortenzi (n. 1918), San Gemini, Umbria
+2 PLAC Casa di Francesco Ortenzi (n. 1918), Vocabolo Molinelle, San Gemini, Umbria
 3 MAP
 4 LATI N42.5937
 4 LONG E12.5618
@@ -154,8 +158,6 @@
 3 MAP
 4 LATI N42.56575
 4 LONG E12.628361
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0070@
 1 FAMC @F0002@
 2 PEDI birth
@@ -174,12 +176,14 @@
 1 OBJE @O0257@
 1 OBJE @O0258@
 1 OBJE @O0259@
+1 OBJE @O0301@
+1 OBJE @O0302@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
 1 CHAN
-2 DATE 27 JUL 2025
-3 TIME 21:46:05
+2 DATE 3 SEP 2025
+3 TIME 10:27:17
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -200,9 +204,10 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 RESI
 2 DATE BET 1950 AND 2004
-2 PLAC Casa di Francesco Ortenzi (n. 1918), San Gemini, Umbria
+2 PLAC Casa di Francesco Ortenzi (n. 1918), Vocabolo Molinelle, San Gemini, Umbria
 3 MAP
 4 LATI N42.5937
 4 LONG E12.5618
@@ -216,8 +221,6 @@
 3 MAP
 4 LATI N42.56575
 4 LONG E12.628361
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0070@
 1 FAMC @F0004@
 2 PEDI birth
@@ -248,6 +251,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0000@
 3 DATA
 4 DATE 1932
@@ -294,14 +298,17 @@
 3 MAP
 4 LATI N42.56575
 4 LONG E12.628361
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0070@
 1 FACT colono
 2 TYPE Occupation
 2 SOUR @S0000@
 3 DATA
 4 DATE 1932
+1 FACT campagnolo
+2 TYPE Occupation
+2 SOUR @S0102@
+3 DATA
+4 DATE 1918
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
@@ -312,13 +319,20 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-FH4
 1 CHAN
-2 DATE 20 AUG 2025
-3 TIME 11:26:51
+2 DATE 30 AUG 2025
+3 TIME 00:31:11
 0 @I0007@ INDI
 1 NAME Ester Agata /Martinelli/
 2 TYPE birth
 2 GIVN Ester Agata
 2 SURN Martinelli
+1 NAME Esterina /Martinelli/
+2 TYPE aka
+2 GIVN Esterina
+2 SURN Martinelli
+2 SOUR @S0107@
+3 DATA
+4 DATE EST 1942
 1 SEX F
 1 BIRT
 2 DATE 27 MAY 1893
@@ -331,13 +345,17 @@
 4 DATE 1893
 1 DEAT
 2 DATE 18 JAN 1968
-2 PLAC San Gemini, Umbria
+2 PLAC Vocabolo Molinelle, San Gemini, Umbria
 3 MAP
-4 LATI N42.611111
-4 LONG E12.545833
+4 LATI N42.593
+4 LONG E12.561
+3 NOTE @N_UmbGIS@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
+2 SOUR @S0203@
+3 DATA
+4 DATE 1968
 1 RESI
 2 DATE FROM 1913 TO 1918
 2 PLAC Casa n. 86, Castelrinaldi, Massa Martana, Umbria
@@ -361,14 +379,15 @@
 3 MAP
 4 LATI N42.56575
 4 LONG E12.628361
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0070@
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0006@
 3 DATA
 4 DATE 1913
+2 SOUR @S0102@
+3 DATA
+4 DATE 1918
 1 FAMC @F0054@
 2 PEDI birth
 1 FAMS @F0002@
@@ -377,8 +396,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GJZJ-HHF
 1 CHAN
-2 DATE 20 AUG 2025
-3 TIME 11:49:27
+2 DATE 30 AUG 2025
+3 TIME 00:31:56
 0 @I0008@ INDI
 1 NAME Francesco /Ortenzi/
 2 TYPE birth
@@ -579,8 +598,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0123@
 3 NOTE @N0005@
 1 FAMC @F0003@
@@ -613,6 +630,7 @@
 3 MAP
 4 LATI N43.114
 4 LONG E12.3898
+3 NOTE @N_pop1816@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0124@
@@ -641,6 +659,7 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+3 NOTE @N_pop1816@
 2 NOTE @N0113@
 2 SOUR @S0014@
 3 DATA
@@ -660,6 +679,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
@@ -698,6 +718,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0071@
 3 DATA
 4 DATE 2025
@@ -913,6 +934,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0005@
 3 PAGE 1945
 1 DEAT
@@ -946,6 +968,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0005@
 3 PAGE 1945
 1 FACT prete
@@ -978,6 +1001,7 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -990,6 +1014,13 @@
 2 SOUR @S0024@
 3 DATA
 4 DATE 1923
+1 RESI
+2 DATE BET 1935 AND 1957
+2 PLAC Vocabolo Rieta, Portaria, Acquasparta, Umbria
+3 MAP
+4 LATI N42.6522
+4 LONG E12.5458
+3 NOTE @N_IGM@
 1 _MILT
 2 TYPE 10° Regg. G.
 2 DATE 1943
@@ -1001,8 +1032,6 @@
 3 MAP
 4 LATI N42.565944
 4 LONG E12.629944
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
 1 FACT muratore
 2 TYPE Occupation
@@ -1041,8 +1070,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
 1 CHAN
-2 DATE 5 APR 2025
-3 TIME 12:41:48
+2 DATE 28 AUG 2025
+3 TIME 20:23:59
 0 @I0026@ INDI
 1 NAME Iolanda /Caproni/
 2 TYPE birth
@@ -1057,6 +1086,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -1066,6 +1096,7 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -1074,8 +1105,6 @@
 3 MAP
 4 LATI N42.565944
 4 LONG E12.629944
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
 1 FAMC @F0012@
 2 PEDI birth
@@ -1113,6 +1142,7 @@
 3 MAP
 4 LATI N42.611111
 4 LONG E12.545833
+3 NOTE @N_pop1816@
 2 SOUR @S0029@
 2 SOUR @S0113@
 3 DATA
@@ -1124,14 +1154,22 @@
 4 LATI N42.651692
 4 LONG E12.450354
 1 RESI
+2 DATE FROM 1900 TO 1907
+2 PLAC Narni, Umbria
+3 MAP
+4 LATI N42.5166
+4 LONG E12.5166
+3 NOTE @N_pop1816@
+2 NOTE @N0249@
+2 SOUR @S0110@
+3 PAGE 65
+1 RESI
 2 TYPE Forse a Köln / Colonia?
 2 DATE BET 1907 AND 1915
 2 PLAC Germania
 3 MAP
 4 LATI N51.0
 4 LONG E9.0
-2 ADDR
-3 CTRY Germania
 1 _MILT
 2 DATE BET 1915 AND 1918
 1 RESI
@@ -1140,8 +1178,6 @@
 3 MAP
 4 LATI S34.0
 4 LONG W64.0
-2 ADDR
-3 CTRY Argentina
 1 OCCU Oiler sulla MS Leda?
 2 DATE BET 31 JAN 1929 AND 10 MAY 1929
 2 SOUR @S0171@
@@ -1164,13 +1200,12 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
 4 LATI N42.565944
 4 LONG E12.629944
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
 1 FACT 22667 BIS
 2 TYPE N° matricola militare
@@ -1190,17 +1225,20 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
 1 NOTE @N0056@
 1 CHAN
-2 DATE 22 AUG 2025
-3 TIME 16:10:37
+2 DATE 28 AUG 2025
+3 TIME 20:17:55
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
 2 GIVN Agostina
 2 SURN Vaccarini
 2 NICK Eugenia
-1 NAME  //
+1 NAME Argenia //
 2 TYPE aka
-2 NICK Argenia
+2 GIVN Argenia
+2 SOUR @S0022@
+3 DATA
+4 DATE 1922
 1 SEX F
 1 BIRT
 2 DATE 28 AUG 1899
@@ -1208,12 +1246,14 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
+3 NOTE @N0252@
 1 DEAT
 2 DATE 6 FEB 1991
 2 PLAC Terni, Umbria
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -1251,13 +1291,12 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
 4 LATI N42.565944
 4 LONG E12.629944
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
 1 FACT campagnola
 2 TYPE Occupation
@@ -1278,8 +1317,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-NV4
 1 NOTE @N0048@
 1 CHAN
-2 DATE 22 AUG 2025
-3 TIME 16:12:26
+2 DATE 2 SEP 2025
+3 TIME 11:05:03
 0 @I0029@ INDI
 1 NAME Luigi /Camilluzzi/
 2 TYPE birth
@@ -1355,6 +1394,7 @@
 3 MAP
 4 LATI N42.7077
 4 LONG E12.4846
+3 NOTE @N0253@
 2 NOTE @N0206@
 2 SOUR @S0110@
 3 PAGE 124
@@ -1383,13 +1423,21 @@
 2 SOUR @S0113@
 3 DATA
 4 DATE 1889
+1 RESI
+2 DATE 1922
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0192@
+3 DATA
+4 DATE 1922
 1 BURI
 2 PLAC Cimitero di Farnetta, Farnetta, Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6427
 4 LONG E12.4583
-2 ADDR
-3 ADR2 Cimitero di Farnetta
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0113@
@@ -1408,8 +1456,8 @@
 1 NOTE @N0129@
 1 NOTE @N0207@
 1 CHAN
-2 DATE 22 AUG 2025
-3 TIME 16:14:44
+2 DATE 28 AUG 2025
+3 TIME 20:19:50
 0 @I0031@ INDI
 1 NAME Felice /Michelini/
 2 TYPE birth
@@ -1451,6 +1499,7 @@
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
+3 NOTE @N_pop1816@
 2 SOUR @S0096@
 3 DATA
 4 DATE 1904
@@ -1500,6 +1549,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1510,8 +1560,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FACT 16639
 2 TYPE N° matricola militare
 2 SOUR @S0100@
@@ -1550,6 +1598,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0035@
 3 DATA
 4 DATE 2024
@@ -1566,8 +1615,6 @@
 2 OBJE @O0243@
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMC @F0013@
 2 PEDI birth
 1 FAMS @F0012@
@@ -1650,6 +1697,7 @@
 4 LATI N42.6915
 4 LONG E12.5464
 3 NOTE @N0062@
+3 NOTE @N_pop1816@
 2 SOUR @S0049@
 3 DATA
 4 DATE 2024
@@ -1682,8 +1730,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0112@
@@ -1766,6 +1812,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 NOTE @N0162@
 2 SOUR @S0054@
 3 DATA
@@ -1790,6 +1837,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 1 FACT campagnolo
 2 TYPE Occupation
 1 FACT agricoltore
@@ -1824,9 +1872,12 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0053@
 3 DATA
 4 DATE 1870
+1 DEAT
+2 DATE AFT 1903
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0055@
@@ -1839,8 +1890,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GY5N-F91
 1 CHAN
-2 DATE 27 JAN 2025
-3 TIME 06:07:02
+2 DATE 29 AUG 2025
+3 TIME 14:48:29
 0 @I0041@ INDI
 1 NAME Tommaso /Caproni/
 2 TYPE birth
@@ -1956,6 +2007,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -1999,6 +2051,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0027@
 3 PAGE Genealogia della famiglia Michelini di Farnetta
 3 DATA
@@ -2112,8 +2165,6 @@
 3 MAP
 4 LATI N42.56575
 4 LONG E12.628361
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0070@
 1 FAMC @F0018@
 2 PEDI birth
@@ -2243,8 +2294,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -2327,8 +2376,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -2555,8 +2602,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -2734,8 +2779,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FACT 31714
 2 TYPE N° matricola militare
 2 SOUR @S0099@
@@ -2780,8 +2823,6 @@
 3 MAP
 4 LATI N42.6427
 4 LONG E12.4583
-2 ADDR
-3 ADR2 Cimitero di Farnetta
 1 FACT 40628
 2 TYPE N° matricola militare
 2 SOUR @S0099@
@@ -2825,8 +2866,6 @@
 3 MAP
 4 LATI N42.6427
 4 LONG E12.4583
-2 ADDR
-3 ADR2 Cimitero di Farnetta
 1 FAMC @F0028@
 2 PEDI birth
 1 FAMS @F0033@
@@ -2938,8 +2977,6 @@
 3 MAP
 4 LATI N42.6427
 4 LONG E12.4583
-2 ADDR
-3 ADR2 Cimitero di Farnetta
 1 FAMS @F0031@
 1 OBJE @O0099@
 1 OBJE
@@ -3022,8 +3059,6 @@
 3 MAP
 4 LATI N42.6427
 4 LONG E12.4583
-2 ADDR
-3 ADR2 Cimitero di Farnetta
 1 FAMS @F0033@
 1 OBJE @O0052@
 1 CHAN
@@ -3163,8 +3198,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Paiella Pietro, Cimitero di Casteltodino / Quadrelli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
 1 FAMC @F0015@
 2 PEDI birth
@@ -3208,8 +3241,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FACT 6444 BIS
 2 TYPE N° matricola militare
 2 SOUR @S0100@
@@ -3242,8 +3273,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Paiella Pietro, Cimitero di Casteltodino / Quadrelli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
 1 FACT 16846 TER
 2 TYPE N° matricola militare
@@ -3278,8 +3307,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMS @F0037@
 1 OBJE @O0229@
 1 OBJE
@@ -3307,8 +3334,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FACT 38480
 2 TYPE N° matricola militare
 2 SOUR @S0099@
@@ -3415,8 +3440,6 @@
 4 LONG E12.475253
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
 1 FACT 19991
 2 TYPE N° matricola militare
@@ -3458,8 +3481,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
 1 FAMC @F0013@
 2 PEDI birth
@@ -3491,8 +3512,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
 1 FAMS @F0040@
 1 OBJE @O0143@
@@ -3610,8 +3629,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMC @F0012@
 2 PEDI birth
 1 OBJE
@@ -3639,8 +3656,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMC @F0012@
 2 PEDI birth
 1 FAMS @F0042@
@@ -3673,8 +3688,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Paiella Pietro, Cimitero di Casteltodino / Quadrelli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Casteltodino / Quadrelli
 2 OBJE @O0103@
 1 FACT 40561
 2 TYPE N° matricola militare
@@ -3723,8 +3736,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Caproni (Giuseppe ed Ezio), Cimitero di Portaria, Portaria, Acquasparta, Umbria
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMS @F0042@
 1 OBJE @O0084@
 1 OBJE
@@ -3927,6 +3938,7 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 FAMC @F0007@
 2 PEDI birth
 1 OBJE @O0039@
@@ -3978,13 +3990,12 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
 4 LATI N42.565944
 4 LONG E12.629944
-2 ADDR
-3 ADR2 Cimitero di Terni
 3 NOTE @N0069@
 1 FACT bracciante
 2 TYPE Occupation
@@ -4018,6 +4029,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0011@
 3 DATA
 4 DATE 1910
@@ -4027,6 +4039,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
+3 NOTE @N0252@
 2 NOTE @N0077@
 2 SOUR @S0011@
 3 DATA
@@ -4092,6 +4105,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
+3 NOTE @N0252@
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
@@ -4122,6 +4136,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0117@
 3 DATA
 4 DATE 1909
@@ -4131,6 +4146,7 @@
 3 MAP
 4 LATI N42.9574
 4 LONG E12.7029
+3 NOTE @N_pop1816@
 2 SOUR @S0117@
 3 DATA
 4 DATE 1909
@@ -4308,6 +4324,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0005@
 3 PAGE 1919
 1 DEAT
@@ -4317,6 +4334,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 NOTE @N0081@
 2 SOUR @S0005@
 3 PAGE 1951
@@ -4365,8 +4383,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -4406,8 +4422,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 1 FAMC @F0002@
 2 PEDI birth
 1 OBJE @O0159@
@@ -4481,8 +4495,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
 1 OBJE @O0132@
 1 CHAN
@@ -4509,8 +4521,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0052@
 1 OBJE @O0157@
 1 CHAN
@@ -4591,8 +4601,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0030@
 3 DATA
 4 DATE 2024
@@ -4685,10 +4693,19 @@
 3 DATA
 4 DATE 1893
 1 DEAT
-2 DATE AFT 1920
+2 DATE BET 1920 AND 1968
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
+2 SOUR @S0203@
+3 DATA
+4 DATE 1968
 1 RESI
 2 DATE 1874
 2 PLAC Chioano, Todi, Umbria
@@ -4733,10 +4750,19 @@
 2 DATE BET 1849 AND 1860
 2 NOTE @N0050@
 1 DEAT
-2 DATE AFT 1920
+2 DATE BET 1920 AND 1968
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
+2 SOUR @S0203@
+3 DATA
+4 DATE 1968
 1 RESI
 2 DATE 1874
 2 PLAC Chioano, Todi, Umbria
@@ -4814,8 +4840,6 @@
 3 MAP
 4 LATI N42.565
 4 LONG E12.629
-2 ADDR
-3 ADR2 Cimitero di Terni
 2 SOUR @S0122@
 3 NOTE @N0004@
 1 FAMC @F0054@
@@ -5081,6 +5105,7 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5096,6 +5121,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
@@ -5128,6 +5154,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5143,6 +5170,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5153,6 +5181,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 1 FACT colona
 2 TYPE Occupation
 2 SOUR @S0014@
@@ -5182,6 +5211,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 NOTE @N0230@
 2 SOUR @S0017@
 3 DATA
@@ -5298,6 +5328,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0009@
 1 DEAT
 2 DATE 26 MAY 1915
@@ -5305,8 +5336,6 @@
 3 MAP
 4 LATI N46.4979
 4 LONG E11.96
-2 ADDR
-3 ADR2 Col di Lana
 2 SOUR @S0009@
 1 RESI
 2 DATE ABT 1914
@@ -5501,6 +5530,7 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5533,6 +5563,7 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5567,6 +5598,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 1 FAMS @F0068@
 1 OBJE
 2 FORM URL
@@ -5591,6 +5623,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0018@
 3 PAGE 35
 1 RESI
@@ -5600,6 +5633,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5643,6 +5677,7 @@
 4 LATI N42.9172
 4 LONG E12.5519
 3 NOTE @N0065@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -5762,6 +5797,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
@@ -5920,8 +5956,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMC @F0016@
 2 PEDI birth
 1 FAMS @F0076@
@@ -5963,8 +5997,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FACT campagnola
 2 TYPE Occupation
 2 SOUR @S0068@
@@ -5999,8 +6031,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMC @F0076@
 2 PEDI birth
 1 FAMS @F0077@
@@ -6035,8 +6065,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FACT 19346
 2 TYPE N° matricola militare
 2 SOUR @S0100@
@@ -6074,8 +6102,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMS @F0077@
 1 OBJE @O0105@
 1 CHAN
@@ -6150,8 +6176,6 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
-2 ADDR
-3 ADR2 Cimitero di Portaria
 1 FAMS @F0079@
 1 OBJE @O0100@
 1 CHAN
@@ -6305,6 +6329,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 1 DEAT
 2 DATE 18 JUN 1908
 2 PLAC Monticello, Todi, Umbria
@@ -6336,6 +6361,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 1 DEAT
 2 DATE 28 JUN 1937
 1 RESI
@@ -6369,6 +6395,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0108@
 3 DATA
 4 DATE 1926
@@ -6865,8 +6892,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FAMC @F0013@
 2 PEDI foster
 1 FAMS @F0089@
@@ -6910,8 +6935,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FAMS @F0090@
 1 OBJE @O0139@
 1 CHAN
@@ -6929,8 +6952,6 @@
 3 MAP
 4 LATI N51.8168
 4 LONG W0.8124
-2 ADDR
-3 CTRY Inghilterra
 2 SOUR @S0042@
 3 DATA
 4 DATE 2024
@@ -6952,8 +6973,6 @@
 3 MAP
 4 LATI N51.751944
 4 LONG W1.257778
-2 ADDR
-3 CTRY Inghilterra
 1 FAMC @F0091@
 2 PEDI birth
 1 CHAN
@@ -7017,8 +7036,6 @@
 3 MAP
 4 LATI N53.0
 4 LONG W1.0
-2 ADDR
-3 CTRY Inghilterra
 1 FAMS @F0094@
 1 CHAN
 2 DATE 11 NOV 2024
@@ -7035,8 +7052,6 @@
 3 MAP
 4 LATI N53.0
 4 LONG W1.0
-2 ADDR
-3 CTRY Inghilterra
 1 FAMS @F0094@
 1 SOUR @S0042@
 2 DATA
@@ -7106,8 +7121,6 @@
 3 MAP
 4 LATI N42.64
 4 LONG E12.484
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 1 FACT impiegato
 2 TYPE Occupation
 2 SOUR @S0114@
@@ -7139,8 +7152,6 @@
 4 DATE 2024
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 OBJE @O0141@
 1 FAMS @F0095@
 1 OBJE @O0144@
@@ -7158,8 +7169,6 @@
 1 SEX M
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
@@ -7180,8 +7189,6 @@
 1 SEX F
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
@@ -7202,8 +7209,6 @@
 1 SEX F
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
@@ -7224,8 +7229,6 @@
 1 SEX M
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
@@ -7246,8 +7249,6 @@
 1 SEX M
 1 BURI
 2 PLAC Cappella di Famiglia Petrucci Anzelmo e Eugenio, Cimitero di Montecastrilli, Montecastrilli, Umbria
-2 ADDR
-3 ADR2 Cimitero di Montecastrilli
 2 SOUR @S0047@
 3 DATA
 4 DATE 2024
@@ -7350,6 +7351,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0052@
 3 DATA
 4 DATE 1862
@@ -7405,6 +7407,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 1 RESI
 2 DATE BET 1867 AND 1871
 2 PLAC Vocabolo Valleluva, Portaria, Acquasparta, Umbria
@@ -7468,6 +7471,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0056@
 3 DATA
 4 DATE 1863
@@ -7588,6 +7592,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -7637,6 +7642,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0062@
 3 DATA
 4 DATE 1861
@@ -7648,6 +7654,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0066@
 3 DATA
 4 DATE 1861
@@ -7673,6 +7680,7 @@
 4 LONG E12.5655
 3 NOTE @N0109@
 3 NOTE @N0128@
+3 NOTE @N_pop1816@
 2 SOUR @S0063@
 3 DATA
 4 DATE 1862
@@ -7850,7 +7858,11 @@
 2 SURN Gobbi
 1 SEX M
 1 BIRT
-2 DATE CAL 1858
+2 DATE 1858
+2 PLAC Spoleto, Umbria
+3 MAP
+4 LATI N42.7329
+4 LONG E12.7332
 2 SOUR @S0070@
 3 DATA
 4 DATE 1889
@@ -7931,7 +7943,16 @@
 1 SEX M
 1 BIRT
 2 DATE 6 MAY 1881
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0077@
+2 SOUR @S0202@
+3 DATA
+4 DATE 1912
 1 DEAT
 2 DATE 23 APR 1962
 2 SOUR @S0077@
@@ -8049,6 +8070,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0081@
 1 DEAT
 2 DATE 4 AUG 1926
@@ -8194,6 +8216,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0085@
 1 BURI
 2 PLAC Cimitero di Monticello-Ficareto, Todi, Umbria
@@ -8222,6 +8245,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0085@
 1 DEAT
 2 DATE 21 NOV 2010
@@ -8249,11 +8273,14 @@
 1 SEX F
 1 BIRT
 2 DATE 1858
-2 PLAC Cesi, Terni, Umbria
+2 PLAC Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.6112
-4 LONG E12.5848
-3 NOTE @N0092@
+4 LATI N42.6564
+4 LONG E12.5655
+3 NOTE @N0109@
+3 NOTE @N0128@
+3 NOTE @N_pop1816@
+2 NOTE @N0092@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
@@ -8288,6 +8315,7 @@
 3 MAP
 4 LATI N42.611111
 4 LONG E12.545833
+3 NOTE @N_pop1816@
 2 SOUR @S0087@
 3 DATA
 4 DATE 1884
@@ -8335,6 +8363,7 @@
 3 MAP
 4 LATI N42.611111
 4 LONG E12.545833
+3 NOTE @N_pop1816@
 2 SOUR @S0091@
 3 DATA
 4 DATE 1889
@@ -8417,6 +8446,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0096@
 3 DATA
 4 DATE 1904
@@ -8488,6 +8518,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 1 FACT contadina
 2 TYPE Occupation
 2 SOUR @S0096@
@@ -8631,6 +8662,7 @@
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
+3 NOTE @N_pop1816@
 2 SOUR @S0097@
 3 DATA
 4 DATE 1907
@@ -8687,6 +8719,7 @@
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
+3 NOTE @N_pop1816@
 2 SOUR @S0097@
 3 DATA
 4 DATE 1907
@@ -8864,6 +8897,7 @@
 3 MAP
 4 LATI N42.5541
 4 LONG E12.4173
+3 NOTE @N_pop1816@
 2 SOUR @S0098@
 3 DATA
 4 DATE 1921
@@ -9068,6 +9102,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0118@
 3 DATA
 4 DATE 1923
@@ -9093,6 +9128,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0118@
 3 DATA
 4 DATE 1923
@@ -9226,6 +9262,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0137@
 3 DATA
 4 DATE 1928
@@ -9340,6 +9377,7 @@
 3 MAP
 4 LATI N42.561944
 4 LONG E12.641389
+3 NOTE @N_pop1816@
 1 FAMC @F0124@
 2 PEDI birth
 1 OBJE
@@ -9393,6 +9431,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 1 FAMC @F0125@
 2 PEDI birth
 1 OBJE
@@ -9529,6 +9568,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0109@
 1 DEAT
 2 DATE 6 JUL 1907
@@ -9537,6 +9577,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0109@
 1 FAMC @F0108@
 2 PEDI birth
@@ -9559,6 +9600,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0151@
 3 DATA
 4 DATE 1910
@@ -9592,6 +9634,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0152@
 3 DATA
 4 DATE 1914
@@ -9908,6 +9951,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 1 FAMC @F0132@
 2 PEDI birth
 1 OBJE
@@ -9949,6 +9993,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0161@
 3 DATA
 4 DATE 1916
@@ -9997,6 +10042,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0163@
 3 DATA
 4 DATE 1928
@@ -10021,6 +10067,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0164@
 3 DATA
 4 DATE 1910
@@ -10031,6 +10078,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0164@
 3 DATA
 4 DATE 1910
@@ -10055,6 +10103,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0165@
 3 DATA
 4 DATE 1912
@@ -10065,6 +10114,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0165@
 3 DATA
 4 DATE 1912
@@ -10112,6 +10162,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0170@
 3 DATA
 4 DATE 1906
@@ -10122,6 +10173,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0170@
 3 DATA
 4 DATE 1906
@@ -10188,6 +10240,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0172@
 3 DATA
 4 DATE 1909
@@ -10211,6 +10264,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
@@ -10236,6 +10290,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
@@ -10259,6 +10314,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0177@
 3 DATA
 4 DATE 1910
@@ -10269,6 +10325,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0177@
 3 DATA
 4 DATE 1910
@@ -10293,6 +10350,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
@@ -10326,6 +10384,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
@@ -10497,6 +10556,7 @@
 3 MAP
 4 LATI N42.9574
 4 LONG E12.7029
+3 NOTE @N_pop1816@
 2 SOUR @S0195@
 3 DATA
 4 DATE 1890
@@ -10588,6 +10648,7 @@
 4 LATI N43.0689
 4 LONG E12.6178
 3 NOTE @N0083@
+3 NOTE @N_pop1816@
 1 CHIL @I0045@
 1 CHIL @I0002@
 1 CHIL @I0046@
@@ -10604,6 +10665,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0006@
 3 DATA
 4 DATE 1913
@@ -10639,6 +10701,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0007@
 3 DATA
 4 DATE 1920
@@ -10661,6 +10724,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0173@
 3 DATA
 4 DATE 1914
@@ -11217,6 +11281,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0014@
 3 DATA
 4 DATE 1904
@@ -11249,6 +11314,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0008@
 3 DATA
 4 DATE 1914
@@ -11304,6 +11370,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0015@
 3 DATA
 4 DATE 1905
@@ -11323,6 +11390,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0016@
 3 DATA
 4 DATE 1906
@@ -11533,8 +11601,6 @@
 3 MAP
 4 LATI N53.0
 4 LONG W1.0
-2 ADDR
-3 CTRY Inghilterra
 2 SOUR @S0043@
 3 DATA
 4 DATE 2024
@@ -11759,6 +11825,7 @@
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
+3 NOTE @N_pop1816@
 2 SOUR @S0097@
 3 DATA
 4 DATE 1907
@@ -11775,6 +11842,7 @@
 4 LATI N42.3677
 4 LONG E12.4832
 3 NOTE @N0135@
+3 NOTE @N_pop1816@
 2 SOUR @S0098@
 3 DATA
 4 DATE 1921
@@ -11833,6 +11901,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 2 SOUR @S0118@
 3 DATA
 4 DATE 1923
@@ -11880,6 +11949,7 @@
 4 LATI N42.778889
 4 LONG E12.414167
 3 NOTE @N0061@
+3 NOTE @N_pop1816@
 1 CHAN
 2 DATE 21 MAR 2025
 3 TIME 13:18:25
@@ -11893,6 +11963,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0159@
 3 DATA
 4 DATE 1904
@@ -11960,6 +12031,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 NOTE @N0247@
 2 SOUR @S0196@
 3 DATA
@@ -11978,6 +12050,7 @@
 4 LATI N42.9011
 4 LONG E12.4338
 3 NOTE @N0063@
+3 NOTE @N_pop1816@
 2 SOUR @S0172@
 3 DATA
 4 DATE 1909
@@ -11995,6 +12068,7 @@
 4 LATI N42.7843
 4 LONG E12.5189
 3 NOTE @N0060@
+3 NOTE @N_pop1816@
 2 SOUR @S0176@
 3 DATA
 4 DATE 1920
@@ -12011,6 +12085,7 @@
 4 LATI N42.9172
 4 LONG E12.3349
 3 NOTE @N0064@
+3 NOTE @N_pop1816@
 2 SOUR @S0179@
 3 DATA
 4 DATE 1901
@@ -12034,6 +12109,7 @@
 3 MAP
 4 LATI N42.9574
 4 LONG E12.7029
+3 NOTE @N_pop1816@
 2 SOUR @S0195@
 3 DATA
 4 DATE 1890
@@ -13357,8 +13433,30 @@
 1 CHAN
 2 DATE 28 AUG 2025
 3 TIME 11:05:28
+0 @S0202@ SOUR
+1 TITL Atto di matrimonio di Francesco Ortenzi e Candida Perni (1912)
+1 NOTE @N0250@
+1 CHAN
+2 DATE 28 AUG 2025
+3 TIME 21:24:20
+0 @S0203@ SOUR
+1 TITL Atto di morte di Ester Martinelli (1968)
+1 OBJE @O0300@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 10:48:35
+0 @S0204@ SOUR
+1 TITL Ruolo matricolare di Francesco Ortenzi
+1 OBJE @O0301@
+1 OBJE @O0302@
+1 REPO @R0001@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 10:29:47
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
+0 @R0001@ REPO
+1 NAME Archivio di Stato di Perugia
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
 1 CONC =697&lang=en
 0 @N0001@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BRX2?cat=835978&i
@@ -13495,6 +13593,11 @@
 1 CONC ultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=254283
 0 @N0061@ NOTE - Stato civile del Comune di Todi: https://siusa-archivi.cultura.go
 1 CONC v.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=314021
+1 CONT 
+1 CONT Richieste per atti precedenti al 1884 vanno indirizzate all'archivio sto
+1 CONC rico:
+1 CONT - https://siusa-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=cons&Ch
+1 CONC iave=8215 
 0 @N0062@ NOTE - Stato civile del Comune di Acquasparta: https://siusa-archivi.cul
 1 CONC tura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=comparc&Chiave=267025
 0 @N0063@ NOTE - Stato civile del Comune di Collazzone: https://siusa-archivi.cult
@@ -13762,7 +13865,7 @@
 1 CONT condizione campagnola pos. nata nel Comune di Portaria domiciliata
 1 CONT in Portaria, figlia di Tommaso Caproni e di Maddalena 
 1 CONT Sinolfi il quale ha lasciati N. ___ figli.
-0 @N0156@ NOTE L'anno millenovecentoquarantaquattro addì trentuno del mese
+0 @N0156@ NOTE L'anno millenovecentoquarantanove addì trentuno del mese
 1 CONT di Dicembre alle ore dieci e minuti __ nella Casa Comunale.
 1 CONT Avanti di me Bernardini Augusto Sindaco, Ufficiale dello Stato Civile
 1 CONT del Comune di Montecastrilli
@@ -13772,7 +13875,7 @@
 1 CONT 
 1 CONT il quale alla presenza dei testimoni Piacenti Gabriele,
 1 CONT di fu Giuseppe, di anni trenta, commerciante,
-1 CONT residente in Quadrelli, e [Ribera?] Marino,
+1 CONT residente in Quadrelli, e [Ribeca?] Marino,
 1 CONT di fu Giovanni, di anni sessantatre, impiegato,
 1 CONT residente in Montecastrilli, mi ha dichiarato quanto segue:
 1 CONT 
@@ -14080,14 +14183,128 @@
 0 @N0247@ NOTE Entrambi vedovi all'epoca del matrimonio.
 0 @N0248@ NOTE Comunque prima del 26 settembre 1900, quando Adelaide Manni si risp
 1 CONC osa.
+0 @N0249@ NOTE Comunque prima del 1904, dato che non resulta come residente a cas
+1 CONC a Michelini nello stato delle anime di quell'anno.
+0 @N0250@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89WR-4DFR?view=explore
+1 CONC &groupId=M98F-LC8&lang=en
+0 @N0252@ NOTE Popolazione al 1836:
+1 CONT 
+1 CONT - Delegazione di Rieti
+1 CONT -- Magliano 1387
+1 CONT 
+1 CONT - Delegazione di Perugia
+1 CONT -- Chioano 210
+1 CONT -- Monticello 165
+1 CONT -- Ficareto 126
+1 CONT -- Pesciano 222
+1 CONT -- Cerqueto 683
+1 CONT -- Papiano 807
+1 CONT -- Collazzone 495
+1 CONT 
+1 CONT - Delegazione di Spoleto
+1 CONT -- Portaria 390
+1 CONT -- Monte Castrill 912
+1 CONT -- Farneta 232
+1 CONT -- Gualdo Cattaneo 562
+1 CONT -- Rosaro 222
+1 CONT 
+1 CONT Fonte: Indice alfabetico di tutti i luoghi dello stato pontificio (1836)
+0 @N0253@ NOTE https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPa
+1 CONC g=prodente&Chiave=41297
+0 @N0255@ NOTE Soldato di leva classe 1918 Distretto 
+1 CONT Perugia
+1 CONT lasciato in congedo illimitato li 23 aprile 1938
+1 CONT Chiamato alle armi e giunto li 3 aprile 1939
+1 CONT Tale nel 12° compagnia sanità li 5 aprile 1939
+1 CONT 
+1 CONT Ha procurato al fratello Edo N. 1920
+1 CONT N 10289 [illegibile] Perugia 
+1 CONT il rinvio della [?] armi al termine del-
+1 CONT l'articolo 118 del [?] unico delle leggi sul re-
+1 CONT clutamento 20 marzo 1940
+1 CONT 
+1 CONT Tale in servizio al distaccamento di Messina li 25 agosto 940
+1 CONT Tale in territorio dichiarato in istato di guerra li 11 agosto 940
+1 CONT Trattenuto alle armi ai sensi del R.D. 1677 circ. 868
+1 CONT G.M. 939 li 3 ottobre 940
+1 CONT Passato in aggregazione al 54° artiglieria littoria li 3 ottobre 940
+1 CONT Rientrato al corpo li 8 novembre 940
+1 CONT Passato effettivo alla 1° comp. provv. [rietti?] sanità
+1 CONT messina del centro di mobilitazione dell'osp. mil. di
+1 CONT Messina / O.P. n° 49 del 21/2/942 della Direzione
+1 CONT osp. mil. di [?] Messina. li 25 febbraio 941
+1 CONT Tale nell'osp. mil. di riserva n° 4 mobilitato dal
+1 CONT 10 giugno 940 li 11 giugno 940
+1 CONT Inviato in licenza agricola di gg. 30+4 ai sensi
+1 CONT della circ. min. 13070 dell'8-5-941 cessando di tro-
+1 CONT varsi in territorio dichiarato in istato di guerra li 16 luglio 941
+1 CONT Rientrato dalla suddetta licenza e giunto in territo-
+1 CONT rio dichiarato in istato di guerra li 18 agosto 941
+1 CONT Trasferito al 96 sezione sanità di C.A. (centro mo-
+1 CONT bilitazione mil. n°1 di Salerno) circolare 0023620/2
+1 CONT del 6/1/1942 dello S.M.R.E. li 1 febbraio 942
+1 CONT Inviato in licenza speciale di gg. 15+6 li 23 luglio 942
+1 CONT Partito dal territorio dichiarato in istato di guerra li 23 luglio 942
+1 CONT Rientrato alla 17 comp. sanità li 7 ottobre 942
+1 CONT Tale destinato al 235° osp. da campo del C.S.I.R. 7 ottobre 942
+1 CONT (non accertata la data)
+1 CONT Tale in territorio dichiarato in istato di guerra li 7 ottobre 942
+1 CONT (non accertata la data)
+1 CONT Tale rimpatriato dalla Russia e giunto al campo con-
+1 CONT tumaciale di Pisa (data non accertata) 29 marzo 943
+1 CONT Tale inviato in licenza straord. di gg. 30 + viaggio li 15 aprile 943
+1 CONT Prorogata la suddetta licenza perché caduto ammalato 15 maggio 943
+1 CONT Rientrato al corpo 12 luglio 943
+1 CONT Tale nella 6° comp. sanità 12 luglio 943
+1 CONT Sbandatosi in seguito agli eventi sopravvenuti all'armistizio 8 settem
+1 CONC . 943
+1 CONT Considerato in servizio dal 9.9.43 al 20-6-44 (circ. 318 g.m. 1945)
+1 CONT Tale in lic. straord. s.a. in attesa disposizioni 20 giugno 944
+1 CONT Collocato in congedo illimitato 
+1 CONT (circ 23300 del 23-9-1945) 1° novem. 945
+1 CONT Tale nel distretto militare di perugia 1° novem. 945
+1 CONT Parificato a Perugia, li 18-6-1957
+1 CONT Il capo sezione matricola
+1 CONT sottufficiali e truppa
+1 CONT (Giuseppe Italiani)
+1 CONT  
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
 1 CONT 
 1 CONT Layer: Toponimi IGM, Carta IGM scala 25.000.
+0 @N_UmbGIS@ NOTE Identificato con: https://siat.regione.umbria.it/webgisctr/
 0 @N_albero@ NOTE Albero interattivo: https://pierluigiortenzi.github.io/topola-viewe
 1 CONC r/
 0 @N_foto_data_retro@ NOTE Fotografia datata sul retro.
+0 @N_pop1816@ NOTE Popolazione al 1816:
+1 CONT 
+1 CONT - Delegazione di Rieti 65'734
+1 CONT -- Rieti 9'271
+1 CONT -- Magliano 1'214
+1 CONT 
+1 CONT - Delegazione di Perugia 181'542
+1 CONT -- Perugia 68'511
+1 CONT -- Marsciano 1'356
+1 CONT -- Città di Castello 24'832
+1 CONT -- Foligno 15'002
+1 CONT -- Assisi 10'918
+1 CONT -- Collazzone 500
+1 CONT -- Gualdo Cattaneo 529
+1 CONT -- Todi 22'093
+1 CONT -- Massa [Martana] 1'519
+1 CONT 
+1 CONT - Delegazione di Spoleto 102'053:
+1 CONT -- Terni 8'496
+1 CONT -- Amelia 5'143
+1 CONT -- Cesi 972
+1 CONT -- Narni 3'359
+1 CONT -- Acquasparta 932
+1 CONT -- Porteria 444
+1 CONT -- S. Gemine 1'332
+1 CONT 
+1 CONT Fonte: Tabella del riparto territoriale delle delegazioni dello Stato ec
+1 CONC clesiastico (1816)
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
 0 @O0000@ OBJE
@@ -16241,4 +16458,26 @@
 1 CHAN
 2 DATE 28 AUG 2025
 3 TIME 11:05:23
+0 @O0300@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Ester_Martinelli_1968.png
+2 FORM png
+2 TITL Atto_morte_Ester_Martinelli_1968
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 10:48:33
+0 @O0301@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Ruolo_matricolare_Francesco_Ortenzi_a.jpg
+2 FORM jpg
+2 TITL Ruolo_matricolare_Francesco_Ortenzi_a
+1 NOTE @N0255@
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 11:05:16
+0 @O0302@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Ruolo_matricolare_Francesco_Ortenzi_b.jpg
+2 FORM jpg
+2 TITL Ruolo_matricolare_Francesco_Ortenzi_b
+1 CHAN
+2 DATE 3 SEP 2025
+3 TIME 10:26:57
 0 TRLR

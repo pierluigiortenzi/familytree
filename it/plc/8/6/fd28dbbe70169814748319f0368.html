@@ -5,7 +5,7 @@
 	<meta charset="UTF-8" />
 	<meta name ="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=0.5, maximum-scale=10.0, user-scalable=yes" />
 	<meta name ="apple-mobile-web-app-capable" content="yes" />
-	<meta name="generator" content="Gramps AIO64-5.2.3-r1-aa03f5a http://gramps-project.org/" />
+	<meta name="generator" content="Gramps AIO64-6.0.4--1 http://gramps-project.org/" />
 	<meta name="author" content="" />
 	<meta name="robots" content="noindex" />
 	<meta name="googlebot" content="noindex" />
@@ -35,11 +35,12 @@
 		</div>
 		<div class="wrappernav ltr" id="nav" role="navigation">
 			<div class="container">
-				<ul class="nav dropmenu" id="dropmenu">
+				<ul class="nav" id="dropmenu">
 					<li><a href="../../../individuals.html" title="Persone">Persone</a></li>
 					<li><a href="../../../index.html" title="Cognomi">Cognomi</a></li>
 					<li><a href="../../../families.html" title="Famiglie">Famiglie</a></li>
 					<li class = "CurrentSection"><a href="../../../places.html" title="Luoghi">Luoghi</a></li>
+					<li><a href="../../../heatmaps.html" title="Heatmap">Heatmap</a></li>
 					<li><a href="../../../sources.html" title="Fonti">Fonti</a></li>
 					<li><a href="../../../thumbnails.html" title="Miniature">Miniature</a></li>
 					<li><a href="../../../updates.html" title="Aggiornamenti">Aggiornamenti</a></li>
@@ -48,8 +49,8 @@
 					<li class="lang">
 					Lingua
 						<ul class="lang">
-							<li><a href="../../../../it/plc/8/6/fd28dbbe70169814748319f0368.html" title="Italiano">Italiano</a></li>
-							<li><a href="../../../../it/plc/8/6/fd28dbbe70169814748319f0368.html" title="Italiano">Italiano</a></li>
+							<li><a href="../../../../it/plc/8/6/fd28dbbe70169814748319f0368.html" style="white-space:nowrap;" title="Italiano">Italiano</a></li>
+							<li><a href="../../../../it/plc/8/6/fd28dbbe70169814748319f0368.html" style="white-space:nowrap;" title="Italiano">Italiano</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -144,6 +145,7 @@ function GoToTop() {
 		
   window.addEventListener("load", function() {
     var map;
+    var heat = 'markers';
     var tracelife = [[12.50345245, 42.8118883, 'Casa di Francesco Ortenzi (n. 1836), Massa Martana, Umbria', ' ']];
     var iconStyle = new ol.style.Style({
       image: new ol.style.Icon(({
@@ -156,6 +158,10 @@ function GoToTop() {
     });
     var markerSource = new ol.source.Vector({
     });
+    var centerCoord = new ol.proj.transform([12.50345245, 42.81188830], 'EPSG:4326', 'EPSG:3857');
+    var zoom = 10;
+    var radius = 0;
+    var blur = 0;
     for (var i = 0; i < tracelife.length; i++) {
       var loc = tracelife[i];
       var iconFeature = new ol.Feature({
@@ -175,13 +181,27 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([12.50345245, 42.81188830], 'EPSG:4326', 'EPSG:3857');
-    map = new ol.Map({
-                 target: 'map_canvas',
-                 layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
-                          markerLayer, tooltip],
-                 view: new ol.View({ center: centerCoord, zoom: 10 })
-                 });
+    heatmap = new ol.layer.Heatmap({
+      source: markerSource,
+      radius: radius,
+      blur: blur,
+      style: iconStyle
+    });
+    if (heat == "heatmap") {
+      map = new ol.Map({
+                   target: 'map_canvas',
+                   layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
+                            heatmap],
+                   view: new ol.View({ center: centerCoord, zoom: zoom })
+                   });
+    } else {
+      map = new ol.Map({
+                   target: 'map_canvas',
+                   layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
+                            markerLayer, tooltip],
+                   view: new ol.View({ center: centerCoord, zoom: zoom })
+                   });
+    };
 
 		
     var element = document.getElementById('popup');
@@ -190,6 +210,8 @@ function GoToTop() {
     var closer = document.getElementById('popup-closer');
     var tip = document.getElementById('tooltip');
     var tipcontent = document.getElementById('tooltip-content');
+    var tltip1 = undefined;
+    var tltip2 = undefined;
     var tooltip = new ol.Overlay({
       element: tip,
       positioning: 'bottom-center',
@@ -211,12 +233,18 @@ function GoToTop() {
     closer.onclick = function() {
       popup.setPosition(undefined);
       closer.blur();
+      tltip1 = undefined;
+      tltip2 = undefined;
       return false;
     };
     map.on('pointermove', function(evt) {
       evt.preventDefault()
+      if (tltip2 !== undefined) {
+        return;
+      }
       var feature = this.forEachFeatureAtPixel(evt.pixel,
                                                function(feature, layer) {
+        tltip1 = feature;
         return feature;
       });
       map.getTargetElement().style.cursor = feature ? 'pointer' : '';
@@ -234,8 +262,12 @@ function GoToTop() {
     });
     map.on('singleclick', function(evt) {
       evt.preventDefault();
+      if (tltip1 !== undefined) {
+        tooltip.setPosition(undefined);
+      }
       var feature = map.forEachFeatureAtPixel(evt.pixel,
                                               function(feature, layer) {
+        tltip2 = feature;
         return feature;
       });
       if (feature) {
@@ -260,7 +292,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-5.2.3-r1-aa03f5a<br />Ultima modifica il 2025-07-27 21:47:24
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-6.0.4--1<br />Ultima modifica il 2025-07-27 21:47:24
 			</p>
 			<p id="copyright">
 			

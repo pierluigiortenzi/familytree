@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -32,8 +34,9 @@
 		<div class="wrappernav ltr" id="nav" role="navigation">
 			<div class="container">
 				<ul class="nav" id="dropmenu">
+					<li><a href="../../../index.html" title="Home">Home</a></li>
 					<li><a href="../../../individuals.html" title="Persone">Persone</a></li>
-					<li><a href="../../../index.html" title="Cognomi">Cognomi</a></li>
+					<li><a href="../../../surnames.html" title="Cognomi">Cognomi</a></li>
 					<li><a href="../../../families.html" title="Famiglie">Famiglie</a></li>
 					<li><a href="../../../places.html" title="Luoghi">Luoghi</a></li>
 					<li><a href="../../../heatmaps.html" title="Heatmap">Heatmap</a></li>
@@ -84,6 +87,13 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="SourceDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../it/img/b/3/ffc0c0b4f923165db935fe4773b.html" title="Atto_nascita_Pierina_Ortenzi_1909">
+						<img alt="Atto_nascita_Pierina_Ortenzi_1909" src="../../../../thumb/b/3/ffc0c0b4f923165db935fe4773b.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Atto di nascita di Pierina Ortenzi (1909)</h3>
 			<table class="infolist source ltr">
 				<tbody>
@@ -99,6 +109,38 @@ function GoToTop() {
 						</p>
 					</div>
 				</div>
+			</div>
+			<div class="subsection" id="indivgallery">
+				<h4>Multimedia</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/b/3/ffc0c0b4f923165db935fe4773b.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/1 - Atto_nascita_Pierina_Ortenzi_1909
+								</div>
+								<a href="../../../../it/img/b/3/ffc0c0b4f923165db935fe4773b.html">
+									<img src="../../../../images/b/3/ffc0c0b4f923165db935fe4773b.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
+					</div>
+				</div>
+				<div class="fullclear"></div>
 			</div>
 			<div class="subsection" id="references">
 				<h4>Riferimenti</h4>
@@ -140,7 +182,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-6.0.4--1 il 3/9/2025
+			Generato da <a href="http://gramps-project.org/">Gramps</a> AIO64-6.0.4--1 il 11/9/2025
 			</p>
 			<p id="copyright">
 			

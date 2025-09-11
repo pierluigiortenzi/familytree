@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.4--1
 2 NAME Gramps
-1 DATE 3 SEP 2025
-2 TIME 11:09:13
+1 DATE 11 SEP 2025
+2 TIME 14:10:34
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -127,14 +127,12 @@
 3 DATA
 4 DATE 2024
 1 RESI
-2 DATE ABT 1943
-2 PLAC Viepri, Massa Martana, Umbria
+2 DATE ABT 1938
+2 PLAC Castelrinaldi, Massa Martana, Umbria
 3 MAP
-4 LATI N42.8261
-4 LONG E12.523
-2 SOUR @S0003@
-3 DATA
-4 DATE BET 1942 AND 1943
+4 LATI N42.7957
+4 LONG E12.5065
+2 SOUR @S0204@
 1 _MILT
 2 TYPE 235° Ospedale da Campo
 2 DATE FROM 3 APR 1939 TO 8 SEP 1943
@@ -159,6 +157,12 @@
 4 LATI N42.56575
 4 LONG E12.628361
 3 NOTE @N0070@
+1 FACT falegname
+2 TYPE Occupation
+2 SOUR @S0204@
+1 FACT 2343
+2 TYPE N° matricola militare
+2 SOUR @S0204@
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0001@
@@ -183,7 +187,7 @@
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
 1 CHAN
 2 DATE 3 SEP 2025
-3 TIME 10:27:17
+3 TIME 11:26:06
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -413,6 +417,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 NOTE @N0221@
 1 DEAT
 2 DATE 8 NOV 1908
@@ -475,6 +480,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0131@
 3 DATA
 4 DATE 1900
@@ -529,6 +535,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0159@
 3 DATA
 4 DATE 1904
@@ -553,6 +560,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0016@
 3 DATA
 4 DATE 1906
@@ -586,6 +594,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0015@
 3 DATA
 4 DATE 1905
@@ -621,6 +630,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0138@
 3 DATA
 4 DATE 1921
@@ -631,6 +641,12 @@
 4 LATI N43.114
 4 LONG E12.3898
 3 NOTE @N_pop1816@
+1 RESI
+2 DATE 1921
+2 PLAC Casa n. 49, Castelrinaldi, Massa Martana, Umbria
+2 SOUR @S0139@
+3 DATA
+4 DATE 1921
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0124@
@@ -638,8 +654,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G9B8-QX4
 1 CHAN
-2 DATE 21 MAR 2025
-3 TIME 13:45:54
+2 DATE 10 SEP 2025
+3 TIME 18:34:38
 0 @I0016@ INDI
 1 NAME Vittorio /Trovarelli/
 2 TYPE birth
@@ -1171,7 +1187,8 @@
 4 LATI N51.0
 4 LONG E9.0
 1 _MILT
-2 DATE BET 1915 AND 1918
+2 DATE FROM 4 MAY 1916 TO 13 JUL 1919
+2 SOUR @S0205@
 1 RESI
 2 DATE FROM SEP 1923 TO 1929
 2 PLAC Argentina
@@ -1210,11 +1227,15 @@
 1 FACT 22667 BIS
 2 TYPE N° matricola militare
 2 SOUR @S0100@
+2 SOUR @S0205@
 1 FACT agricoltore
 2 TYPE Occupation
 2 SOUR @S0192@
 3 DATA
 4 DATE 1922
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0205@
 1 FAMC @F0009@
 2 PEDI birth
 1 FAMS @F0008@
@@ -1225,8 +1246,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
 1 NOTE @N0056@
 1 CHAN
-2 DATE 28 AUG 2025
-3 TIME 20:17:55
+2 DATE 11 SEP 2025
+3 TIME 14:05:18
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1246,7 +1267,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
-3 NOTE @N0252@
+3 NOTE @n_pop1836@
 1 DEAT
 2 DATE 6 FEB 1991
 2 PLAC Terni, Umbria
@@ -4039,7 +4060,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
-3 NOTE @N0252@
+3 NOTE @n_pop1836@
 2 NOTE @N0077@
 2 SOUR @S0011@
 3 DATA
@@ -4096,6 +4117,7 @@
 4 LATI N42.6511
 4 LONG E12.486
 3 NOTE @N0059@
+2 NOTE @N0256@
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
@@ -4105,7 +4127,7 @@
 3 MAP
 4 LATI N42.6962
 4 LONG E12.4284
-3 NOTE @N0252@
+3 NOTE @n_pop1836@
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
@@ -4920,6 +4942,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0019@
 3 DATA
 4 DATE 1875
@@ -4954,6 +4977,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0020@
 3 DATA
 4 DATE 1832
@@ -4999,6 +5023,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0021@
 3 DATA
 4 DATE 1816
@@ -5049,6 +5074,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 1 FAMC @F0060@
 2 PEDI birth
 1 FAMS @F0059@
@@ -5311,10 +5337,9 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPY-MJ1
-1 NOTE @N0217@
 1 CHAN
-2 DATE 21 AUG 2025
-3 TIME 15:13:10
+2 DATE 10 SEP 2025
+3 TIME 18:19:01
 0 @I0186@ INDI
 1 NAME Costantino /Moretti/
 2 TYPE birth
@@ -5956,6 +5981,11 @@
 3 MAP
 4 LATI N42.656
 4 LONG E12.561
+1 FACT campagnolo
+2 TYPE Occupation
+2 SOUR @S0069@
+3 DATA
+4 DATE 1898
 1 FAMC @F0016@
 2 PEDI birth
 1 FAMS @F0076@
@@ -5967,8 +5997,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/PM7R-L6D
 1 CHAN
-2 DATE 31 JAN 2025
-3 TIME 19:48:16
+2 DATE 10 SEP 2025
+3 TIME 21:34:10
 0 @I0210@ INDI
 1 NAME Maria /Palmadori/
 2 TYPE aka
@@ -6296,12 +6326,14 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 1 DEAT
 2 DATE 2 MAR 1917
 2 PLAC Ficareto, Todi, Umbria
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0141@
 3 DATA
 4 DATE 1917
@@ -7898,6 +7930,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0158@
 3 DATA
 4 DATE 1899
@@ -8603,6 +8636,8 @@
 3 PAGE Camilluzzi
 3 DATA
 4 DATE 2025
+2 SOUR @S0110@
+3 PAGE 123
 1 DEAT
 2 DATE 30 MAR 1915
 2 PLAC Farnetta, Montecastrilli, Umbria
@@ -9173,6 +9208,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0132@
 3 DATA
 4 DATE 1927
@@ -9610,6 +9646,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0151@
 3 DATA
 4 DATE 1910
@@ -10017,6 +10054,7 @@
 3 MAP
 4 LATI N42.8102
 4 LONG E12.4904
+3 NOTE @n_pop1836@
 2 SOUR @S0162@
 3 DATA
 4 DATE 1905
@@ -12967,16 +13005,18 @@
 3 TIME 09:13:45
 0 @S0124@ SOUR
 1 TITL Atto di nascita di Armando Ortenzi (1907)
+1 OBJE @O0303@
 1 NOTE @N0011@
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 12:30:13
+2 DATE 10 SEP 2025
+3 TIME 18:12:40
 0 @S0125@ SOUR
 1 TITL Atto di nascita di Pierina Ortenzi (1909)
+1 OBJE @O0304@
 1 NOTE @N0014@
 1 CHAN
-2 DATE 20 MAR 2025
-3 TIME 12:35:21
+2 DATE 10 SEP 2025
+3 TIME 18:13:45
 0 @S0126@ SOUR
 1 TITL Atto di nascita di Giuseppa Ortenzi (1911)
 1 NOTE @N0020@
@@ -13453,6 +13493,14 @@
 1 CHAN
 2 DATE 3 SEP 2025
 3 TIME 10:29:47
+0 @S0205@ SOUR
+1 TITL Ruolo matricolare di Giulio Camilluzzi
+1 OBJE @O0305@
+1 OBJE @O0306@
+1 NOTE @N0257@
+1 CHAN
+2 DATE 11 SEP 2025
+3 TIME 14:03:07
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @R0001@ REPO
@@ -14042,7 +14090,6 @@
 1 CONC lore&groupId=M9H7-F4G&lang=it
 0 @N0216@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QDK-P?view=e
 1 CONC xplore&groupId=M9ZM-FCT&lang=it
-0 @N0217@ NOTE Riportata come celibe nell'atto di morte del figlio del 1904.
 0 @N0218@ NOTE Data di nascita stimata sulla base di una fonte:
 1 CONT - Età 33 al 3 aprile 1889 → data di nascita 4 aprile 1855 – 3 aprile 185
 1 CONC 6
@@ -14187,31 +14234,53 @@
 1 CONC a Michelini nello stato delle anime di quell'anno.
 0 @N0250@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89WR-4DFR?view=explore
 1 CONC &groupId=M98F-LC8&lang=en
-0 @N0252@ NOTE Popolazione al 1836:
-1 CONT 
-1 CONT - Delegazione di Rieti
-1 CONT -- Magliano 1387
-1 CONT 
-1 CONT - Delegazione di Perugia
-1 CONT -- Chioano 210
-1 CONT -- Monticello 165
-1 CONT -- Ficareto 126
-1 CONT -- Pesciano 222
-1 CONT -- Cerqueto 683
-1 CONT -- Papiano 807
-1 CONT -- Collazzone 495
-1 CONT 
-1 CONT - Delegazione di Spoleto
-1 CONT -- Portaria 390
-1 CONT -- Monte Castrill 912
-1 CONT -- Farneta 232
-1 CONT -- Gualdo Cattaneo 562
-1 CONT -- Rosaro 222
-1 CONT 
-1 CONT Fonte: Indice alfabetico di tutti i luoghi dello stato pontificio (1836)
 0 @N0253@ NOTE https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPa
 1 CONC g=prodente&Chiave=41297
-0 @N0255@ NOTE Soldato di leva classe 1918 Distretto 
+0 @N0255@ NOTE Matricola n. 2343 Ortenzi Francesco Residenza all'atto dell'arruola
+1 CONC mento Massa Martana (Castel Rinaldi) del Distretto di Perugia (35) Uff
+1 CONC . Post. Viepri
+1 CONT 
+1 CONT Figlio di Luigi
+1 CONT e di Martinelli Ester
+1 CONT di religione cattolica
+1 CONT nato il 14 febbraio 1918
+1 CONT a Massa Martana
+1 CONT Provincia di Perugia
+1 CONT Statura m. 1,62½ Torace m. 0.84
+1 CONT Capelli: colore castano forma liscia
+1 CONT Viso ovale
+1 CONT Naso lungo
+1 CONT Mento regolare
+1 CONT Occhi grigi
+1 CONT Sopracciglia castane
+1 CONT Fronte regolare
+1 CONT Colorito roseo
+1 CONT Bocca regolare
+1 CONT Dentatura sana
+1 CONT Segni particolari ___
+1 CONT Arte o professione falegname
+1 CONT Sa leggere si scrivere si
+1 CONT Titoli di studio
+1 CONT 4° elementare
+1 CONT Cognizioni extra professionali
+1 CONT 
+1 CONT Iscritto di leva nel Comune di Massa Martana
+1 CONT Provincia di Perugia
+1 CONT Ammogliato con ___
+1 CONT il ___
+1 CONT con autorizzazione ___
+1 CONT Rimasto vedovo il ___
+1 CONT 
+1 CONT Residenza eletta all'atto dell'invio in congedo e successivi cambiamenti
+1 CONT Massa Martana
+1 CONT Castel Ritaldi
+1 CONT 
+1 CONT Distinzioni e servizi speciali
+1 CONT Appartiene al gruppo sanguigno 1.00
+1 CONT portaferiti
+1 CONT 
+1 CONT 
+1 CONT Soldato di leva classe 1918 Distretto 
 1 CONT Perugia
 1 CONT lasciato in congedo illimitato li 23 aprile 1938
 1 CONT Chiamato alle armi e giunto li 3 aprile 1939
@@ -14268,6 +14337,83 @@
 1 CONT sottufficiali e truppa
 1 CONT (Giuseppe Italiani)
 1 CONT  
+0 @N0256@ NOTE Se l'anno di nascita è corretto, avrebbe avuto un figlio a 48 anni.
+0 @N0257@ NOTE 22667 bis Camilluzzi Giulio 1889
+1 CONT 
+1 CONT Figlio di fu Luigi
+1 CONT e di Manni Adelaide
+1 CONT nato il 31-3-1889
+1 CONT a Montecastrilli
+1 CONT Circondario di Terni
+1 CONT Statura m. 1,54 Torace m. 0,82
+1 CONT Capelli: colore castani forma liscia
+1 CONT Naso ____
+1 CONT Mento ____
+1 CONT Occhi castani
+1 CONT Colorito bruno
+1 CONT Dentatura guasta
+1 CONT Segni particolari
+1 CONT Arte o professione contadino
+1 CONT Se sa leggere no scrivere no
+1 CONT Ha estratto il N. ____ nella leva 1889
+1 CONT quale iscritto nel Comune di 
+1 CONT Montecastrilli
+1 CONT Mandamento di 
+1 CONT Circondario di Terni
+1 CONT Ammogliato con ____
+1 CONT con autorizzazione ____
+1 CONT Rimasto vedovo li ____
+1 CONT Domicilio eletto all'atto dell'invio in congedo
+1 CONT e successivi cambiamenti
+1 CONT Todi (Perugia) [sovrascrive qualcosa]
+1 CONT [anche sotto due parole cancellate, la seconda forse (Farnetta), la prim
+1 CONC a illegibile]
+1 CONT Distinzioni e servizi speciali
+1 CONT (Specchio C del foglio matricolare)
+1 CONT fuciliere
+1 CONT 
+1 CONT Soldato di leva 1° categoria classe 1889 Distretto mili-
+1 CONT tare di Spoleto già riformato e rivisitato a senso del
+1 CONT decreto luogotenenziale 16 gennaio 1916 e lasciato in
+1 CONT congedo illimitato. li 13 marzo 1916
+1 CONT Chiamato alle armi per mobilitazione (R.D. 22 maggio 
+1 CONT 1915 N. 370 G.M.E. N. 245 del 1916 e giunto. li 4 maggio 1916
+1 CONT Tale nell'88° reggimento fanteria. li 9 maggio 1916
+1 CONT Tale nel 97° reggimento fanteria. li 24 agosto 1916
+1 CONT Giunto in territorio dichiarato in stato di guerra. li 24 agosto 1916
+1 CONT Tale prigioniero di guerra nel fatto d'armi [...] li 24 ottobre 917
+1 CONT Liberato dalla prigionia in [seguito?] all'armistizio e
+1 CONT [rientrato in Italia?] il 14 [marzo?] 919
+1 CONT Tale nel 88° reggimento fanteria li 14 " 919
+1 CONT Inviato in licenza illimitata (circ 363 GM 1919 li 13 luglio 919
+1 CONT Trasferito al Distretto militare di [Orvieto] per effetto del R. Decreto
+1 CONT N. 007 del 18 maggio 1920
+1 CONT Mandato in congedo illimitato a mente della circolare 424
+1 CONT G.M. 1919 [1919 sovrascrive 1923] 16 agosto 919
+1 CONT Concessa dichiarazione di aver tenuto buona condotta e di aver
+1 CONT servito con [fedeltà?] ed onore.
+1 CONT Tale nel Distretto Militare di Spoleto [sovrascrive 'Orvieto']
+1 CONT Verificato il 23.8.1924
+1 CONT Collocato in congedo assoluto Circ. n. 760 G.M. 1928 II 31 dicembre 928
+1 CONT Ripristinato nella posizione di congedo illimitato per effetto
+1 CONT della legge 27-6-1929 N, 1144 circ. 415 del G.M. 1929. 8 agosto 929
+1 CONT Tale inscritto nel ruolo 71B della forza [...]
+1 CONT congedo arma fanteria del Distretto
+1 CONT Militare di Orvieto
+1 CONT Verificato 8 novembre 1929 VIII A3 
+1 CONT Il maggiore
+1 CONT 2° Sez [..mento] e Mobili[...]
+1 CONT (Armando Leone)
+1 CONT Tale inscritto nel ruolo 71B della forza in congedo
+1 CONT Fanteria del DIstretto militare di Perugia li 3 9 930
+1 CONT Tale inscritto nel ruolo 115 (71-B) della forza in con-
+1 CONT gedo arma fanteria divisionale del
+1 CONT Distretto militare di Orvieto li 10 giugno 1938
+1 CONT 
+1 CONT Campagne, azioni di merito
+1 CONT Campagna di guerra
+1 CONT 1916-1917
+1 CONT 
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -14307,6 +14453,254 @@
 1 CONC clesiastico (1816)
 0 @N_stima_eta@ NOTE Calcolando un minimo di 14 anni alla nascita del primo figlio/a e
 1 CONC d un massimo di 44 alla nascita dell'ultimo figlio/a.
+0 @home@ NOTE Le mie ricerche genealogiche
+1 CONT 
+1 CONT Le ricerche che ho condotto negli ultimi mesi hanno permesso di metter
+1 CONC e insieme diversi quadri genealogici che affondano le radici nel territo
+1 CONC rio di Todi e dei paesi circostanti. Ho ricostruito quattro storie famil
+1 CONC iari distinte, ciascuna con una propria traiettoria e caratteristiche di
+1 CONC verse. Alcune sono ben documentate e con radici solide, altre rimangon
+1 CONC o più frammentarie, lasciando aperti molti interrogativi.
+1 CONT 
+1 CONT ---
+1 CONT 
+1 CONT Ortenzi
+1 CONT 
+1 CONT Fra le storie meglio documentate c’è quella che porta a Ficareto, una pi
+1 CONC ccola località del territorio tuderte. La presenza della famiglia Ortenz
+1 CONC i è attestata almeno dal XVII secolo, quando vi si risiedeva Giovanni, n
+1 CONC ato nel 1682, considerato il capostipite in quanto primo antenato di cu
+1 CONC i abbiamo notizia. La famiglia probabilmente discendeva da pastori e pic
+1 CONC coli contadini che da secoli abitavano il contado di Todi.
+1 CONT 
+1 CONT Qualche generazione più tardi emerge la figura di Filippo, morto nel 181
+1 CONC 6, bisnipote di Giovanni. Egli era un pastore, e rappresenta il primo an
+1 CONC tenato di cui si conosciamo qualcosa al di là del solo nome. Suo figli
+1 CONC o Francesco (1772-1832) viveva su un podere di proprietà di Angelo Berti
+1 CONC , forse lo stesso che proprio in quegli anni, durante l’occupazione fran
+1 CONC cese, si affermava come una figura di rilievo nella politica locale tude
+1 CONC rte.
+1 CONT 
+1 CONT Il destino della famiglia cambia con un altro Filippo, figlio di Frances
+1 CONC co, che nel 1875 muore con il titolo di possidente, segno di un migliora
+1 CONC mento della condizione economica e sociale rispetto ai suoi predecessori
+1 CONC . Il passaggio da pastore a possidente in meno di un secolo lascia spazi
+1 CONC o a congetture: ereditarietà per via laterale? Acquisto di terreni grazi
+1 CONC e a un’occasione (es. vendite post-napoleoniche)? Oppure un matrimonio v
+1 CONC antaggioso che abbia portato beni nella famiglia?
+1 CONT 
+1 CONT Tuttavia, questa ascesa non sembra avere avuto effetti durevoli. I figl
+1 CONC i restano legati al territorio di Ficareto per tutto il XIX secolo e sol
+1 CONC o all’inizio del Novecento uno di loro, Francesco, si trasferisce a Cast
+1 CONC elrinaldi, poco distante. Lì il suo status non appare diverso da quell
+1 CONC o dei tanti contadini della zona: nei documenti viene infatti definito s
+1 CONC emplicemente campagnolo. La famiglia aveva dunque perso parte del patrim
+1 CONC onio accumulato, forse a causa di divisioni ereditarie o crisi agricole.
+1 CONT 
+1 CONT Tra il 1901 e il 1904 tutti i figli di Francesco, cioè Federico, Pietro
+1 CONC , Luigi e Alfredo, risultano trasferiti a Castelrinaldi. Qui si stabilis
+1 CONC cono in una serie di case che diventano punti di riferimento per le gene
+1 CONC razioni successive. La prima abitazione nota è la casa n. 55, dove nel 1
+1 CONC 908 muore lo stesso Francesco e, nello stesso periodo, nasce Pierina, pr
+1 CONC imogenita femmina di Federico.
+1 CONT 
+1 CONT Un dettaglio interessante riguarda il livello di istruzione: dei quattr
+1 CONC o fratelli, soltanto il più giovane, Alfredo, sapeva leggere e scrivere
+1 CONC . Gli altri – Federico, Pietro e Luigi – erano analfabeti, cosa che all’
+1 CONC inizio del XX secolo era ormai insolita, poiché l’alfabetizzazione masch
+1 CONC ile era diventata comune anche nelle campagne umbre.
+1 CONT 
+1 CONT La convivenza familiare a Castelrinaldi non è inconsueta per l’epoca. Fi
+1 CONC no al 1918, Federico e Luigi abitavano insieme alla madre Petronilla nel
+1 CONC la casa n. 86. Dopo quella data, Luigi si trasferì nella casa n. 49 insi
+1 CONC eme al fratello Alfredo, mentre Federico continuò a vivere al n. 86 co
+1 CONC n Petronilla. Non si può escludere che, almeno fino a quel momento, tutt
+1 CONC i i fratelli abbiano convissuto nella stessa abitazione, poiché i certif
+1 CONC icati di nascita dei figli di Pietro non riportano alcun numero civic
+1 CONC o e Alfredo era ancora celibe.
+1 CONT 
+1 CONT Questa organizzazione domestica, con nuclei familiari che si intrecciava
+1 CONC no sotto lo stesso tetto, non era affatto rara: garantiva solidarietà in
+1 CONC terna e condivisione di risorse. E, nonostante l’analfabetismo diffuso t
+1 CONC ra i fratelli maggiori, alcune testimonianze orali fanno pensare che l
+1 CONC a famiglia non vivesse in condizioni di particolare miseria. La loro vit
+1 CONC a, seppur modesta, appare dunque segnata più da consuetudini tradizional
+1 CONC i che da vera indigenza.
+1 CONT 
+1 CONT Delle generazioni successive conosciamo almeno dieci nipoti maschi di Fr
+1 CONC ancesco che raggiunsero l’età adulta. Le loro vicende restituiscono un q
+1 CONC uadro variegato: tre morirono durante la Seconda guerra mondiale, tre ri
+1 CONC masero nella zona e vi si spensero in età avanzata, uno emigrò a Milano
+1 CONC , mentre degli altri tre non si hanno notizie precise. Questa distribuzi
+1 CONC one riflette bene sia la forte permanenza locale della famiglia, sia l
+1 CONC e spinte di mobilità e le difficoltà tipiche del Novecento.
+1 CONT 
+1 CONT Oggi Ficareto non compare più come entità distinta nelle classificazion
+1 CONC i dell’ISTAT – già nell’Ottocento aveva appena 126 abitanti – ma i paes
+1 CONC i vicini, Monticello e Castelrinaldi, hanno continuato a conservare un
+1 CONC a presenza consistente della famiglia fino al XX secolo e forse oltre.
+1 CONT 
+1 CONT ---
+1 CONT 
+1 CONT Trovarelli
+1 CONT 
+1 CONT Molto più scarna è la documentazione che riguarda la famiglia Trovarelli
+1 CONC , originaria di Gualdo Cattaneo. Il primo nome che incontriamo è quell
+1 CONC o di Pacifico, nato nella prima metà dell’Ottocento. Di lui sappiamo sol
+1 CONC tanto il luogo del decesso, che coincide appunto con Gualdo Cattaneo, m
+1 CONC a nessun’altra informazione sulla sua vita è pervenuta.
+1 CONT 
+1 CONT Un tassello in più emerge con suo figlio Giuseppe. La sua vicenda famili
+1 CONC are è particolare: nato nel 1863, solo a quarantun anni, dopo aver già a
+1 CONC vuto cinque figli, decide di sposarsi a Collazzone. Un comportamento dec
+1 CONC isamente insolito per l’epoca, che resta senza spiegazione. L’attesa fin
+1 CONC o ai quarantun anni potrebbe riflettere un’unione inizialmente non bened
+1 CONC etta dalla Chiesa – forse un concubinato – il che spiegherebbe perch
+1 CONC é i primi figli fossero nati molti anni prima delle nozze.
+1 CONT 
+1 CONT Giuseppe, pur appartenendo a una classe sociale modesta – nei document
+1 CONC i è registrato come colono – risulta essere alfabetizzato, un fatto ch
+1 CONC e a quel tempo era ancora abbastanza raro per chi lavorava la terra. No
+1 CONC n si può escludere che questo indicasse una particolare apertura cultura
+1 CONC le del territorio, magari favorita dalla vicinanza a scuole parrocchiali
+1 CONC .
+1 CONT 
+1 CONT Purtroppo, oltre a queste notizie, non restano altre tracce significativ
+1 CONC e su questa linea, che resta fra le più enigmatiche.
+1 CONT 
+1 CONT ---
+1 CONT 
+1 CONT Camilluzzi
+1 CONT 
+1 CONT Diversa è invece la storia che fa capo a Fedele, nato alla fine del XVII
+1 CONC I secolo. A differenza di altre famiglie ricostruite, questa presenta un
+1 CONC a notevole mobilità. Alla sua morte Fedele risulta residente a Todi, m
+1 CONC a uno dei suoi figli nasce nel 1823 a Magliano Sabina, una località che
+1 CONC , per gli standard dell’epoca, si trovava a distanza significativa.
+1 CONT 
+1 CONT È possibile che Fedele non fosse un semplicecontadino stanziale, ma piut
+1 CONC tosto un bracciante stagionale: la mobilità geografica infatti è atipic
+1 CONC a per famiglie puramente agricole del periodo. Nonostante la scarsità de
+1 CONC i documenti, è probabile che la famiglia abbia avuto origini radicate ne
+1 CONC lla zona tuderte, da cui proviene la maggioranza delle poche occorrenz
+1 CONC e del cognome nell’Italia ottocentesca.
+1 CONT 
+1 CONT A metà dell’Ottocento, due figli di Fedele – Angiolo e Giovanni – compai
+1 CONC ono a Farnetta. Non sono presenti nello stato delle anime del 1852, ma t
+1 CONC re anni più tardi la nascita di Bibiana, figlia di Angiolo, testimonia l
+1 CONC a loro presenza stabile nel villaggio.
+1 CONT 
+1 CONT Il ramo di Angiolo rimane a Farnetta per alcuni decenni, fino a che, tr
+1 CONC a la fine dell’Ottocento e l’inizio del Novecento, la famiglia si spost
+1 CONC a di nuovo a Magliano Sabina, nella Contrada Rocchette. È lì che Angiol
+1 CONC o e il figlio Carlo concludono la loro vita. Questo ritorno a Magliano p
+1 CONC otrebbe indicare difficoltà incontrate a Farnetta o, più semplicemente
+1 CONC , il richiamo di legami e opportunità già noti.
+1 CONT 
+1 CONT Il ramo di Giovanni, invece, attraversa vicende più travagliate. Giovann
+1 CONC i muore intorno al 1863, lasciando orfano un figlio ancora piccolo, Luig
+1 CONC i. Anche Luigi muore giovane, e la sua vedova, Adelaide, si risposa co
+1 CONC n un uomo di nome Felice Michelini. Dal nuovo matrimonio nasce una situa
+1 CONC zione divisa: Felice accetta di crescere i due figli più piccoli di Luig
+1 CONC i, Giacomino e Margarita, mentre il maggiore, Giulio, viene mandato a la
+1 CONC vorare come garzone a Narni, probabilmente intorno agli undici anni.
+1 CONT 
+1 CONT Il destino di Giulio lo porta presto lontano. Intorno ai diciotto anni s
+1 CONC i trasferisce in Germania, forse a Colonia. Non è chiaro se il ritorno a
+1 CONC vvenne spontaneamente o come rimpatrio forzato, ma di certo rientra in p
+1 CONC atria in tempo per essere arruolato nella Prima guerra mondiale. La trad
+1 CONC izione orale familiare lo ricorda presente alla battaglia di Caporetto
+1 CONC , evento cruciale e drammatico del conflitto.
+1 CONT 
+1 CONT Terminato il conflitto, Giulio si sposò. La sua condizione economica er
+1 CONC a così fragile che al momento del suo matrimonio gli venne concessa l’es
+1 CONC enzione dal pagamento dei diritti di bollo, privilegio concesso solo a c
+1 CONC hi versava in condizioni di vera indigenza.
+1 CONT 
+1 CONT Giulio non rimase a lungo in Italia. Poco dopo partì per l’Argentina, an
+1 CONC che se non conosciamo con precisione la località in cui si stabilì. La s
+1 CONC ua presenza torna a emergere nei registri del 1929: a Campana, in Argent
+1 CONC ina, quando figura registrato come oiler (addetto alla lubrificazione de
+1 CONC i macchinari di bordo) sulla motonave Leda. È probabile che quel lavor
+1 CONC o servisse a pagarsi il passaggio di ritorno verso l’Europa. Durante un
+1 CONC a tappa a New York non gli fu concesso lo sbarco, poiché le autorità ame
+1 CONC ricane sospettavano che potesse fermarsi clandestinamente.
+1 CONT 
+1 CONT Negli anni Trenta, Giulio risulta nuovamente in Umbria: acquistò infatt
+1 CONC i un piccolo terreno nei pressi di Portaria, ponendo fine, almeno in par
+1 CONC te, a una vita segnata da mobilità e precarietà. La sua vicenda personal
+1 CONC e riassume bene la fragilità di questa famiglia, in cui la morte precoc
+1 CONC e dei padri, la povertà e la necessità di emigrare hanno plasmato un per
+1 CONC corso irregolare, cosî diverso da quello delle famiglie rimaste radicat
+1 CONC e in un solo villaggio.
+1 CONT 
+1 CONT ---
+1 CONT 
+1 CONT Caproni
+1 CONT 
+1 CONT Un altro percorso genealogico prende avvio da Domenico, nato agli iniz
+1 CONC i dell’Ottocento. Di lui non abbiamo prove certe sulla provenienza, m
+1 CONC a i suoi discendenti risultano stabilmente a Portaria per tutto il XI
+1 CONC X e buona parte del XX secolo.
+1 CONT 
+1 CONT Curiosamente, negli archivi del paese non vi è traccia di altri rami col
+1 CONC laterali: l’unico è quello del figlio Tommaso. Questo fa pensare che l
+1 CONC a famiglia non fosse originaria del luogo e che Tommaso vi si fosse tras
+1 CONC ferito, lasciando così come eredità la sua discendenza diretta. Portari
+1 CONC a è infatti un centro piuttosto piccolo, e se Tommaso non vi era nato, u
+1 CONC na possibilità è che provenisse da un paese più importante e vicino, com
+1 CONC e Acquasparta. Lì il cognome Caproni, seppur raro, è sopravvissuto fin
+1 CONC o a oggi, e ciò rende plausibile l’ipotesi di un trapianto genealogico n
+1 CONC on radicatosi se non attraverso i suoi discendenti diretti a Portaria.
+1 CONT 
+1 CONT Tommaso viene variamente descritto come campagnolo, contadino o agricolt
+1 CONC ore. Non sappiamo se questi termini indichino cambiamenti effettivi di c
+1 CONC ondizione o se fossero usati come sinonimi. Un segnale interessante emer
+1 CONC ge però con la generazione successiva: Giuseppe, uno dei figli di Tommas
+1 CONC o, nato verso la fine degli anni ’50 dell’Ottocento, risulta alfabetizza
+1 CONC to. Questo fatto si inserisce in un contesto in cui a Portaria il livell
+1 CONC o di istruzione era leggermente più alto rispetto ad altri villaggi dell
+1 CONC a zona, grazie forse alla presenza di parroci che trasmettevano le prim
+1 CONC e nozioni di lettura e scrittura, o alle scuole elementari rurali nate n
+1 CONC ell’età post-unitaria.
+1 CONT 
+1 CONT Questa capacità di leggere e scrivere segna una piccola ma significativ
+1 CONC a distinzione all’interno della famiglia, anche se la loro vita rimane s
+1 CONC aldamente legata al lavoro agricolo e al territorio di Portaria.
+1 CONT 
+1 CONT ---
+1 CONT 
+1 CONT Queste quattro linee, pur con le loro differenze, raccontano in controlu
+1 CONC ce la storia sociale dell’Umbria rurale fra XVII e XIX secolo. Ci sono f
+1 CONC amiglie rimaste per generazioni nello stesso villaggio, altre che hann
+1 CONC o migliorato il loro status solo temporaneamente, altre ancora che si so
+1 CONC no spostate spesso, lasciando tracce discontinue.
+1 CONT 
+1 CONT Ricostruire queste vicende significa non solo recuperare nomi e date, m
+1 CONC a anche dare voce a un mondo di piccoli centri.
+1 CONT 
+0 @n_pop1836@ NOTE Popolazione al 1836:
+1 CONT 
+1 CONT - Delegazione di Rieti
+1 CONT -- Magliano 1387
+1 CONT 
+1 CONT - Delegazione di Perugia
+1 CONT -- Chioano 210
+1 CONT -- Monticello 165
+1 CONT -- Ficareto 126
+1 CONT -- Pesciano 222
+1 CONT -- Cerqueto 683
+1 CONT -- Papiano 807
+1 CONT -- Collazzone 495
+1 CONT 
+1 CONT - Delegazione di Spoleto
+1 CONT -- Portaria 390
+1 CONT -- Monte Castrill 912
+1 CONT -- Farneta 232
+1 CONT -- Gualdo Cattaneo 562
+1 CONT -- Rosaro 222
+1 CONT 
+1 CONT Fonte: Indice alfabetico di tutti i luoghi dello stato pontificio (1836)
 0 @O0000@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Elvira_Petrucci_1987.jpg
 2 FORM jpg
@@ -16480,4 +16874,32 @@
 1 CHAN
 2 DATE 3 SEP 2025
 3 TIME 10:26:57
+0 @O0303@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Armando_Ortenzi_1907.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Armando_Ortenzi_1907
+1 CHAN
+2 DATE 10 SEP 2025
+3 TIME 18:12:30
+0 @O0304@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Pierina_Ortenzi_1909.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Pierina_Ortenzi_1909
+1 CHAN
+2 DATE 10 SEP 2025
+3 TIME 18:13:44
+0 @O0305@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Ruolo_matricolare_Giulio_Camilluzzi_a.jpg
+2 FORM jpg
+2 TITL Ruolo_matricolare_Giulio_Camilluzzi_a
+1 CHAN
+2 DATE 11 SEP 2025
+3 TIME 14:02:10
+0 @O0306@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Ruolo_matricolare_Giulio_Camilluzzi_b.jpg
+2 FORM jpg
+2 TITL Ruolo_matricolare_Giulio_Camilluzzi_b
+1 CHAN
+2 DATE 11 SEP 2025
+3 TIME 14:02:19
 0 TRLR

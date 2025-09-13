@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.4--1
 2 NAME Gramps
-1 DATE 11 SEP 2025
-2 TIME 14:10:34
+1 DATE 12 SEP 2025
+2 TIME 17:23:39
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -1187,6 +1187,7 @@
 4 LATI N51.0
 4 LONG E9.0
 1 _MILT
+2 TYPE 97° reggimento fanteria
 2 DATE FROM 4 MAY 1916 TO 13 JUL 1919
 2 SOUR @S0205@
 1 RESI
@@ -1338,8 +1339,8 @@
 2 FILE https://www.familysearch.org/tree/person/GYPB-NV4
 1 NOTE @N0048@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 11:05:03
+2 DATE 12 SEP 2025
+3 TIME 17:19:42
 0 @I0029@ INDI
 1 NAME Luigi /Camilluzzi/
 2 TYPE birth
@@ -4044,16 +4045,15 @@
 2 SURN Battistoni
 1 SEX F
 1 BIRT
-2 DATE 1872
-2 PLAC Todi, Umbria
+2 DATE 18 JUN 1872
+2 PLAC Pesciano, Todi, Umbria
 3 MAP
-4 LATI N42.778889
-4 LONG E12.414167
-3 NOTE @N0061@
-3 NOTE @N_pop1816@
-2 SOUR @S0011@
+4 LATI N42.6962
+4 LONG E12.4284
+3 NOTE @n_pop1836@
+2 SOUR @S0206@
 3 DATA
-4 DATE 1910
+4 DATE 1872
 1 DEAT
 2 DATE 12 NOV 1910
 2 PLAC Pesciano, Todi, Umbria
@@ -4092,26 +4092,53 @@
 2 GIVN Ponziano
 2 SURN Battistoni
 1 SEX M
+1 BIRT
+2 DATE 1833
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
 1 DEAT
 2 DATE BEF 1906
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
+1 RESI
+2 DATE 1872
+2 PLAC Pesciano, Todi, Umbria
+3 MAP
+4 LATI N42.6962
+4 LONG E12.4284
+3 NOTE @n_pop1836@
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
+1 FACT campagnolo
+2 TYPE Occupation
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
 1 FAMS @F0049@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-5HN
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 SEP 2025
+3 TIME 16:27:42
 0 @I0150@ INDI
 1 NAME Dorotea /Pacifici/
 2 TYPE birth
 2 GIVN Dorotea
 2 SURN Pacifici
+1 NAME Dorotea /Frasconi/
+2 TYPE birth
+2 GIVN Dorotea
+2 SURN Frasconi
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
 1 SEX F
 1 BIRT
-2 DATE 1830
+2 DATE BET 1830 AND 1837
 2 PLAC Montecastrilli, Umbria
 3 MAP
 4 LATI N42.6511
@@ -4121,6 +4148,9 @@
 2 SOUR @S0012@
 3 DATA
 4 DATE 1906
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
 1 DEAT
 2 DATE 4 APR 1906
 2 PLAC Pesciano, Todi, Umbria
@@ -4143,8 +4173,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-RDQ
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 SEP 2025
+3 TIME 16:44:40
 0 @I0151@ INDI
 1 NAME Augusto /Battistoni/
 2 TYPE birth
@@ -5456,7 +5486,7 @@
 2 GIVN Domitilla
 1 SEX F
 1 BIRT
-2 DATE BET 1786 AND 1816
+2 DATE BET 1786 AND 1823
 2 NOTE @N_stima_eta@
 1 DEAT
 2 DATE BEF 1906
@@ -11215,10 +11245,21 @@
 0 @F0048@ FAM
 1 HUSB @I0147@
 1 WIFE @I0148@
+1 MARR
+2 DATE 28 APR 1898
+2 PLAC Todi, Umbria
+3 MAP
+4 LATI N42.778889
+4 LONG E12.414167
+3 NOTE @N0061@
+3 NOTE @N_pop1816@
+2 SOUR @S0206@
+3 DATA
+4 DATE 1872
 1 CHIL @I0028@
 1 CHAN
-2 DATE 7 NOV 2024
-3 TIME 15:23:59
+2 DATE 12 SEP 2025
+3 TIME 17:19:42
 0 @F0049@ FAM
 1 HUSB @I0149@
 1 WIFE @I0150@
@@ -12881,15 +12922,15 @@
 1 OBJE @O0272@
 1 REPO @R0000@
 1 CHAN
-2 DATE 17 FEB 2025
-3 TIME 13:47:54
+2 DATE 12 SEP 2025
+3 TIME 16:50:40
 0 @S0106@ SOUR
 1 TITL Liste di leva - Eugenio Petrucci
 1 OBJE @O0273@
 1 REPO @R0000@
 1 CHAN
-2 DATE 17 FEB 2025
-3 TIME 14:01:28
+2 DATE 12 SEP 2025
+3 TIME 16:50:54
 0 @S0107@ SOUR
 1 TITL Libretto personale di Francesco Ortenzi
 1 OBJE @O0256@
@@ -13336,9 +13377,10 @@
 0 @S0178@ SOUR
 1 TITL Atto di nascita di Ester Martinelli (1893)
 1 OBJE @O0263@
+1 REPO @R0006@
 1 CHAN
-2 DATE 20 AUG 2025
-3 TIME 11:01:33
+2 DATE 12 SEP 2025
+3 TIME 17:13:14
 0 @S0179@ SOUR
 1 TITL Atto di matrimonio di Natale Coletti e Stella Bajocco (1901)
 1 OBJE @O0290@
@@ -13470,9 +13512,10 @@
 0 @S0201@ SOUR
 1 TITL Atto di morte di Agostino Vaccarini (1951)
 1 OBJE @O0299@
+1 REPO @R0005@
 1 CHAN
-2 DATE 28 AUG 2025
-3 TIME 11:05:28
+2 DATE 12 SEP 2025
+3 TIME 17:11:21
 0 @S0202@ SOUR
 1 TITL Atto di matrimonio di Francesco Ortenzi e Candida Perni (1912)
 1 NOTE @N0250@
@@ -13482,29 +13525,49 @@
 0 @S0203@ SOUR
 1 TITL Atto di morte di Ester Martinelli (1968)
 1 OBJE @O0300@
+1 REPO @R0004@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 10:48:35
+2 DATE 12 SEP 2025
+3 TIME 16:54:53
 0 @S0204@ SOUR
 1 TITL Ruolo matricolare di Francesco Ortenzi
 1 OBJE @O0301@
 1 OBJE @O0302@
 1 REPO @R0001@
 1 CHAN
-2 DATE 3 SEP 2025
-3 TIME 10:29:47
+2 DATE 12 SEP 2025
+3 TIME 16:50:06
 0 @S0205@ SOUR
 1 TITL Ruolo matricolare di Giulio Camilluzzi
 1 OBJE @O0305@
 1 OBJE @O0306@
+1 REPO @R0002@
 1 NOTE @N0257@
 1 CHAN
-2 DATE 11 SEP 2025
-3 TIME 14:03:07
+2 DATE 12 SEP 2025
+3 TIME 16:49:44
+0 @S0206@ SOUR
+1 TITL Atto di nascita di Giulia Battistoni (1872)
+1 OBJE @O0307@
+1 REPO @R0003@
+1 CHAN
+2 DATE 12 SEP 2025
+3 TIME 16:49:24
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @R0001@ REPO
 1 NAME Archivio di Stato di Perugia
+0 @R0002@ REPO
+1 NAME Archivio di Stato di Viterbo
+0 @R0003@ REPO
+1 NAME Archivio Storico del Comune di Todi
+0 @R0004@ REPO
+1 NAME Comune di San Gemini – Area Demografica e Affari Generali
+0 @R0005@ REPO
+1 NAME Comune di Acquasparta – Ufficio anagrafe – elettorale – stato civile – l
+2 CONC eva
+0 @R0006@ REPO
+1 NAME Comune di Todi - Ufficio di Stato Civile-Statistica
 0 @N0000@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-89W5-BR4F?cat=835978&i
 1 CONC =697&lang=en
 0 @N0001@ NOTE https://familysearch.org/ark:/61903/3:1:3QS7-99W5-BRX2?cat=835978&i
@@ -14337,7 +14400,14 @@
 1 CONT sottufficiali e truppa
 1 CONT (Giuseppe Italiani)
 1 CONT  
-0 @N0256@ NOTE Se l'anno di nascita è corretto, avrebbe avuto un figlio a 48 anni.
+0 @N0256@ NOTE Data di nascita stimata sulla base di fonti con età contrastanti:
+1 CONT 
+1 CONT Età 35 al 18 giugno 1872 → data di nascita 19 giugno 1836 – 18 giugno 18
+1 CONC 37
+1 CONT Età 76 al 4 aprile 1906 → data di nascita 5 aprile 1829 – 4 aprile 1830
+1 CONT 
+1 CONT Se l'anno di nascita dell'atto di morte fosse corretto, avrebbe avuto u
+1 CONC n figlio a 48 anni.
 0 @N0257@ NOTE 22667 bis Camilluzzi Giulio 1889
 1 CONT 
 1 CONT Figlio di fu Luigi
@@ -14365,7 +14435,7 @@
 1 CONT Rimasto vedovo li ____
 1 CONT Domicilio eletto all'atto dell'invio in congedo
 1 CONT e successivi cambiamenti
-1 CONT Todi (Perugia) [sovrascrive qualcosa]
+1 CONT Todi (Perugia) [sovrascrive qualcosa, forse Montecastrilli]
 1 CONT [anche sotto due parole cancellate, la seconda forse (Farnetta), la prim
 1 CONC a illegibile]
 1 CONT Distinzioni e servizi speciali
@@ -14387,7 +14457,7 @@
 1 CONT Tale nel 88° reggimento fanteria li 14 " 919
 1 CONT Inviato in licenza illimitata (circ 363 GM 1919 li 13 luglio 919
 1 CONT Trasferito al Distretto militare di [Orvieto] per effetto del R. Decreto
-1 CONT N. 007 del 18 maggio 1920
+1 CONT N. 607 del 13 maggio 1920
 1 CONT Mandato in congedo illimitato a mente della circolare 424
 1 CONT G.M. 1919 [1919 sovrascrive 1923] 16 agosto 919
 1 CONT Concessa dichiarazione di aver tenuto buona condotta e di aver
@@ -16902,4 +16972,11 @@
 1 CHAN
 2 DATE 11 SEP 2025
 3 TIME 14:02:19
+0 @O0307@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Giulia_Battistoni_1872.jpg
+2 FORM jpg
+2 TITL Atto_nascita_Giulia_Battistoni_1872
+1 CHAN
+2 DATE 12 SEP 2025
+3 TIME 16:24:10
 0 TRLR

@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.4--1
 2 NAME Gramps
-1 DATE 12 SEP 2025
-2 TIME 17:23:39
+1 DATE 19 SEP 2025
+2 TIME 02:32:28
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -650,12 +650,13 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0124@
+1 OBJE @O0308@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G9B8-QX4
 1 CHAN
-2 DATE 10 SEP 2025
-3 TIME 18:34:38
+2 DATE 12 SEP 2025
+3 TIME 20:07:20
 0 @I0016@ INDI
 1 NAME Vittorio /Trovarelli/
 2 TYPE birth
@@ -1190,12 +1191,28 @@
 2 TYPE 97° reggimento fanteria
 2 DATE FROM 4 MAY 1916 TO 13 JUL 1919
 2 SOUR @S0205@
+1 EMIG
+2 TYPE Piroscafo Duca degli Abruzzi
+2 DATE 30 NOV 1923
+2 PLAC Genova, Liguria
+3 MAP
+4 LATI N44.4063
+4 LONG E8.9346
+2 SOUR @S0207@
+3 DATA
+4 DATE 1923
 1 RESI
-2 DATE FROM SEP 1923 TO 1929
+2 DATE FROM 19 DEC 1923 TO 31 JAN 1929
 2 PLAC Argentina
 3 MAP
 4 LATI S34.0
 4 LONG W64.0
+2 SOUR @S0207@
+3 DATA
+4 DATE 1923
+2 SOUR @S0171@
+3 DATA
+4 DATE 1929
 1 OCCU Oiler sulla MS Leda?
 2 DATE BET 31 JAN 1929 AND 10 MAY 1929
 2 SOUR @S0171@
@@ -1246,9 +1263,11 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/GYPB-GNS
 1 NOTE @N0056@
+1 NOTE @N0258@
+1 NOTE @N0262@
 1 CHAN
-2 DATE 11 SEP 2025
-3 TIME 14:05:18
+2 DATE 19 SEP 2025
+3 TIME 02:26:18
 0 @I0028@ INDI
 1 NAME Agostina /Vaccarini/
 2 TYPE birth
@@ -1631,8 +1650,8 @@
 2 DATE ABT 2000
 2 PLAC Casa di Quinto (Gino) Caproni, Portaria, Acquasparta, Umbria
 3 MAP
-4 LATI N42.646964
-4 LONG E12.549854
+4 LATI N42.646901
+4 LONG E12.550509
 2 OBJE @O0242@
 2 OBJE @O0243@
 1 BURI
@@ -12886,12 +12905,10 @@
 0 @S0100@ SOUR
 1 TITL Ruoli matricolari del distretto di Orvieto. Parte I. 1876 -1912
 1 AUTH Archivio di Stato di Viterbo
-1 OBJE @O0253@
-1 OBJE @O0262@
 1 NOTE @N0140@
 1 CHAN
-2 DATE 29 JUL 2025
-3 TIME 15:28:19
+2 DATE 14 SEP 2025
+3 TIME 00:17:15
 0 @S0101@ SOUR
 1 TITL Atto di nascita di Ademo Ortenzi (1915)
 1 OBJE @O0268@
@@ -13553,6 +13570,14 @@
 1 CHAN
 2 DATE 12 SEP 2025
 3 TIME 16:49:24
+0 @S0207@ SOUR
+1 TITL Actas de inspección marítima - Duca Degli Abruzzi
+1 OBJE @O0309@
+1 OBJE @O0310@
+1 OBJE @O0311@
+1 CHAN
+2 DATE 19 SEP 2025
+3 TIME 01:50:33
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @R0001@ REPO
@@ -14125,9 +14150,6 @@
 1 CONC 5027&i=740&lang=en
 0 @N0202@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQG-Z9MP-D?cat=83
 1 CONC 5027&i=65&lang=en
-0 @N0203@ NOTE https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877;3750
-0 @N0204@ NOTE https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:
-1 CONC 1920-05-13;607
 0 @N0205@ NOTE https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSDM-5QDQ-Y?cat=83
 1 CONC 4503&i=1442&lang=en
 0 @N0206@ NOTE Rosaro in Acquasparta sembra più probabile come luogo di nascita d
@@ -14483,6 +14505,22 @@
 1 CONT Campagne, azioni di merito
 1 CONT Campagna di guerra
 1 CONT 1916-1917
+1 CONT 
+0 @N0258@ NOTE Non sapeva leggere né scrivere secondo il ruolo matricolare, ma l
+1 CONC a lista dei membri dell'equipaggio della MS Leda sembra riportare che sa
+1 CONC pesse leggere.
+0 @N0259@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QHK-QQVC-73ZX
+0 @N0260@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QHK-9QVC-SLJC
+0 @N0261@ NOTE https://www.familysearch.org/ark:/61903/3:1:3QHK-QQVC-73ZC
+0 @N0262@ NOTE Il 30 novembre 1923 il piroscafo Duca degli Abruzzi lasciò il port
+1 CONC o di Genova diretto a Buenos Aires. A bordo vi erano 1.271 passeggeri, d
+1 CONC ei quali 1.194 sistemati in terza classe. Tra loro si trovava anche Giul
+1 CONC io Camilluzzi (vedi documenti), parte di quella folla di emigranti che o
+1 CONC ccupava gli alloggi meno costosi della nave. Il comandante era Simone Gu
+1 CONC lì, lo stesso che, quattro anni più tardi, nel 1927, si sarebbe trovat
+1 CONC o al comando della Principessa Mafalda al momento del suo affondamento
+1 CONC . Dopo diciannove giorni di navigazione, il Duca degli Abruzzi giuns
+1 CONC e a Buenos Aires il 19 dicembre 1923.
 1 CONT 
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
@@ -16582,14 +16620,6 @@
 1 CHAN
 2 DATE 28 JUL 2025
 3 TIME 21:16:05
-0 @O0253@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Legge 22 marzo 1877, n. 3750.png
-2 FORM png
-2 TITL Legge 22 marzo 1877, n. 3750
-1 NOTE @N0203@
-1 CHAN
-2 DATE 29 JUL 2025
-3 TIME 15:25:10
 0 @O0254@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Diario_Francesco_Ortenzi_1943_a.jpg
 2 FORM jpg
@@ -16648,14 +16678,6 @@
 1 CHAN
 2 DATE 11 FEB 2025
 3 TIME 18:49:11
-0 @O0262@ OBJE
-1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Regio decreto 13 maggio 1920, n. 607.png
-2 FORM png
-2 TITL Regio decreto 13 maggio 1920, n. 607
-1 NOTE @N0204@
-1 CHAN
-2 DATE 29 JUL 2025
-3 TIME 15:28:12
 0 @O0263@ OBJE
 1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_nascita_Ester_Martinelli_1893.jpg
 2 FORM jpg
@@ -16979,4 +17001,35 @@
 1 CHAN
 2 DATE 12 SEP 2025
 3 TIME 16:24:10
+0 @O0308@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Felice-Alfredo Ortenzi.jpg
+2 FORM jpg
+2 TITL Felice-Alfredo Ortenzi
+1 CHAN
+2 DATE 12 SEP 2025
+3 TIME 20:06:57
+0 @O0309@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_a.jpg
+2 FORM jpg
+2 TITL Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_a
+1 NOTE @N0259@
+1 CHAN
+2 DATE 19 SEP 2025
+3 TIME 01:47:14
+0 @O0310@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_b.jpg
+2 FORM jpg
+2 TITL Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_b
+1 NOTE @N0260@
+1 CHAN
+2 DATE 19 SEP 2025
+3 TIME 01:48:49
+0 @O0311@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_c.jpg
+2 FORM jpg
+2 TITL Actas_de_inspección_marítima_-_Duca_Degli_Abruzzi_c
+1 NOTE @N0261@
+1 CHAN
+2 DATE 19 SEP 2025
+3 TIME 01:50:30
 0 TRLR

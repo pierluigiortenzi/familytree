@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.4--1
 2 NAME Gramps
-1 DATE 19 SEP 2025
-2 TIME 02:32:28
+1 DATE 3 NOV 2025
+2 TIME 11:29:07
 1 SUBM @SUBM@
 1 FILE C:\Users\Me\Documents\GitHub2\familytree\backup\Untitled_1.ged
 1 COPR Copyright (c) 2025 .
@@ -185,9 +185,13 @@
 1 OBJE
 2 FORM URL
 2 FILE https://www.familysearch.org/tree/person/G4DD-GFD
+1 OBJE
+2 FORM URL
+2 TITL Album fotografici
+2 FILE https://www.permanent.org/p/archive/0f1p-0000/0f1p-0014/1290888
 1 CHAN
-2 DATE 3 SEP 2025
-3 TIME 11:26:06
+2 DATE 19 SEP 2025
+3 TIME 20:51:19
 0 @I0005@ INDI
 1 NAME Dalida /Trovarelli/
 2 TYPE birth
@@ -1039,11 +1043,12 @@
 4 LONG E12.5458
 3 NOTE @N_IGM@
 1 _MILT
-2 TYPE 10° Regg. G.
-2 DATE 1943
+2 TYPE 10° Reggimento Genio
+2 DATE FROM 4 SEP 1942 TO 8 SEP 1943
 2 SOUR @S0032@
 3 DATA
 4 DATE 1943
+2 SOUR @S0210@
 1 BURI
 2 PLAC Cappella di Famiglia Camilluzzi Luigi, Cimitero di Terni, Terni, Umbria
 3 MAP
@@ -1081,14 +1086,18 @@
 1 OBJE @O0084@
 1 OBJE
 2 FORM URL
-2 TITL Esploratori della Memoria
-2 FILE https://youtu.be/LVyrhTV1ZSk?si=bFYgArt3wp0HzWJF&t=1787
+2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
 1 OBJE
 2 FORM URL
-2 FILE https://www.familysearch.org/tree/person/G4DD-X1M
+2 TITL Album fotografici
+2 FILE https://www.permanent.org/p/archive/0f1p-0000/0f1p-0011/1290885
+1 OBJE
+2 FORM URL
+2 TITL Esploratori della Memoria
+2 FILE https://youtu.be/LVyrhTV1ZSk?si=bFYgArt3wp0HzWJF&t=1787
 1 CHAN
-2 DATE 28 AUG 2025
-3 TIME 20:23:59
+2 DATE 19 SEP 2025
+3 TIME 20:50:54
 0 @I0026@ INDI
 1 NAME Iolanda /Caproni/
 2 TYPE birth
@@ -8651,7 +8660,7 @@
 2 SURN Sabatini
 1 SEX F
 1 BIRT
-2 DATE BET 1812 AND 1841
+2 DATE BET 1812 AND 1837
 2 NOTE @N_stima_eta@
 1 DEAT
 2 DATE BEF 1904
@@ -8708,8 +8717,8 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/PMTD-X3J
 1 CHAN
-2 DATE 19 FEB 2025
-3 TIME 21:59:03
+2 DATE 3 OCT 2025
+3 TIME 07:53:12
 0 @I0334@ INDI
 1 NAME Carlo /Camilluzzi/
 2 TYPE birth
@@ -8762,17 +8771,17 @@
 2 FORM URL
 2 FILE https://www.familysearch.org/en/tree/person/GY1M-T1G
 1 CHAN
-2 DATE 13 FEB 2025
-3 TIME 01:47:01
+2 DATE 3 OCT 2025
+3 TIME 07:53:12
 0 @I0335@ INDI
 1 NAME Maria /Aquilini/
 2 TYPE birth
 2 GIVN Maria
 2 SURN Aquilini
-1 NAME Maria /Aquilini/
+1 NAME Maria /Acquilini/
 2 TYPE aka
 2 GIVN Maria
-2 SURN Aquilini
+2 SURN Acquilini
 2 SOUR @S0098@
 3 DATA
 4 DATE 1921
@@ -8817,8 +8826,8 @@
 2 FILE https://www.familysearch.org/en/tree/person/GY1M-JGD
 1 NOTE @N0138@
 1 CHAN
-2 DATE 24 AUG 2025
-3 TIME 01:18:33
+2 DATE 3 OCT 2025
+3 TIME 08:09:44
 0 @I0336@ INDI
 1 NAME Gioacchino /Camilluzzi/
 2 TYPE birth
@@ -10710,6 +10719,122 @@
 1 CHAN
 2 DATE 28 AUG 2025
 3 TIME 11:17:30
+0 @I0412@ INDI
+1 NAME Giuseppe /Camilluzzi/
+2 TYPE birth
+2 GIVN Giuseppe
+2 SURN Camilluzzi
+1 SEX M
+1 BIRT
+2 DATE 1851
+2 PLAC Montecastrilli, Umbria
+3 MAP
+4 LATI N42.6511
+4 LONG E12.486
+3 NOTE @N0059@
+2 SOUR @S0208@
+3 DATA
+4 DATE 1914
+1 DEAT
+2 DATE 13 OCT 1914
+2 PLAC Civita Castellana, Lazio
+3 MAP
+4 LATI N42.283333
+4 LONG E12.4
+2 SOUR @S0208@
+3 DATA
+4 DATE 1914
+1 RESI
+2 DATE BEF 1914
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+3 NOTE @N_pop1816@
+2 SOUR @S0208@
+3 DATA
+4 DATE 1914
+1 FACT contadino
+2 TYPE Occupation
+2 SOUR @S0208@
+3 DATA
+4 DATE 1914
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0145@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/details/P7DK-W5W
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 07:53:12
+0 @I0413@ INDI
+1 NAME Maria /Proietti/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Proietti
+1 SEX F
+1 DEAT
+2 DATE BEF 1914
+2 SOUR @S0208@
+3 DATA
+4 DATE 1914
+1 FAMS @F0145@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/P7DK-NG1
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 07:52:06
+0 @I0414@ INDI
+1 NAME Sestilia /Menghi/
+2 TYPE birth
+2 GIVN Sestilia
+2 SURN Menghi
+1 SEX F
+1 BIRT
+2 DATE 1908
+2 PLAC Otricoli, Umbria
+3 MAP
+4 LATI N42.4184
+4 LONG E12.4832
+2 SOUR @S0209@
+3 DATA
+4 DATE 1908
+1 FAMC @F0117@
+2 PEDI birth
+1 FAMS @F0146@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/details/P7DK-M8W
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 08:23:54
+0 @I0415@ INDI
+1 NAME Alfonso /Emili/
+2 TYPE birth
+2 GIVN Alfonso
+2 SURN Emili
+1 SEX M
+1 BIRT
+2 DATE 1908
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+3 NOTE @N_pop1816@
+2 SOUR @S0209@
+3 DATA
+4 DATE 1908
+1 FAMS @F0146@
+1 OBJE
+2 FORM URL
+2 FILE https://www.familysearch.org/en/tree/person/G145-YYJ
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 08:23:54
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -10896,11 +11021,12 @@
 0 @F0011@ FAM
 1 HUSB @I0032@
 1 WIFE @I0332@
+1 CHIL @I0412@
 1 CHIL @I0333@
 1 CHIL @I0334@
 1 CHAN
-2 DATE 12 FEB 2025
-3 TIME 23:37:52
+2 DATE 3 OCT 2025
+3 TIME 07:53:12
 0 @F0012@ FAM
 1 HUSB @I0033@
 1 WIFE @I0034@
@@ -11927,9 +12053,10 @@
 2 SOUR @S0097@
 3 DATA
 4 DATE 1907
+1 CHIL @I0414@
 1 CHAN
-2 DATE 22 FEB 2025
-3 TIME 13:03:51
+2 DATE 3 OCT 2025
+3 TIME 08:21:19
 0 @F0118@ FAM
 1 HUSB @I0341@
 1 WIFE @I0340@
@@ -12221,6 +12348,29 @@
 1 CHAN
 2 DATE 28 AUG 2025
 3 TIME 11:17:30
+0 @F0145@ FAM
+1 HUSB @I0412@
+1 WIFE @I0413@
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 07:52:06
+0 @F0146@ FAM
+1 HUSB @I0415@
+1 WIFE @I0414@
+1 MARR
+2 DATE 18 FEB 1933
+2 PLAC Magliano Sabina, Lazio
+3 MAP
+4 LATI N42.3677
+4 LONG E12.4832
+3 NOTE @N0135@
+3 NOTE @N_pop1816@
+2 SOUR @S0209@
+3 DATA
+4 DATE 1908
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 08:23:54
 0 @S0000@ SOUR
 1 TITL Carta d'identità di Luigi Ortenzi (1932)
 1 OBJE @O0007@
@@ -13578,6 +13728,26 @@
 1 CHAN
 2 DATE 19 SEP 2025
 3 TIME 01:50:33
+0 @S0208@ SOUR
+1 TITL Atto di morte di Giuseppe Camilluzzi (1914)
+1 OBJE @O0312@
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 07:45:27
+0 @S0209@ SOUR
+1 TITL Atto di matrimonio di Alfonso Emili e Sestilia Menghi (1933)
+1 NOTE @N0264@
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 08:20:34
+0 @S0210@ SOUR
+1 TITL Ruolo matricolare di Luigi Camilluzzi
+1 OBJE @O0313@
+1 REPO @R0002@
+1 NOTE @N0265@
+1 CHAN
+2 DATE 21 OCT 2025
+3 TIME 23:33:08
 0 @R0000@ REPO
 1 NAME Archivio di Stato di Terni
 0 @R0001@ REPO
@@ -14522,6 +14692,88 @@
 1 CONC . Dopo diciannove giorni di navigazione, il Duca degli Abruzzi giuns
 1 CONC e a Buenos Aires il 19 dicembre 1923.
 1 CONT 
+0 @N0263@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua726420/5YeBg27
+0 @N0264@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua932672/w9mlvO6
+0 @N0265@ NOTE N. matricola 16054
+1 CONT Camilluzzi Luigi 
+1 CONT Residenza all'atto dell'arruolamento Acquasparta
+1 CONT del Distretto di Orvieto (69) Fraz. Portaria Voc. Rieda
+1 CONT 
+1 CONT Figlio di Giulio
+1 CONT e di Vaccarini Agostina
+1 CONT di religione: cattolica
+1 CONT nato il 25-3-1923
+1 CONT a Montecastrilli
+1 CONT Provincia di Terni
+1 CONT Statura m. 1,54½ torace m. 0,82
+1 CONT Capelli: colore castano forma liscia
+1 CONT Visto giusto
+1 CONT Naso giusto
+1 CONT Mento giusto 
+1 CONT Occhi castani
+1 CONT Sopracciglia castane
+1 CONT Fronte alta
+1 CONT Colorito roseo
+1 CONT Bocca giusta
+1 CONT Dentatura sana
+1 CONT Segni particolari cicatrice natica
+1 CONT Arte o professione manovale
+1 CONT Se sa leggere si scrivere si
+1 CONT Titoli di studio 3° elementare
+1 CONT Cognizioni extra professionali ___
+1 CONT Iscritto di leva nel Comune di Acquasparta
+1 CONT Provincia di Terni
+1 CONT Ammogliato con ___
+1 CONT il ___
+1 CONT con autorizzatione ___
+1 CONT Rimasto vedovo il ___
+1 CONT Residenza eletta all'atto dell'invio in congedo
+1 CONT e successivi cambiamenti
+1 CONT ___
+1 CONT Distinzioni e servizi speciali
+1 CONT (specchio C del foglio matricolare)
+1 CONT ___
+1 CONT Annotazioni
+1 CONT Per il personale ascritto a corpo o servizi
+1 CONT pei quali sono stabiliti dispense dalle chiamate
+1 CONT Distretto Militare di Viterbo 
+1 CONT Ufficio matricola sottufficiali e truppa
+1 CONT [illegibile] li 2 mag. 1995
+1 CONT 
+1 CONT Dati provvisori per l'ufficio Forza in C.
+1 CONT [illegibile]
+1 CONT Ultimo corpo: 10° Rgt. genio
+1 CONT grado: sld.
+1 CONT Titolo di studio: 4° elem.
+1 CONT Professione: muratore
+1 CONT Orvieto, 4-12-948
+1 CONT L'uff. di Matricola
+1 CONT 
+1 CONT Soldato di leva classe 1923 distretto di Orvieto lasciato
+1 CONT in congedo illimitato provvisorio li 20 2 1942
+1 CONT Chiamato alle armi (Circ. 567 G.M. 1942 e giunto) 4 set 1942 XX
+1 CONT Tale nel dis. del 10° Regg. Genio li 5 settembre 1942
+1 CONT [cancellato: trasferito al D.M. di Viterbo per effetto
+1 CONT della circ. n. del ]
+1 CONT Sbandatosi in seguito agli eventi sopravvenuti all'ar-
+1 CONT mistrizio li 8 settembre 943
+1 CONT Considerato in servizio dal 9/9/1943 al 13/6/1944
+1 CONT data di liberazione del territorio di Terni
+1 CONT (Circ. SIS G.M. 1945).
+1 CONT Tale in licenza straordinaria senza assegni in
+1 CONT attesa di disposizioni li 14 giugno 944
+1 CONT Collocato in congedo illimitato ai sensi della circolare
+1 CONT 40001/26 ini data 4-7-1946 del M. G. li 15 luglio 946
+1 CONT Tale nel Distretto Militare di ___ li ___
+1 CONT Trasferito dal Distretto Militare di Orvieto al
+1 CONT Distretto Militare di Viterbo in dipendenza del-
+1 CONT la revisione dell'organizzazione territoriale
+1 CONT dei Distretti a senso della circ. S.M.E. n. 1636 [?]
+1 CONT /1526353 in data 25 Ottobre 1956 li 31 ottobre 956
+1 CONT Viterbo li 15/7/68
+1 CONT Il capo ufficio recl. e matr.
+1 CONT (Cap R. Barbaranelli)
+1 CONT 
 0 @N_IGM@ NOTE Identificato con il sito:
 1 CONT 
 1 CONT http://www.pcn.minambiente.it/viewer/
@@ -14648,6 +14900,9 @@
 1 CONC i vicini, Monticello e Castelrinaldi, hanno continuato a conservare un
 1 CONC a presenza consistente della famiglia fino al XX secolo e forse oltre.
 1 CONT 
+1 CONT 
+1 CONT • Fotografie della Famiglia Ortenzi Francesco su Permanent.org
+1 CONT 
 1 CONT ---
 1 CONT 
 1 CONT Trovarelli
@@ -14741,6 +14996,9 @@
 1 CONC e dei padri, la povertà e la necessità di emigrare hanno plasmato un per
 1 CONC corso irregolare, cosî diverso da quello delle famiglie rimaste radicat
 1 CONC e in un solo villaggio.
+1 CONT 
+1 CONT 
+1 CONT • Fotografie della Famiglia Camilluzzi Luigi su Permanent.org
 1 CONT 
 1 CONT ---
 1 CONT 
@@ -17032,4 +17290,19 @@
 1 CHAN
 2 DATE 19 SEP 2025
 3 TIME 01:50:30
+0 @O0312@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\AttiStatoCiv\Atto_morte_Giuseppe_Camilluzzi_1914.jpg
+2 FORM jpg
+2 TITL Atto_morte_Giuseppe_Camilluzzi_1914
+1 NOTE @N0263@
+1 CHAN
+2 DATE 3 OCT 2025
+3 TIME 07:45:14
+0 @O0313@ OBJE
+1 FILE c:\users\me\pictures\..\Documents\GitHub2\familytree\Photos\FontiMil\Ruolo_matricolare_Luigi_Camilluzzi.jpg
+2 FORM jpg
+2 TITL Ruolo_matricolare_Luigi_Camilluzzi
+1 CHAN
+2 DATE 21 OCT 2025
+3 TIME 18:33:43
 0 TRLR
